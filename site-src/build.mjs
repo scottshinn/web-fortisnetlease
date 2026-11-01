@@ -47,38 +47,39 @@ const html = `<!doctype html>
 <div class="menu" id="menu" role="dialog" aria-label="Menu" aria-hidden="true"><button class="menu__x" aria-label="Close menu">×</button><a href="#properties">Properties</a><a href="#services">Services</a><a href="#record">Track record</a><a href="#people">Advisors</a><a href="#value">Value my property</a><a href="${tel(phone)}">${phone}</a></div>
 
 <main id="main">
-<section class="hero" aria-labelledby="h1">
+<section class="hero dk" aria-labelledby="h1">
+ <div class="hero__bg" aria-hidden="true">${deck.map((l, i) => `<img src="${l.img}" alt="" ${i ? 'loading="lazy"' : 'class="on"'}>`).join('')}</div>
  <canvas class="hero__topo" aria-hidden="true"></canvas>
  <div class="wrap hero__g">
   <div>
    <p class="label" data-r>Net lease investment sales · since 2009</p>
-   <h1 class="t1" id="h1" data-r style="--d:1;margin-top:1.2rem">The ground under <span class="cu">every lease.</span></h1>
+   <h1 class="t1" id="h1" data-r style="--d:1;margin-top:1.2rem">The ground under <span class="foil">every lease.</span></h1>
    <p class="lede" data-r style="--d:2">Fortis Net Lease sells single-tenant net lease real estate across the country. Boutique by design, nationwide by experience. This is all we do.</p>
    <div class="hero__cta" data-r style="--d:3"><a class="btn btn--cu" href="#properties">See ${listings.length} properties ${arrow}</a><a class="btn btn--ln" href="#value">What is mine worth?</a></div>
    <p class="coords" data-r style="--d:4"><span>On the desk <b>${listings.length} · ${fmt(asking)}</b></span><span>Avg cap <b>${avgCap.toFixed(2)}%</b></span><span>10Y UST <b>${ust10.value.toFixed(2)}%</b></span><span>Spread <b>${Math.round((avgCap - ust10.value) * 100)} bp</b></span></p>
   </div>
-  <div class="deck" aria-roledescription="carousel" aria-label="Properties for sale">
-   ${deck.map((l, i) => `<figure class="dcard"><span class="dcard__tag">For sale · ${String(i + 1).padStart(2, '0')}</span><span class="dcard__img"><img src="${l.img}" alt="${esc(l.name)}, ${esc(l.city)}, ${l.state}" ${i > 2 ? 'loading="lazy"' : ''}></span><figcaption class="dcard__row"><span><span class="dcard__name">${esc(l.name)}</span><span class="dcard__loc">${esc(l.city)}, ${l.state} · ${esc(l.subType || l.propertyType || '')}</span></span><span class="dcard__px">${fmt(l.price)}${l.capRate ? `<small>${l.capRate.toFixed(2)}% cap</small>` : l.sizeDisplay ? `<small>${esc(l.sizeDisplay)}</small>` : ''}</span></figcaption></figure>`).join('')}
+  <div class="deck" aria-roledescription="carousel" aria-label="Properties for sale"><div class="deck__tilt">
+   ${deck.map((l, i) => `<figure class="dcard"><span class="dcard__tag">For sale · ${String(i + 1).padStart(2, '0')}</span><span class="dcard__img"><img src="${l.img}" alt="${esc(l.name)}, ${esc(l.city)}, ${l.state}" ${i > 2 ? 'loading="lazy"' : ''}></span><figcaption class="dcard__row"><span><span class="dcard__name">${esc(l.name)}</span><span class="dcard__loc">${esc(l.city)}, ${l.state} · ${esc(l.subType || l.propertyType || '')}</span></span><span class="dcard__px">${fmt(l.price)}${l.capRate ? `<small>${l.capRate.toFixed(2)}% cap</small>` : l.sizeDisplay ? `<small>${esc(l.sizeDisplay)}</small>` : ''}</span></figcaption></figure>`).join('')}</div>
    <div class="deck__ctl"><button id="dprev" aria-label="Previous property">←</button><span><span id="dn">01</span> / ${String(deck.length).padStart(2, '0')}</span><button id="dnext" aria-label="Next property">→</button></div>
   </div>
  </div>
 </section>
 
 <section class="proof dk" aria-label="Track record in figures"><div class="wrap"><dl>
- <div data-r><dt data-count>$9<span>+</span>B</dt><dd>Total investment sales volume</dd><small>As stated on fortisnetlease.com</small></div>
- <div data-r style="--d:1"><dt data-count>4,500<span>+</span></dt><dd>Properties sold</dd><small>As stated on fortisnetlease.com</small></div>
- <div data-r style="--d:2"><dt data-count>400K</dt><dd>Broker and proprietary buyer reach</dd><small>As stated on fortisnetlease.com</small></div>
- <div data-r style="--d:3"><dt data-count>46</dt><dd>States sold in</dd><small>As stated on fortisnetlease.com</small></div>
+ <div data-r><dt class="foil" data-count>$9+B</dt><dd>Total investment sales volume</dd><small>As stated on fortisnetlease.com</small></div>
+ <div data-r style="--d:1"><dt class="foil" data-count>4,500+</dt><dd>Properties sold</dd><small>As stated on fortisnetlease.com</small></div>
+ <div data-r style="--d:2"><dt class="foil" data-count>400K</dt><dd>Broker and proprietary buyer reach</dd><small>As stated on fortisnetlease.com</small></div>
+ <div data-r style="--d:3"><dt class="foil" data-count>46</dt><dd>States sold in</dd><small>As stated on fortisnetlease.com</small></div>
 </dl></div></section>
 
 <section class="split" id="record" aria-labelledby="rec-h"><div class="wrap">
- <div class="sh sh--split"><div><p class="label">Track record</p><h2 class="t2" id="rec-h" style="margin-top:1rem">$9 billion, <span class="cu">split by tenant.</span></h2><span class="survey"></span></div><p class="lede">Sales volume by sector, as Fortis publishes it. Each band is as wide as the business behind it. Point at one to open it.</p></div>
+ <div class="sh sh--split"><div><p class="label">Track record</p><h2 class="t2" id="rec-h" style="margin-top:1rem">$9 billion, <span class="foil">split by tenant.</span></h2><span class="survey"></span></div><p class="lede">Sales volume by sector, as Fortis publishes it. Each band is as wide as the business behind it. Point at one to open it.</p></div>
  <div class="bar" data-r>${sectors.map((s) => `<div class="seg" tabindex="0" style="--w:${(s.n / sTotal * 100).toFixed(2)}"><b>$${s.v.replace('$', '')}</b><span>${esc(s.name)}</span></div>`).join('')}</div>
  <p class="bar__note"><span>Source: fortisnetlease.com, “Real estate acquisition &amp; disposition”</span><span>${sectors.length} sectors</span></p>
 </div></section>
 
 <section class="svc" id="services" aria-labelledby="svc-h"><div class="wrap">
- <div class="sh sh--split"><div><p class="label">Services</p><h2 class="t2" id="svc-h" style="margin-top:1rem">Buy. Sell. <span class="cu">Unlock.</span></h2><span class="survey"></span></div><p class="lede">The same advisors and the same buyer network work every side of the deal.</p></div>
+ <div class="sh sh--split"><div><p class="label">Services</p><h2 class="t2" id="svc-h" style="margin-top:1rem">Buy. Sell. <span class="foil">Unlock.</span></h2><span class="survey"></span></div><p class="lede">The same advisors and the same buyer network work every side of the deal.</p></div>
  <div class="rows">
   <article class="row" data-r><span class="row__n">01 · Investors</span><h3>Buy</h3><div><p>Buyer representation across ${listings.length} live listings and the off-market deals that never reach a website.</p><dl><div><dt>Live</dt><dd>${listings.length} · ${fmt(asking)}</dd></div><div><dt>Avg cap</dt><dd>${avgCap.toFixed(2)}%</dd></div><div><dt>Reach</dt><dd>400K buyers</dd></div></dl><a class="go" href="#properties">Browse properties ${arrow}</a></div><div class="row__strip" aria-hidden="true">${strip((l) => l.sector === 'restaurants')}</div></article>
   <article class="row" data-r><span class="row__n">02 · Owners</span><h3>Sell</h3><div><p>Accurate pricing, maximum exposure, and an advisor who has already sold your tenant. Co-brokerage commissions shared equally.</p><dl><div><dt>Sold</dt><dd>4,500+</dd></div><div><dt>Dollar stores</dt><dd>~1,500 sold</dd></div><div><dt>States</dt><dd>46</dd></div></dl><a class="go" href="#value">Value my property ${arrow}</a></div><div class="row__strip" aria-hidden="true">${strip((l) => l.sector === 'dollar-stores')}</div></article>
@@ -87,7 +88,7 @@ const html = `<!doctype html>
 </div></section>
 
 <section class="lst" id="properties" aria-labelledby="lst-h"><div class="wrap">
- <div class="sh sh--split"><div><p class="label">For sale now</p><h2 class="t2" id="lst-h" style="margin-top:1rem">${listings.length} properties. <span class="cu">${fmt(asking)} asking.</span></h2><span class="survey"></span></div><p class="lede">Live from our listings feed, largest first. Filter by the kind of tenant you want to own.</p></div>
+ <div class="sh sh--split"><div><p class="label">For sale now</p><h2 class="t2" id="lst-h" style="margin-top:1rem">${listings.length} properties. <span class="foil">${fmt(asking)} asking.</span></h2><span class="survey"></span></div><p class="lede">Live from our listings feed, largest first. Filter by the kind of tenant you want to own.</p></div>
  <div class="chips" role="group" aria-label="Filter by sector"><button class="chip" aria-pressed="true" data-v="all">All<sup>${listings.length}</sup></button>${Object.entries(secCount).sort((a, b) => b[1] - a[1]).map(([k, n]) => `<button class="chip" aria-pressed="false" data-v="${k}">${SEC[k] || k}<sup>${n}</sup></button>`).join('')}</div>
  <div class="grid">${byPrice.concat(listings.filter((l) => !l.price)).slice(0, 24).map(card).join('')}</div>
  <div class="lst__more"><span id="lcount" aria-live="polite">Showing the 24 largest</span><a class="btn btn--ln" href="https://fortisnetlease.com/net-lease-properties/">All ${listings.length} listings ${arrow}</a></div>
@@ -99,7 +100,7 @@ const html = `<!doctype html>
   <a class="btn btn--cu" href="mailto:info@fortisnetlease.com?subject=${encodeURIComponent('Offering memorandum: ' + un(feat.name) + ', ' + feat.city)}">Request the offering memorandum ${arrow}</a></div></div></section>
 
 <section class="ppl" id="people" aria-labelledby="ppl-h"><div class="wrap">
- <div class="sh sh--split"><div><p class="label">Advisors</p><h2 class="t2" id="ppl-h" style="margin-top:1rem">Founded by three in 2009. <span class="cu">Still at the desk.</span></h2><span class="survey"></span></div><p class="lede">Started in the worst financial crisis in a generation by Robert Bender, Doug Passon and Bryan Bender. Every advisor below answers their own phone.</p></div>
+ <div class="sh sh--split"><div><p class="label">Advisors</p><h2 class="t2" id="ppl-h" style="margin-top:1rem">Founded by three in 2009. <span class="foil">Still at the desk.</span></h2><span class="survey"></span></div><p class="lede">Started in the worst financial crisis in a generation by Robert Bender, Doug Passon and Bryan Bender. Every advisor below answers their own phone.</p></div>
  <div class="partners">${partners.map((t, i) => `<a class="pcard" href="${tel(t.phone)}" data-r style="--d:${i}"><img src="${t.headshot}" alt="${esc(t.name)}" loading="lazy"><span class="pcard__t"><b>${esc(t.name)}</b><span>${esc(t.title)}</span><i>${esc(t.phone || '')}</i></span></a>`).join('')}</div>
  <div class="dir">${advisors.map((t) => `<a href="${tel(t.phone)}"><b>${esc(t.name)}</b><span>${esc(t.title)}<br>${esc(t.phone || '')}</span></a>`).join('')}</div>
 </div></section>
@@ -112,7 +113,7 @@ const html = `<!doctype html>
 </div></section>
 
 <section class="val dk" id="value" aria-labelledby="val-h"><div class="wrap val__g">
- <div><p class="label">For owners</p><h2 class="t2" id="val-h" style="margin-top:1rem">Name your tenant. <span class="cu">See our record first.</span></h2><span class="survey"></span><p class="lede" style="margin-top:1.4rem">Before you send us anything, see what we have already sold with that tenant. Then an advisor prices yours against it.</p>
+ <div><p class="label">For owners</p><h2 class="t2" id="val-h" style="margin-top:1rem">Name your tenant. <span class="foil">See our record first.</span></h2><span class="survey"></span><p class="lede" style="margin-top:1.4rem">Before you send us anything, see what we have already sold with that tenant. Then an advisor prices yours against it.</p>
   <form class="vf" id="vform" novalidate><label>Tenant<input name="tenant" id="vt" placeholder="e.g. Dollar General, Walgreens, Taco Bell" autocomplete="off"></label><label>Email<input name="email" type="email" placeholder="you@company.com" autocomplete="email"></label><button class="btn btn--cu" type="submit">Request a valuation ${arrow}</button><p class="vf__msg" id="vmsg" role="status"></p></form></div>
  <div class="match" aria-live="polite"><p class="label">Our record with this tenant</p><p class="match__h dim" id="mh">Type a tenant to see it.</p><ul id="ml"></ul><p class="match__sum" id="ms"></p></div>
 </div></section>
@@ -125,6 +126,7 @@ const html = `<!doctype html>
  <div><h2>Office</h2><ul><li>${esc(addr.street)}</li><li>${esc(addr.city)}, ${addr.state} ${addr.zip}</li><li><a href="mailto:info@fortisnetlease.com">info@fortisnetlease.com</a></li></ul></div>
 </div><div class="ftr__bot"><span>© 2026 Fortis Net Lease</span><span>Listings via Buildout · Rates via U.S. Treasury (${ust10.asOf})</span></div></div></footer>
 <script>window.RECORD=${JSON.stringify(record)};</script>
+<script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js" defer></script>
 <script src="app.js" defer></script>
 </body></html>`;
 fs.mkdirSync('site', { recursive: true });

@@ -45,7 +45,7 @@
     const deal = (dir = 1) => {
       const c = cards[top];
       if (!reduce && dir > 0) { c.style.transform = "translate(-50%,-50%) translate(-60%,30px) rotate(-14deg)"; c.style.opacity = "0"; }
-      setTimeout(() => { top = (top + dir + cards.length) % cards.length; lay(); $("#dn").textContent = String(top + 1).padStart(2, "0"); }, reduce ? 0 : 260);
+      setTimeout(() => { top = (top + dir + cards.length) % cards.length; lay(); $("#dn").textContent = String(top + 1).padStart(2, "0"); $$(".hero__bg img").forEach((im, i) => { if (i === top && !im.complete) im.loading = "eager"; im.classList.toggle("on", i === top); }); }, reduce ? 0 : 260);
     };
     const play = () => { clearInterval(timer); if (!reduce) timer = setInterval(() => deal(1), 5000); };
     lay(); play();
@@ -114,4 +114,41 @@
       msg.textContent = "Your email app should open with the request addressed to info@fortisnetlease.com.";
     });
   }
+
+  // ---- presence ----
+  // Smooth, weighted scrolling.
+  if (!reduce && window.Lenis) {
+    const lenis = new window.Lenis({ lerp: .09, smoothWheel: true });
+    const raf = (t) => { lenis.raf(t); requestAnimationFrame(raf); }; requestAnimationFrame(raf);
+    $$('a[href^="#"]').forEach((a) => a.addEventListener("click", (e) => { const el = a.getAttribute("href").length > 1 && $(a.getAttribute("href")); if (el) { e.preventDefault(); lenis.scrollTo(el, { offset: -80 }); } }));
+  }
+  // Header: dusk over the hero, daylight after it.
+  const hero = $(".hero");
+  const day = () => hdr.classList.toggle("day", scrollY > hero.offsetHeight - 90);
+  addEventListener("scroll", day, { passive: true }); day();
+  // Copper foil catches the pointer like metal.
+  addEventListener("pointermove", (e) => root.style.setProperty("--fx", (10 + 60 * e.clientX / innerWidth).toFixed(1) + "%"), { passive: true });
+  // The deck leans toward the pointer; light slides across the top card.
+  const tilt = $(".deck__tilt");
+  if (tilt && !reduce && matchMedia("(hover:hover)").matches) {
+    deck.addEventListener("pointermove", (e) => { const r = deck.getBoundingClientRect(), x = (e.clientX - r.left) / r.width - .5, y = (e.clientY - r.top) / r.height - .5;
+      tilt.style.setProperty("--ry", (x * 10).toFixed(2) + "deg"); tilt.style.setProperty("--rx", (-y * 8).toFixed(2) + "deg");
+      $$(".dcard", deck).forEach((c) => { c.style.setProperty("--lx", (x * 100 + 50) + "%"); c.style.setProperty("--ly", (y * 100 + 50) + "%"); }); });
+    deck.addEventListener("pointerleave", () => { tilt.style.setProperty("--ry", "0deg"); tilt.style.setProperty("--rx", "0deg"); });
+  }
+  // Listing cards: a soft highlight follows the pointer.
+  $$(".card").forEach((c) => c.addEventListener("pointermove", (e) => { const r = c.getBoundingClientRect(); c.style.setProperty("--lx", ((e.clientX - r.left) / r.width * 100) + "%"); c.style.setProperty("--ly", ((e.clientY - r.top) / r.height * 100) + "%"); }));
+  // Featured photo settles as it scrolls through.
+  const feat = $(".feat");
+  if (feat && !reduce) addEventListener("scroll", () => { const r = feat.getBoundingClientRect(), p = Math.min(1, Math.max(0, 1 - (r.top + r.height) / (innerHeight + r.height))); feat.style.setProperty("--fs", (1.14 - p * .14).toFixed(3)); }, { passive: true });
+  // Headlines rise word by word out of a mask. Words inside a foil span carry the foil themselves.
+  if (!reduce) $$("h1, .t2").forEach((h) => {
+    let w = 0;
+    const walk = (node, foil) => [...node.childNodes].forEach((c) => {
+      if (c.nodeType === 3) { const f = d.createDocumentFragment(); c.textContent.split(/(\s+)/).forEach((t) => { if (!/\S/.test(t)) return f.append(t); const o = d.createElement("span"); o.className = "wm"; const i = d.createElement("span"); i.textContent = t; i.style.setProperty("--w", w++); if (foil) i.className = "foil"; o.append(i); f.append(o); }); c.replaceWith(f); }
+      else if (c.nodeType === 1) { const isFoil = c.classList.contains("foil"); if (isFoil) c.classList.remove("foil"); walk(c, foil || isFoil); }
+    });
+    walk(h, false); h.removeAttribute("data-r");
+    new IntersectionObserver((es, o) => { if (es[0].isIntersecting) { h.classList.add("split-in"); o.disconnect(); } }, { rootMargin: "0px 0px -10% 0px" }).observe(h);
+  });
 })();
