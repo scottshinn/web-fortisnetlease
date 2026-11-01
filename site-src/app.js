@@ -151,4 +151,11 @@
     walk(h, false); h.removeAttribute("data-r");
     new IntersectionObserver((es, o) => { if (es[0].isIntersecting) { h.classList.add("split-in"); o.disconnect(); } }, { rootMargin: "0px 0px -10% 0px" }).observe(h);
   });
+  // Palette study (temporary): ?p=name or the switcher; the choice is remembered.
+  const pal = $(".pal");
+  if (pal) {
+    let p = new URLSearchParams(location.search).get("p"); try { p = p || localStorage.getItem("fnl-p"); } catch {}
+    const set = (k) => { root.dataset.p = k; $$("button", pal).forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.p === k))); try { localStorage.setItem("fnl-p", k); } catch {} };
+    set(p || "forest"); pal.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) set(b.dataset.p); });
+  }
 })();
