@@ -1,0 +1,1138 @@
+{
+  "schema_version": 1,
+  "id": "fortis-net-lease-reviewed-v1",
+  "status": "reviewed",
+  "sources": [
+    "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-45-46-351Z-7d6b7297/manifest.json",
+    "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/manifest.json",
+    "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/manifest.json",
+    "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/manifest.json",
+    "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+    "evidence/www-atlanticretail-com-b216d8c6f3/2026-11-01T08-01-50-775Z-bda76bbc/desktop.png",
+    "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/desktop.png",
+    "harvest/brand.json (project, live site 2026-11-01)",
+    "recon/REFERENCES.md (project)"
+  ],
+  "tokens": {
+    "color": {
+      "ink-950": {
+        "value": "#0D1828",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "theme_css_frequent #0E1631"
+          },
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png",
+            "viewport": "desktop"
+          }
+        ],
+        "confidence": "high",
+        "note": "Primary dark surface. Evolved from Fortis navy #0E1631 toward a slightly warmer, greyer ink so it reads matte, not saturated. Evercore deep-navy panels informed the role."
+      },
+      "ink-900": {
+        "value": "#152338",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "#1D1F27 / #003058"
+          }
+        ],
+        "confidence": "high",
+        "note": "Raised dark surface (cards, ticker, footer bands)."
+      },
+      "ink-800": {
+        "value": "#22324A",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "#30466E"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Dark hairlines and dark hover surface."
+      },
+      "paper-50": {
+        "value": "#FBFAF7",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+            "viewport": "desktop"
+          }
+        ],
+        "confidence": "high",
+        "note": "Card/raised light surface; warm off-white instead of pure #FFF for a matte, printed feel."
+      },
+      "paper-100": {
+        "value": "#F4F1EA",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+            "viewport": "desktop"
+          }
+        ],
+        "confidence": "high",
+        "note": "Default page background (warm limestone)."
+      },
+      "paper-200": {
+        "value": "#E7E2D7",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png",
+            "viewport": "desktop"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Alternate band / input fill. KKR alternating pale bands, warmed."
+      },
+      "rule-light": {
+        "value": "#D6D0C3",
+        "evidence": [
+          {
+            "source": "evidence/www-atlanticretail-com-b216d8c6f3/2026-11-01T08-01-50-775Z-bda76bbc/desktop.png",
+            "viewport": "desktop"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Hairline rules and card borders on light (decorative, non-text)."
+      },
+      "text-900": {
+        "value": "#16202E",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "#262323 body text"
+          }
+        ],
+        "confidence": "high",
+        "note": "Body text on paper: 14.5:1 on paper-100."
+      },
+      "text-600": {
+        "value": "#4C5664",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "#777C8D muted"
+          }
+        ],
+        "confidence": "high",
+        "note": "Muted text, darkened from #777C8D (fails AA) to 6.6:1 on paper-100."
+      },
+      "text-on-dark": {
+        "value": "#E9E6DE",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "Primary text on ink-950: 14.3:1."
+      },
+      "text-on-dark-muted": {
+        "value": "#A3ADBB",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "Muted text on dark: 7.9:1 on ink-950, 7.0:1 on ink-900."
+      },
+      "fortis-blue-400": {
+        "value": "#43AFEB",
+        "evidence": [
+          {
+            "source": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-45-46-351Z-7d6b7297/desktop.extract.json",
+            "selector": "a, .btn"
+          },
+          {
+            "source": "harvest/brand.json",
+            "selector": "primary accent"
+          }
+        ],
+        "confidence": "high",
+        "note": "Heritage Fortis sky blue, retained exactly as the brand link. Used ON DARK only (7.3:1 on ink-950): figures, links, focus ring, ticker deltas. Never as text on paper (2.4:1)."
+      },
+      "fortis-blue-600": {
+        "value": "#1C6496",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "#249ACB / #003058 family"
+          }
+        ],
+        "confidence": "high",
+        "note": "The heritage blue taken down in lightness, same hue (~202deg), for use on light: links, primary buttons, cap-rate figures. 5.6:1 on paper-100; white on it 6.3:1."
+      },
+      "fortis-blue-700": {
+        "value": "#154D75",
+        "evidence": [
+          {
+            "source": "harvest/brand.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Pressed/hover state of blue-600."
+      },
+      "fortis-blue-100": {
+        "value": "#E6EEF4",
+        "evidence": [
+          {
+            "source": "harvest/brand.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Tint for selected filter chips and table row highlight; blue-600 text on it passes AA."
+      },
+      "brass-500": {
+        "value": "#8C7350",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+            "selector": "rgb(225,198,153) accent"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Warm complement to the blue (split-complementary). NON-TEXT ONLY on light (4.0:1): eyebrow rules, as-of ticks, seal. Bessemer's champagne accent, muted."
+      },
+      "brass-300": {
+        "value": "#E2B866",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Brass on dark (9.6:1 on ink-950); small eyebrow labels and 'Closed' tombstone rule."
+      },
+      "status-available": {
+        "value": "#2E6B4E",
+        "evidence": [
+          {
+            "source": "harvest/data.json",
+            "selector": "listings_live_buildout[].status"
+          }
+        ],
+        "confidence": "high",
+        "note": "Available. 6.0:1 on paper-50; 5.3:1 on its tint #E3EEE7."
+      },
+      "status-available-tint": {
+        "value": "#E3EEE7",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "Chip fill for Available."
+      },
+      "status-contract": {
+        "value": "#8A5A10",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "Under contract / LOI. 5.7:1 on paper-50, 5.0:1 on tint."
+      },
+      "status-contract-tint": {
+        "value": "#F5ECD9",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "Chip fill for Under contract."
+      },
+      "status-closed": {
+        "value": "#5A6270",
+        "evidence": [
+          {
+            "source": "harvest/data.json",
+            "selector": "featured_closings"
+          }
+        ],
+        "confidence": "high",
+        "note": "Closed/Sold. 5.9:1 on paper-50, 5.1:1 on tint."
+      },
+      "status-closed-tint": {
+        "value": "#ECEAE4",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "Chip fill for Closed."
+      },
+      "data-down": {
+        "value": "#9A3B2E",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+            "selector": "rates ticker"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Negative delta / error text on light, 6.6:1. Always paired with an arrow glyph, never colour alone."
+      },
+      "data-up-on-dark": {
+        "value": "#7FC4A0",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Positive delta in the dark ticker, 8.8:1."
+      },
+      "data-down-on-dark": {
+        "value": "#E8A08F",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Negative delta in the dark ticker (>7:1 on ink-950)."
+      },
+      "caprate-scale-low": {
+        "value": "#9DBFD8",
+        "evidence": [
+          {
+            "source": "harvest/data.json",
+            "selector": "cap_rate range"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Sequential single-hue blue ramp for cap-rate bands in charts/map pins (low cap = lighter). Non-text; labels always printed."
+      },
+      "caprate-scale-mid": {
+        "value": "#4F8DBA",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Mid cap-rate band."
+      },
+      "caprate-scale-high": {
+        "value": "#154D75",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "High cap-rate band."
+      }
+    },
+    "typography": {
+      "family-display": {
+        "value": "'Newsreader', 'Iowan Old Style', Georgia, serif",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.extract.json",
+            "selector": "MillerDisplay headings"
+          },
+          {
+            "source": "evidence/www-atlanticretail-com-b216d8c6f3/2026-11-01T08-01-50-775Z-bda76bbc/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "OFL (Google Fonts), variable opsz 6-72 and weight 200-800. Display headings, italic accent lines, and big lining figures (cap rate, stats). Replaces Bessemer's licensed MillerDisplay role."
+      },
+      "family-sans": {
+        "value": "'Jost', 'Futura', 'Century Gothic', system-ui, sans-serif",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "Futura PT"
+          }
+        ],
+        "confidence": "high",
+        "note": "OFL geometric sans in the Futura lineage: the recognisable link to Fortis's Futura PT without the licence. UI, nav, labels, buttons, body."
+      },
+      "family-mono": {
+        "value": "'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json",
+            "selector": "IBM Plex Sans"
+          }
+        ],
+        "confidence": "medium",
+        "note": "OFL. Rates ticker, as-of stamps, tabular spec tables. Guaranteed tabular figures."
+      },
+      "size-display-xl": {
+        "value": "clamp(2.75rem, 1.6rem + 4.6vw, 5.5rem)",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.extract.json",
+            "selector": "132px hero"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Hero H1 only. 44 to 88px."
+      },
+      "size-display-l": {
+        "value": "clamp(2.25rem, 1.5rem + 3vw, 4rem)",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "48px"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Section H2 / big stat figures."
+      },
+      "size-h3": {
+        "value": "clamp(1.5rem, 1.2rem + 1.2vw, 2.125rem)",
+        "evidence": [
+          {
+            "source": "harvest/brand.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Sub-section H3, card cap rate figure."
+      },
+      "size-h4": {
+        "value": "1.25rem",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "20px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Card titles (tenant name)."
+      },
+      "size-body-l": {
+        "value": "1.1875rem",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "18px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Lead paragraphs, 19px."
+      },
+      "size-body": {
+        "value": "1.0625rem",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.extract.json",
+            "selector": "16px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Body, 17px (Jost runs small on the x-height)."
+      },
+      "size-small": {
+        "value": "0.9375rem",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "15px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Meta, captions, card specs."
+      },
+      "size-label": {
+        "value": "0.8125rem",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "14px uppercase tracked"
+          }
+        ],
+        "confidence": "high",
+        "note": "Eyebrows and spec labels, 13px uppercase, tracking-label. Minimum size for any text."
+      },
+      "leading-tight": {
+        "value": "1.08",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Display sizes."
+      },
+      "leading-snug": {
+        "value": "1.3",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "H3/H4 and UI."
+      },
+      "leading-body": {
+        "value": "1.6",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.extract.json",
+            "selector": "25px/16px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Body copy."
+      },
+      "tracking-display": {
+        "value": "-0.015em",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.extract.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Display serif slight negative tracking."
+      },
+      "tracking-label": {
+        "value": "0.14em",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "letter_spacing 2px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Uppercase eyebrows/labels; keeps the Fortis tracked-caps habit, at sane values (live site used up to 10px)."
+      },
+      "weight-display": {
+        "value": "380",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.extract.json",
+            "selector": "Ghost light"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Light-regular serif display: authority by restraint."
+      },
+      "weight-body": {
+        "value": "400",
+        "evidence": [
+          {
+            "source": "harvest/brand.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "Body."
+      },
+      "weight-strong": {
+        "value": "500",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "600"
+          }
+        ],
+        "confidence": "high",
+        "note": "Labels, buttons, nav. Avoid 700 except in data tables."
+      },
+      "measure": {
+        "value": "66ch",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "Max line length for prose."
+      }
+    },
+    "spacing": {
+      "s1": {
+        "value": "0.25rem",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+            "selector": "4px base"
+          }
+        ],
+        "confidence": "high",
+        "note": "4px base unit."
+      },
+      "s2": {
+        "value": "0.5rem",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "8px."
+      },
+      "s3": {
+        "value": "0.75rem",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "12px."
+      },
+      "s4": {
+        "value": "1rem",
+        "evidence": [
+          {
+            "source": "harvest/brand.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "16px; mobile gutter."
+      },
+      "s5": {
+        "value": "1.5rem",
+        "evidence": [
+          {
+            "source": "harvest/brand.json"
+          }
+        ],
+        "confidence": "high",
+        "note": "24px; card padding."
+      },
+      "s6": {
+        "value": "2rem",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.extract.json",
+            "selector": "32px"
+          }
+        ],
+        "confidence": "high",
+        "note": "32px; grid gutter desktop."
+      },
+      "s7": {
+        "value": "3rem",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json",
+            "selector": "45px"
+          }
+        ],
+        "confidence": "high",
+        "note": "48px."
+      },
+      "s8": {
+        "value": "4.5rem",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json",
+            "selector": "60px"
+          }
+        ],
+        "confidence": "high",
+        "note": "72px."
+      },
+      "section": {
+        "value": "clamp(4rem, 2.5rem + 6vw, 8.5rem)",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Vertical section padding, 64 to 136px fluid."
+      },
+      "gutter": {
+        "value": "clamp(1rem, 0.5rem + 2.5vw, 2.5rem)",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Page side gutter, 16 to 40px."
+      }
+    },
+    "shape": {
+      "radius-none": {
+        "value": "0",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json",
+            "selector": "2px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Photos, bands, tombstones: square, architectural."
+      },
+      "radius-s": {
+        "value": "2px",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.extract.json",
+            "selector": "2px"
+          }
+        ],
+        "confidence": "high",
+        "note": "Buttons, inputs, cards. Bessemer/Evercore crispness; rejects the live site's 9px pill buttons."
+      },
+      "radius-pill": {
+        "value": "999px",
+        "evidence": [
+          {
+            "source": "harvest/data.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Status chips and filter chips only."
+      },
+      "border-hair": {
+        "value": "1px solid var(--color-rule-light)",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png",
+            "selector": "outlined stat cards"
+          }
+        ],
+        "confidence": "high",
+        "note": "Default card definition: hairline, not shadow."
+      },
+      "shadow-0": {
+        "value": "none",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json",
+            "selector": "box-shadow none"
+          }
+        ],
+        "confidence": "high",
+        "note": "Matte: surfaces are flat by default."
+      },
+      "shadow-1": {
+        "value": "0 1px 0 rgba(13,24,40,0.06), 0 8px 24px -12px rgba(13,24,40,0.18)",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Hover lift for cards and the sticky header after scroll. Only shadow in the system besides overlay."
+      },
+      "shadow-overlay": {
+        "value": "0 24px 64px -16px rgba(13,24,40,0.35)",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Dialogs, mega-menu, filter drawer."
+      }
+    },
+    "layout": {
+      "container": {
+        "value": "84rem",
+        "evidence": [
+          {
+            "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.extract.json",
+            "selector": "1145px"
+          }
+        ],
+        "confidence": "medium",
+        "note": "1344px max content width; wider than KKR to fit a 4-up listings grid."
+      },
+      "container-prose": {
+        "value": "46rem",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "Articles and bios."
+      },
+      "columns": {
+        "value": "12",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png"
+          }
+        ],
+        "confidence": "high",
+        "note": "12 col desktop, 8 tablet, 4 mobile."
+      },
+      "bp-sm": {
+        "value": "40rem",
+        "evidence": [
+          {
+            "source": "recon/REFERENCES.md"
+          }
+        ],
+        "confidence": "medium",
+        "note": "640px. For media queries use literal values; custom properties cannot be used in @media."
+      },
+      "bp-md": {
+        "value": "64rem",
+        "evidence": [
+          {
+            "source": "recon/REFERENCES.md"
+          }
+        ],
+        "confidence": "medium",
+        "note": "1024px: desktop nav appears."
+      },
+      "bp-lg": {
+        "value": "80rem",
+        "evidence": [
+          {
+            "source": "recon/REFERENCES.md"
+          }
+        ],
+        "confidence": "medium",
+        "note": "1280px."
+      },
+      "header-h": {
+        "value": "4.5rem",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png"
+          }
+        ],
+        "confidence": "medium",
+        "note": "72px desktop header; 60px mobile set in component CSS."
+      }
+    },
+    "motion": {
+      "dur-fast": {
+        "value": "140ms",
+        "evidence": [
+          {
+            "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.extract.json",
+            "selector": "0.15s"
+          }
+        ],
+        "confidence": "high",
+        "note": "Hover colour, focus."
+      },
+      "dur-base": {
+        "value": "240ms",
+        "evidence": [
+          {
+            "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.extract.json",
+            "selector": "0.25s"
+          }
+        ],
+        "confidence": "high",
+        "note": "Card lift, chip toggles, menus."
+      },
+      "dur-slow": {
+        "value": "520ms",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json",
+            "selector": "0.5s / 0.6s"
+          }
+        ],
+        "confidence": "high",
+        "note": "Section reveals, image settle, rule draw."
+      },
+      "ease-out": {
+        "value": "cubic-bezier(0.22, 0.61, 0.36, 1)",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Default: decisive start, long quiet settle."
+      },
+      "ease-in-out": {
+        "value": "cubic-bezier(0.65, 0, 0.35, 1)",
+        "evidence": [
+          {
+            "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.extract.json"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Ticker loop, drawer open/close."
+      },
+      "distance": {
+        "value": "12px",
+        "evidence": [
+          {
+            "source": "harvest/brand.json",
+            "selector": "animate.css fadeIn"
+          }
+        ],
+        "confidence": "medium",
+        "note": "Max translate for reveals; nothing flies."
+      }
+    }
+  },
+  "patterns": [
+    {
+      "name": "search-first-header",
+      "purpose": "Persistent nav with visible top-level items, Property Alerts capture and a primary action.",
+      "selector": "header",
+      "evidence": [
+        {
+          "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+          "selector": "header",
+          "viewport": "desktop"
+        },
+        {
+          "source": "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/desktop.png",
+          "viewport": "desktop"
+        }
+      ],
+      "anatomy": [
+        "wordmark",
+        "6 visible nav items",
+        "utility: phone, Property Alerts",
+        "primary button: Request a Valuation"
+      ],
+      "responsive": [
+        ">=1024px all items visible, no hamburger",
+        "<1024px Menu button opens full-height sheet; Search and Valuation remain visible"
+      ],
+      "accessibility": [
+        "skip link first",
+        "nav landmark with aria-label",
+        "aria-current on active item",
+        "disclosure buttons for submenus, Esc closes"
+      ],
+      "use_when": "Every page.",
+      "avoid_when": "Never hide primary nav behind a hamburger on desktop."
+    },
+    {
+      "name": "hero-search-valuation",
+      "purpose": "Two-intent hero: buyers search inventory, owners request a valuation.",
+      "selector": "main > section:first-child",
+      "evidence": [
+        {
+          "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+          "viewport": "desktop"
+        },
+        {
+          "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+          "viewport": "desktop"
+        }
+      ],
+      "anatomy": [
+        "eyebrow",
+        "serif H1 with italic accent",
+        "lead",
+        "search form (tenant/state/type)",
+        "valuation text link CTA",
+        "real photo panel",
+        "rates ticker docked below"
+      ],
+      "responsive": [
+        "desktop 7/5 split text and photo",
+        "mobile photo below form, search stacks"
+      ],
+      "accessibility": [
+        "form role=search with labels",
+        "H1 real text, not image"
+      ],
+      "use_when": "Home and Listings landing.",
+      "avoid_when": "Detail pages."
+    },
+    {
+      "name": "rates-ticker",
+      "purpose": "Return-visit utility: 10Y UST, 5Y UST, SOFR, avg NNN cap rate, with as-of.",
+      "selector": "aside.ticker",
+      "evidence": [
+        {
+          "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+          "viewport": "desktop"
+        }
+      ],
+      "anatomy": [
+        "label",
+        "value",
+        "delta arrow+text",
+        "as-of stamp",
+        "source"
+      ],
+      "responsive": [
+        "desktop static row",
+        "mobile horizontal scroll-snap, no auto-scroll"
+      ],
+      "accessibility": [
+        "no auto-moving marquee",
+        "deltas have text not colour only",
+        "server-rendered values"
+      ],
+      "use_when": "Home, Research.",
+      "avoid_when": "When data feed is stale over 1 business day; hide rather than show stale."
+    },
+    {
+      "name": "track-record-stats",
+      "purpose": "Audited proof figures with as-of date.",
+      "selector": "section.stats",
+      "evidence": [
+        {
+          "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png",
+          "viewport": "desktop"
+        },
+        {
+          "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png",
+          "viewport": "desktop"
+        }
+      ],
+      "anatomy": [
+        "figure",
+        "label",
+        "footnote as-of + source"
+      ],
+      "responsive": [
+        "4-up desktop, 2x2 tablet/mobile"
+      ],
+      "accessibility": [
+        "real numbers in initial HTML, never count-up from 0"
+      ],
+      "use_when": "Home, About, List With Us.",
+      "avoid_when": "Owner has not confirmed figures."
+    },
+    {
+      "name": "property-card",
+      "purpose": "Scannable listing with cap rate prominent.",
+      "selector": "article.property-card",
+      "evidence": [
+        {
+          "source": "harvest/data.json",
+          "selector": "listings_live_buildout"
+        },
+        {
+          "source": "capture/net-lease-properties-buildout-rendered-fullpage.png"
+        }
+      ],
+      "anatomy": [
+        "photo 4:3",
+        "status chip",
+        "tenant",
+        "city, ST",
+        "cap rate figure",
+        "price, NOI",
+        "lease term, guarantor",
+        "save + OM actions"
+      ],
+      "responsive": [
+        "4/3/2/1 columns at 1280/1024/640/<640"
+      ],
+      "accessibility": [
+        "whole card one link via tenant heading, secondary buttons separate",
+        "dl for specs"
+      ],
+      "use_when": "Listings index, tenant/state hubs, advisor profiles.",
+      "avoid_when": "Closed deals (use tombstone)."
+    },
+    {
+      "name": "closed-tombstone",
+      "purpose": "Recently closed proof.",
+      "selector": "article.tombstone",
+      "evidence": [
+        {
+          "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png",
+          "selector": "Featured Transactions",
+          "viewport": "desktop"
+        }
+      ],
+      "anatomy": [
+        "CLOSED label + month",
+        "tenant",
+        "market",
+        "price",
+        "cap rate",
+        "side represented",
+        "advisor"
+      ],
+      "responsive": [
+        "horizontal row grid desktop, stack mobile"
+      ],
+      "accessibility": [
+        "no carousel autoplay"
+      ],
+      "use_when": "Home, Our Success, tenant hubs, advisor profiles.",
+      "avoid_when": "Unverified closings."
+    }
+  ],
+  "design_notes": [
+    {
+      "text": "Live Fortis site: dark navy bands, sky blue #43AFEB, all-caps Futura, script accent, count-up stats and video hero. Reads promotional rather than advisory.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "capture/home-desktop.png"
+        },
+        {
+          "source": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-45-46-351Z-7d6b7297/desktop.extract.json"
+        }
+      ]
+    },
+    {
+      "text": "Most net-lease competitors were bot-blocked; premium-finance references (Bessemer, Evercore, KKR) carry the tonal direction, Matthews/Boulder carry CRE utility.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "recon/REFERENCES.md"
+        }
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Retain #43AFEB as heritage blue on dark surfaces; derive #1C6496 (same hue, lower lightness) for use on paper. Reject the live site's sky-blue-on-white text (fails AA).",
+      "basis": "inferred",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "harvest/brand.json"
+        }
+      ]
+    },
+    {
+      "text": "Replace Futura PT with Jost (OFL, Futura-lineage), Tungsten numerals with Newsreader lining figures, drop DearJoe script; italic Newsreader takes the accent-word role.",
+      "basis": "user-provided",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "harvest/brand.json",
+          "selector": "fonts.licensing_note"
+        }
+      ]
+    },
+    {
+      "text": "Adapt Bessemer serif + header search but reject its permanent left nav panel. Adapt Evercore split stat panels and transactions into tombstones, reject carousel. Adapt Matthews ticker, reject its tech-startup tone. Adapt KKR as-of stat cards.",
+      "basis": "inferred",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "recon/REFERENCES.md"
+        }
+      ]
+    },
+    {
+      "text": "Stats ship as real numbers in HTML (Horvath & Tremblay $0 failure). Figures pending owner confirmation of $9B vs $9.3B and 4,000+ vs 4,500.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "recon/RECON.md"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Net-lease competitor sites (SRS, Marcus & Millichap, Crexi, Northmarq) were bot-blocked; their patterns come from general knowledge, not captures.",
+    "Motion was captured with reduced motion; motion rules are designed, not measured.",
+    "Jost/Newsreader pairing must be rendered and checked at 15-17px on Windows before sign-off.",
+    "Dark-mode semantic mapping and media-query breakpoints cannot be expressed by the token exporter; they are appended to tokens.css by hand."
+  ],
+  "created_at": "2026-11-01T12:00:00.000Z"
+}

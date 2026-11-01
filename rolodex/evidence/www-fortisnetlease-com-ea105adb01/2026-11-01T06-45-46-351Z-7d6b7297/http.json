@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "16192",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "a0c0a4247308151e3282863432dae9d17f6c33ea20b93d6d55693a6877d50272",
+  "body_bytes": 81072
+}

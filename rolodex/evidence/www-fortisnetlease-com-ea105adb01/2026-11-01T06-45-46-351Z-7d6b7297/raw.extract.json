@@ -1,0 +1,1714 @@
+{
+  "url": "https://fortisnetlease.com/",
+  "base_url": "https://fortisnetlease.com/",
+  "title": "Commercial Investment Real Estate",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width,initial-scale=1, user-scalable=no"
+    ],
+    "keywords": [
+      "Fortis Net Lease, Fortis, Bender, Bryan Bender, Doug Passon, Robert Bender, Single-tenant properties, Multi-tenant properties, Properties For Sale, NNN, Shopping Centers for sale, Commercial properties for sale, Single-tenant net leased, 1031 exchange properties"
+    ],
+    "google-site-verification": [
+      "p4SEzhf_4ioMuN-4v3er4qvJ1iZL7zTnIXgUmp4enpU",
+      "W8bnRPsCSIPtRRJrb-epCYmzNpR1WK6qpL6du0ae2h0"
+    ],
+    "msapplication-tilecolor": [
+      "#1b3360"
+    ],
+    "msapplication-tileimage": [
+      "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/ms-icon-144x144.png"
+    ],
+    "theme-color": [
+      "#1b3360"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "description": [
+      "Welcome to Fortis Net Lease. We pride ourselves on being the very best net lease investment property sales company in Michigan and nationwide."
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:title": [
+      "Fortis Net Lease"
+    ],
+    "og:description": [
+      "Welcome to Fortis Net Lease. We pride ourselves on being the very best net lease investment property sales company in Michigan and nationwide."
+    ],
+    "og:url": [
+      "https://fortisnetlease.com/"
+    ],
+    "og:site_name": [
+      "Fortis Net Lease"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://fortisnetlease.com/",
+      "url": "https://fortisnetlease.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fortis Net Lease",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "exposure",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Grit & Gumption",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Real Experience Real Results",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "1031 Exchange For Real Estate Explained In Depth",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "WHAT is a Net Lease? Defining Real Estate Investment Terms",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "With REAL RELATIONSHIPS",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Sign Up For Our Mailing List",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://fortisnetlease.com/",
+      "url": "https://fortisnetlease.com/",
+      "text": "Fortis Net Lease",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/home/",
+      "url": "https://fortisnetlease.com/home/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Fortis",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-testimonials/",
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "text": "Testimonials",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "List With FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/home/",
+      "url": "https://fortisnetlease.com/home/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Fortis",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-testimonials/",
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "text": "Testimonials",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "List With FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/#",
+      "text": "Menu",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/properties/",
+      "url": "https://fortisnetlease.com/properties/",
+      "text": "View Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/testimonials/",
+      "url": "https://fortisnetlease.com/testimonials/",
+      "text": "What Our Clients Say",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/about-us/",
+      "url": "https://fortisnetlease.com/about-us/",
+      "text": "About Our Firm",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/our-agents/",
+      "url": "https://fortisnetlease.com/our-agents/",
+      "text": "Meet our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/recently-closed/",
+      "url": "https://fortisnetlease.com/recently-closed/",
+      "text": "View Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/1031-exchange-real-estate/",
+      "url": "https://fortisnetlease.com/1031-exchange-real-estate/",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/what-is-a-net-lease/",
+      "url": "https://fortisnetlease.com/what-is-a-net-lease/",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/#",
+      "text": "Join our Mailing List",
+      "rel": "",
+      "internal": true,
+      "selector": "#show_newsletter",
+      "visible": true
+    },
+    {
+      "href": "https://www.facebook.com/fortisnetlease/",
+      "url": "https://www.facebook.com/fortisnetlease/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/16217353/",
+      "url": "https://www.linkedin.com/company/16217353/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/fortisnetlease/",
+      "url": "https://www.instagram.com/fortisnetlease/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-news/",
+      "url": "https://fortisnetlease.com/net-lease-news/",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.bmgmediaco.com",
+      "url": "https://www.bmgmediaco.com/",
+      "text": "BMG Media",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/Shopping-Center-2-copy.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/la-fitness.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/dollar-general.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/mcdonalds.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/walgreen.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/applebees-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/aspen-dental-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/starbucks.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home_sec3_img.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#broker",
+      "name": "type",
+      "type": "radio",
+      "label": "Broker"
+    },
+    {
+      "selector": "#buyer",
+      "name": "type",
+      "type": "radio",
+      "label": "Buyer"
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(3) > input:nth-of-type(1)",
+      "name": "phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(4) > textarea:nth-of-type(1)",
+      "name": "message",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "sms_consent",
+      "type": "checkbox",
+      "label": "I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms."
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"url\":\"https:\\/\\/fortisnetlease.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":1400,\"height\":121,\"@id\":\"https:\\/\\/fortisnetlease.com\\/#logo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/fortisnetlease\\/\",\"https:\\/\\/www.instagram.com\\/fortisnetlease\\/\",\"https:\\/\\/www.linkedin.com\\/company\\/16217353\\/\"]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "@id": "https://fortisnetlease.com/#organization",
+        "name": "Fortis Net Lease",
+        "url": "https://fortisnetlease.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+          "width": 1400,
+          "height": 121,
+          "@id": "https://fortisnetlease.com/#logo"
+        },
+        "sameAs": [
+          "https://www.facebook.com/fortisnetlease/",
+          "https://www.instagram.com/fortisnetlease/",
+          "https://www.linkedin.com/company/16217353/"
+        ]
+      }
+    },
+    {
+      "source": "{\"@context\":\"http:\\/\\/schema.org\\/\",\"@type\":\"Blog\",\"headline\":\"Fortis Net Lease\",\"description\":\"Commercial Investment Real Estate\",\"url\":\"https:\\/\\/fortisnetlease.com\",\"blogPost\":[{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/lazy-dog-restaurant-bar-allen-tx\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/lazy-dog-restaurant-bar-allen-tx\\/\",\"headline\":\"Lazy Dog Restaurant & Bar, Allen, TX\",\"datePublished\":\"2019-10-10T15:28:59+00:00\",\"dateModified\":\"2019-10-10T15:29:00+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"articleSection\":\"Featured\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/rite-aid-waterville-oh\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/rite-aid-waterville-oh\\/\",\"headline\":\"Rite Aid\",\"datePublished\":\"2019-05-01T15:46:06+00:00\",\"dateModified\":\"2019-05-01T15:46:25+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/05\\/Front-2.jpg\",\"width\":1169,\"height\":603},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/del-taco-allen-park-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/del-taco-allen-park-mi\\/\",\"headline\":\"Del Taco\",\"datePublished\":\"2019-04-23T17:38:05+00:00\",\"dateModified\":\"2019-04-29T14:37:01+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/del-taco-pic.jpg\",\"width\":1500,\"height\":1000},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-emmett-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-emmett-mi\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-23T16:17:55+00:00\",\"dateModified\":\"2019-04-23T16:18:17+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-17.jpg\",\"width\":4000,\"height\":3000},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/pizza-hut-eaton-oh\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/pizza-hut-eaton-oh\\/\",\"headline\":\"Pizza Hut\",\"datePublished\":\"2019-04-18T16:27:18+00:00\",\"dateModified\":\"2019-04-18T16:51:26+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-16.jpg\",\"width\":1173,\"height\":704},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/wash-rite-car-wash\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/wash-rite-car-wash\\/\",\"headline\":\"Wash Rite Car Wash\",\"datePublished\":\"2019-04-18T15:29:42+00:00\",\"dateModified\":\"2019-04-18T15:29:43+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-15.jpg\",\"width\":1072,\"height\":647},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/tree-house-foods\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/tree-house-foods\\/\",\"headline\":\"Tree House Foods\",\"datePublished\":\"2019-04-17T16:11:40+00:00\",\"dateModified\":\"2019-04-18T16:55:52+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-14.jpg\",\"width\":1164,\"height\":608},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/family-dollar-detroit-mi-2\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/family-dollar-detroit-mi-2\\/\",\"headline\":\"Family Dollar\",\"datePublished\":\"2019-04-16T16:24:10+00:00\",\"dateModified\":\"2019-08-28T17:30:45+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-13.jpg\",\"width\":1170,\"height\":589},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/walmart-howell-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/walmart-howell-mi\\/\",\"headline\":\"Walmart\",\"datePublished\":\"2019-04-16T12:38:38+00:00\",\"dateModified\":\"2019-04-23T13:09:22+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-12.jpg\",\"width\":1170,\"height\":658},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/office-depot-albany-ga\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/office-depot-albany-ga\\/\",\"headline\":\"Office Depot\",\"datePublished\":\"2019-04-12T19:56:16+00:00\",\"dateModified\":\"2019-04-19T19:43:18+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-11.jpg\",\"width\":1169,\"height\":610},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/rite-aid-pontiac-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/rite-aid-pontiac-mi\\/\",\"headline\":\"Rite Aid\",\"datePublished\":\"2019-04-11T19:04:02+00:00\",\"dateModified\":\"2019-04-11T19:04:24+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-10.jpg\",\"width\":1171,\"height\":593},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-columbus-ne\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-columbus-ne\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-11T18:52:26+00:00\",\"dateModified\":\"2019-08-06T18:40:59+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-9.jpg\",\"width\":2200,\"height\":1529},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-garfield-ga\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-garfield-ga\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-10T15:09:46+00:00\",\"dateModified\":\"2019-11-19T18:06:12+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-8.jpg\",\"width\":1060,\"height\":642},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-kernersville-nc\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-kernersville-nc\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-10T12:53:07+00:00\",\"dateModified\":\"2019-09-17T19:20:28+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/9100-E.jpg\",\"width\":1920,\"height\":1080},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-crawfordville-fl\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-crawfordville-fl\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-04T15:39:01+00:00\",\"dateModified\":\"2019-07-10T14:02:53+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-6.jpg\",\"width\":1920,\"height\":1080},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/panera-bread\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/panera-bread\\/\",\"headline\":\"Panera Bread\",\"datePublished\":\"2019-04-04T15:11:20+00:00\",\"dateModified\":\"2019-08-01T16:21:36+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-5.jpg\",\"width\":1042,\"height\":607},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/family-dollar-grand-junction-tn\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/family-dollar-grand-junction-tn\\/\",\"headline\":\"Family Dollar\",\"datePublished\":\"2019-04-01T20:23:46+00:00\",\"dateModified\":\"2019-10-08T15:42:39+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-4.jpg\",\"width\":1178,\"height\":625},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/family-dollar-middleport-oh\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/family-dollar-middleport-oh\\/\",\"headline\":\"Family Dollar\",\"datePublished\":\"2019-04-01T20:14:38+00:00\",\"dateModified\":\"2019-08-28T13:14:00+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-3.jpg\",\"width\":1169,\"height\":620},\"articleSection\":\"Recently Closed\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-saint-clair-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-saint-clair-mi\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-01T19:59:32+00:00\",\"dateModified\":\"2019-04-01T20:00:16+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-2.jpg\",\"width\":1177,\"height\":586},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/harvey-ellis-shopping-center-norton-shores-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/harvey-ellis-shopping-center-norton-shores-mi\\/\",\"headline\":\"Harvey Ellis Shopping Center\",\"datePublished\":\"2019-04-01T19:48:42+00:00\",\"dateModified\":\"2019-04-17T20:15:28+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front-1.jpg\",\"width\":1162,\"height\":566},\"articleSection\":\"Multi Tenant\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-ubly-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-ubly-mi\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-04-01T19:13:22+00:00\",\"dateModified\":\"2019-04-01T19:13:44+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/04\\/Front.jpg\",\"width\":1178,\"height\":618},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/national-tire-battery-columbia-sc\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/national-tire-battery-columbia-sc\\/\",\"headline\":\"National Tire & Battery\",\"datePublished\":\"2019-03-28T17:01:34+00:00\",\"dateModified\":\"2019-03-29T13:04:57+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/03\\/Front-14.jpg\",\"width\":4000,\"height\":3000},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-north-branch-mi\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-north-branch-mi\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-03-22T17:32:06+00:00\",\"dateModified\":\"2019-03-22T17:32:08+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/03\\/Front-13.jpg\",\"width\":696,\"height\":427},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}},{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-port-barre-la\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/dollar-general-port-barre-la\\/\",\"headline\":\"Dollar General\",\"datePublished\":\"2019-03-19T19:48:04+00:00\",\"dateModified\":\"2019-04-18T16:59:53+00:00\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2019\\/03\\/Front-11.jpg\",\"width\":1174,\"height\":907},\"articleSection\":\"Our Listings\",\"author\":{\"@type\":\"Person\",\"name\":\"jamil\",\"url\":\"https:\\/\\/fortisnetlease.com\\/author\\/jamil\\/\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g\",\"height\":96,\"width\":96}}}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "http://schema.org/",
+        "@type": "Blog",
+        "headline": "Fortis Net Lease",
+        "description": "Commercial Investment Real Estate",
+        "url": "https://fortisnetlease.com",
+        "blogPost": [
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/lazy-dog-restaurant-bar-allen-tx/"
+            },
+            "url": "https://fortisnetlease.com/lazy-dog-restaurant-bar-allen-tx/",
+            "headline": "Lazy Dog Restaurant & Bar, Allen, TX",
+            "datePublished": "2019-10-10T15:28:59+00:00",
+            "dateModified": "2019-10-10T15:29:00+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "articleSection": "Featured",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/rite-aid-waterville-oh/"
+            },
+            "url": "https://fortisnetlease.com/rite-aid-waterville-oh/",
+            "headline": "Rite Aid",
+            "datePublished": "2019-05-01T15:46:06+00:00",
+            "dateModified": "2019-05-01T15:46:25+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/05/Front-2.jpg",
+              "width": 1169,
+              "height": 603
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/del-taco-allen-park-mi/"
+            },
+            "url": "https://fortisnetlease.com/del-taco-allen-park-mi/",
+            "headline": "Del Taco",
+            "datePublished": "2019-04-23T17:38:05+00:00",
+            "dateModified": "2019-04-29T14:37:01+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/del-taco-pic.jpg",
+              "width": 1500,
+              "height": 1000
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-emmett-mi/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-emmett-mi/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-23T16:17:55+00:00",
+            "dateModified": "2019-04-23T16:18:17+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-17.jpg",
+              "width": 4000,
+              "height": 3000
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/pizza-hut-eaton-oh/"
+            },
+            "url": "https://fortisnetlease.com/pizza-hut-eaton-oh/",
+            "headline": "Pizza Hut",
+            "datePublished": "2019-04-18T16:27:18+00:00",
+            "dateModified": "2019-04-18T16:51:26+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-16.jpg",
+              "width": 1173,
+              "height": 704
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/wash-rite-car-wash/"
+            },
+            "url": "https://fortisnetlease.com/wash-rite-car-wash/",
+            "headline": "Wash Rite Car Wash",
+            "datePublished": "2019-04-18T15:29:42+00:00",
+            "dateModified": "2019-04-18T15:29:43+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-15.jpg",
+              "width": 1072,
+              "height": 647
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/tree-house-foods/"
+            },
+            "url": "https://fortisnetlease.com/tree-house-foods/",
+            "headline": "Tree House Foods",
+            "datePublished": "2019-04-17T16:11:40+00:00",
+            "dateModified": "2019-04-18T16:55:52+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-14.jpg",
+              "width": 1164,
+              "height": 608
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/family-dollar-detroit-mi-2/"
+            },
+            "url": "https://fortisnetlease.com/family-dollar-detroit-mi-2/",
+            "headline": "Family Dollar",
+            "datePublished": "2019-04-16T16:24:10+00:00",
+            "dateModified": "2019-08-28T17:30:45+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-13.jpg",
+              "width": 1170,
+              "height": 589
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/walmart-howell-mi/"
+            },
+            "url": "https://fortisnetlease.com/walmart-howell-mi/",
+            "headline": "Walmart",
+            "datePublished": "2019-04-16T12:38:38+00:00",
+            "dateModified": "2019-04-23T13:09:22+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-12.jpg",
+              "width": 1170,
+              "height": 658
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/office-depot-albany-ga/"
+            },
+            "url": "https://fortisnetlease.com/office-depot-albany-ga/",
+            "headline": "Office Depot",
+            "datePublished": "2019-04-12T19:56:16+00:00",
+            "dateModified": "2019-04-19T19:43:18+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-11.jpg",
+              "width": 1169,
+              "height": 610
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/rite-aid-pontiac-mi/"
+            },
+            "url": "https://fortisnetlease.com/rite-aid-pontiac-mi/",
+            "headline": "Rite Aid",
+            "datePublished": "2019-04-11T19:04:02+00:00",
+            "dateModified": "2019-04-11T19:04:24+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-10.jpg",
+              "width": 1171,
+              "height": 593
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-columbus-ne/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-columbus-ne/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-11T18:52:26+00:00",
+            "dateModified": "2019-08-06T18:40:59+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-9.jpg",
+              "width": 2200,
+              "height": 1529
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-garfield-ga/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-garfield-ga/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-10T15:09:46+00:00",
+            "dateModified": "2019-11-19T18:06:12+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-8.jpg",
+              "width": 1060,
+              "height": 642
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-kernersville-nc/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-kernersville-nc/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-10T12:53:07+00:00",
+            "dateModified": "2019-09-17T19:20:28+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/9100-E.jpg",
+              "width": 1920,
+              "height": 1080
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-crawfordville-fl/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-crawfordville-fl/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-04T15:39:01+00:00",
+            "dateModified": "2019-07-10T14:02:53+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-6.jpg",
+              "width": 1920,
+              "height": 1080
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/panera-bread/"
+            },
+            "url": "https://fortisnetlease.com/panera-bread/",
+            "headline": "Panera Bread",
+            "datePublished": "2019-04-04T15:11:20+00:00",
+            "dateModified": "2019-08-01T16:21:36+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-5.jpg",
+              "width": 1042,
+              "height": 607
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/family-dollar-grand-junction-tn/"
+            },
+            "url": "https://fortisnetlease.com/family-dollar-grand-junction-tn/",
+            "headline": "Family Dollar",
+            "datePublished": "2019-04-01T20:23:46+00:00",
+            "dateModified": "2019-10-08T15:42:39+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-4.jpg",
+              "width": 1178,
+              "height": 625
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/family-dollar-middleport-oh/"
+            },
+            "url": "https://fortisnetlease.com/family-dollar-middleport-oh/",
+            "headline": "Family Dollar",
+            "datePublished": "2019-04-01T20:14:38+00:00",
+            "dateModified": "2019-08-28T13:14:00+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-3.jpg",
+              "width": 1169,
+              "height": 620
+            },
+            "articleSection": "Recently Closed",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-saint-clair-mi/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-saint-clair-mi/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-01T19:59:32+00:00",
+            "dateModified": "2019-04-01T20:00:16+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-2.jpg",
+              "width": 1177,
+              "height": 586
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/harvey-ellis-shopping-center-norton-shores-mi/"
+            },
+            "url": "https://fortisnetlease.com/harvey-ellis-shopping-center-norton-shores-mi/",
+            "headline": "Harvey Ellis Shopping Center",
+            "datePublished": "2019-04-01T19:48:42+00:00",
+            "dateModified": "2019-04-17T20:15:28+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front-1.jpg",
+              "width": 1162,
+              "height": 566
+            },
+            "articleSection": "Multi Tenant",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-ubly-mi/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-ubly-mi/",
+            "headline": "Dollar General",
+            "datePublished": "2019-04-01T19:13:22+00:00",
+            "dateModified": "2019-04-01T19:13:44+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/04/Front.jpg",
+              "width": 1178,
+              "height": 618
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/national-tire-battery-columbia-sc/"
+            },
+            "url": "https://fortisnetlease.com/national-tire-battery-columbia-sc/",
+            "headline": "National Tire & Battery",
+            "datePublished": "2019-03-28T17:01:34+00:00",
+            "dateModified": "2019-03-29T13:04:57+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/03/Front-14.jpg",
+              "width": 4000,
+              "height": 3000
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-north-branch-mi/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-north-branch-mi/",
+            "headline": "Dollar General",
+            "datePublished": "2019-03-22T17:32:06+00:00",
+            "dateModified": "2019-03-22T17:32:08+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/03/Front-13.jpg",
+              "width": 696,
+              "height": 427
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          },
+          {
+            "@context": "https://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://fortisnetlease.com/dollar-general-port-barre-la/"
+            },
+            "url": "https://fortisnetlease.com/dollar-general-port-barre-la/",
+            "headline": "Dollar General",
+            "datePublished": "2019-03-19T19:48:04+00:00",
+            "dateModified": "2019-04-18T16:59:53+00:00",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://fortisnetlease.com/#organization",
+              "name": "Fortis Net Lease",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://fortisnetlease.com/wp-content/uploads/2019/03/Front-11.jpg",
+              "width": 1174,
+              "height": 907
+            },
+            "articleSection": "Our Listings",
+            "author": {
+              "@type": "Person",
+              "name": "jamil",
+              "url": "https://fortisnetlease.com/author/jamil/",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://secure.gravatar.com/avatar/ec582884d86941fda3dfeaef419a52c448102d4a944dc18cb08059b124aef679?s=96&d=mm&r=g",
+                "height": 96,
+                "width": 96
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source": "{\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"BreadcrumbList\",\n    \"itemListElement\": [\n        {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"item\": {\n                \"@id\": \"https://fortisnetlease.com\",\n                \"name\": \"Home\"\n            }\n        }\n    ]\n}",
+      "valid_json": true,
+      "value": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://fortisnetlease.com",
+              "name": "Home"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 1,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "Fortis Net Lease Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Menu It's Simple. Net Lease Investment PROPERTY sales are all about maximizing exposure For today’s Dispositions, and Tomorrow's Acquisitions. At Fortis Net Lease, this is all we do. View Our Listings #1 What Our Clients Say We are NOT about conforming to the LATEST TREND, We are about performing. We make OUR clientS AND THEIR GOALS #1 About Our Firm We are about the Grit & Gumption IT TAKES TO EXCEED YOUR EXPECTATIONS, WHILE SELLING YOUR PROPERTY AND EXPANDING YOUR PORTFOLIO. Meet our Team AND THAT HAS EARNED US Real Experience Real Results View Our Success $9+ B Total Investment Sales Volume 4500 Closed Transactions and Counting 400K Investment Broker & Proprietary Buyer Reach 46 States. National Experience To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video. 1031 Exchange For Real Estate Explained In Depth A 1031 exchange for real estate or Internal Revenue Code Sections 1031, is a swap of one “like-kind” property for another in which there is no tax or limited tax due at the time of the exchange. Read More WHAT is a Net Lease? Defining Real Estate Investment Terms A net lease agreement between the landlord and the tenant in which the tenant agrees pay rent, in addition to, any additional cost associated with the property covered on the lease. Read More With REAL RELATIONSHIPS Your net lease company™ Join our Mailing List Contact 30445 Northwestern Hwy,Suite #275Farmington Hills, MI 48334 P (248) 254-3410 F (248) 254-3405 Quicklinks Our Listings About Us Contact News Privacy Messaging Terms 2024 All Rights Reserved - Website developed by BMG Media Sign Up For Our Mailing List Broker Buyer You have subscribed successfully. Error Captcha I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms. Send",
+  "text_length": 2362,
+  "iframes": [],
+  "script_sources": [
+    "https://www.googletagmanager.com/gtag/js?id=UA-147791370-2",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jquery.min.js",
+    "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/nouislider.min.js",
+    "https://fortisnetlease.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://fortisnetlease.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/jquery.countdown.min.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/frontend.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/js.cookie.min.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/materialize.min.js?ver=1.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/vendors.js?ver=0.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/swiper.min.js?ver=0.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/imagesloaded.pkgd.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/isotope.pkgd.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/datepicker.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jqFancyTransitions.1.8.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/script.js?ver=1.347",
+    "https://vjs.zencdn.net/7.1.0/video.js",
+    "https://www.google.com/recaptcha/api.js",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/analytics.js?ver=2.0.6"
+  ],
+  "stylesheets": [
+    "https://fonts.googleapis.com/icon?family=Material+Icons",
+    "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/nouislider.min.css",
+    "https://vjs.zencdn.net/7.1.0/video-js.css",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/block-style-index.css?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/frontend.css?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/core.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/default.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/materialize.min.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/animate.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/swiper.min.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/datepicker.min.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/style.css?ver=1.398",
+    "https://fortisnetlease.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70"
+  ],
+  "hreflang": []
+}

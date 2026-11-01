@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.matthews.com/",
+  "headers": {
+    "cache-control": "public, max-age=0, must-revalidate",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Vercel",
+    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "x-powered-by": "Next.js"
+  },
+  "redirects": [
+    {
+      "url": "https://www.matthews.com/",
+      "status": 200
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "978351b2fae920055e4e871eea9df0b8a010dbe844aba05bc8e1376e17df9399",
+  "body_bytes": 155354
+}

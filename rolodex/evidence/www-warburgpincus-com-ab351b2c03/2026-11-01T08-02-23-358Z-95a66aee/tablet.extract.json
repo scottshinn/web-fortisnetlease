@@ -1,0 +1,373 @@
+{
+  "url": "https://warburgpincus.com/",
+  "base_url": "https://warburgpincus.com/",
+  "title": "Just a moment...",
+  "title_count": 1,
+  "lang": "en-us",
+  "meta": {
+    "robots": [
+      "noindex,nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "warburgpincus.com",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Performing security verification",
+      "selector": "#izjb4",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Verification successful. Waiting for warburgpincus.com to respond",
+      "selector": "#HUrAm0",
+      "visible": false
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+      "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+      "text": "Cloudflare",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.cloudflare.com/privacypolicy/",
+      "url": "https://www.cloudflare.com/privacypolicy/",
+      "text": "Privacy",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://warburgpincus.com/favicon.ico",
+      "alt": "Icon for warburgpincus.com",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": true
+    }
+  ],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "warburgpincus.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for warburgpincus.com to respondRay ID: a53960a04c97ff6fPerformance and Security by CloudflarePrivacy",
+  "text_length": 323,
+  "iframes": [],
+  "script_sources": [
+    "https://warburgpincus.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53960a04c97ff6f",
+    "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+  ],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "scroll_width": 768,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "warburgpincus.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are n",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 1024
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "18.4px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "warburgpincus.com",
+        "rect": {
+          "x": 24,
+          "y": 128,
+          "width": 357,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "40px",
+          "font-weight": "600",
+          "line-height": "50px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#izjb4",
+        "tag": "h2",
+        "text": "Performing security verification",
+        "rect": {
+          "x": 24,
+          "y": 186,
+          "width": 720,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "24px",
+          "font-weight": "600",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "8px",
+          "margin-bottom": "8px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#rrKi4",
+        "tag": "p",
+        "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "rect": {
+          "x": 24,
+          "y": 224,
+          "width": 720,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "32px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Cloudflare",
+        "rect": {
+          "x": 406.578125,
+          "y": 990,
+          "width": 54.453125,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(0, 0, 238)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy",
+        "rect": {
+          "x": 479.03125,
+          "y": 990,
+          "width": 37.015625,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(0, 0, 238)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Cloudflare, opens in a new tab",
+        "width": 54.453125,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy, opens in a new tab",
+        "width": 37.015625,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 104.69500000029802,
+      "dom_content_loaded_ms": 146.64999999990687,
+      "load_ms": 0
+    },
+    "resources": [
+      {
+        "url": "https://warburgpincus.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53960a04c97ff6f",
+        "type": "script",
+        "duration_ms": 164.50999999977648,
+        "transfer_bytes": 198409,
+        "decoded_bytes": 592661
+      },
+      {
+        "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+        "type": "script",
+        "duration_ms": 1241.9550000000745,
+        "transfer_bytes": 28281,
+        "decoded_bytes": 86732
+      },
+      {
+        "url": "https://warburgpincus.com/favicon.ico",
+        "type": "img",
+        "duration_ms": 57.87000000011176,
+        "transfer_bytes": 6497,
+        "decoded_bytes": 6197
+      },
+      {
+        "url": "https://warburgpincus.com/cdn-cgi/challenge-platform/h/g/fo/3395098270:1793517657:U8k_IUTRCvvjY-UDHNAQOfGNf8bU9xH7cSbjic2uBhs/a53960a04c97ff6f/Hm7I.ySPF_ECgSUcZEMTm.VogA22yrGWGdku4dr4vgo-1793520148-1.2.1.1-dMAJqsFRGMk0WWuJ_Lgnxvz1bBkBpDVqS6Gf88sFK_4SCrYQvRBltyoGpUGrlUZS",
+        "type": "xmlhttprequest",
+        "duration_ms": 90.52500000037253,
+        "transfer_bytes": 82978,
+        "decoded_bytes": 109056
+      }
+    ],
+    "observations": {
+      "lcp_ms": 444.8450000002049,
+      "layout_shifts": [
+        {
+          "time": 489.2349999998696,
+          "value": 0.0015221337477366128
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 314.4550000000745,
+          "duration_ms": 58
+        }
+      ]
+    }
+  }
+}

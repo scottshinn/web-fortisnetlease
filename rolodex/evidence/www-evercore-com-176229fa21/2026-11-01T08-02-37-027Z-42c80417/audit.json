@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://www.evercore.com/",
+  "findings": [
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "raw: multiple title elements",
+      "evidence": "raw.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "raw: images lack HTML dimensions",
+      "evidence": "raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:image missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet-raw: multiple title elements",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet-raw: images lack HTML dimensions",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:image missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile-raw: multiple title elements",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile-raw: images lack HTML dimensions",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:image missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: multiple title elements",
+      "evidence": "desktop.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: images lack HTML dimensions",
+      "evidence": "desktop.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:image missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "desktop: observed LCP exceeds 2500 ms",
+      "evidence": "desktop.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: multiple title elements",
+      "evidence": "tablet.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: images lack HTML dimensions",
+      "evidence": "tablet.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:image missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "tablet: observed LCP exceeds 2500 ms",
+      "evidence": "tablet.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: multiple title elements",
+      "evidence": "mobile.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: images lack HTML dimensions",
+      "evidence": "mobile.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:image missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 3121,
+      "rendered_text_length": 3385,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.evercore.com/cookie-policy/"
+      ]
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 3121,
+      "rendered_text_length": 3385,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.evercore.com/cookie-policy/"
+      ]
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 3121,
+      "rendered_text_length": 3385,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.evercore.com/cookie-policy/"
+      ]
+    }
+  ],
+  "crawler_policy": {
+    "status": "observed",
+    "parsed": {
+      "groups": [
+        {
+          "agents": [
+            "*"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/wp-admin/"
+            },
+            {
+              "directive": "allow",
+              "path": "/wp-admin/admin-ajax.php"
+            }
+          ]
+        }
+      ],
+      "sitemaps": [
+        "https://www.evercore.com/sitemap_index.xml"
+      ],
+      "other": [
+        {
+          "directive": "crawl-delay",
+          "value": "10"
+        }
+      ]
+    },
+    "agents": [
+      {
+        "agent": "Googlebot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "Bingbot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "OAI-SearchBot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "GPTBot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "ChatGPT-User",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "Google-Extended",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "PerplexityBot",
+        "decision": "allow",
+        "matched_rule": null
+      }
+    ]
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 8,
+    "info": 19,
+    "quality": "needs-review"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

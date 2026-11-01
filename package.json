@@ -1,0 +1,27 @@
+{
+  "name": "fortis-net-lease-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node tools/fetch-listings.mjs && node tools/fetch-rates.mjs",
+    "build": "node tools/build.mjs",
+    "check": "node tools/check.mjs",
+    "all": "npm run fetch && npm run build && npm run check",
+    "serve": "cd site && python -m http.server 4330"
+  },
+  "dependencies": {
+    "sharp": "0.34.5"
+  },
+  "devDependencies": {
+    "@fontsource-variable/schibsted-grotesk": "^5.3.0",
+    "@fontsource/geist-mono": "^5.3.0",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "topojson-simplify": "^3.0.3",
+    "us-atlas": "^3.0.1"
+  }
+}

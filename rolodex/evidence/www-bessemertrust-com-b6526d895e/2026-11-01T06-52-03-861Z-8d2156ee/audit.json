@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://www.bessemertrust.com/",
+  "findings": [
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: multiple title elements",
+      "evidence": "desktop.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: images lack HTML dimensions",
+      "evidence": "desktop.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "desktop: observed LCP exceeds 2500 ms",
+      "evidence": "desktop.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: long tasks observed",
+      "evidence": "desktop.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: a script exceeds 500 KB decoded",
+      "evidence": "desktop.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: multiple title elements",
+      "evidence": "tablet.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: images lack HTML dimensions",
+      "evidence": "tablet.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "tablet: observed LCP exceeds 2500 ms",
+      "evidence": "tablet.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: a script exceeds 500 KB decoded",
+      "evidence": "tablet.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: multiple title elements",
+      "evidence": "mobile.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: images lack HTML dimensions",
+      "evidence": "mobile.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "mobile: observed LCP exceeds 2500 ms",
+      "evidence": "mobile.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: long tasks observed",
+      "evidence": "mobile.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: a script exceeds 500 KB decoded",
+      "evidence": "mobile.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 121,
+      "rendered_text_length": 161,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 121,
+      "rendered_text_length": 161,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 121,
+      "rendered_text_length": 161,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    }
+  ],
+  "crawler_policy": {
+    "status": "observed",
+    "parsed": {
+      "groups": [
+        {
+          "agents": [
+            "*"
+          ],
+          "rules": [
+            {
+              "directive": "allow",
+              "path": "/core/*.css$"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.css?"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.js$"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.js?"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.gif"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.jpg"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.jpeg"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.png"
+            },
+            {
+              "directive": "allow",
+              "path": "/core/*.svg"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.css$"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.css?"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.js$"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.js?"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.gif"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.jpg"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.jpeg"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.png"
+            },
+            {
+              "directive": "allow",
+              "path": "/profiles/*.svg"
+            },
+            {
+              "directive": "disallow",
+              "path": "/core/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/profiles/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/README.txt"
+            },
+            {
+              "directive": "disallow",
+              "path": "/web.config"
+            },
+            {
+              "directive": "disallow",
+              "path": "/admin/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/comment/reply/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/filter/tips"
+            },
+            {
+              "directive": "disallow",
+              "path": "/node/add/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/search"
+            },
+            {
+              "directive": "disallow",
+              "path": "/user/register/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/user/password/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/user/login/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/user/logout/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/admin/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/comment/reply/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/filter/tips"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/node/add/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/search"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/user/password/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/user/register/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/user/login/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/user/logout/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/files/portal_orig/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/insights/hidden-canary"
+            },
+            {
+              "directive": "disallow",
+              "path": "/index.php/insights/hidden-canary"
+            }
+          ]
+        }
+      ],
+      "sitemaps": [],
+      "other": []
+    },
+    "agents": [
+      {
+        "agent": "Googlebot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "Bingbot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "OAI-SearchBot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "GPTBot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "ChatGPT-User",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "Google-Extended",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "PerplexityBot",
+        "decision": "allow",
+        "matched_rule": null
+      }
+    ]
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 6,
+    "info": 22,
+    "quality": "needs-review"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

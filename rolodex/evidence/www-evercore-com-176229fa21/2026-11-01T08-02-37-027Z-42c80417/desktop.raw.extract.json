@@ -1,0 +1,1438 @@
+{
+  "url": "https://www.evercore.com/",
+  "base_url": "https://www.evercore.com/",
+  "title": "Evercore",
+  "title_count": 4,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results."
+    ],
+    "robots": [
+      "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:title": [
+      "Evercore"
+    ],
+    "og:description": [
+      "Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results."
+    ],
+    "og:url": [
+      "https://www.evercore.com/"
+    ],
+    "og:site_name": [
+      "Evercore"
+    ],
+    "og:updated_time": [
+      "2026-10-29T19:47:34+00:00"
+    ],
+    "article:published_time": [
+      "2023-06-14T15:53:56+00:00"
+    ],
+    "article:modified_time": [
+      "2026-10-29T19:47:34+00:00"
+    ],
+    "og:video": [
+      "https://www.evercore.com/wp-content/uploads/2025/03/Website-scrolling-video_v04.mp4"
+    ],
+    "ya:ovs:upload_date": [
+      "2023-06-14GMT+000015:53:56+00:00"
+    ],
+    "ya:ovs:allow_embed": [
+      "false"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "twitter:title": [
+      "Evercore"
+    ],
+    "twitter:description": [
+      "Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results."
+    ],
+    "twitter:label1": [
+      "Written by"
+    ],
+    "twitter:data1": [
+      "JT"
+    ],
+    "twitter:label2": [
+      "Time to read"
+    ],
+    "twitter:data2": [
+      "Less than a minute"
+    ],
+    "msapplication-tileimage": [
+      "https://www.evercore.com/wp-content/uploads/2026/08/cropped-Site-Icon-for-browser-tabs-270x270.png"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://www.evercore.com/",
+      "url": "https://www.evercore.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "text": "Explore",
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "Client-Focused, Values-Driven.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Who We Are",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Evercore Edge | 10.29.26",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Independent Thinking",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Market Trends",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Evercore Research 2026 Outlooks",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(4) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Thought Leadership",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Explore our latest insights, research and analysis from across our businesses.",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Core Values",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Our Founding",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Latest News",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Evercore ISI Ranked No. 1 on Weighted Basis in 2026 Extel All-America Research Analyst Survey",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "John Vaske Joins Evercore as Senior Managing Director in the Chemicals Investment Banking Group",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Featured Transactions(Values in Millions)",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Join Our Team",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Evercore is one of the world’s fastest-growing independent investment banking firms.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(2)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#content",
+      "url": "https://www.evercore.com/#content",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/",
+      "url": "https://www.evercore.com/",
+      "text": "Evercore",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/",
+      "url": "https://www.evercore.com/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/",
+      "url": "https://www.evercore.com/who-we-are/",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/overview/",
+      "url": "https://www.evercore.com/who-we-are/overview/",
+      "text": "Overview",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/core-values/",
+      "url": "https://www.evercore.com/who-we-are/core-values/",
+      "text": "Core Values",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/leadership/",
+      "url": "https://www.evercore.com/who-we-are/leadership/",
+      "text": "Leadership",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/board/",
+      "url": "https://www.evercore.com/who-we-are/board/",
+      "text": "Board",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Our Businesses & Capabilities",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Investment Banking",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/investment-banking/strategic-advisory/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/investment-banking/strategic-advisory/",
+      "text": "Strategic Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/investment-banking/liability-management-restructuring/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/investment-banking/liability-management-restructuring/",
+      "text": "Liability Management & Restructuring",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/investment-banking/capital-markets-advisory/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/investment-banking/capital-markets-advisory/",
+      "text": "Capital Markets Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/investment-banking/private-capital-advisory-fundraising/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/investment-banking/private-capital-advisory-fundraising/",
+      "text": "Private Capital Advisory & Fundraising",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/equities/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/equities/",
+      "text": "Equities",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/equities/research/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/equities/research/",
+      "text": "Research",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/equities/sales-trading/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/equities/sales-trading/",
+      "text": "Sales & Trading",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/equities/corporate-access-conferences/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/equities/corporate-access-conferences/",
+      "text": "Corporate Access & Conferences",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://evercorewealthandtrust.com/",
+      "url": "https://evercorewealthandtrust.com/",
+      "text": "Wealth Management",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/2026/?post_type=transactions",
+      "url": "https://www.evercore.com/2026/?post_type=transactions",
+      "text": "Our Transactions",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-team/investment-banking/",
+      "url": "https://www.evercore.com/our-team/investment-banking/",
+      "text": "Investment Banking",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-team/equities/",
+      "url": "https://www.evercore.com/our-team/equities/",
+      "text": "Equities",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-team/wealth-management/",
+      "url": "https://www.evercore.com/our-team/wealth-management/",
+      "text": "Wealth Management",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-team/corporate-group-leadership/",
+      "url": "https://www.evercore.com/our-team/corporate-group-leadership/",
+      "text": "Corporate Group Leadership",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-team/alumni-network/",
+      "url": "https://www.evercore.com/our-team/alumni-network/",
+      "text": "Alumni Network",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/",
+      "url": "https://www.evercore.com/our-impact/",
+      "text": "Our Impact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/diversity-and-inclusion/",
+      "url": "https://www.evercore.com/our-impact/diversity-and-inclusion/",
+      "text": "Diversity and Inclusion",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/community/",
+      "url": "https://www.evercore.com/our-impact/community/",
+      "text": "Community",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/sustainability/",
+      "url": "https://www.evercore.com/our-impact/sustainability/",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/evercore-foundation/",
+      "url": "https://www.evercore.com/our-impact/evercore-foundation/",
+      "text": "Evercore Foundation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/",
+      "url": "https://www.evercore.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/the-evercore-difference/",
+      "url": "https://www.evercore.com/careers/the-evercore-difference/",
+      "text": "The Evercore Difference",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/students-graduates/",
+      "url": "https://www.evercore.com/careers/students-graduates/",
+      "text": "Students & Graduates",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/professionals/",
+      "url": "https://www.evercore.com/careers/professionals/",
+      "text": "Professionals",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/benefits/",
+      "url": "https://www.evercore.com/careers/benefits/",
+      "text": "Benefits",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/media/",
+      "url": "https://www.evercore.com/media/",
+      "text": "Media",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Investor Relations",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/investor-overview",
+      "url": "https://investors.evercore.com/investor-overview",
+      "text": "Overview",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Corporate Governance",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/corporate-governance/corporate-governance",
+      "url": "https://investors.evercore.com/corporate-governance/corporate-governance",
+      "text": "Board of Directors",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/corporate-governance/governance-documents",
+      "url": "https://investors.evercore.com/corporate-governance/governance-documents",
+      "text": "Governance Documents",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Financials & Filings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/financial-information/sec-filings",
+      "url": "https://investors.evercore.com/financial-information/sec-filings",
+      "text": "SEC Filings",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/financial-information/quarterly-results",
+      "url": "https://investors.evercore.com/financial-information/quarterly-results",
+      "text": "Quarterly Results",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/financial-information/annual-reports",
+      "url": "https://investors.evercore.com/financial-information/annual-reports",
+      "text": "Annual Reports",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/sustainability/",
+      "url": "https://www.evercore.com/our-impact/sustainability/",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "News Releases & Events",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/news-events/news-releases",
+      "url": "https://investors.evercore.com/news-events/news-releases",
+      "text": "News",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/news-events/events-presentations",
+      "url": "https://investors.evercore.com/news-events/events-presentations",
+      "text": "Events & Presentations",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Resources",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/resources/online-investor-kit",
+      "url": "https://investors.evercore.com/resources/online-investor-kit",
+      "text": "Online Investor Kit",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/resources/information-request",
+      "url": "https://investors.evercore.com/resources/information-request",
+      "text": "Information Request",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/resources/analyst-coverage",
+      "url": "https://investors.evercore.com/resources/analyst-coverage",
+      "text": "Analyst Coverage",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/resources/stock-information",
+      "url": "https://investors.evercore.com/resources/stock-information",
+      "text": "Stock Information",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(9) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "Join Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/students-graduates/",
+      "url": "https://www.evercore.com/careers/students-graduates/",
+      "text": "Students & Graduates",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/professionals/",
+      "url": "https://www.evercore.com/careers/professionals/",
+      "text": "Professionals",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/contact-us/",
+      "url": "https://www.evercore.com/contact-us/",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/who-we-are/overview/",
+      "url": "https://www.evercore.com/who-we-are/overview/",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/wp-content/uploads/2026/10/10-29-26-Evercore-Edge.mp3",
+      "url": "https://www.evercore.com/wp-content/uploads/2026/10/10-29-26-Evercore-Edge.mp3",
+      "text": "Listen Now",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > button:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://evercorewealthandtrust.com/insights/issues/",
+      "url": "https://evercorewealthandtrust.com/insights/issues/",
+      "text": "Read Now",
+      "rel": "noopener",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > button:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/wp-content/uploads/2026/07/H1-2026-Credit-Secondaries-Market-Report.pdf",
+      "url": "https://www.evercore.com/wp-content/uploads/2026/07/H1-2026-Credit-Secondaries-Market-Report.pdf",
+      "text": "Read Now",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > button:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-business-and-capabilities/equities/2026-outlooks/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/equities/2026-outlooks/",
+      "text": "View Now",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > button:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/core-values/",
+      "url": "https://www.evercore.com/who-we-are/core-values/",
+      "text": "Core Values",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/wp-content/uploads/2026/10/Extel-2026-Press-Release_vF.pdf",
+      "url": "https://www.evercore.com/wp-content/uploads/2026/10/Extel-2026-Press-Release_vF.pdf",
+      "text": "Evercore ISI Ranked No. 1 on Weighted Basis in 2026 Extel All-America Research Analyst Survey",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/wp-content/uploads/2026/10/JVaske_vF.pdf",
+      "url": "https://www.evercore.com/wp-content/uploads/2026/10/JVaske_vF.pdf",
+      "text": "John Vaske Joins Evercore as Senior Managing Director in the Chemicals Investment Banking Group",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/media/",
+      "url": "https://www.evercore.com/media/",
+      "text": "View all",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-transactions/",
+      "url": "https://www.evercore.com/our-transactions/",
+      "text": "View all",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/the-evercore-difference/",
+      "url": "https://www.evercore.com/careers/the-evercore-difference/",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/",
+      "url": "https://www.evercore.com/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/who-we-are/overview/",
+      "url": "https://www.evercore.com/who-we-are/overview/",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-business-and-capabilities/investment-banking/strategic-advisory/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/investment-banking/strategic-advisory/",
+      "text": "Investment Banking",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-business-and-capabilities/equities/research/",
+      "url": "https://www.evercore.com/our-business-and-capabilities/equities/research/",
+      "text": "Equities",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://evercorewealthandtrust.com/",
+      "url": "https://evercorewealthandtrust.com/",
+      "text": "Wealth Management",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/2026/?post_type=transactions",
+      "url": "https://www.evercore.com/2026/?post_type=transactions",
+      "text": "Our Transactions",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-team/investment-banking/",
+      "url": "https://www.evercore.com/our-team/investment-banking/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/careers/the-evercore-difference/",
+      "url": "https://www.evercore.com/careers/the-evercore-difference/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/diversity-and-inclusion/",
+      "url": "https://www.evercore.com/our-impact/diversity-and-inclusion/",
+      "text": "Diversity and Inclusion",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/community/",
+      "url": "https://www.evercore.com/our-impact/community/",
+      "text": "Community",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/sustainability/",
+      "url": "https://www.evercore.com/our-impact/sustainability/",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/our-impact/evercore-foundation/",
+      "url": "https://www.evercore.com/our-impact/evercore-foundation/",
+      "text": "Evercore Foundation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(12) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/media/",
+      "url": "https://www.evercore.com/media/",
+      "text": "Media",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://investors.evercore.com/",
+      "url": "https://investors.evercore.com/",
+      "text": "Investor Relations",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/the-evercore-difference/",
+      "url": "https://www.evercore.com/careers/the-evercore-difference/",
+      "text": "Join Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/contact-us/",
+      "url": "https://www.evercore.com/contact-us/",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/evercore-inc/",
+      "url": "https://www.linkedin.com/company/evercore-inc/",
+      "text": "LinkedIn",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.finra.org/",
+      "url": "https://www.finra.org/",
+      "text": "FINRA",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.sipc.org/",
+      "url": "https://www.sipc.org/",
+      "text": "SIPC",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/terms-and-conditions/",
+      "url": "https://www.evercore.com/terms-and-conditions/",
+      "text": "Terms and Conditions",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/important-regulatory-information/",
+      "url": "https://www.evercore.com/important-regulatory-information/",
+      "text": "Important Regulatory Information",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/global-privacy-notice/",
+      "url": "https://www.evercore.com/global-privacy-notice/",
+      "text": "Global Privacy Notice",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "/accessibility-statement/",
+      "url": "https://www.evercore.com/accessibility-statement/",
+      "text": "Accessibility Statement",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://www.evercore.com/security-and-fraud-awareness/",
+      "url": "https://www.evercore.com/security-and-fraud-awareness/",
+      "text": "Security and Fraud Awareness",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.evercore.com/#",
+      "text": "×",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/10/Range-Resources-Logo-on-Transparent-Background-300x100.png",
+      "alt": "",
+      "width": "300",
+      "height": "100",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/10/ptc-png-300x117.png",
+      "alt": "",
+      "width": "226",
+      "height": "88",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/09/GE_Aerospace_logo.svg-300x71.webp",
+      "alt": "GE Aerospace logo",
+      "width": "245",
+      "height": "58",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/08/easyjet-logo.png",
+      "alt": "easyJet logo",
+      "width": "211",
+      "height": "48",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/06/Orange_logo.svg",
+      "alt": "",
+      "width": "98",
+      "height": "98",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/02/zim.png",
+      "alt": "ZIM logo",
+      "width": "123",
+      "height": "123",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/02/Devon_Energy-Logo.wine_-300x200.png",
+      "alt": "Devon Energy logo",
+      "width": "207",
+      "height": "138",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2026/01/Cogentrix_Veticle_w_R_-_White_background_1-e1768409371329-300x76.png",
+      "alt": "Cogentrix Energy logo",
+      "width": "300",
+      "height": "76",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/12/Picture2.png",
+      "alt": "Warner Bros. Discovery logo",
+      "width": "255",
+      "height": "61",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/11/axalta-300x226.png",
+      "alt": "",
+      "width": "116",
+      "height": "87",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/11/Sealed-Air-corporate-logo_full-color-copy-300x50.png",
+      "alt": "Sealed Air logo",
+      "width": "300",
+      "height": "50",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/11/cidara_final_transp-300x124.webp",
+      "alt": "Cidara Therapeutics logo ",
+      "width": "300",
+      "height": "124",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/11/sm-energy-300x40.png",
+      "alt": "",
+      "width": "278",
+      "height": "37",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(13) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/10/huntington-logo.svg",
+      "alt": "",
+      "width": "247",
+      "height": "51",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/08/dayforce-300x80.webp",
+      "alt": "",
+      "width": "214",
+      "height": "57",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(15) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/06/Warner_Bros._Discovery.svg-300x61.png",
+      "alt": "",
+      "width": "394",
+      "height": "80",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(16) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/05/MemMap_Cox-Logo-4C-2018-300x100.png",
+      "alt": "Cox Communications logo",
+      "width": "168",
+      "height": "56",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(17) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/05/LS-logo-tag-color-WEB-1-1-e1747749132779.png",
+      "alt": "LS Power logo",
+      "width": "266",
+      "height": "55",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(18) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/04/SP_Global_logo.svg-300x65.png",
+      "alt": "S&P Global logo",
+      "width": "263",
+      "height": "57",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(19) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/04/sp-mob_v02-e1746044911354-300x143.png",
+      "alt": "S&P Global Mobility logo",
+      "width": "262",
+      "height": "125",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(19) > div:nth-of-type(1) > p:nth-of-type(4) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/02/Becton-Dickinson-homepage.png",
+      "alt": "Becton Dickinson logo",
+      "width": "208",
+      "height": "84",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(20) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2025/01/Calpine-carousel-e1749752464148-300x78.png",
+      "alt": "Calpine logo",
+      "width": "300",
+      "height": "78",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(21) > div:nth-of-type(1) > p:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg",
+      "alt": "",
+      "width": "2218",
+      "height": "1478",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.evercore.com/wp-content/uploads/2024/08/logo-white.svg",
+      "alt": "Evercore logo",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "s",
+      "type": "search",
+      "label": "Search Site"
+    },
+    {
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(2)",
+      "name": null,
+      "type": "reset",
+      "label": "Clear search"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://www.evercore.com/#organization\",\"name\":\"Evercore\",\"sameAs\":[\"https://www.linkedin.com/company/evercore-inc/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.evercore.com/#logo\",\"url\":\"https://www.evercore.com/wp-content/uploads/2024/07/logo.jpg\",\"contentUrl\":\"https://www.evercore.com/wp-content/uploads/2024/07/logo.jpg\",\"caption\":\"Evercore\",\"inLanguage\":\"en-US\",\"width\":\"112\",\"height\":\"112\"}},{\"@type\":\"WebSite\",\"@id\":\"https://www.evercore.com/#website\",\"url\":\"https://www.evercore.com\",\"name\":\"Evercore\",\"publisher\":{\"@id\":\"https://www.evercore.com/#organization\"},\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.evercore.com/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}},{\"@type\":\"ImageObject\",\"@id\":\"https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg\",\"url\":\"https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg\",\"width\":\"200\",\"height\":\"200\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://www.evercore.com/#webpage\",\"url\":\"https://www.evercore.com/\",\"name\":\"Evercore\",\"datePublished\":\"2023-06-14T15:53:56+00:00\",\"dateModified\":\"2026-10-29T19:47:34+00:00\",\"about\":{\"@id\":\"https://www.evercore.com/#organization\"},\"isPartOf\":{\"@id\":\"https://www.evercore.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://www.evercore.com/author/jt/\",\"name\":\"JT\",\"url\":\"https://www.evercore.com/author/jt/\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://secure.gravatar.com/avatar/efea71bf1d74c50110713839f0d769276753ab8322cc6f271981191ce63f593a?s=96&amp;d=mm&amp;r=g\",\"url\":\"https://secure.gravatar.com/avatar/efea71bf1d74c50110713839f0d769276753ab8322cc6f271981191ce63f593a?s=96&amp;d=mm&amp;r=g\",\"caption\":\"JT\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://www.evercore.com/#organization\"}},{\"headline\":\"Evercore\",\"description\":\"Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results.\",\"datePublished\":\"2023-06-14T15:53:56+00:00\",\"dateModified\":\"2026-10-29T19:47:34+00:00\",\"keywords\":\"investment bank,investment,investment firm,investment banking firm,independent investment\",\"image\":{\"@id\":\"https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg\"},\"author\":{\"@id\":\"https://www.evercore.com/author/jt/\",\"name\":\"JT\"},\"@type\":\"Article\",\"name\":\"Evercore\",\"@id\":\"https://www.evercore.com/#schema-197212\",\"isPartOf\":{\"@id\":\"https://www.evercore.com/#webpage\"},\"publisher\":{\"@id\":\"https://www.evercore.com/#organization\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://www.evercore.com/#webpage\"}},{\"@type\":\"VideoObject\",\"name\":\"Evercore\",\"description\":\"Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results.\",\"uploadDate\":\"2023-06-14T15:53:56+00:00\",\"contentUrl\":\"https://www.evercore.com/wp-content/uploads/2025/03/Website-scrolling-video_v04.mp4\",\"width\":\"1280\",\"height\":\"720\",\"isFamilyFriendly\":\"True\",\"@id\":\"https://www.evercore.com/#schema-197213\",\"isPartOf\":{\"@id\":\"https://www.evercore.com/#webpage\"},\"publisher\":{\"@id\":\"https://www.evercore.com/#organization\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://www.evercore.com/#webpage\"}}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://www.evercore.com/#organization",
+            "name": "Evercore",
+            "sameAs": [
+              "https://www.linkedin.com/company/evercore-inc/"
+            ],
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://www.evercore.com/#logo",
+              "url": "https://www.evercore.com/wp-content/uploads/2024/07/logo.jpg",
+              "contentUrl": "https://www.evercore.com/wp-content/uploads/2024/07/logo.jpg",
+              "caption": "Evercore",
+              "inLanguage": "en-US",
+              "width": "112",
+              "height": "112"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.evercore.com/#website",
+            "url": "https://www.evercore.com",
+            "name": "Evercore",
+            "publisher": {
+              "@id": "https://www.evercore.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.evercore.com/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg",
+            "url": "https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg",
+            "width": "200",
+            "height": "200",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.evercore.com/#webpage",
+            "url": "https://www.evercore.com/",
+            "name": "Evercore",
+            "datePublished": "2023-06-14T15:53:56+00:00",
+            "dateModified": "2026-10-29T19:47:34+00:00",
+            "about": {
+              "@id": "https://www.evercore.com/#organization"
+            },
+            "isPartOf": {
+              "@id": "https://www.evercore.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.evercore.com/author/jt/",
+            "name": "JT",
+            "url": "https://www.evercore.com/author/jt/",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/efea71bf1d74c50110713839f0d769276753ab8322cc6f271981191ce63f593a?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/efea71bf1d74c50110713839f0d769276753ab8322cc6f271981191ce63f593a?s=96&amp;d=mm&amp;r=g",
+              "caption": "JT",
+              "inLanguage": "en-US"
+            },
+            "worksFor": {
+              "@id": "https://www.evercore.com/#organization"
+            }
+          },
+          {
+            "headline": "Evercore",
+            "description": "Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results.",
+            "datePublished": "2023-06-14T15:53:56+00:00",
+            "dateModified": "2026-10-29T19:47:34+00:00",
+            "keywords": "investment bank,investment,investment firm,investment banking firm,independent investment",
+            "image": {
+              "@id": "https://www.evercore.com/wp-content/uploads/2023/10/Matt-Wang-Khudee-Lawrence-Randi-Brown-Marta-Guzman.jpg"
+            },
+            "author": {
+              "@id": "https://www.evercore.com/author/jt/",
+              "name": "JT"
+            },
+            "@type": "Article",
+            "name": "Evercore",
+            "@id": "https://www.evercore.com/#schema-197212",
+            "isPartOf": {
+              "@id": "https://www.evercore.com/#webpage"
+            },
+            "publisher": {
+              "@id": "https://www.evercore.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://www.evercore.com/#webpage"
+            }
+          },
+          {
+            "@type": "VideoObject",
+            "name": "Evercore",
+            "description": "Evercore is a premier global independent investment banking firm dedicated to helping clients achieve superior results.",
+            "uploadDate": "2023-06-14T15:53:56+00:00",
+            "contentUrl": "https://www.evercore.com/wp-content/uploads/2025/03/Website-scrolling-video_v04.mp4",
+            "width": "1280",
+            "height": "720",
+            "isFamilyFriendly": "True",
+            "@id": "https://www.evercore.com/#schema-197213",
+            "isPartOf": {
+              "@id": "https://www.evercore.com/#webpage"
+            },
+            "publisher": {
+              "@id": "https://www.evercore.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://www.evercore.com/#webpage"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 0,
+    "main": 1,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Client-Focused, Values-Driven. Who We Are We are a leading global independent investment bank. Our success begins and ends with a relentless commitment to delivering world-class strategic and financial advice. Learn More ~2,600Current Employees 1995Year Founded 16Countries with Evercore Offices $5T+Announced Transactions Evercore Edge | 10.29.26The Fed, Markets and What Comes Next Listen NowIndependent ThinkingPerspectives on today’s top wealth management issues. Read NowMarket TrendsCurrent views from Evercore thought leaders. Read NowEvercore Research 2026 OutlooksKey ideas, themes, sectors and stocks for 2026. View Now Thought Leadership Explore our latest insights, research and analysis from across our businesses. Core Values Clients First Integrity Excellence Respect Diversity and Inclusion Partnership and Collaboration Investment in People Watch Video Our Founding Roger Altman discusses the founding of Evercore and the evolution of the firm. Latest News Evercore ISI Ranked No. 1 on Weighted Basis in 2026 Extel All-America Research Analyst SurveyOctober 20, 2026John Vaske Joins Evercore as Senior Managing Director in the Chemicals Investment Banking GroupOctober 19, 2026 View all Featured Transactions(Values in Millions) Advising on its >$50 billion merger with EQT Lead Financial Advisor>$50,000 Advising on its ~$23.7 billion sale to Schneider Electric Advising~$23,700 Advising on its acquisition of Consolidated Precision Products Lead Financial Advisor$11,750 Advising on its sale to Apollo Lead Financial Advisor~£5,700 Advising on its joint acquisition of SFR, together with Bouygues Telecom and the Free-iliad Group Advising€20,350 Advising on its sale to Hapag-Llyod Exclusive Financial Advisor~$6,900 Advised on its merger with Coterra Energy Advised$58,000 Advising on its sale to Vistra Exclusive Advisor$4,700 Advised on its sale of Warner Bros. to Paramount Skydance Advised~$110,000 Advising on its merger with AkzoNobel Joint-Lead Financial Advisor~$25,000 Advised on its sale to CD&R Exclusive Financial Advisor$10,300 Advised on its sale to Merck Financial Advisor~$9,200 Advised on its merger with Civitas Financial Advisor$12,800 Advised on its acquisition of Cadence Bank Financial Advisor$7,400 Advised on its sale to Thoma Bravo Exclusive Financial Advisor$12,300 Advising on its separation into two publicly traded companies Financial AdvisorN/A Advised on its merger with Charter Communications Financial Advisor~$34,500 Advised on its sale of a portfolio of natural gas generation facilities and a virtual power plant platform to NRG Energy Lead Financial Advisor$12,000 Advised in connection with its intent to separate into a standalone public company AdvisedN/A Advised on the separation of its Biosciences & Diagnostics Solutions business Financial AdvisorN/A Advised on its sale to Constellation Energy Lead Financial Advisor$29,100 View all Join Our Team Evercore is one of the world’s fastest-growing independent investment banking firms. We strive to create a culture centered around employee growth and career development, mentorship and sponsorship. Learn More",
+  "text_length": 3121,
+  "iframes": [],
+  "script_sources": [
+    "https://www.evercore.com/wp-content/plugins/cookie-law-info/lite/frontend/js/gcm.min.js",
+    "https://cdn-cookieyes.com/client_data/68249588edffd4292535339a/script.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-ZQQBDC34BZ",
+    "https://www.evercore.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=11.3.0",
+    "https://www.evercore.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://www.evercore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://www.evercore.com/wp-content/themes/evercore-investment/dist/scripts/app.js?id=0c3848b4d2d5d568ad7d2618d55bb00a"
+  ],
+  "stylesheets": [
+    "https://www.evercore.com/wp-content/themes/evercore-investment/dist/styles/app.css?id=da52f2bee876b45cdad0e75fbbc47bcf"
+  ],
+  "hreflang": []
+}

@@ -1,0 +1,19 @@
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: facebookexternalhit
+Disallow: /
+
+User-Agent: Baiduspider
+Disallow: /
+
+User-Agent: Yandex
+Disallow: /
+
+Sitemap: https://www.matthews.com/sitemap.xml

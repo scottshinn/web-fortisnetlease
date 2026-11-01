@@ -1,0 +1,18 @@
+{
+  "status": 403,
+  "url": "https://www.marcusmillichap.com/",
+  "headers": {
+    "cache-control": "no-store",
+    "content-length": "1484",
+    "content-type": "text/html"
+  },
+  "redirects": [
+    {
+      "url": "https://www.marcusmillichap.com/",
+      "status": 403
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "48468a1bd599e84719f0337dd9aec7dfda7a194d553d70b3b993e2a9f5cadb56",
+  "body_bytes": 1484
+}

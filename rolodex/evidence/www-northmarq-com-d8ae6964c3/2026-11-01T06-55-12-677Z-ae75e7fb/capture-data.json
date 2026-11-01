@@ -1,0 +1,1518 @@
+{
+  "schema_version": 1,
+  "capture_id": "2026-11-01T06-55-12-677Z-ae75e7fb",
+  "site_id": "www-northmarq-com-d8ae6964c3",
+  "requested_url": "https://www.northmarq.com/",
+  "final_url": "https://www.northmarq.com/",
+  "captured_at": "2026-11-01T06:55:40.710Z",
+  "environment": {
+    "browser": "156.0.8078.74",
+    "playwright": "1.62.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "locale": "en-US",
+    "timezone": "UTC",
+    "reduced_motion": "reduce",
+    "anonymous": true,
+    "device_emulation": "Viewport resizing only; no mobile user agent or touch emulation.",
+    "measurement": "Unthrottled local lab run."
+  },
+  "http": {
+    "status": 403,
+    "url": "https://www.northmarq.com/",
+    "headers": {
+      "content-encoding": "br",
+      "content-type": "text/html; charset=UTF-8",
+      "server": "cloudflare"
+    },
+    "redirects": [
+      {
+        "url": "https://www.northmarq.com/",
+        "status": 307
+      },
+      {
+        "url": "https://www.northmarq.com/",
+        "status": 403
+      }
+    ],
+    "charset": "UTF-8",
+    "body_sha256": "f719efb8aef60802f8f69591d4ae84bcbb32059a1541a30f5b528cf2536282d0",
+    "body_bytes": 6229
+  },
+  "raw": {
+    "url": "https://www.northmarq.com/",
+    "base_url": "https://www.northmarq.com/",
+    "title": "Just a moment...",
+    "title_count": 1,
+    "lang": "en-US",
+    "meta": {
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "viewport": [
+        "width=device-width,initial-scale=1"
+      ]
+    },
+    "canonicals": [],
+    "headings": [],
+    "links": [],
+    "images": [],
+    "inputs": [],
+    "jsonld": [],
+    "microdata": [],
+    "rdfa": [],
+    "landmarks": {
+      "header": 0,
+      "nav": 0,
+      "main": 0,
+      "article": 0,
+      "section": 0,
+      "aside": 0,
+      "footer": 0
+    },
+    "text": "",
+    "text_length": 0,
+    "iframes": [],
+    "script_sources": [],
+    "stylesheets": [],
+    "hreflang": []
+  },
+  "views": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raw": {
+        "url": "https://www.northmarq.com/",
+        "base_url": "https://www.northmarq.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.northmarq.com/",
+        "headers": {
+          "content-encoding": "br",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.northmarq.com/",
+            "status": 307
+          },
+          {
+            "url": "https://www.northmarq.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "f719efb8aef60802f8f69591d4ae84bcbb32059a1541a30f5b528cf2536282d0",
+        "body_bytes": 6229
+      },
+      "dom": {
+        "url": "https://www.northmarq.com/",
+        "base_url": "https://www.northmarq.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.northmarq.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.northmarq.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.northmarq.com/favicon.ico",
+            "alt": "Icon for www.northmarq.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.northmarq.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.northmarq.com to respondRay ID: a538fe2ade09285bPerformance and Security by CloudflarePrivacy",
+        "text_length": 323,
+        "iframes": [],
+        "script_sources": [
+          "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe2ade09285b",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scroll_width": 1440,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.northmarq.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are n",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 1000
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.northmarq.com",
+              "rect": {
+                "x": 272,
+                "y": 128,
+                "width": 382.03125,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 272,
+                "y": 186,
+                "width": 896,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 272,
+                "y": 224,
+                "width": 896,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 742.578125,
+                "y": 966,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 815.03125,
+                "y": 966,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 94.15000000596046,
+            "dom_content_loaded_ms": 1580.574999988079,
+            "load_ms": 6044.555000007153
+          },
+          "resources": [
+            {
+              "url": "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe2ade09285b",
+              "type": "script",
+              "duration_ms": 1724.9350000023842,
+              "transfer_bytes": 179914,
+              "decoded_bytes": 568380
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 963.580000013113,
+              "transfer_bytes": 28338,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.northmarq.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 1198.594999998808,
+              "transfer_bytes": 6561,
+              "decoded_bytes": 6261
+            }
+          ],
+          "observations": {
+            "lcp_ms": 5128.4000000059605,
+            "layout_shifts": [
+              {
+                "time": 6046.639999985695,
+                "value": 0.0006269212962962963
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 3316.169999986887,
+                "duration_ms": 100
+              },
+              {
+                "time": 3417.5550000071526,
+                "duration_ms": 1427
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "desktop.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "tablet",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "raw": {
+        "url": "https://www.northmarq.com/",
+        "base_url": "https://www.northmarq.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.northmarq.com/",
+        "headers": {
+          "content-encoding": "br",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.northmarq.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "2407d8a8ffe8a15efe28e9efaf7c3596d45b3a3be5704eec77c58f81e8cf29ed",
+        "body_bytes": 6229
+      },
+      "dom": {
+        "url": "https://www.northmarq.com/",
+        "base_url": "https://www.northmarq.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.northmarq.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.northmarq.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.northmarq.com/favicon.ico",
+            "alt": "Icon for www.northmarq.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.northmarq.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.northmarq.com to respondRay ID: a538fe4edbdf6091Performance and Security by CloudflarePrivacy",
+        "text_length": 323,
+        "iframes": [],
+        "script_sources": [
+          "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe4edbdf6091",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "scroll_width": 768,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.northmarq.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are n",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 1024
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.northmarq.com",
+              "rect": {
+                "x": 24,
+                "y": 128,
+                "width": 382.03125,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 24,
+                "y": 186,
+                "width": 720,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 24,
+                "y": 224,
+                "width": 720,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 406.578125,
+                "y": 990,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 479.03125,
+                "y": 990,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 169.78499999642372,
+            "dom_content_loaded_ms": 272.21000000834465,
+            "load_ms": 1280.380000025034
+          },
+          "resources": [
+            {
+              "url": "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe4edbdf6091",
+              "type": "script",
+              "duration_ms": 729.1000000238419,
+              "transfer_bytes": 184308,
+              "decoded_bytes": 575066
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 1.675000011920929,
+              "transfer_bytes": 0,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.northmarq.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 95.58500000834465,
+              "transfer_bytes": 6561,
+              "decoded_bytes": 6261
+            },
+            {
+              "url": "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a538fe4edbdf6091/7HEpUrZNLBoB6qU3.PVG8uv_O4bxT3.zSF1tdxIVw_A-1793516121-1.2.1.1-FejHxVUxEobWZ.v8v9V4oW1kWjb3rpg.ucpgtbZaXsQGZT2DAUqe2OoWNbwHcYDy",
+              "type": "xmlhttprequest",
+              "duration_ms": 549.1799999773502,
+              "transfer_bytes": 82225,
+              "decoded_bytes": 109052
+            },
+            {
+              "url": "https://www.northmarq.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 719.1650000214577,
+              "transfer_bytes": 3945,
+              "decoded_bytes": 6261
+            },
+            {
+              "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/vq6sb/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+              "type": "iframe",
+              "duration_ms": 1157.7299999892712,
+              "transfer_bytes": 0,
+              "decoded_bytes": 0
+            }
+          ],
+          "observations": {
+            "lcp_ms": 1283.905000001192,
+            "layout_shifts": [
+              {
+                "time": 1284.6700000166893,
+                "value": 0.0016142725944519043
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 1009.2100000083447,
+                "duration_ms": 84
+              },
+              {
+                "time": 1094.9600000083447,
+                "duration_ms": 89
+              },
+              {
+                "time": 1804.1950000226498,
+                "duration_ms": 58
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "tablet.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raw": {
+        "url": "https://www.northmarq.com/",
+        "base_url": "https://www.northmarq.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.northmarq.com/",
+        "headers": {
+          "content-encoding": "br",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.northmarq.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "cbcd5582a57838766433f21f8eda3609071699d28153fdc12cdb3b462c7d38fb",
+        "body_bytes": 6229
+      },
+      "dom": {
+        "url": "https://www.northmarq.com/",
+        "base_url": "https://www.northmarq.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.northmarq.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.northmarq.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.northmarq.com/favicon.ico",
+            "alt": "Icon for www.northmarq.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.northmarq.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.northmarq.com to respondRay ID: a538fe73df14cebcPerformance and Security by CloudflarePrivacy",
+        "text_length": 323,
+        "iframes": [],
+        "script_sources": [
+          "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe73df14cebc",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scroll_width": 390,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.northmarq.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are n",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 844
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.northmarq.com",
+              "rect": {
+                "x": 16,
+                "y": 128,
+                "width": 358,
+                "height": 100
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 16,
+                "y": 236,
+                "width": 358,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 16,
+                "y": 274,
+                "width": 358,
+                "height": 72
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 217.578125,
+                "y": 810,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 290.03125,
+                "y": 810,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 104.53499999642372,
+            "dom_content_loaded_ms": 359.580000013113,
+            "load_ms": 3430.3400000035763
+          },
+          "resources": [
+            {
+              "url": "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe73df14cebc",
+              "type": "script",
+              "duration_ms": 979.0199999809265,
+              "transfer_bytes": 179431,
+              "decoded_bytes": 556949
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 1.574999988079071,
+              "transfer_bytes": 0,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.northmarq.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 910.380000025034,
+              "transfer_bytes": 4318,
+              "decoded_bytes": 4018
+            },
+            {
+              "url": "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a538fe73df14cebc/sFNkzG8uaHHL49D0dYM_0HjMeifsUqO.7E5XPiz5UjQ-1793516127-1.2.1.1-mZLJFynNOC62.6CK6kurH45CYpzKTXEAhx.2up_8pvIwGmKtjeTRLTmQLzAwBiqv",
+              "type": "xmlhttprequest",
+              "duration_ms": 755.1599999964237,
+              "transfer_bytes": 82130,
+              "decoded_bytes": 109056
+            },
+            {
+              "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/u7c8z/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+              "type": "iframe",
+              "duration_ms": 1100.3550000190735,
+              "transfer_bytes": 0,
+              "decoded_bytes": 0
+            },
+            {
+              "url": "https://www.northmarq.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 622.0949999988079,
+              "transfer_bytes": 3931,
+              "decoded_bytes": 6240
+            }
+          ],
+          "observations": {
+            "lcp_ms": 1567.0550000071526,
+            "layout_shifts": [
+              {
+                "time": 2403.824999988079,
+                "value": 0.0066116383459778995
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 1349.8700000047684,
+                "duration_ms": 76
+              },
+              {
+                "time": 1427.3149999976158,
+                "duration_ms": 64
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "mobile.png",
+      "full_page": true,
+      "section_screenshots": []
+    }
+  ],
+  "controls": [
+    {
+      "kind": "robots",
+      "url": "https://www.northmarq.com/robots.txt",
+      "final_url": "https://www.northmarq.com/robots.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "br"
+      },
+      "path": "robots.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-xvekDKZTArOaxOEyl7VZzV&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"xvekDKZTArOaxOEyl7VZzV\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '82aL.OMUxUKNk_rQf69AOnBED4oh9wR05nNZOl0s2D8-1793516134-1.2.1.1-9X.YXwWSuOaUQCL8uDMAjtsSkdSAZ.l8GJ.c8s7zCQgJJOEwpb8SAztp1hEdA2Bu',cITimeS: '1793516134',cN: 'xvekDKZTArOaxOEyl7VZzV',cRay: 'a538fe9ddc0c7eaa',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=NETfWEUg4dkdHIt0K0YmRCESmzhPkj3YpzuVd1d.New-1793516134-1.0.1.1-lZHjYK7wFu6tAwCDCk7HZiSuEabBqh7dVEvdPNA9tO0\",cvId: '3',cZone: 'www.northmarq.com',fa:\"/robots.txt?__cf_chl_f_tk=NETfWEUg4dkdHIt0K0YmRCESmzhPkj3YpzuVd1d.New-1793516134-1.0.1.1-lZHjYK7wFu6tAwCDCk7HZiSuEabBqh7dVEvdPNA9tO0\",md: 'RpedCDLiGVoXZ9fe2Z4kDguHGmBDMBGKdBImSuDa.Uc-1793516134-1.2.1.1-9cz4fJh5Mr..TXtTfqmb2QSCR80YwjgyQu3aIPzS.J3g.Qo8nhw4kovYpqxDcUy.ZZXSm2.KlMNqWSQKYf4qr0AAUI0PGCqaz8GUlC3WyuvxaIkLHuw_q6keP1xiFgNPpRDVNc51J1gp3Lvrca6mRE4kBbodnADEWCC.rsQvdMK272kFpOH8qNGo.3X4ek4eBGI.JHmyC_DObpYIuz_e_ZtR2m9axHE9Ud2No4SxADeKW7W680.5an0n843Mh6PTNWt1Ut40THNq2Ra1FpElmJDKExtbb6Kp8kQDZB7As7tcQrjk7pDtxSFQlnYLJEea4wSBs8B9U7e1yvTfju340af1_FR3rFe_eh3k4Wj802bSuREa4Zq0eWvTnm8.tGpZePgAigw9aphBTRG62vT5VC2jPcmgQbZUZLoHgtkM8kjgzwB0hRdNmhmlw7d_28wpCSjc88MkLWrqRPOQEhCLGxvkl8tbh0XiRN4sbX_01sZp08CKqz8zyANylg2hEc7Dm5TfYc.SL1P7_WmyljiS3oqKvi6Q637C189ZdpbFtdkvDHDFJneChBmUtZhgmFT5sG0iqSoOUD8oe1IW8rCxeIUF1yx2Q0SNrfANLaurUSV7wzUTmfSKIzavnCi5tD.iJrlmKYMlT33B3EY.ouguGmXYqJuop7JE7rHl16ZDvE5RQ457qGsDeZAq7v8PbmFFVKVOeMmzj0YJtdHZ.KsgHVTmz91xC_kpHCZyf1f197i7ndT8VU2WVY2Eyo2uM9GhIjzd4BZsjaTUpvZ2avdASwf6d_ie0zomMluAL_oqmIDD..tPwlboljXjPXAXRIRSKB68wbadlb.Y9gxbNPZad2vcH8JrPlxJ.7fHf5pmEyB3y.dtL7_ASHtELRX2wEdktzxASIOFT7ay.oiimhLZ052mF.8.vxH.2fkO28dita4wj6KmXQyQGc7cg7M_A20c2PLfTOf22.YdjyDHHQB2FMM87YJvfTbttBmbdlrFs6cN7k2UwuDaA3wY6rkQdjrt8MvwlmO7EeNsQDTZIGzPHL1XhP5K01W9FcpdFZCFVpYFHEAuQWYiPRT3L1gVaPw_0d5MR7uy2InlSJnWFhAueacgb3CWgyzXdRvfTdUXC0d4Skl7pwKmqnWMNkmTZsUmXnlEw7893Yz9xw9QpoHd34Y509vU6gXpwxe4HJFGenYg1CU4PvhlN7B4L8v_c1fqRuBn960eMpyxwKzLZYlCgZhFKnrajElxrkgCxWJVx0ggxev8Co.T.O5yryX_wSHU',mdrd: 'RM8QqeGjGYgYMvYsB2Gqfl87IfqGq5Fvz_m94sNdzXg-1793516134-1.2.1.1-BWqv03CGh6PDCONn1TJwOSVt8A1lTvRAg9aGiBX4VZAA8Wgr3XsCD5.VJ7m4ZBJw7vbk3RzBfnAK9wZQf7MdpwkhzO1P_HQqTUqlmleIh.4LfBbXbW87azlVeOyINeyBkpT7pSks82BnDE0gQwTTopOvujhjyR2pfmLg275k_5kOgCd0qtYIM.8QjSzQGQt_FqyR0UDrfH4ZFVadnb8mntNpS6EEswQHrZmkcnb.24CD8POZXI5w6ZO3jHIhn2sOiDaKMDMjgNuqntErNyOUaRMgbHkkLMg9LdTzWp4Ri5GwYFpfMj8hhUT.t1cBooV5qIJ60MJ_dfMKBZK4Mf97oamzxGVr6374O6ZX1EuwlkCpcFYk9v4lG7w6Bi92Zz7X',};var a = document.createElement('script');a.nonce = 'xvekDKZTArOaxOEyl7VZzV';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe9ddc0c7eaa';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=NETfWEUg4dkdHIt0K0YmRCESmzhPkj3YpzuVd1d.New-1793516134-1.0.1.1-lZHjYK7wFu6tAwCDCk7HZiSuEabBqh7dVEvdPNA9tO0\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://www.northmarq.com/sitemap.xml",
+      "final_url": "https://www.northmarq.com/sitemap.xml",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "br"
+      },
+      "path": "sitemap-1.xml",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-UsjYT1u9YwhWYC4n2fJA8H&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"UsjYT1u9YwhWYC4n2fJA8H\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'CCZw9r70O2xIrfByKP2QvRBcjU5kGkO3qQ8fA2SqHpQ-1793516134-1.2.1.1-uiHQaL1FDmLzxPcAGO3wTP_o5PQmjkWROYoksbDWoGH._Wtw02Y9ra3k30lpEHXS',cITimeS: '1793516134',cN: 'UsjYT1u9YwhWYC4n2fJA8H',cRay: 'a538fea21da56e76',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/sitemap.xml?__cf_chl_tk=xKxofqAYtYDTNnqnJC2V0esya2gnYShT.crjkqDm0ag-1793516134-1.0.1.1-f8RHRmWejallNMlJ.LIKcndgkv4iXIdSvtBsUNP3cOU\",cvId: '3',cZone: 'www.northmarq.com',fa:\"/sitemap.xml?__cf_chl_f_tk=xKxofqAYtYDTNnqnJC2V0esya2gnYShT.crjkqDm0ag-1793516134-1.0.1.1-f8RHRmWejallNMlJ.LIKcndgkv4iXIdSvtBsUNP3cOU\",md: 'jv_cKyQCZCjF2k5gyFnHlvfOXJ6IZ0YNt3mdp2Gil0g-1793516134-1.2.1.1-DzbYOUNY5Y0xPS3VI4YFMrlZsfVwweMeAgZdxgfC.tCE_NZ2JCOdd6uO7G5wBUEeLJUsODMjp2tF3Tw6bQWJZSY_BgzNQDm9boxUrmbAJKguZppBP3aVHcKuM3zgYejtIdT9KTzsD_HvVWcGJuX0u2sBzzeuorj4qawS1hn6PkTAwDKl3doIBdYCKTxyxXXhTFuh4HAKs.IAnB8ZYMusqgHgznNJIcxzIZauB5pZI6TbBJTWJTqR3oMHk.h7eQzMx3ubO_UqSsii6kErtMRB3evtZFIc9CNqrii6qexT97lSlAKXvNVtclZfAjVjzna_ogUvmiAaSqcAM2EKO9EZ9LnVDbCeoPEvIwRFiUvwB7ek4Bilc3RUUxxZ24d9JvjZwXncgRQRrSOJTXCBPz7esXKWAn9Hyjue1HNT.HaGFxIhvqVi__wprWOLv5JgLPg1BVlzxlzcRgppyiV.aRqDc9zlUwgqboW9Ho_haCWEydDjJNYnUdS3lyBowg_oOh8Eev1hr8.mE8LiiBEs00Q3e1KOc5ut7DmZQTZc_N9Rl_lPoXjUz.MLUXI_p22EaDka5pViFUOy2a3aFsi8FkO1RmVtg2vFnxCHLav8fqIBVlzvLCFWDIsginqfLZ73w55FX9UV3svitk_ndXm9o3ACi5QGlOFMnwu1eroU5OjSoPn.SOqtectzS53etNmV87bNjLk9p1Z6KGRmvXfBFNVZMdu1DynmTvGyWxe8drK581xKCZH0.LkqOCvRp.9sTQ27jbueXHCjPZWHxavBGSpeCbe.HoGqlTyVUP1PqlpPG.5EuLn.QAgApx6ZYLQQIGALXGPEMLgARcmuvn77u_3MOgPAsh5C0cg4CfsHwLybmpFiDK840TNaEf6CxH1felSwUM2WU8a5a5BrCRFS_44E5xrDn6fDL1UjrIy1koD8PUd2yIt6WekiTd6i.HAeez1ik29HQbD9UX_ekg3Mc0mvUHgc9Wn3EieBTV4ZAPP1539VJHmNPEIb3JpZMtlQQRflAiCsKDnsjcN9NrCOxqQh_6UrGMTkkSkbQxW.Kv.5zPD11tmJU5XnKoN39pVmp.dfYdGWPkw0kNL0pUrcNLO5WIePT0r8sQfXHth_s5ShFPKjg.jWyQzNu9QtiPDje7m9VQ7w16lEaO2bFap8OusfUJgVPJaMrUWwamRRsnzg9kI7UZjGDnCM2Ddz0Sz8iNchEajL_FZtAzoHd4gL0PDGlsI5KEBjy.h1JXh0z70tvIUIZg0ypbYvP7VWUR.SV8ZW',mdrd: 'Rjdo9gbz0ZOAaT3RJ8jOX6e3XMAzH0gi5bNXIAoV.i8-1793516134-1.2.1.1-P4sIihWPAIBGEFWex3MFivE2gmMhgBw20qJbPGB53aI5ktZfVZFBikop_vzHhKpQxqSk6tG.z_rvppcUBjqAA3xFfseiP.cWJmcw9_p3UD15bAKIoHbYER0jEPo_XoKSJhCPGn_Qq1qTabbnBPcVTInfCrysXv6_y9OewdtgwuZa5m32926Vns5fX16ZtOQdO0XhS0nQg9E8aMb6gDSiTNM8wuWFHlIR0d4E1BxvBUBw5PfeApBRHXZU5sX2skcVBKkrE8PD.5_lB8BBafCyTt4lW6Hva30D5ZvYUY1YOveg_F33wEQ8C6Zbt_RYo8ZM.kF6IRBG_EYVq0viHYrEMGa3.0HZAZLDzNYDg2be4701ZdeAnqGFrpvBxdXadgV9',};var a = document.createElement('script');a.nonce = 'UsjYT1u9YwhWYC4n2fJA8H';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fea21da56e76';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/sitemap.xml?__cf_chl_rt_tk=xKxofqAYtYDTNnqnJC2V0esya2gnYShT.crjkqDm0ag-1793516134-1.0.1.1-f8RHRmWejallNMlJ.LIKcndgkv4iXIdSvtBsUNP3cOU\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "llms",
+      "url": "https://www.northmarq.com/llms.txt",
+      "final_url": "https://www.northmarq.com/llms.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "br"
+      },
+      "path": "llms.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-rY6NOJfdd1HMOjXz33Rfx9&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"rY6NOJfdd1HMOjXz33Rfx9\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'yA.qlwiq9B0a5qxOQZemHQhvagCXSqRhHJsBlVbZbgc-1793516135-1.2.1.1-uTihp43AqqjdZN04PZbalPHxxGCzbv0QTCVIDOnX5MqWwfrpQjDF7yv2GNg.EHDb',cITimeS: '1793516135',cN: 'rY6NOJfdd1HMOjXz33Rfx9',cRay: 'a538fea90fe6c122',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/llms.txt?__cf_chl_tk=3BfSuUwNWRVY4Qb1vn1wgmOhy1ldsbr68qv.mCSqdPg-1793516135-1.0.1.1-VNjFzc8CAzlzPLmNANd1Oaf7SwnMHLLHkHky0XxqBq8\",cvId: '3',cZone: 'www.northmarq.com',fa:\"/llms.txt?__cf_chl_f_tk=3BfSuUwNWRVY4Qb1vn1wgmOhy1ldsbr68qv.mCSqdPg-1793516135-1.0.1.1-VNjFzc8CAzlzPLmNANd1Oaf7SwnMHLLHkHky0XxqBq8\",md: 'Qyd0zLg22o8j6S.TAFHO7ffOhp0q1RqjxzhUHegAlTU-1793516135-1.2.1.1-DZiIimrIZh4fbE82gFb0ipz6RTC1GryGIIiQqXfFAvUzgE6V2NVlf0IYPYrJ_7GzNXIDB8sllKzfp8pnLyMHGSf3LsmANbTkuTcmx7vfmqOUR4KerEdv3RUmRN3K99892R_thnFgPdq2GlAdXBUTHSO6LqkhdInNgic_Wojuou45S7y94lQUL0YgBA3EQkfx87efsxeCw4EWm71AamA0S8PiS_Er5.jEXjvuyXsH__3sCuVOFPCRSsmG94ZeP.jBwuh45rBVAY5pDSQ.OzGFyeyFZ8HOG1j4C_RoqC8E_9B1lRSCMeiR7N3foaKDQv9SF7AZ2EZmkuFi_idl9qxHx3k9qf8rLddApMLSZVQ7rAPJbLP.IQXQ7arrBGI0gM5ccVfiSiPQoDcCxYaPFxpTTyiNpALV6hBAmr8fUKuVf47ClaPqk0eYlQi.ToT3dA0Gj8Hpgn4RtuNkenCO97dvZu8gPNXL8zgjZjJQPcR_BDAv1FjDZVl0UlLtOQQTIDX4J3WhQDp_fOJEXL10oc7ws5Py5RU8p3athFSWWGy_WLpprZ2rniCXGlCc2eR7SftQDbN.MqJh4JyuAxIEHEuSqDIfGt7w5tm5eHmXuadqboM9GpckXyjVARGNcilXK5aRUOTWYMeiKfloYIdMf9XbaasCMrVcEZgkLl47j8yzZNiGxupGStjPFvhgn1tqL47BfdoBCpMqB82kUf65P.l9pfySn42D9vluWiyiAIAhcwpen.LkfNObJWaKSNcsH_CM6ETqC0M7jbdx4pYv3n7ZRlZb6vdQMQD4OrLp43ggAjBuLnIAbpHg4xGhrgjGqyO__lNn5T7dSB_CioYDjwxibYuHXkxPMJG5WtXJ6xlqetPot6Y5smyAegYlX_5sTfdk3O3.jdTSk9gvadHdVYyQJWadlRHBuRni1ScnN.7EbEtq2BNl7eAkGsdrUFsdGJXPo9YkK1rA3czl.NFpCFnn9FWTw.BoUi_yJvQ0nyl2GFCcb9YiTqUUJRzb5.NRDoWlTHH2Zu1YWTyEIhz.D5yOlPsdsC8JEX90iAvIhTd4qgeQiQeAuyRtJ3s8PMswIihd8GxtC47m9sEzuq.pK48BXpIfxKffEV2jT44SFDfy37QL4e0XPmb0E_7mgMixClrtgREzwnP4cGzoTnAdOgtY_GZyUWKT4ZaWfLslHaf076xTGjb6jy8SZGYK8gQ5Foi4.c_6fzaADG2jKLwJJgnzP4RPNhhxyD4d9StHca8xhCxZqqAF94Viir9DA8NyBekL',mdrd: 'GJv3l_o5JXz4iLJsrwO4hOKRn_3Xubx9_.Anzx9x6vs-1793516135-1.2.1.1-H7BqNkUSt4Z3_YEnH.IoYyWt9Le8my4pPR3ON6kNuEBLspP015VVUPMCsdOITthNuFreKvt5VRujAp_lrpfDiSHhEaWuOmyPaZXxcZ.yqBRJxHEIHai3sU.u1cxLibpZcAwdR40LLeoWEri1cPSD_uHDQ4x0xoYG2ojA229cVzGix8ApaWeeleJvE1jPAEv_SPE1ZRkNLTor0luyEPxdjBdPfqgJ02CS1.8FI9pAjdE1AaR._RboCYAzjYTuhrTGBvwv.sfjwcFvoRG5rmoUtMfl8CoH5cR9czTIzVZsDaYHbO.IbkFGi_aZNLS5Olaz_wR0XIGCf62em.P_QrGnUlCVEOuML8gdWSCv8uA_QkLj3gSmEwFdP7IxNdQuQAMD',};var a = document.createElement('script');a.nonce = 'rY6NOJfdd1HMOjXz33Rfx9';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fea90fe6c122';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/llms.txt?__cf_chl_rt_tk=3BfSuUwNWRVY4Qb1vn1wgmOhy1ldsbr68qv.mCSqdPg-1793516135-1.0.1.1-VNjFzc8CAzlzPLmNANd1Oaf7SwnMHLLHkHky0XxqBq8\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true,
+      "markdown_links": []
+    }
+  ],
+  "link_checks": [],
+  "errors": [],
+  "coverage": {
+    "sitemap_files": 1,
+    "sitemap_skipped": [],
+    "internal_links_discovered": 0,
+    "internal_links_checked": 0,
+    "page_limit": 1,
+    "closed_shadow_dom": "not inspected",
+    "iframes": "inventoried, not traversed",
+    "readiness": "bounded font/selector/scroll wait; dynamic content may remain incomplete"
+  },
+  "technology_hints": []
+}

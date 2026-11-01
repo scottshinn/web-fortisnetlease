@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://atlanticretail.com/",
+  "headers": {
+    "cache-control": "max-age=600, must-revalidate",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://atlanticretail.com/wp-json/>; rel=\"https://api.w.org/\", <https://atlanticretail.com/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://atlanticretail.com/>; rel=shortlink",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding, Accept-Encoding,Cookie",
+    "x-powered-by": "WP Engine"
+  },
+  "redirects": [
+    {
+      "url": "https://www.atlanticretail.com/",
+      "status": 301
+    },
+    {
+      "url": "https://atlanticretail.com/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "59822ef58021252f18a22d364c26bc642ba6475978dfbbece1a4702a6dbf3295",
+  "body_bytes": 179587
+}

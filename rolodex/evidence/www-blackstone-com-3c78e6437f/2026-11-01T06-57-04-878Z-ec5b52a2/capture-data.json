@@ -1,0 +1,1547 @@
+{
+  "schema_version": 1,
+  "capture_id": "2026-11-01T06-57-04-878Z-ec5b52a2",
+  "site_id": "www-blackstone-com-3c78e6437f",
+  "requested_url": "https://www.blackstone.com/",
+  "final_url": "https://www.blackstone.com/",
+  "captured_at": "2026-11-01T06:57:25.238Z",
+  "environment": {
+    "browser": "156.0.8078.74",
+    "playwright": "1.62.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "locale": "en-US",
+    "timezone": "UTC",
+    "reduced_motion": "reduce",
+    "anonymous": true,
+    "device_emulation": "Viewport resizing only; no mobile user agent or touch emulation.",
+    "measurement": "Unthrottled local lab run."
+  },
+  "http": {
+    "status": 403,
+    "url": "https://www.blackstone.com/",
+    "headers": {
+      "content-encoding": "gzip",
+      "content-type": "text/html; charset=UTF-8",
+      "server": "cloudflare"
+    },
+    "redirects": [
+      {
+        "url": "https://www.blackstone.com/",
+        "status": 307
+      },
+      {
+        "url": "https://www.blackstone.com/",
+        "status": 403
+      }
+    ],
+    "charset": "UTF-8",
+    "body_sha256": "0ffb21b2f9a589ba46f7fd32eadb4bd28a1aad81ff49cc365f2ee6fd20f4d13c",
+    "body_bytes": 6145
+  },
+  "raw": {
+    "url": "https://www.blackstone.com/",
+    "base_url": "https://www.blackstone.com/",
+    "title": "Just a moment...",
+    "title_count": 1,
+    "lang": "en-US",
+    "meta": {
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "viewport": [
+        "width=device-width,initial-scale=1"
+      ]
+    },
+    "canonicals": [],
+    "headings": [],
+    "links": [],
+    "images": [],
+    "inputs": [],
+    "jsonld": [],
+    "microdata": [],
+    "rdfa": [],
+    "landmarks": {
+      "header": 0,
+      "nav": 0,
+      "main": 0,
+      "article": 0,
+      "section": 0,
+      "aside": 0,
+      "footer": 0
+    },
+    "text": "",
+    "text_length": 0,
+    "iframes": [],
+    "script_sources": [],
+    "stylesheets": [],
+    "hreflang": []
+  },
+  "views": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raw": {
+        "url": "https://www.blackstone.com/",
+        "base_url": "https://www.blackstone.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.blackstone.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.blackstone.com/",
+            "status": 307
+          },
+          {
+            "url": "https://www.blackstone.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "0ffb21b2f9a589ba46f7fd32eadb4bd28a1aad81ff49cc365f2ee6fd20f4d13c",
+        "body_bytes": 6145
+      },
+      "dom": {
+        "url": "https://www.blackstone.com/",
+        "base_url": "https://www.blackstone.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.blackstone.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.blackstone.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.blackstone.com/favicon.ico",
+            "alt": "Icon for www.blackstone.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.blackstone.com to respondRay ID: a53900e03a4dd5f0Performance and Security by CloudflarePrivacy",
+        "text_length": 325,
+        "iframes": [],
+        "script_sources": [
+          "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53900e03a4dd5f0",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scroll_width": 1440,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are ",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 1000
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.blackstone.com",
+              "rect": {
+                "x": 272,
+                "y": 128,
+                "width": 381.546875,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 272,
+                "y": 186,
+                "width": 896,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 272,
+                "y": 224,
+                "width": 896,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 742.578125,
+                "y": 966,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 815.03125,
+                "y": 966,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 72.5300000011921,
+            "dom_content_loaded_ms": 581.455000013113,
+            "load_ms": 2887.6200000047684
+          },
+          "resources": [
+            {
+              "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53900e03a4dd5f0",
+              "type": "script",
+              "duration_ms": 230.34000000357628,
+              "transfer_bytes": 194955,
+              "decoded_bytes": 592349
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 970.0850000083447,
+              "transfer_bytes": 28282,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.blackstone.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 92.7199999988079,
+              "transfer_bytes": 6499,
+              "decoded_bytes": 6199
+            },
+            {
+              "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a53900e03a4dd5f0/XdFYZpFSTRdyAE150DzkQoMVnmIZoEXp4_G1YmzWCGY-1793516226-1.2.1.1-SRp1dOszLpWGKhG1r3jCXz8qJOJjL_7yi7a0s1wST0taipJRHhJkWfgXt6cVUKuD",
+              "type": "xmlhttprequest",
+              "duration_ms": 179.34999999403954,
+              "transfer_bytes": 83004,
+              "decoded_bytes": 109064
+            },
+            {
+              "url": "https://www.blackstone.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 147.09000000357628,
+              "transfer_bytes": 4036,
+              "decoded_bytes": 6199
+            },
+            {
+              "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/53zyd/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+              "type": "iframe",
+              "duration_ms": 2159.280000001192,
+              "transfer_bytes": 0,
+              "decoded_bytes": 0
+            }
+          ],
+          "observations": {
+            "lcp_ms": 3107.9650000035763,
+            "layout_shifts": [
+              {
+                "time": 3104.4650000035763,
+                "value": 0.0006269212962962963
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 816.3200000226498,
+                "duration_ms": 110
+              },
+              {
+                "time": 928.3000000119209,
+                "duration_ms": 1862
+              },
+              {
+                "time": 3042.719999998808,
+                "duration_ms": 58
+              },
+              {
+                "time": 5260.300000011921,
+                "duration_ms": 372
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "desktop.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "tablet",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "raw": {
+        "url": "https://www.blackstone.com/",
+        "base_url": "https://www.blackstone.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.blackstone.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.blackstone.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "79a0e5aa9b8dacd5d9065067ae63a6508a9ef12ab05351b89abbbd2c622b82dd",
+        "body_bytes": 6166
+      },
+      "dom": {
+        "url": "https://www.blackstone.com/",
+        "base_url": "https://www.blackstone.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.blackstone.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.blackstone.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.blackstone.com/favicon.ico",
+            "alt": "Icon for www.blackstone.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.blackstone.com to respondRay ID: a5390103eb1ad5f0Performance and Security by CloudflarePrivacy",
+        "text_length": 325,
+        "iframes": [],
+        "script_sources": [
+          "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a5390103eb1ad5f0",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "scroll_width": 768,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are ",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 1024
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.blackstone.com",
+              "rect": {
+                "x": 24,
+                "y": 128,
+                "width": 381.546875,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 24,
+                "y": 186,
+                "width": 720,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 24,
+                "y": 224,
+                "width": 720,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 406.578125,
+                "y": 990,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 479.03125,
+                "y": 990,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 42.20500001311302,
+            "dom_content_loaded_ms": 79.43000000715256,
+            "load_ms": 485.4650000035763
+          },
+          "resources": [
+            {
+              "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a5390103eb1ad5f0",
+              "type": "script",
+              "duration_ms": 177.47500002384186,
+              "transfer_bytes": 185506,
+              "decoded_bytes": 543540
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 1.5550000071525574,
+              "transfer_bytes": 0,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.blackstone.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 59.09000000357628,
+              "transfer_bytes": 6477,
+              "decoded_bytes": 6177
+            },
+            {
+              "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a5390103eb1ad5f0/lHoe55DjobMPMikYhDyfPfllQb.B8R4a4YtDfSNixYA-1793516232-1.2.1.1-hD7p6xfdqzBeKolv_hcsgEWsbiaLkBpeyGJsnN_4Eh1pA0QZM13uZY0iChkv4VVX",
+              "type": "xmlhttprequest",
+              "duration_ms": 69.5450000166893,
+              "transfer_bytes": 82987,
+              "decoded_bytes": 109056
+            },
+            {
+              "url": "https://www.blackstone.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 67.60500001907349,
+              "transfer_bytes": 4026,
+              "decoded_bytes": 6177
+            },
+            {
+              "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/49czh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+              "type": "iframe",
+              "duration_ms": 687.8249999880791,
+              "transfer_bytes": 0,
+              "decoded_bytes": 0
+            }
+          ],
+          "observations": {
+            "lcp_ms": 512.3299999833107,
+            "layout_shifts": [
+              {
+                "time": 500.8599999845028,
+                "value": 0.0016142725944519043
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 258.69499999284744,
+                "duration_ms": 83
+              },
+              {
+                "time": 342.88499999046326,
+                "duration_ms": 82
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "tablet.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raw": {
+        "url": "https://www.blackstone.com/",
+        "base_url": "https://www.blackstone.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.blackstone.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.blackstone.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "91376e02429044716116354bc321ac14d82088ab93ca955c5ead1ec39cadfb33",
+        "body_bytes": 6166
+      },
+      "dom": {
+        "url": "https://www.blackstone.com/",
+        "base_url": "https://www.blackstone.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.blackstone.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.blackstone.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.blackstone.com/favicon.ico",
+            "alt": "Icon for www.blackstone.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.blackstone.com to respondRay ID: a53901276d9ad5f0Performance and Security by CloudflarePrivacy",
+        "text_length": 325,
+        "iframes": [],
+        "script_sources": [
+          "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53901276d9ad5f0",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scroll_width": 390,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are ",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 844
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.blackstone.com",
+              "rect": {
+                "x": 16,
+                "y": 128,
+                "width": 358,
+                "height": 100
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 16,
+                "y": 236,
+                "width": 358,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 16,
+                "y": 274,
+                "width": 358,
+                "height": 72
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 217.578125,
+                "y": 810,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 290.03125,
+                "y": 810,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 48.62000000476837,
+            "dom_content_loaded_ms": 84.32000002264977,
+            "load_ms": 463.9500000178814
+          },
+          "resources": [
+            {
+              "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53901276d9ad5f0",
+              "type": "script",
+              "duration_ms": 131.09000000357628,
+              "transfer_bytes": 185672,
+              "decoded_bytes": 585504
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 1.7050000131130219,
+              "transfer_bytes": 0,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.blackstone.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 78.85500001907349,
+              "transfer_bytes": 6477,
+              "decoded_bytes": 6177
+            },
+            {
+              "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a53901276d9ad5f0/SaZoc3f8QhhP6WC.y6VItXLDdanZOKHVNBzdUFLc2.Q-1793516237-1.2.1.1-zfN52M.b5sn2JUQn1dEcrF5678fZeLP0I96ed2t_zyaqyr6L7vncAvWbLVbi6ORu",
+              "type": "xmlhttprequest",
+              "duration_ms": 115.81000000238419,
+              "transfer_bytes": 83008,
+              "decoded_bytes": 109064
+            },
+            {
+              "url": "https://www.blackstone.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 89.46000000834465,
+              "transfer_bytes": 4044,
+              "decoded_bytes": 6199
+            },
+            {
+              "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/whg4s/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+              "type": "iframe",
+              "duration_ms": 798.3499999940395,
+              "transfer_bytes": 0,
+              "decoded_bytes": 0
+            }
+          ],
+          "observations": {
+            "lcp_ms": 466.77000001072884,
+            "layout_shifts": [
+              {
+                "time": 465.455000013113,
+                "value": 0.006615786174300345
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 220.75500002503395,
+                "duration_ms": 79
+              },
+              {
+                "time": 301.38000002503395,
+                "duration_ms": 82
+              },
+              {
+                "time": 558.8100000023842,
+                "duration_ms": 64
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "mobile.png",
+      "full_page": true,
+      "section_screenshots": []
+    }
+  ],
+  "controls": [
+    {
+      "kind": "robots",
+      "url": "https://www.blackstone.com/robots.txt",
+      "final_url": "https://www.blackstone.com/robots.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "gzip"
+      },
+      "path": "robots.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-MJr02sZKfTU09oxUXBxpDo&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"MJr02sZKfTU09oxUXBxpDo\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'McFrR_6reVnwsxf591Jn8ScIHIHmKHZczDmUvccgUeg-1793516244-1.2.1.1-ARxvccOM19MrdhTw0hvuij4qEgufFt83lqNBA.m.CbEgiAeEDtBjb3Q2jsLBVRWl',cITimeS: '1793516244',cN: 'MJr02sZKfTU09oxUXBxpDo',cRay: 'a5390151acd33af8',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=sDFUVz5PJphGF4La5NrZ_gvtL1rOrwJ0r1xa2C9_VbQ-1793516244-1.0.1.1-quHoawLnQXwVzi_rNMiEzc1v002AAmV5vyOKYlPDr1w\",cvId: '3',cZone: 'www.blackstone.com',fa:\"/robots.txt?__cf_chl_f_tk=sDFUVz5PJphGF4La5NrZ_gvtL1rOrwJ0r1xa2C9_VbQ-1793516244-1.0.1.1-quHoawLnQXwVzi_rNMiEzc1v002AAmV5vyOKYlPDr1w\",md: 'pZYrYHoTiYTc9Y9ayPwzGesK4t_323qv5puQ4hvOz8c-1793516244-1.2.1.1-wCpndcbVrWmaZOKwbA0XVt2OCdEwriY9dhRx6Ywu50KLQxJJwVdELCV_ZbrG2yEatRreWhpvp7jTi5.cKUmmDqZdr.EJ3HqZTQNV3UJnYX5V7UfGfErg8Q0ktRSK8S58cInIEuWQUPfnnUiURym1iHLhogD717jT6CzwZq4fo.K_ucD.RxinH2r7Aw83xkubBR6sUrOhvU9MwuklZgqDicSWg6gLGguSUcES2bfSj7V4PZLck7DRWq4UX8HqC77MGxuLbMkM.HfhvEoO7EVHk3G2FRy9YPi0OzkQq4A_f.mIUPVXzwWvAJkQ7260TsMOf2W5xqYw2ncZNzVaj6GevVv7Q81.IiNBRbiaBxLIwc8SYXF5GUWtzqccuHArwkkyDFBKt7Xciga7gkYP.Xfz7siWQeiYh7_Q.XZ_2MTdOyBtKJ7u0mklH9QIZATwG3hb9xrq94U9XkHWYCCoQU9IrQSfe890rpvdJ9pZlIXtTP7v3dJAFb16HGsKlfN20YDU9hPWYc3nP6.YfdAZs8KRR5T6gz5uzU_aLOZG.aYbfAhNCYqJTkwlQFuDLKvXAd8hm__mXimMwRV8FljwFY4j5Sr4w5s.EAehsAYZwjAqAgqm1frqrw23y5Qs9xsQIjgLKLUpc_PUs6GbbI7sS3qZcYt.WffNWg6q35vE5OBvbMeb2y1iqUWut1vCPNqji_6JCV2VD5UtYyiGR0P9vRIWlW98B1Luh_IZQLWP8oFTJ3iMPaZIX.M0BFkKmHodOY3HF6dU_xIjfqbmF0G00nZGHwWuJ4PCGyr_aVoFqyXUdDFRxr3utr7ACBnHZu1vFbYjdqRImlNwxab8arS6xvsDWbkwbRISYan8QY0eqnXNFUc2hjLPgGq8aVC7C8uOL8an0i.6kCSTvW0nKEhfXwp5BralcYwf9TrvrRok9DF3EmCTkK4lRGP5q28U.xK1z0XnNUzJ_PJtv.q1y0ze3tg0mL5CdFgNlBRum_P8bSVKIDij_FLPQMLyC4mkE44zBOYEMMLvV87dHu2UxGgUBLB3BEo68Q5CM9hXBX4.mUJHaVSBCfnsUrJT9TFmNy_4luhxRTQFvlSSxVVPMrdODSbkMYhujAyvGITJCD45cMSY_I1QXHgOBpFRYjHt9W7m0qdDiAWX0Wi9BAPA2FMur_s4L8aLHPmXQx8l7UlLCVx8ycztNCoHAngxwxD1a3k8Q55_piQ2YZCwIEveTyOlf5CHi8xWSUqz7aooZhbF9HyG._U',mdrd: 'j8V8bPG2w55lDfc3lkrcKsrc6NQ5pMU3mCn3fFIvWDs-1793516244-1.2.1.1-og5eUL_0OkS9hzzE9EsfVyZbBuBaBMmNsr_q736teqZbZKOSH9egYpEgu7ImzKjESIqWPXm6cSMkKmmm7XtXLAA9PtQimqHaLFKRY4Pl22.jY8MusowLUx8txd1hhFaq0k.bdGGiy_xLxDeVMRac9PiHhsQw80V4L8J1Ie505FP67ybo6zsNTpmYYxQ2gGziyEQSIdmpsB5VZKOj3GlkGeDLJen0zEbZBVTK_911Gr6K2NbBSfiaDvEq929FNb44JTUFt07GOWGG8MHLtwfqD95MJKjssVYlXSEYfQyadsUimcmPKXkU6.Qi6VJOFvr.6Vnqu_u4o0C1fM4D8MzmqtsR3atS9I5URfuT2slO6WdhTYMLzTNL_VYoN1kNpgj6',};var a = document.createElement('script');a.nonce = 'MJr02sZKfTU09oxUXBxpDo';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a5390151acd33af8';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=sDFUVz5PJphGF4La5NrZ_gvtL1rOrwJ0r1xa2C9_VbQ-1793516244-1.0.1.1-quHoawLnQXwVzi_rNMiEzc1v002AAmV5vyOKYlPDr1w\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://www.blackstone.com/sitemap.xml",
+      "final_url": "https://www.blackstone.com/sitemap.xml",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "gzip"
+      },
+      "path": "sitemap-1.xml",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-HPZulaqQubO1LGIVNRZz3N&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"HPZulaqQubO1LGIVNRZz3N\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'wdc9c2Nz0saxENFsQ9_UtGgLuwz.yMrLXL7L6WZWoZ4-1793516245-1.2.1.1-wjpLA3n0rtQkuHAe6MnoMAp0PNgaSgjkcMSFFrmfEidxwccvG0CjKZ6zCBrhRo5k',cITimeS: '1793516245',cN: 'HPZulaqQubO1LGIVNRZz3N',cRay: 'a53901534bcbf15a',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/sitemap.xml?__cf_chl_tk=RpRzQ_D5CI_Knv3iilpdlEsr4Hbnlnb1zQGAenqOz28-1793516245-1.0.1.1-Hzq5rjJnHWKLf8ga4m3VL_CtxVom.RdH8o91kvT7aw8\",cvId: '3',cZone: 'www.blackstone.com',fa:\"/sitemap.xml?__cf_chl_f_tk=RpRzQ_D5CI_Knv3iilpdlEsr4Hbnlnb1zQGAenqOz28-1793516245-1.0.1.1-Hzq5rjJnHWKLf8ga4m3VL_CtxVom.RdH8o91kvT7aw8\",md: 'gYuIUPuqtSEhMB82f6Xbtn4ShIm0ESABN0JsBlAOOtc-1793516245-1.2.1.1-r9NoGxPcn1KjjhODywXuY0IPMEoI4SyL7hgYvSq1jCPMRLIWucSMMWwu9_LH7yhtHrvC6TPKG8nDZrPErQu9PB92g5iYwkRyPahYVMAXAGpDJd8T8jNl17niwYxroGItBSfKtAihINgSj7kvJIQsaQcdLHXo6tqljca_qCKWbC.yQdck.qOWa5MKZGZuPTIcT5c1y9v3plBzVOKRHQOGaMmK3AkT5fA2_7BDxLPuu0eDhyA9kvopaflnHvMkFmFrOTyXzPGgCQ_aGwqpo1cfen9OoY4OyuhmkDC_WiqdYsX5A7L1O76lRc6TAT2HHXX._6TXSAtV3rKjOKyk1E4ppQTJKq8VqkPwU0tqf6ap8RW62BJnobPqm7Lhz5a.jwRrO1NUg.6TkjCK1osTMkX9j4KKnNseMPQ8Zxb7kxI5gMSom3uk9MuhGnBnXiD3gFYc2WQgCdg555lZb.FdZ3hrbu8OfdJ33SVAllQ3F0_U9ilbL9vrtEHkubtlS61EX61kIIPjLGIRjCQwoaoxr5IwMPPGKHiAVw33ueSxljYfLLcKLsdrQKOjAVVnbu2bd45a0jv6F7Ol6tyqMyQp3m8.CIfWme8HmH_Z3dFZXO.TA24hSVblQYxshKId7dxVytoIlAQu4UM4rZnD9JUSPcOa3kmXn8guH7i8N7UqFCUAiUBi1MfDCP33PRdoKl.X8FQpUyBFg3v1zgeQnH2ZiG_y1mBDh0pyZNcgMTlg7ByKem1Kh0YviPBqizbaWJkoQESewiMNf5QS79jO3WO2cXmt74K9AoPNtnpL57PN.zoNiQw01K0nrwyfArG9XZayXpwqjEd4j9OG7ZeKPpAbDulQX6c1Rw3YuuWyzJlp7ybvUH2UQMttnkz8tC4V63wrULh6aroA090BA4Ei4Pfx6dOiOXTnbh5KgsqCos_3ZKnY.6JrVJ6.RJ05CE98qMg2s_bJgNF9YjGcK0d5B47mjdlPi6zRMn1Fgr8d3J2MPWUs3s7QEJ4_iiAK.mfSiwUquobxgtgVeR_sKPHEtd9vmzPZ7leriqHSQiJD2uyf1P79m73kz_l19IveEw4rlA_vTSUrCqarnglsUYLSUjSVZ4x2CwDQix0dvJbXZENKW.otapIwl4LAD555SkEnN0kPWNcjBm_JS6UbDs4BDbCyOTkF_ef95L_h2eNYVXpWQ6OFIeUAhVs5zPDPUgA_Nrte9FU0ZD5R6KjalYPciemZgxrKMmHrOyQJ7KHAWLa2iEdI9Fs',mdrd: '59jQQMyejH5C4_8j4KrA8nyM8wePt38qWGrmg4tIm64-1793516245-1.2.1.1-MtBeQ25vwv9LX_KXzsKSzsyR9xwFIFCcYfkHI7cQoo50FbNek_7tF4IPYuDMYMy3KVYhUzGNUJb_o3YQCkm2AtLXD9tv0U68bFYdSHUZkxAHOieS3rU95ZfQ.1qHDarHlr6603s02ZF69VC4mrdzPerlsZ5_MDEOeU1dnv5z3L5cVnSbgLn2BK1m5sueiWleWmAwV1zZobSnbknVIs0vfRlnrO_jKpB7b6DsZYR_WkMo7fCVmwo1PiPLfL8u7SwVTgcmWB.SdQBZ83wTxRIk0Z.m3IjvKLLPNnK2VRUPhvL2IDC.qgePEyMXWgEUF5aVirUsDRA4.aBl5fC4teUKOIm.P4P7P69Uz1xhGfWwhCcvNKoL76IlLrCeCRtvXym0',};var a = document.createElement('script');a.nonce = 'HPZulaqQubO1LGIVNRZz3N';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53901534bcbf15a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/sitemap.xml?__cf_chl_rt_tk=RpRzQ_D5CI_Knv3iilpdlEsr4Hbnlnb1zQGAenqOz28-1793516245-1.0.1.1-Hzq5rjJnHWKLf8ga4m3VL_CtxVom.RdH8o91kvT7aw8\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "llms",
+      "url": "https://www.blackstone.com/llms.txt",
+      "final_url": "https://www.blackstone.com/llms.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "gzip"
+      },
+      "path": "llms.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-vi9ka5Hm1QdrvSbJhnZwFK&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"vi9ka5Hm1QdrvSbJhnZwFK\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'CZS8_Q81dr3jhRH4waoMDBxDQYm6.PR9jaCRgZvNbA0-1793516245-1.2.1.1-5WDN.TvzWiiSi_FKBwQiy.54Vy4LhSiNK9eY24nL7iACLFtX.p.mNnTYrsClWbCz',cITimeS: '1793516245',cN: 'vi9ka5Hm1QdrvSbJhnZwFK',cRay: 'a53901548cb58609',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/llms.txt?__cf_chl_tk=vd.jXCESNzsgX1aEjEFJGobQTg0co_p_IWKFJhgT3W4-1793516245-1.0.1.1-NWvQn6SQGbLFG0Py5QOdtxlJ.J8bcw_RVN.PymJbfqU\",cvId: '3',cZone: 'www.blackstone.com',fa:\"/llms.txt?__cf_chl_f_tk=vd.jXCESNzsgX1aEjEFJGobQTg0co_p_IWKFJhgT3W4-1793516245-1.0.1.1-NWvQn6SQGbLFG0Py5QOdtxlJ.J8bcw_RVN.PymJbfqU\",md: '3d2uMqWXEXwiGLC_IVF98SB3ySjIrACAzR3c8jjh6.s-1793516245-1.2.1.1-v2RxX6nHwwgW1.lXyye6y8Mg4GmczgD.y9O.pFbak5EATM9m.mclwgV.Tyq6vhqaP6YmG.tid8wzbZYfJU7obh1ju89gAQg1YKD9lhPun6ZAWK2JqNpFEWhussgEqgmoguThc78xLa2TjH6RQUt20aaKgAZUgIbZWqxfb_PnOtdKUwmk7XRgzvQ7zBQPdFPCz02mJyfwfirnSsfX0poON9FM9QnECTJ24eC2IAkWPeyJrhJjL2Vxvkjeq.FU1jWC.4DJ_y7Ajb2OZzlvHLeB5fZ3aiYytAB07qrWDPoLNRROiT3LGa55DDH0xnsmlkCPDavNBK34Q.cTtHR8ZRxKAqDfizBeFMStXH.r2EhCI0Ba60SJC8xVCyCdt4rSLWh_VlEQhAs7OasDv8MnvVPxprHcxbijYUd_ETTnWB7rh2pWqmnIBhfhniybLbTYKxJdMAxiU9VWMNUrCPV6juOrBWHZA_bludJiPPyjzCmFJIHbFTkzGpjQH0jTfLactjNFWHCn1pwNcJnP7pC_.RwoivkfYA54PM7ysYlWjBYlZNpCcMCG1Iett9.aQ_.TejdtknPMUd7QaKrFXQODTQY1qNBfFAjUlarOTb6wDpTE6fIDDsZf94bf64LhvPbwH9SleOC87yDnKD66p88f74jj94R7lOp8qPc5XK19JPjEytlzRi9QRBnIjjZxxeL6nnRAp2rrx32aIrKeVv3DEoJXkcT8DeP9cPawMKrXNmnfNBrpKyvqeF16ByGSZji35CmANV6uOrsOPa0leYWFLnyT7PMWTiowq4D4mTDfpiBKNP.HAD3R33UITGv0QUtaupi3OXihCDTcY2FgiSe1sM_W0BupLNQ9qJI9bAeM_8FEopJ42jW5emTNbuw8D5BgGZx0BZQVddM2WV0S9tQm0dP18Ty4C0gNABU_3YYD.rft8SaxKgEttfsAJHewvTVGb0Oq9zgmxi9Wyzx5Scpy2x4hQUz1CkorXHugl6cX18S0wCpf3llqSZNpKe.wAe30KuGMv.gK6fesYHE_3XsIcI8qGpcun3MM9ocRvnZ.e3QrlI.Ce74.msrQucua.EnrlszC_fHt_C3.0bdX5tTCpb.iDnjR78IN_sl76SPhSJcYwPuvwUlHZ7YJtscOxHR77.qEM0qt0wF__8euoTwu0R7mOmFEUg.eUFjhpdYhgzATETLzVoZH3EmC.9rnKnZlgXEUI.kNAQldEfun45poN4uDyFNdWvQlnGi9mVVJFehQJTU',mdrd: 'r01Xc6YcMbYpZW2JYs4JiODNCGND4gifzLyXVmBgKtc-1793516245-1.2.1.1-jqUglU8UJ9yNloZmw.AsHNSrcUxsiFAPURM.aSdyZYZbuHYiPKFlSHc7J8Gk0JvYqtJEGXy0TlICruB55kpG66MpT.v0BQBmCsCVHCN6GV9MiJw2guSz.QfIhK4aLNedUh161mdXEyGAfmpIEyF437i4T_mgmoVeLc7R8ROB3zULY0U5RoubxCs9gNJTzfF4rdFGsPtiIZ_JSsqAOIIi0eZFAud0Yo4NHfO917DMNJgxk8AEAt2AO89A0xdPDjfPckje84XW665EcoDx6PyJOcId1yan8ql5W1hNrUEKRka9bau9xVg3TH0_Df5zMuie1iwHLNPJAFGxGz6lZFW_.O45CiUKw_1.Yg4Vcpum9S0IYBUBEkdFmfsNP3LgWbFC',};var a = document.createElement('script');a.nonce = 'vi9ka5Hm1QdrvSbJhnZwFK';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53901548cb58609';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/llms.txt?__cf_chl_rt_tk=vd.jXCESNzsgX1aEjEFJGobQTg0co_p_IWKFJhgT3W4-1793516245-1.0.1.1-NWvQn6SQGbLFG0Py5QOdtxlJ.J8bcw_RVN.PymJbfqU\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true,
+      "markdown_links": []
+    }
+  ],
+  "link_checks": [],
+  "errors": [],
+  "coverage": {
+    "sitemap_files": 1,
+    "sitemap_skipped": [],
+    "internal_links_discovered": 0,
+    "internal_links_checked": 0,
+    "page_limit": 1,
+    "closed_shadow_dom": "not inspected",
+    "iframes": "inventoried, not traversed",
+    "readiness": "bounded font/selector/scroll wait; dynamic content may remain incomplete"
+  },
+  "technology_hints": []
+}

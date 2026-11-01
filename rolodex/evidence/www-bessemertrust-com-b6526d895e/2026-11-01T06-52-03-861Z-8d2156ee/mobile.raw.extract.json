@@ -1,0 +1,530 @@
+{
+  "url": "https://www.bessemertrust.com/",
+  "base_url": "https://www.bessemertrust.com/",
+  "title": "Private Wealth Management & Investment Advisory | Bessemer Trust",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "description": [
+      "Bessemer Trust offers personalized wealth planning, investment management, and family office services for high-net-worth individuals and families."
+    ],
+    "robots": [
+      "noarchive"
+    ],
+    "rights": [
+      "©2026 Bessemer Trust. All rights reserved."
+    ],
+    "og:site_name": [
+      "Bessemer Trust"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:url": [
+      "https://www.bessemertrust.com/"
+    ],
+    "og:title": [
+      "Private Wealth Management & Investment Advisory | Bessemer Trust"
+    ],
+    "og:description": [
+      "Bessemer Trust offers personalized wealth planning, investment management, and family office services for high-net-worth individuals and families."
+    ],
+    "og:image": [
+      "https://www.bessemertrust.com/themes/custom/bessemer/share-image.png"
+    ],
+    "og:image:url": [
+      "https://www.bessemertrust.com/themes/custom/bessemer/share-image.png"
+    ],
+    "twitter:card": [
+      "summary"
+    ],
+    "twitter:description": [
+      "Bessemer Trust offers personalized wealth planning, investment management, and family office services for high-net-worth individuals and families."
+    ],
+    "twitter:title": [
+      "Private Wealth Management & Investment Advisory | Bessemer Trust"
+    ],
+    "twitter:image": [
+      "https://www.bessemertrust.com/themes/custom/bessemer/share-image.png"
+    ],
+    "google-site-verification": [
+      "L9bPeBFajeo86Tui_gv6XuksFQzNVs6cv50Fjt1WUI4"
+    ],
+    "mobileoptimized": [
+      "width"
+    ],
+    "handheldfriendly": [
+      "true"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "viewport": [
+      "width=device-width, initial-scale=1.0"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://www.bessemertrust.com/",
+      "url": "https://www.bessemertrust.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Home Page",
+      "selector": "div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Q4 2026 Quarterly Investment Perspective",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#main-content",
+      "url": "https://www.bessemertrust.com/#main-content",
+      "text": "Skip to main content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bessemertrust.com/",
+      "text": "Bessemer Trust",
+      "rel": "home",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.bessemertrust.com/#",
+      "text": "Searchclose",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.bessemertrust.com/#",
+      "text": "menuclose",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.bessemertrust.com/contact",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://client.bessemer.com",
+      "url": "https://client.bessemer.com/",
+      "text": "Client login",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "The Bessemer experience",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/the-bessemer-experience/relationships-that-last",
+      "url": "https://www.bessemertrust.com/the-bessemer-experience/relationships-that-last",
+      "text": "Relationships that last",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/bessemer-experience/always-on-your-side",
+      "url": "https://www.bessemertrust.com/bessemer-experience/always-on-your-side",
+      "text": "Always on your side",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/bessemer-experience/deep-family-office-expertise",
+      "url": "https://www.bessemertrust.com/bessemer-experience/deep-family-office-expertise",
+      "text": "Deep family office expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "What we do for you",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-we-do-for-you/managing-your-financial-life",
+      "url": "https://www.bessemertrust.com/what-we-do-for-you/managing-your-financial-life",
+      "text": "Managing your financial life",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-we-do-you/wealth-planning",
+      "url": "https://www.bessemertrust.com/what-we-do-you/wealth-planning",
+      "text": "Wealth planning",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-we-do-you/investment-management",
+      "url": "https://www.bessemertrust.com/what-we-do-you/investment-management",
+      "text": "Investment management",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-we-do-you/family-office-services",
+      "url": "https://www.bessemertrust.com/what-we-do-you/family-office-services",
+      "text": "Family office services",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "What makes us different",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-makes-us-different/peace-of-mind",
+      "url": "https://www.bessemertrust.com/what-makes-us-different/peace-of-mind",
+      "text": "Peace of mind",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-makes-us-different/key-facts",
+      "url": "https://www.bessemertrust.com/what-makes-us-different/key-facts",
+      "text": "Key facts",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-makes-us-different/our-leaders",
+      "url": "https://www.bessemertrust.com/what-makes-us-different/our-leaders",
+      "text": "Our leaders",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "Insights & Education",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.bessemertrust.com/insights",
+      "text": "Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/financial-education",
+      "url": "https://www.bessemertrust.com/financial-education",
+      "text": "Financial Education",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-offices",
+      "url": "https://www.bessemertrust.com/our-offices",
+      "text": "Our offices",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.bessemertrust.com/contact",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers-at-bessemer",
+      "url": "https://www.bessemertrust.com/careers-at-bessemer",
+      "text": "Careers at Bessemer",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "For professional partners",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/for-professional-partners/serving-clients-together",
+      "url": "https://www.bessemertrust.com/for-professional-partners/serving-clients-together",
+      "text": "Serving clients together",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/for-professional-partners/advisor-insights",
+      "url": "https://www.bessemertrust.com/for-professional-partners/advisor-insights",
+      "text": "Insights for professional partners",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://client.bessemer.com",
+      "url": "https://client.bessemer.com/",
+      "text": "Client Login",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/the-rising-price-of-debt-can-the-economy-adjust-to-higher-for-longer",
+      "url": "https://www.bessemertrust.com/the-rising-price-of-debt-can-the-economy-adjust-to-higher-for-longer",
+      "text": "Q4 2026 Quarterly Investment Perspective",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/notices",
+      "url": "https://www.bessemertrust.com/notices",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/terms",
+      "url": "https://www.bessemertrust.com/terms",
+      "text": "Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/accessibility",
+      "url": "https://www.bessemertrust.com/accessibility",
+      "text": "Accessibility",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.fdic.gov",
+      "url": "https://www.fdic.gov/",
+      "text": "Member FDIC",
+      "rel": "",
+      "internal": false,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/pillar-3-disclosure",
+      "url": "https://www.bessemertrust.com/pillar-3-disclosure",
+      "text": "Pillar 3 Disclosure",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bessemertrust.com/",
+      "text": "Cookie Preferences",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.bessemertrust.com/themes/custom/bessemer/logo.svg",
+      "alt": "Bessemer Trust",
+      "width": "290",
+      "height": "150",
+      "loading": null,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bessemertrust.com/sites/default/files/styles/d08/public/2025-01/BessemerTrust-Homepage-Lobby-NYC_2025.jpg?itok=rUxUnzFc",
+      "alt": "Bessemer Employee Standing in the Lobby of NYC Office",
+      "width": "800",
+      "height": "600",
+      "loading": "eager",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#edit-search",
+      "name": "search",
+      "type": "text",
+      "label": "Search this site"
+    },
+    {
+      "selector": "#edit-submit-acquia-search",
+      "name": null,
+      "type": "submit",
+      "label": "Submit"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\n    \"@context\": \"https://schema.org\",\n    \"@graph\": [\n        {\n            \"@type\": \"WebSite\",\n            \"name\": \"Bessemer Trust\",\n            \"url\": \"https://www.bessemertrust.com/\",\n            \"publisher\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Bessemer Trust\",\n                \"url\": \"https://www.bessemertrust.com/\",\n                \"logo\": {\n                    \"@type\": \"ImageObject\",\n                    \"url\": \"https://www.bessemertrust.com/themes/custom/bessemer/logo.svg\"\n                },\n                \"address\": {\n                    \"@type\": \"PostalAddress\",\n                    \"streetAddress\": \"1271 Avenue of the Americas\",\n                    \"addressLocality\": \"New York\",\n                    \"addressRegion\": \"NY\",\n                    \"postalCode\": \"10020\",\n                    \"addressCountry\": \"USA\"\n                }\n            }\n        }\n    ]\n}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "name": "Bessemer Trust",
+            "url": "https://www.bessemertrust.com/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Bessemer Trust",
+              "url": "https://www.bessemertrust.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.bessemertrust.com/themes/custom/bessemer/logo.svg"
+              },
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1271 Avenue of the Americas",
+                "addressLocality": "New York",
+                "addressRegion": "NY",
+                "postalCode": "10020",
+                "addressCountry": "USA"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [
+    {
+      "type": "http://schema.org/WebPage",
+      "id": null,
+      "selector": ""
+    }
+  ],
+  "rdfa": [
+    {
+      "type": "foaf:Image",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)"
+    }
+  ],
+  "landmarks": {
+    "header": 1,
+    "nav": 3,
+    "main": 1,
+    "article": 0,
+    "section": 1,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Home Page Enhancing private wealth for generations hide 50 INVESTMENT MANAGEMENT Q4 2026 Quarterly Investment Perspective",
+  "text_length": 121,
+  "iframes": [
+    {
+      "src": "https://www.googletagmanager.com/ns.html?id=GTM-TPXD7T2",
+      "title": ""
+    }
+  ],
+  "script_sources": [
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://www.bessemertrust.com/sites/default/files/js/js_bl_waeWs4sGpM7AoOdkLE_0x2SfPGiaYiX0bdjE3mqg.js?scope=footer&delta=0&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+    "https://www.bessemertrust.com/core/assets/vendor/jquery/jquery.min.js?v=4.0.0",
+    "https://www.bessemertrust.com/sites/default/files/js/js_vZawIsnfBO-eO-CW1BOYLuzst1qOjWQhQAX7-XOLDlg.js?scope=footer&delta=2&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+    "https://www.bessemertrust.com/modules/custom/bessemer_onetrust/assets/js/bessemer_onetrust.js?tnqkuj",
+    "https://www.bessemertrust.com/sites/default/files/js/js_RjwAFMglLOt5fjnuk9MlRed4au3kdgtkZRkimrc6FPw.js?scope=footer&delta=4&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg"
+  ],
+  "stylesheets": [
+    "https://www.bessemertrust.com/sites/default/files/css/css__m7LYBB9J9ObxLIwq3k1bhIcXCb_MyvWbwwWzlcCRqM.css?delta=0&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_JweQMrZthtbRgfBchtqAEssVlq9C_3mEaWFeWloW1S8.css?delta=1&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_VY4NpFJiWgOeBbLoEtANTopF3Hc4Lk4Snfvof04kOGQ.css?delta=2&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_EzlMqm-eMYUQTqIDi4-KaeFM2IlFW2Mn_gf05UL_dUs.css?delta=3&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_urzMnXjLPchTVHbkHgKnIJvZ-RtD6I7v6vld-5GaeHI.css?delta=4&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz"
+  ],
+  "hreflang": [
+    {
+      "lang": "en",
+      "url": "https://www.bessemertrust.com/"
+    }
+  ]
+}

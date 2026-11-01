@@ -1,0 +1,2415 @@
+{
+  "url": "https://fortisnetlease.com/contact/",
+  "base_url": "https://fortisnetlease.com/contact/",
+  "title": "Contact Us | Fortis Net Lease | Michigan's Top Real Estate Brokerage Firm - Fortis Net Lease",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width,initial-scale=1, user-scalable=no"
+    ],
+    "keywords": [
+      "Fortis Net Lease, Fortis, Bender, Bryan Bender, Doug Passon, Robert Bender, Single-tenant properties, Multi-tenant properties, Properties For Sale, NNN, Shopping Centers for sale, Commercial properties for sale, Single-tenant net leased, 1031 exchange properties"
+    ],
+    "google-site-verification": [
+      "p4SEzhf_4ioMuN-4v3er4qvJ1iZL7zTnIXgUmp4enpU",
+      "W8bnRPsCSIPtRRJrb-epCYmzNpR1WK6qpL6du0ae2h0"
+    ],
+    "msapplication-tilecolor": [
+      "#1b3360"
+    ],
+    "msapplication-tileimage": [
+      "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/ms-icon-144x144.png"
+    ],
+    "theme-color": [
+      "#1b3360"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "description": [
+      "Do you have a question about real estate investment? Contact our talented team of investment professionals today. Let us know how we can help you today!"
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "article"
+    ],
+    "og:title": [
+      "Contact Us | Fortis Net Lease | Michigan's Top Real Estate Brokerage Firm"
+    ],
+    "og:description": [
+      "Do you have a question about real estate investment? Contact our talented team of investment professionals today. Let us know how we can help you today!"
+    ],
+    "og:url": [
+      "https://fortisnetlease.com/contact/"
+    ],
+    "og:site_name": [
+      "Fortis Net Lease"
+    ],
+    "article:modified_time": [
+      "2026-06-10T22:53:40+00:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "twitter:label1": [
+      "Est. reading time"
+    ],
+    "twitter:data1": [
+      "1 minute"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fortis Net Lease",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Contact Us",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Sign Up For Our Mailing List",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": false
+    }
+  ],
+  "links": [
+    {
+      "href": "https://fortisnetlease.com/",
+      "url": "https://fortisnetlease.com/",
+      "text": "Fortis Net Lease",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/contact/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/home/",
+      "url": "https://fortisnetlease.com/home/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Fortis",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-testimonials/",
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "text": "Testimonials",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "List With FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/home/",
+      "url": "https://fortisnetlease.com/home/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Fortis",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-testimonials/",
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "text": "Testimonials",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "List With FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/contact/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/contact/#",
+      "text": "Menu",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.facebook.com/fortisnetlease/",
+      "url": "https://www.facebook.com/fortisnetlease/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/16217353/",
+      "url": "https://www.linkedin.com/company/16217353/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/fortisnetlease/",
+      "url": "https://www.instagram.com/fortisnetlease/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-news/",
+      "url": "https://fortisnetlease.com/net-lease-news/",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.bmgmediaco.com",
+      "url": "https://www.bmgmediaco.com/",
+      "text": "BMG Media",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/contact/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": false
+    }
+  ],
+  "images": [],
+  "inputs": [
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "first_name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "last_name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "company",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(3) > input:nth-of-type(1)",
+      "name": "phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(4) > textarea:nth-of-type(1)",
+      "name": "message",
+      "type": null,
+      "label": ""
+    },
+    {
+      "selector": "#g-recaptcha-response-1",
+      "name": "g-recaptcha-response",
+      "type": null,
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "sms_consent",
+      "type": "checkbox",
+      "label": "I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms."
+    },
+    {
+      "selector": "#broker",
+      "name": "type",
+      "type": "radio",
+      "label": "Broker"
+    },
+    {
+      "selector": "#buyer",
+      "name": "type",
+      "type": "radio",
+      "label": "Buyer"
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(3) > input:nth-of-type(1)",
+      "name": "phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(4) > textarea:nth-of-type(1)",
+      "name": "message",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "#g-recaptcha-response",
+      "name": "g-recaptcha-response",
+      "type": null,
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "sms_consent",
+      "type": "checkbox",
+      "label": "I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms."
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"http:\\/\\/schema.org\",\"@type\":\"ContactPage\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/contact\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/contact\\/\",\"headline\":\"Contact\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"description\":\"Fortis Net Lease is a national investment real estate brokerage firm specializing in the acquisition and disposition of investment real estate. Please submit your email address to receive all of our newest listings and property updates.\"}",
+      "valid_json": true,
+      "value": {
+        "@context": "http://schema.org",
+        "@type": "ContactPage",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://fortisnetlease.com/contact/"
+        },
+        "url": "https://fortisnetlease.com/contact/",
+        "headline": "Contact",
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://fortisnetlease.com/#organization",
+          "name": "Fortis Net Lease",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+            "width": 600,
+            "height": 60
+          }
+        },
+        "description": "Fortis Net Lease is a national investment real estate brokerage firm specializing in the acquisition and disposition of investment real estate. Please submit your email address to receive all of our newest listings and property updates."
+      }
+    },
+    {
+      "source": "{\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"BreadcrumbList\",\n    \"itemListElement\": [\n        {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"item\": {\n                \"@id\": \"https://fortisnetlease.com\",\n                \"name\": \"Home\"\n            }\n        },\n        {\n            \"@type\": \"ListItem\",\n            \"position\": 2,\n            \"item\": {\n                \"@id\": \"https://fortisnetlease.com/contact/\",\n                \"name\": \"Contact\"\n            }\n        }\n    ]\n}",
+      "valid_json": true,
+      "value": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://fortisnetlease.com",
+              "name": "Home"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://fortisnetlease.com/contact/",
+              "name": "Contact"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 1,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "Fortis Net Lease Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Menu Contact Us Fortis Net Lease is a national investment real estate brokerage firm specializing in the acquisition and disposition of investment real estate. Please submit your email address to receive all of our newest listings and property updates. 30445 Northwestern Hwy. Suite 275 Farmington Hills, MI 48334 PHONE (248) 254 3410 FAX (248) 254 3410 Your message has been sent, thank you! I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms. Send Contact 30445 Northwestern Hwy,Suite #275Farmington Hills, MI 48334 P (248) 254-3410 F (248) 254-3405 Quicklinks Our Listings About Us Contact News Privacy Messaging Terms 2024 All Rights Reserved - Website developed by BMG Media Sign Up For Our Mailing List Broker Buyer You have subscribed successfully. Error Captcha I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms. Send",
+  "text_length": 1779,
+  "iframes": [
+    {
+      "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lfb7vggAAAAADgSYXNfAiLRKrvv6l1FDxcEpmqy&co=aHR0cHM6Ly9mb3J0aXNuZXRsZWFzZS5jb206NDQz&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=p1o8ra6u2l09",
+      "title": "reCAPTCHA"
+    },
+    {
+      "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lfb7vggAAAAADgSYXNfAiLRKrvv6l1FDxcEpmqy&co=aHR0cHM6Ly9mb3J0aXNuZXRsZWFzZS5jb206NDQz&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=normal&anchor-ms=20000&execute-ms=30000&cb=h9gsilm2lnj7",
+      "title": "reCAPTCHA"
+    }
+  ],
+  "script_sources": [
+    "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js",
+    "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-LSBWW67QFJ&cx=c&gtm=4e6as1",
+    "https://www.googletagmanager.com/gtag/js?id=UA-147791370-2",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jquery.min.js",
+    "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/nouislider.min.js",
+    "https://fortisnetlease.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://fortisnetlease.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/jquery.countdown.min.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/frontend.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/js.cookie.min.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/materialize.min.js?ver=1.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/vendors.js?ver=0.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/swiper.min.js?ver=0.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/imagesloaded.pkgd.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/isotope.pkgd.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/datepicker.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jqFancyTransitions.1.8.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/script.js?ver=1.347",
+    "https://fortisnetlease.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+    "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit",
+    "https://maps.googleapis.com/maps/api/js?key=AIzaSyBuJ3xDdPGgOLXE_ixZ6xa-PQhio4mSsJk",
+    "https://www.google.com/recaptcha/api.js",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/analytics.js?ver=2.0.6"
+  ],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "scroll_width": 1440,
+    "overflowing": [],
+    "css_variables": {
+      "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+      "--wp-admin-theme-color-darker-20": "#005a87",
+      "--wp-admin-theme-color-darker-10--rgb": "0,107,160.5",
+      "--wp--preset--font-size--large": "36px",
+      "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+      "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+      "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+      "--wp--preset--spacing--30": "0.67rem",
+      "--wp--preset--color--vivid-purple": "#9b51e0",
+      "--wp--preset--spacing--50": "1.5rem",
+      "--wp--preset--aspect-ratio--4-3": "4/3",
+      "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+      "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+      "--wp--preset--aspect-ratio--16-9": "16/9",
+      "--wp--preset--font-size--small": "13px",
+      "--wp--preset--color--pale-pink": "#f78da7",
+      "--wp--preset--spacing--70": "3.38rem",
+      "--wp-block-synced-color--rgb": "122,0,223",
+      "--wp-bound-block-color": "#7a00df",
+      "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+      "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)",
+      "--wp-block-synced-color": "#7a00df",
+      "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+      "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+      "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+      "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)",
+      "--wp--preset--aspect-ratio--9-16": "9/16",
+      "--wp--preset--spacing--60": "2.25rem",
+      "--wp--preset--color--vivid-red": "#cf2e2e",
+      "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+      "--wp--preset--color--vivid-green-cyan": "#00d084",
+      "--wp--preset--color--light-green-cyan": "#7bdcb5",
+      "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+      "--wp-admin-border-width-focus": "2px",
+      "--wp--preset--aspect-ratio--square": "1",
+      "--wp-editor-canvas-background": "#ddd",
+      "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)",
+      "--wp--preset--spacing--80": "5.06rem",
+      "--wp--preset--color--white": "#ffffff",
+      "--wp-admin-theme-color-darker-20--rgb": "0,90,135",
+      "--wp--preset--spacing--40": "1rem",
+      "--wp--preset--font-size--medium": "20px",
+      "--wp--preset--color--black": "#000000",
+      "--wp--preset--aspect-ratio--3-4": "3/4",
+      "--wp-admin-theme-color--rgb": "0,124,186",
+      "--wp-admin-theme-color": "#007cba",
+      "--wp-admin-theme-color-darker-10": "#006ba1",
+      "--wp--preset--aspect-ratio--3-2": "3/2",
+      "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+      "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+      "--wp--preset--spacing--20": "0.44rem",
+      "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+      "--wp--preset--aspect-ratio--2-3": "2/3",
+      "--wp--preset--font-size--huge": "42px",
+      "--wp--preset--font-size--x-large": "42px",
+      "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+      "--wp--preset--font-size--normal": "16px",
+      "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)"
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "Fortis Net Lease Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Home Our Listings About Fortis Our Success Our Team Testimonials Lis",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 1000
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "21px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "Fortis Net Lease",
+        "rect": {
+          "x": 40,
+          "y": 12,
+          "width": 412,
+          "height": 83
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Fortis Net Lease",
+        "rect": {
+          "x": 40,
+          "y": 12,
+          "width": 412,
+          "height": 83
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Menu",
+        "rect": {
+          "x": 1378,
+          "y": 40,
+          "width": 29,
+          "height": 29
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "21px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Contact Us",
+        "rect": {
+          "x": 115.5,
+          "y": 148,
+          "width": 489,
+          "height": 35
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "35px",
+          "font-weight": "600",
+          "line-height": "35px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Fortis Net Lease is a national investment real estate brokerage firm specializing in the acquisition and disposition of investment real estate. Please submit your email address to ",
+        "rect": {
+          "x": 115.5,
+          "y": 203,
+          "width": 489,
+          "height": 72
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "16px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "30445 Northwestern Hwy. Suite 275 Farmington Hills, MI 48334",
+        "rect": {
+          "x": 115.5,
+          "y": 329,
+          "width": 275.859375,
+          "height": 42
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "14px",
+          "font-weight": "300",
+          "line-height": "21px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "14px",
+          "margin-bottom": "14px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "PHONE (248) 254 3410 FAX (248) 254 3410",
+        "rect": {
+          "x": 413.859375,
+          "y": 329,
+          "width": 190.625,
+          "height": 42
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "14px",
+          "font-weight": "300",
+          "line-height": "21px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "14px",
+          "margin-bottom": "14px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 115.5,
+          "y": 421,
+          "width": 233.25,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 371.25,
+          "y": 421,
+          "width": 233.25,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 115.5,
+          "y": 486,
+          "width": 489,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 115.5,
+          "y": 547,
+          "width": 489,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(3)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 115.5,
+          "y": 608,
+          "width": 489,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(4)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 115.5,
+          "y": 669,
+          "width": 489,
+          "height": 107
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 165.125,
+          "y": 967,
+          "width": 79.921875,
+          "height": 16
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "300",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "Messaging Terms",
+        "rect": {
+          "x": 274.5,
+          "y": 967,
+          "width": 102.234375,
+          "height": 16
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "300",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(5)",
+        "tag": "p",
+        "text": "Send",
+        "rect": {
+          "x": 115.5,
+          "y": 1000,
+          "width": 489,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(14, 22, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "300",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "16px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(5) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "Send",
+        "rect": {
+          "x": 296.953125,
+          "y": 1000,
+          "width": 126.09375,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(22, 41, 81)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "600",
+          "line-height": "40px",
+          "letter-spacing": "1px",
+          "padding-top": "0px",
+          "padding-right": "43px",
+          "padding-bottom": "0px",
+          "padding-left": "43px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.4s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "30445 Northwestern Hwy,Suite #275Farmington Hills, MI 48334",
+        "rect": {
+          "x": 167.5,
+          "y": 1205,
+          "width": 205.46875,
+          "height": 67.5
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "15px",
+          "margin-bottom": "15px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "P (248) 254-3410 F (248) 254-3405",
+        "rect": {
+          "x": 395.46875,
+          "y": 1205,
+          "width": 140.34375,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "15px",
+          "margin-bottom": "15px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 167.5,
+          "y": 1287.5,
+          "width": 32,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 208,
+          "y": 1287.5,
+          "width": 32,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 248.5,
+          "y": 1287.5,
+          "width": 32,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Our Listings",
+        "rect": {
+          "x": 1046.203125,
+          "y": 1206,
+          "width": 67.15625,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "About Us",
+        "rect": {
+          "x": 1046.203125,
+          "y": 1228.5,
+          "width": 53.75,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Contact",
+        "rect": {
+          "x": 1046.203125,
+          "y": 1251,
+          "width": 45.484375,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "News",
+        "rect": {
+          "x": 1046.203125,
+          "y": 1273.5,
+          "width": 34.21875,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy",
+        "rect": {
+          "x": 1046.203125,
+          "y": 1296,
+          "width": 42.125,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Messaging Terms",
+        "rect": {
+          "x": 1046.203125,
+          "y": 1318.5,
+          "width": 100.40625,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "BMG Media",
+        "rect": {
+          "x": 1207.78125,
+          "y": 1446,
+          "width": 64.71875,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(119, 124, 141)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Futura PT\", sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Fortis Net Lease",
+        "width": 412,
+        "height": 83,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Menu",
+        "width": 29,
+        "height": 29,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 233.25,
+        "height": 45,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 233.25,
+        "height": 45,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 489,
+        "height": 45,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 489,
+        "height": 45,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(3) > input:nth-of-type(1)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 489,
+        "height": 45,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(4) > textarea:nth-of-type(1)",
+        "tag": "textarea",
+        "role": null,
+        "name": "",
+        "width": 489,
+        "height": 100,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > input:nth-of-type(1)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 16,
+        "height": 16,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Policy",
+        "width": 79.921875,
+        "height": 16,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "Messaging Terms",
+        "width": 102.234375,
+        "height": 16,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(5) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Send",
+        "width": 126.09375,
+        "height": 40,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 32,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 32,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 32,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Our Listings",
+        "width": 67.15625,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "About Us",
+        "width": 53.75,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Contact",
+        "width": 45.484375,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "News",
+        "width": 34.21875,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy",
+        "width": 42.125,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Messaging Terms",
+        "width": 100.40625,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "BMG Media",
+        "width": 64.71875,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 105.89999997615814,
+      "dom_content_loaded_ms": 2835.4000000059605,
+      "load_ms": 0
+    },
+    "resources": [
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-147791370-2",
+        "type": "script",
+        "duration_ms": 744.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+        "type": "link",
+        "duration_ms": 247.2000000178814,
+        "transfer_bytes": 638,
+        "decoded_bytes": 569
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jquery.min.js",
+        "type": "script",
+        "duration_ms": 147.89999997615814,
+        "transfer_bytes": 36839,
+        "decoded_bytes": 95786
+      },
+      {
+        "url": "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
+        "type": "link",
+        "duration_ms": 453.59999999403954,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+        "type": "script",
+        "duration_ms": 1115.800000011921,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/nouislider.min.css",
+        "type": "link",
+        "duration_ms": 81.7999999821186,
+        "transfer_bytes": 1419,
+        "decoded_bytes": 3459
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/nouislider.min.js",
+        "type": "script",
+        "duration_ms": 80.2999999821186,
+        "transfer_bytes": 7604,
+        "decoded_bytes": 19284
+      },
+      {
+        "url": "https://vjs.zencdn.net/7.1.0/video-js.css",
+        "type": "link",
+        "duration_ms": 694.5,
+        "transfer_bytes": 10382,
+        "decoded_bytes": 40660
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/block-style-index.css?ver=2.0.6",
+        "type": "link",
+        "duration_ms": 148.90000000596046,
+        "transfer_bytes": 978,
+        "decoded_bytes": 1991
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/frontend.css?ver=2.0.6",
+        "type": "link",
+        "duration_ms": 153.90000000596046,
+        "transfer_bytes": 7215,
+        "decoded_bytes": 37576
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/core.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 155.30000001192093,
+        "transfer_bytes": 1000,
+        "decoded_bytes": 2033
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/default.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 211.40000000596046,
+        "transfer_bytes": 3738,
+        "decoded_bytes": 13126
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/materialize.min.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 192.19999998807907,
+        "transfer_bytes": 29672,
+        "decoded_bytes": 145265
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/animate.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 212.19999998807907,
+        "transfer_bytes": 5453,
+        "decoded_bytes": 72922
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/swiper.min.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 211.7000000178814,
+        "transfer_bytes": 3378,
+        "decoded_bytes": 17216
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/datepicker.min.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 215.5,
+        "transfer_bytes": 1315,
+        "decoded_bytes": 3495
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/style.css?ver=1.398",
+        "type": "link",
+        "duration_ms": 294.39999997615814,
+        "transfer_bytes": 19819,
+        "decoded_bytes": 103205
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70",
+        "type": "link",
+        "duration_ms": 216,
+        "transfer_bytes": 541,
+        "decoded_bytes": 374
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "type": "script",
+        "duration_ms": 298.69999998807907,
+        "transfer_bytes": 33770,
+        "decoded_bytes": 87553
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "type": "script",
+        "duration_ms": 223.30000001192093,
+        "transfer_bytes": 5458,
+        "decoded_bytes": 13577
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/jquery.countdown.min.js?ver=2.0.6",
+        "type": "script",
+        "duration_ms": 223.90000000596046,
+        "transfer_bytes": 2764,
+        "decoded_bytes": 5430
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/frontend.js?ver=2.0.6",
+        "type": "script",
+        "duration_ms": 224.59999999403954,
+        "transfer_bytes": 5813,
+        "decoded_bytes": 25933
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/js.cookie.min.js?ver=2.0.6",
+        "type": "script",
+        "duration_ms": 224.90000000596046,
+        "transfer_bytes": 1425,
+        "decoded_bytes": 2022
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/vendors.js?ver=0.1",
+        "type": "script",
+        "duration_ms": 281.09999999403954,
+        "transfer_bytes": 9651,
+        "decoded_bytes": 28780
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/materialize.min.js?ver=1.1",
+        "type": "script",
+        "duration_ms": 280.69999998807907,
+        "transfer_bytes": 41439,
+        "decoded_bytes": 122007
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/swiper.min.js?ver=0.1",
+        "type": "script",
+        "duration_ms": 302.69999998807907,
+        "transfer_bytes": 33131,
+        "decoded_bytes": 110482
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/imagesloaded.pkgd.min.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 293,
+        "transfer_bytes": 2171,
+        "decoded_bytes": 5441
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/datepicker.min.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 305.59999999403954,
+        "transfer_bytes": 6452,
+        "decoded_bytes": 17497
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/isotope.pkgd.min.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 304.80000001192093,
+        "transfer_bytes": 11030,
+        "decoded_bytes": 34695
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jqFancyTransitions.1.8.min.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 305.90000000596046,
+        "transfer_bytes": 2528,
+        "decoded_bytes": 7129
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/script.js?ver=1.347",
+        "type": "script",
+        "duration_ms": 306.2999999821186,
+        "transfer_bytes": 5180,
+        "decoded_bytes": 24964
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit",
+        "type": "script",
+        "duration_ms": 261.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyBuJ3xDdPGgOLXE_ixZ6xa-PQhio4mSsJk",
+        "type": "script",
+        "duration_ms": 734.5999999940395,
+        "transfer_bytes": 104991,
+        "decoded_bytes": 322579
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api.js",
+        "type": "script",
+        "duration_ms": 323.90000000596046,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/analytics.js?ver=2.0.6",
+        "type": "script",
+        "duration_ms": 296.5,
+        "transfer_bytes": 822,
+        "decoded_bytes": 1380
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-LSBWW67QFJ&cx=c&gtm=4e6as1",
+        "type": "script",
+        "duration_ms": 263.59999999403954,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js",
+        "type": "script",
+        "duration_ms": 450.40000000596046,
+        "transfer_bytes": 355435,
+        "decoded_bytes": 848898
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "type": "xmlhttprequest",
+        "duration_ms": 200.40000000596046,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/logo.png",
+        "type": "css",
+        "duration_ms": 91.59999999403954,
+        "transfer_bytes": 13718,
+        "decoded_bytes": 15114
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/menu_border.png",
+        "type": "css",
+        "duration_ms": 91.5,
+        "transfer_bytes": 1646,
+        "decoded_bytes": 14933
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/font/futura-pt-medium.woff",
+        "type": "css",
+        "duration_ms": 184.80000001192093,
+        "transfer_bytes": 47596,
+        "decoded_bytes": 47296
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/font/futura-pt-book.woff",
+        "type": "css",
+        "duration_ms": 198.7000000178814,
+        "transfer_bytes": 55356,
+        "decoded_bytes": 55056
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/font/futura-pt-light.woff",
+        "type": "css",
+        "duration_ms": 198.40000000596046,
+        "transfer_bytes": 82900,
+        "decoded_bytes": 82600
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/font/futura-pt-bold.woff?v=",
+        "type": "css",
+        "duration_ms": 207.19999998807907,
+        "transfer_bytes": 44352,
+        "decoded_bytes": 44052
+      },
+      {
+        "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+        "type": "xmlhttprequest",
+        "duration_ms": 207.40000000596046,
+        "transfer_bytes": 638,
+        "decoded_bytes": 569
+      },
+      {
+        "url": "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
+        "type": "xmlhttprequest",
+        "duration_ms": 5.700000017881393,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/nouislider.min.css",
+        "type": "xmlhttprequest",
+        "duration_ms": 5.899999976158142,
+        "transfer_bytes": 0,
+        "decoded_bytes": 3459
+      },
+      {
+        "url": "https://vjs.zencdn.net/7.1.0/video-js.css",
+        "type": "xmlhttprequest",
+        "duration_ms": 7.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 40660
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/block-style-index.css?ver=2.0.6",
+        "type": "xmlhttprequest",
+        "duration_ms": 7.5999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1991
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/frontend.css?ver=2.0.6",
+        "type": "xmlhttprequest",
+        "duration_ms": 9.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 37576
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/core.css?ver=7.1.4",
+        "type": "xmlhttprequest",
+        "duration_ms": 11.199999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2033
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/default.css?ver=7.1.4",
+        "type": "xmlhttprequest",
+        "duration_ms": 11.199999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 13126
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/materialize.min.css?ver=7.1.4",
+        "type": "xmlhttprequest",
+        "duration_ms": 12.599999994039536,
+        "transfer_bytes": 0,
+        "decoded_bytes": 145265
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/animate.css?ver=7.1.4",
+        "type": "xmlhttprequest",
+        "duration_ms": 14.400000005960464,
+        "transfer_bytes": 0,
+        "decoded_bytes": 72922
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/swiper.min.css?ver=7.1.4",
+        "type": "xmlhttprequest",
+        "duration_ms": 14,
+        "transfer_bytes": 0,
+        "decoded_bytes": 17216
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/datepicker.min.css?ver=7.1.4",
+        "type": "xmlhttprequest",
+        "duration_ms": 14.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 3495
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/style.css?ver=1.398",
+        "type": "xmlhttprequest",
+        "duration_ms": 16.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 103205
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70",
+        "type": "xmlhttprequest",
+        "duration_ms": 16.200000017881393,
+        "transfer_bytes": 0,
+        "decoded_bytes": 374
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/facebook.svg",
+        "type": "css",
+        "duration_ms": 106.19999998807907,
+        "transfer_bytes": 875,
+        "decoded_bytes": 1053
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/linkedin.svg",
+        "type": "css",
+        "duration_ms": 103.80000001192093,
+        "transfer_bytes": 1134,
+        "decoded_bytes": 1659
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/instagram.svg",
+        "type": "css",
+        "duration_ms": 139.5,
+        "transfer_bytes": 1136,
+        "decoded_bytes": 1709
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/footer_logo.png",
+        "type": "css",
+        "duration_ms": 184.5,
+        "transfer_bytes": 8360,
+        "decoded_bytes": 8473
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-LSBWW67QFJ&gtm=45je6as1v9114146185za20oxf1&_p=1793516091674&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAI&cid=1220995384.1793516094&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=11&sr=1440x1000&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.74%7CGoogle%2520Chrome%3B156.0.8078.74&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121246026~121246034~123620775~123636747~123691370&sid=1793516093&sct=1&seg=0&dl=https%3A%2F%2Ffortisnetlease.com%2Fcontact%2F&dt=Contact%20Us%20%7C%20Fortis%20Net%20Lease%20%7C%20Michigan%27s%20Top%20Real%20Estate%20Brokerage%20Firm%20-%20Fortis%20Net%20Lease&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=3145",
+        "type": "fetch",
+        "duration_ms": 466.2999999821186,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fortisnetlease.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 85.59999999403954,
+        "transfer_bytes": 6275,
+        "decoded_bytes": 22752
+      }
+    ],
+    "observations": {
+      "lcp_ms": 2912,
+      "layout_shifts": [
+        {
+          "time": 2896.2999999821186,
+          "value": 0.02603397994429977
+        },
+        {
+          "time": 3803,
+          "value": 0.004067453703703703
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 1955.0999999940395,
+          "duration_ms": 69
+        },
+        {
+          "time": 2328.5999999940395,
+          "duration_ms": 79
+        },
+        {
+          "time": 2411.7999999821186,
+          "duration_ms": 137
+        },
+        {
+          "time": 2776.699999988079,
+          "duration_ms": 77
+        },
+        {
+          "time": 2984.0999999940395,
+          "duration_ms": 108
+        },
+        {
+          "time": 3115.5999999940395,
+          "duration_ms": 115
+        },
+        {
+          "time": 3255.2999999821186,
+          "duration_ms": 501
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-01T06-55-41-726Z-12c1ecd2",
+  "site_id": "www-stanjohnsonco-com-698c2083c7",
+  "requested_url": "https://www.stanjohnsonco.com/",
+  "final_url": "https://www.northmarq.com/",
+  "captured_at": "2026-11-01T06:56:13.065Z",
+  "artifacts": [
+    {
+      "path": "audit.json",
+      "sha256": "d4ee11b10e62dbfbee9fa4503ea2c28386507e2242d47d591d99fbf021d93ac7",
+      "bytes": 21693
+    },
+    {
+      "path": "audit.md",
+      "sha256": "f73b1074a18de7370e26f80e84807711c9826b55cd7be0a73b7962c3bafecabf",
+      "bytes": 12944
+    },
+    {
+      "path": "capture-data.json",
+      "sha256": "95dcfccbd581b1b4c2820974734c1725afae3d102c484896569bf3ab4e514439",
+      "bytes": 73442
+    },
+    {
+      "path": "controls.json",
+      "sha256": "ce9bc95794916b99abb51751a3f8111cab9ea5c2b1971c7f68b60e65fdd6c4f2",
+      "bytes": 18516
+    },
+    {
+      "path": "desktop.extract.json",
+      "sha256": "b35320b34ef61459fe880bd4a73287395fb00b817e47530423f09c703a267c11",
+      "bytes": 12843
+    },
+    {
+      "path": "desktop.http.json",
+      "sha256": "8b902416cb6ec9c11350ba4a8cd4af59474be22968c615490c2a1fd2be6f86c5",
+      "bytes": 646
+    },
+    {
+      "path": "desktop.png",
+      "sha256": "cf97ebe051dd27251d7cb6bfa46d7cda704dce966e3c8d4265e53131a086b72c",
+      "bytes": 26666
+    },
+    {
+      "path": "desktop.raw.body",
+      "sha256": "ca61aee8f458fd5dca5f7b0434c8ba3aca45498cbb65a0929a39e996669b34e8",
+      "bytes": 6250
+    },
+    {
+      "path": "desktop.raw.extract.json",
+      "sha256": "b0387ca1d4c8cf699db5915fa394798030cfdfbe768057af02d54ac3a60f616a",
+      "bytes": 672
+    },
+    {
+      "path": "desktop.raw.html",
+      "sha256": "ca61aee8f458fd5dca5f7b0434c8ba3aca45498cbb65a0929a39e996669b34e8",
+      "bytes": 6250
+    },
+    {
+      "path": "desktop.rendered.html",
+      "sha256": "bb5130966b9c04b27fb968de61ea027a206a10f37e9ebfa46de6c4445a4214d1",
+      "bytes": 28821
+    },
+    {
+      "path": "http.json",
+      "sha256": "8b902416cb6ec9c11350ba4a8cd4af59474be22968c615490c2a1fd2be6f86c5",
+      "bytes": 646
+    },
+    {
+      "path": "link-checks.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "0d7ec43389bf66016732b6f6153b91b467c7a213c19208527861d341000b9276",
+      "bytes": 5740
+    },
+    {
+      "path": "mobile.extract.json",
+      "sha256": "1236518ebaa254961c83cec079c713e780aebac31ed1acac308fb67ff251238a",
+      "bytes": 12808
+    },
+    {
+      "path": "mobile.http.json",
+      "sha256": "2211eea01be062f7c7be8efad1bf756a126732b23b845d95edc8415c41566ac7",
+      "bytes": 490
+    },
+    {
+      "path": "mobile.png",
+      "sha256": "76551efb907a85b439ad9e90eb8842a1605e5c524032ea174edfe8bfb608217e",
+      "bytes": 22224
+    },
+    {
+      "path": "mobile.raw.body",
+      "sha256": "dab964634d44289793d4639a078f026f8fe31c3550919be871cf59fb52a9da8b",
+      "bytes": 6229
+    },
+    {
+      "path": "mobile.raw.extract.json",
+      "sha256": "b0387ca1d4c8cf699db5915fa394798030cfdfbe768057af02d54ac3a60f616a",
+      "bytes": 672
+    },
+    {
+      "path": "mobile.raw.html",
+      "sha256": "dab964634d44289793d4639a078f026f8fe31c3550919be871cf59fb52a9da8b",
+      "bytes": 6229
+    },
+    {
+      "path": "mobile.rendered.html",
+      "sha256": "125f40800b94e0b0873aee288273166dbce81ebfd779f09c58d20cf1451a0b59",
+      "bytes": 28800
+    },
+    {
+      "path": "raw.extract.json",
+      "sha256": "b0387ca1d4c8cf699db5915fa394798030cfdfbe768057af02d54ac3a60f616a",
+      "bytes": 672
+    },
+    {
+      "path": "raw.html",
+      "sha256": "ca61aee8f458fd5dca5f7b0434c8ba3aca45498cbb65a0929a39e996669b34e8",
+      "bytes": 6250
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "9df2be52cbd6f51a13b488547d785897d86faf9247a0df5d5249670469666ae8",
+      "bytes": 5746
+    },
+    {
+      "path": "sitemap-1.xml",
+      "sha256": "e5747b37c9e76a732d93838c50426eec8e027a645f7a434ef6893b985f26abb6",
+      "bytes": 5749
+    },
+    {
+      "path": "tablet.extract.json",
+      "sha256": "0854ec00802c0698d8c1884e154d3b9b6ca20dd2e09a8486922e98065c6bc237",
+      "bytes": 13680
+    },
+    {
+      "path": "tablet.http.json",
+      "sha256": "a49fad51dc73e8f49a801f28a2ec467b6aef412ac9f4aa67387002cb2cb33288",
+      "bytes": 490
+    },
+    {
+      "path": "tablet.png",
+      "sha256": "107045c1366730e3600422c435c231100c507c1599b3f898f944e728c161106f",
+      "bytes": 27924
+    },
+    {
+      "path": "tablet.raw.body",
+      "sha256": "9561491def99bfd9217e6792309db7251e7a4964afbed452acf6709af32cf861",
+      "bytes": 6229
+    },
+    {
+      "path": "tablet.raw.extract.json",
+      "sha256": "b0387ca1d4c8cf699db5915fa394798030cfdfbe768057af02d54ac3a60f616a",
+      "bytes": 672
+    },
+    {
+      "path": "tablet.raw.html",
+      "sha256": "9561491def99bfd9217e6792309db7251e7a4964afbed452acf6709af32cf861",
+      "bytes": 6229
+    },
+    {
+      "path": "tablet.rendered.html",
+      "sha256": "4c5fd5e760240dcab3e1035829b8976c90bf05bdae2d1164fee94116ec3f892e",
+      "bytes": 28959
+    }
+  ]
+}

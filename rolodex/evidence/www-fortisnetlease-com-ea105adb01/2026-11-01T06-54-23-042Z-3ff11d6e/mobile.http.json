@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "17619",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/15>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=15>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/about-us/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/about-us/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "3bc21235f1664da36d900fe47625e63e150160e5538ae70654b5de76da557c89",
+  "body_bytes": 73394
+}

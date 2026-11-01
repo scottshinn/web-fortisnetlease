@@ -1,0 +1,1083 @@
+{
+  "url": "https://www.tpg.com/",
+  "base_url": "https://www.tpg.com/",
+  "title": "Meet TPG | A Leading Global Alternative Asset Manager",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "A leader in the alternative asset space, TPG was built for a distinctive approach, managing assets through a principled focus on innovation."
+    ],
+    "og:title": [
+      "Meet TPG | A Leading Global Alternative Asset Manager"
+    ],
+    "og:description": [
+      "A leader in the alternative asset space, TPG was built for a distinctive approach, managing assets through a principled focus on innovation."
+    ],
+    "og:url": [
+      "https://cms.tpg.com/"
+    ],
+    "og:site_name": [
+      "TPG"
+    ],
+    "og:image": [
+      "https://cms.tpg.com/wp-content/uploads/2021/12/52849b5da0f453ac01f893cc6d1287b5.jpeg"
+    ],
+    "og:image:width": [
+      "2121"
+    ],
+    "og:image:height": [
+      "1414"
+    ],
+    "og:image:alt": [
+      "bg image for numbers"
+    ],
+    "og:image:type": [
+      "image/jpeg"
+    ],
+    "og:type": [
+      "article"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "twitter:title": [
+      "Meet TPG | A Leading Global Alternative Asset Manager"
+    ],
+    "twitter:description": [
+      "A leader in the alternative asset space, TPG was built for a distinctive approach, managing assets through a principled focus on innovation."
+    ],
+    "twitter:image": [
+      "https://cms.tpg.com/wp-content/uploads/2021/12/52849b5da0f453ac01f893cc6d1287b5.jpeg"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Meet TPG",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Focused on Innovation",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Overview",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Built for a distinctive approach",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG at a Glance",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "News & Insights",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Our Latest Insights",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "The Reset of the Real Economy: Investing in the Energy Transition",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Talks at GS: Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Asset-Based Finance: A Growing Frontier for Private Credit",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Global Wealth Solutions",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "What We Do",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Our Platforms",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Capital",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Growth",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Impact",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Credit",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Real Estate",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Market Solutions",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "TPG News",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG Reports Third Quarter 2026 Results",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Crusoe Raises $3.9 Billion Series F for its Vertically-Integrated AI Infrastructure Platform",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG to Make Significant Investment in Tablet Command",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Waste Eliminator and Liberty Waste Solutions Announce Combination and Appoint Rich Kang Chief Executive Officer",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG AG Real Estate Acquires $628M Industrial Portfolio in Partnership with Redfearn Capital",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG and Madison International Realty form Strategic Partnership for Major German Student Housing Platform",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG Reports Second Quarter 2026 Results",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Third Wave Insurance Expands Into Gulf Coast Region with Acquisition of Five Insurance and Advisory Businesses",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG-led consortium to acquire Aseem Infrastructure Finance, alongside co-invest partners GIC and ICICI Bank",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG Launches Arcura Medical Properties Following Completion of Acquisition of Premier German and Dutch Medical Outpatient Portfolio",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG Appoints Axel André as Chief Financial Officer",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TPG to Acquire Waste Eliminator and Liberty Waste Solutions from Allied Industrial Partners to Create a Sustainable Waste Infrastructure Player",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > article:nth-of-type(1) > section:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Signup for TPG’s LinkedIn Newsletter",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#content",
+      "url": "https://www.tpg.com/#content",
+      "text": "Skip to main content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.tpg.com/",
+      "text": "TPG",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach",
+      "url": "https://www.tpg.com/approach",
+      "text": "Approach",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions",
+      "url": "https://www.tpg.com/wealth-solutions",
+      "text": "Global Wealth Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights",
+      "url": "https://www.tpg.com/news-and-insights",
+      "text": "News & Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us",
+      "url": "https://www.tpg.com/about-us",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investors",
+      "url": "https://www.tpg.com/investors",
+      "text": "LP Login",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "http://shareholders.tpg.com/",
+      "url": "http://shareholders.tpg.com/",
+      "text": "Shareholders",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/insights",
+      "url": "https://www.tpg.com/news-and-insights/insights",
+      "text": "View All Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7168316919647858688",
+      "url": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7168316919647858688",
+      "text": "Sign up for TPG's LinkedIn Newsletter",
+      "rel": "noreferrer noopener",
+      "internal": false,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/the-reset-of-the-real-economy-investing-in-the-energy-transition",
+      "url": "https://www.tpg.com/news-and-insights/the-reset-of-the-real-economy-investing-in-the-energy-transition",
+      "text": "The Reset of the Real Economy: Investing in the Energy Transition",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/the-reset-of-the-real-economy-investing-in-the-energy-transition",
+      "url": "https://www.tpg.com/news-and-insights/the-reset-of-the-real-economy-investing-in-the-energy-transition",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/talks-at-gs-jon-winkelried-on-lessons-from-goldman-sachs-and-tpgs-next-chapter",
+      "url": "https://www.tpg.com/news-and-insights/talks-at-gs-jon-winkelried-on-lessons-from-goldman-sachs-and-tpgs-next-chapter",
+      "text": "Talks at GS: Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/talks-at-gs-jon-winkelried-on-lessons-from-goldman-sachs-and-tpgs-next-chapter",
+      "url": "https://www.tpg.com/news-and-insights/talks-at-gs-jon-winkelried-on-lessons-from-goldman-sachs-and-tpgs-next-chapter",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/asset-based-finance-a-growing-frontier-for-private-credit",
+      "url": "https://www.tpg.com/news-and-insights/asset-based-finance-a-growing-frontier-for-private-credit",
+      "text": "Asset-Based Finance: A Growing Frontier for Private Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/asset-based-finance-a-growing-frontier-for-private-credit",
+      "url": "https://www.tpg.com/news-and-insights/asset-based-finance-a-growing-frontier-for-private-credit",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions",
+      "url": "https://www.tpg.com/wealth-solutions",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions",
+      "url": "https://www.tpg.com/wealth-solutions",
+      "text": "Learn more",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions/wealth-solutions-private-equity",
+      "url": "https://www.tpg.com/wealth-solutions/wealth-solutions-private-equity",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions/wealth-solutions-private-equity",
+      "url": "https://www.tpg.com/wealth-solutions/wealth-solutions-private-equity",
+      "text": "Learn more",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/news",
+      "url": "https://www.tpg.com/news-and-insights/news",
+      "text": "All News",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-reports-third-quarter-2026-results",
+      "url": "https://www.tpg.com/news-and-insights/tpg-reports-third-quarter-2026-results",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform",
+      "url": "https://www.tpg.com/news-and-insights/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-to-make-significant-investment-in-tablet-command",
+      "url": "https://www.tpg.com/news-and-insights/tpg-to-make-significant-investment-in-tablet-command",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/waste-eliminator-and-liberty-waste-solutions-announce-combination-and-appoint-rich-kang-chief-executive-officer",
+      "url": "https://www.tpg.com/news-and-insights/waste-eliminator-and-liberty-waste-solutions-announce-combination-and-appoint-rich-kang-chief-executive-officer",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-ag-real-estate-acquires-628m-industrial-portfolio-in-partnership-with-redfearn-capital",
+      "url": "https://www.tpg.com/news-and-insights/tpg-ag-real-estate-acquires-628m-industrial-portfolio-in-partnership-with-redfearn-capital",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-and-madison-international-realty-form-strategic-partnership-for-major-german-student-housing-platform",
+      "url": "https://www.tpg.com/news-and-insights/tpg-and-madison-international-realty-form-strategic-partnership-for-major-german-student-housing-platform",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-reports-second-quarter-2026-results",
+      "url": "https://www.tpg.com/news-and-insights/tpg-reports-second-quarter-2026-results",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/third-wave-insurance-expands-into-gulf-coast-region-with-acquisition-of-five-insurance-and-advisory-businesses",
+      "url": "https://www.tpg.com/news-and-insights/third-wave-insurance-expands-into-gulf-coast-region-with-acquisition-of-five-insurance-and-advisory-businesses",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-led-consortium-to-acquire-aseem-infrastructure-finance-alongside-co-invest-partners-gic-and-icici-bank",
+      "url": "https://www.tpg.com/news-and-insights/tpg-led-consortium-to-acquire-aseem-infrastructure-finance-alongside-co-invest-partners-gic-and-icici-bank",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-launches-arcura-medical-properties-following-completion-of-acquisition-of-premier-german-and-dutch-medical-outpatient-portfolio",
+      "url": "https://www.tpg.com/news-and-insights/tpg-launches-arcura-medical-properties-following-completion-of-acquisition-of-premier-german-and-dutch-medical-outpatient-portfolio",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-appoints-axel-andre-as-chief-financial-officer",
+      "url": "https://www.tpg.com/news-and-insights/tpg-appoints-axel-andre-as-chief-financial-officer",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/tpg-to-acquire-waste-eliminator-and-liberty-waste-solutions-from-allied-industrial-partners-to-create-a-sustainable-waste-infrastructure-player",
+      "url": "https://www.tpg.com/news-and-insights/tpg-to-acquire-waste-eliminator-and-liberty-waste-solutions-from-allied-industrial-partners-to-create-a-sustainable-waste-infrastructure-player",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > article:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7168316919647858688",
+      "url": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7168316919647858688",
+      "text": "Signup for TPG’s LinkedIn Newsletter",
+      "rel": "noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach",
+      "url": "https://www.tpg.com/approach",
+      "text": "Our Approach",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/healthcare",
+      "url": "https://www.tpg.com/approach/healthcare",
+      "text": "Healthcare",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/technology",
+      "url": "https://www.tpg.com/approach/technology",
+      "text": "SET (Software & Enterprise Tech)",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/internet-digital-media",
+      "url": "https://www.tpg.com/approach/internet-digital-media",
+      "text": "IDMC (Internet, Digital Media & Communications)",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/consumer-retail",
+      "url": "https://www.tpg.com/approach/consumer-retail",
+      "text": "Consumer",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/business-services",
+      "url": "https://www.tpg.com/approach/business-services",
+      "text": "Business Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/remembering-david-bonderman",
+      "url": "https://www.tpg.com/remembering-david-bonderman",
+      "text": "Remembering David Bonderman",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us",
+      "url": "https://www.tpg.com/about-us",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us/who-we-are",
+      "url": "https://www.tpg.com/about-us/who-we-are",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.tpg.com/careers",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact-us",
+      "url": "https://www.tpg.com/contact-us",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/platforms/capital",
+      "url": "https://www.tpg.com/platforms/capital",
+      "text": "Capital",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/platforms/growth",
+      "url": "https://www.tpg.com/platforms/growth",
+      "text": "Growth",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/platforms/impact",
+      "url": "https://www.tpg.com/platforms/impact",
+      "text": "Impact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/platforms/tpg-credit",
+      "url": "https://www.tpg.com/platforms/tpg-credit",
+      "text": "Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/platforms/real-estate",
+      "url": "https://www.tpg.com/platforms/real-estate",
+      "text": "Real Estate",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/platforms/market-solutions",
+      "url": "https://www.tpg.com/platforms/market-solutions",
+      "text": "Market Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions",
+      "url": "https://www.tpg.com/wealth-solutions",
+      "text": "Overview",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions/wealth-solutions-private-equity",
+      "url": "https://www.tpg.com/wealth-solutions/wealth-solutions-private-equity",
+      "text": "Private Equity",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions/wealth-solutions-credit",
+      "url": "https://www.tpg.com/wealth-solutions/wealth-solutions-credit",
+      "text": "Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth-solutions/wealth-solutions-real-estate",
+      "url": "https://www.tpg.com/wealth-solutions/wealth-solutions-real-estate",
+      "text": "Real Estate",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights",
+      "url": "https://www.tpg.com/news-and-insights",
+      "text": "News & Insights Overview",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/insights",
+      "url": "https://www.tpg.com/news-and-insights/insights",
+      "text": "Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-and-insights/news",
+      "url": "https://www.tpg.com/news-and-insights/news",
+      "text": "Press Releases",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://services.dataexchange.fiscloudservices.com/LogOn/1964272",
+      "url": "https://services.dataexchange.fiscloudservices.com/LogOn/1964272",
+      "text": "LP Login",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "http://shareholders.tpg.com/",
+      "url": "http://shareholders.tpg.com/",
+      "text": "Shareholders",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/tpg-capital/",
+      "url": "https://www.linkedin.com/company/tpg-capital/",
+      "text": "LinkedIn",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://cms.tpg.com/wp-content/uploads/2026/06/TPG-Website-Terms-of-Use-June-2026-vFinal.pdf",
+      "url": "https://cms.tpg.com/wp-content/uploads/2026/06/TPG-Website-Terms-of-Use-June-2026-vFinal.pdf",
+      "text": "Legal Notices & Terms of Use",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy-cybersecurity",
+      "url": "https://www.tpg.com/privacy-cybersecurity",
+      "text": "Privacy & Cybersecurity",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://cms.tpg.com/wp-content/uploads/2026/02/TPG-California-Consumer-Privacy-Statement-CCPA-CPRA-Website-Privacy-Notice-Addendum-January-2026-vFinal.pdf",
+      "url": "https://cms.tpg.com/wp-content/uploads/2026/02/TPG-California-Consumer-Privacy-Statement-CCPA-CPRA-Website-Privacy-Notice-Addendum-January-2026-vFinal.pdf",
+      "text": "CCPA Privacy Statement",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/uk-eu-disclosures",
+      "url": "https://www.tpg.com/uk-eu-disclosures",
+      "text": "UK/EU Disclosures",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.tpg.com/tpg-phishing-and-fraud-notice",
+      "url": "https://www.tpg.com/tpg-phishing-and-fraud-notice",
+      "text": "Web Fraud & Phishing",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/transparency-in-coverage",
+      "url": "https://www.tpg.com/transparency-in-coverage",
+      "text": "Transparency in Coverage",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://cms.tpg.com/wp-content/uploads/2026/07/Equal-Employment-Opportunity-Policy.pdf",
+      "url": "https://cms.tpg.com/wp-content/uploads/2026/07/Equal-Employment-Opportunity-Policy.pdf",
+      "text": "Equal Employment Opportunity Policy",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://cms.tpg.com/wp-content/uploads/2026/08/Vendor-Code-of-Conduct-Policy-8.31.26.pdf",
+      "url": "https://cms.tpg.com/wp-content/uploads/2026/08/Vendor-Code-of-Conduct-Policy-8.31.26.pdf",
+      "text": "Vendor Code of Conduct Policy",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://i.vimeocdn.com/video/2103813612-55c08842d67e9de514dc99820586b53c87fe2e258a1b2a87679d145fee0efac6-d_1280?region=us&mw=1920&q=70",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2021/12/52849b5da0f453ac01f893cc6d1287b5.jpeg",
+      "alt": "bg image for numbers",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2026/09/TPG-Take-Rise-Climate-Thumbnail-8.jpg",
+      "alt": "The Reset of the Real Economy: Investing in the Energy Transition",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2026/07/Jon-Winkelried-13.jpg",
+      "alt": "Talks at GS: Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2026/06/TPG-Take-Logo-ABF-13.png",
+      "alt": "Asset-Based Finance: A Growing Frontier for Private Credit",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2025/01/tpg3back.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(5) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2025/03/ivnvesting-d-d.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2025/03/Our-A-to-PEI.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2021/12/Capital-2.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2021/12/Vector.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2021/12/Impact.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2024/11/angelo-gordon-dd31.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2021/12/Real-Estate-2.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.tpg.com/wp-content/uploads/2021/12/Market-Solutions.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.tpg.com/the-tpg-take-logo-1x1.png",
+      "alt": "The TPG Take Logo",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.tpg.com/_next/static/media/tpg.c68dc7c1.svg",
+      "alt": "TPG",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"TPG\",\"alternateName\":\"TPG Inc.\",\"url\":\"https://www.tpg.com/\"}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "TPG",
+        "alternateName": "TPG Inc.",
+        "url": "https://www.tpg.com/"
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 13,
+    "nav": 0,
+    "main": 1,
+    "article": 15,
+    "section": 13,
+    "aside": 0,
+    "footer": 13
+  },
+  "text": "Meet TPGFocused on InnovationA leader in the alternative asset space, TPG manages $346 billion1 in assets through a principled focus on innovation.1As of September 30, 2026.OverviewBuilt for a distinctive approachThrough TPG’s family office roots, entrepreneurial heritage, and West Coast base, we have developed a differentiated approach to alternative investments based on innovation, organic growth, and a culture of openness and collaboration. Since our founding in 1992, we have developed a distinct position in the industry, with a broadly diversified set of investment strategies, including private equity, impact, credit, real estate, and market solutions.TPG at a Glance$346BAUM12000+Employees around the world700+Investment and operations professionals30Offices globally1As of September 30, 2026.News & InsightsOur Latest InsightsTPG’s strategy is anchored by our deep sector knowledge and experience building healthy, successful businesses. Explore the partnerships and the insights behind our investments.View All InsightsSign up for TPG's LinkedIn NewsletterThe TPG TakeThe Reset of the Real Economy: Investing in the Energy TransitionSep.22.2026Read MoreIn the NewsTalks at GS: Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next ChapterJul.29.2026Read MoreThe TPG TakeAsset-Based Finance: A Growing Frontier for Private CreditJun.15.2026Read MoreGlobal Wealth SolutionsRooted in a family office heritage, TPG brings institutional-quality private equity, real estate, and credit opportunities to eligible individual investors.Our innovative approach and close collaboration with financial advisors make it easy for individual investors to access the same exclusive investment opportunities once only reserved for institutions.Learn moreLearn moreWhat We DoOur PlatformsTPG puts capital to work through six platforms. Throughout our history, we have grown organically into opportunities we identified through deep thematic work in key sectors and geographies, and through strategic acquisitions to diversify our offerings.Capital$98B AUMLarge-scale control-oriented private equity investingGrowth$37B AUMGrowth equity and middle market private equity investingImpact$37B AUMPrivate equity investing focused on both societal and financial outcomesCredit$108B AUMGlobal credit investing platformReal Estate$43B AUMDiversified, thematic Real Estate investing platformMarket Solutions$23B AUMDifferentiated strategies built to address specific market opportunitiesTPG NewsAll NewsPress ReleaseTPG Reports Third Quarter 2026 ResultsOct.29.2026Read MorePress ReleaseCrusoe Raises $3.9 Billion Series F for its Vertically-Integrated AI Infrastructure PlatformSep.17.2026Read MorePress ReleaseTPG to Make Significant Investment in Tablet CommandSep.15.2026Read MorePress ReleaseWaste Eliminator and Liberty Waste Solutions Announce Combination and Appoint Rich Kang Chief Executive OfficerSep.10.2026Read MorePress ReleaseTPG AG Real Estate Acquires $628M Industrial Portfolio in Partnership with Redfearn CapitalAug.07.2026Read MorePress ReleaseTPG and Madison International Realty form Strategic Partnership for Major German Student Housing PlatformAug.07.2026Read MorePress ReleaseTPG Reports Second Quarter 2026 ResultsAug.04.2026Read MorePress ReleaseThird Wave Insurance Expands Into Gulf Coast Region with Acquisition of Five Insurance and Advisory BusinessesJul.29.2026Read MorePress ReleaseTPG-led consortium to acquire Aseem Infrastructure Finance, alongside co-invest partners GIC and ICICI BankJul.06.2026Read MorePress ReleaseTPG Launches Arcura Medical Properties Following Completion of Acquisition of Premier German and Dutch Medical Outpatient PortfolioJul.01.2026Read MorePress ReleaseTPG Appoints Axel André as Chief Financial OfficerJun.22.2026Read MorePress ReleaseTPG to Acquire Waste Eliminator and Liberty Waste Solutions from Allied Industrial Partners to Create a Sustainable Waste Infrastructure PlayerJun.17.2026Read MoreSignup for TPG’s LinkedIn Newsletter",
+  "text_length": 3998,
+  "iframes": [
+    {
+      "src": "https://www.googletagmanager.com/ns.html?id=GTM-WR9G6ZFH",
+      "title": ""
+    },
+    {
+      "src": "https://player.vimeo.com/video/1152304045?autoplay=1&background=1&controls=0&loop=1&muted=1&title=0&byline=0&portrait=0",
+      "title": ""
+    }
+  ],
+  "script_sources": [
+    "https://www.tpg.com/_next/static/chunks/1d2e9733-c64439bf675ab876.js",
+    "https://www.tpg.com/_next/static/chunks/744-c0367962353d3058.js",
+    "https://www.tpg.com/_next/static/chunks/main-app-8b6382cb91b6ec78.js",
+    "https://www.tpg.com/_next/static/chunks/174-97303c8eece6b31c.js",
+    "https://www.tpg.com/_next/static/chunks/494-b0de1edea1b804ea.js",
+    "https://www.tpg.com/_next/static/chunks/716-36cec47610ceabe3.js",
+    "https://www.tpg.com/_next/static/chunks/350-5b54bf37fb1d61cd.js",
+    "https://www.tpg.com/_next/static/chunks/69-6656743cb9799c91.js",
+    "https://www.tpg.com/_next/static/chunks/app/%5B...slug%5D/page-af3798b4f6075e67.js",
+    "https://www.tpg.com/_next/static/chunks/app/layout-9e06e2789e44181b.js",
+    "https://www.tpg.com/_next/static/chunks/app/not-found-06959121844a1cb3.js",
+    "https://www.tpg.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "https://www.tpg.com/_next/static/chunks/webpack-4ac34d3686354037.js"
+  ],
+  "stylesheets": [
+    "https://www.tpg.com/_next/static/css/c47d427331e8418d.css"
+  ],
+  "hreflang": []
+}

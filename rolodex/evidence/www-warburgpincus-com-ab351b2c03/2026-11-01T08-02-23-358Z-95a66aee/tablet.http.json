@@ -1,0 +1,22 @@
+{
+  "status": 403,
+  "url": "https://warburgpincus.com/",
+  "headers": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare"
+  },
+  "redirects": [
+    {
+      "url": "https://www.warburgpincus.com/",
+      "status": 301
+    },
+    {
+      "url": "https://warburgpincus.com/",
+      "status": 403
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "0d1e8eaf590a9195cb26c0dd798dcc7b7d8a02fa8f00fd203c519da16c879fa1",
+  "body_bytes": 6165
+}

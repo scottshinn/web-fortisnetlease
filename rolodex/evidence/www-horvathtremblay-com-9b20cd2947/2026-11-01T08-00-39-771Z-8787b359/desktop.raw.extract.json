@@ -1,0 +1,1144 @@
+{
+  "url": "https://horvathtremblay.com/",
+  "base_url": "https://horvathtremblay.com/",
+  "title": "Home - Horvath & Tremblay",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website",
+      "article"
+    ],
+    "og:title": [
+      "Home - Horvath & Tremblay",
+      "Home"
+    ],
+    "og:url": [
+      "https://horvathtremblay.com/",
+      "https://horvathtremblay.com/"
+    ],
+    "og:site_name": [
+      "Horvath & Tremblay",
+      "Horvath & Tremblay"
+    ],
+    "article:modified_time": [
+      "2026-07-23T12:16:07+00:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "og:description": [
+      "ABOUT US\nRelationship Focused\nResults Driven\nSERVICES  \nHorvath & Tremblay is a premier real estate services firm specializing in investment real estate brokerage, 1031 exchanges, debt and equity placement, and appraisal and valuation services.\nHeadquartered in Boston, with a nationwide presence spanning 19 offices,"
+    ],
+    "og:image": [
+      "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp"
+    ],
+    "cdp-version": [
+      "1.4.9"
+    ],
+    "msapplication-tileimage": [
+      "https://horvathtremblay.com/wp-content/uploads/2026/07/cropped-HT-Logo-Circle-2025-1-270x270.png"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://horvathtremblay.com/",
+      "url": "https://horvathtremblay.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 5,
+      "text": "E-Mail Signup",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > h5:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 5,
+      "text": "Sign up for news and information about our property listings.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > h5:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "RESULTS DRIVEN INVESTMENT",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "REAL ESTATE SERVICES",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Consistently recognized as one of the top investment real estate service firms in the United States.",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "RESULTS DRIVEN INVESTMENT",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "REAL ESTATE SERVICES",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Consistently recognized as one of the top investment real estate service firms in the United States.",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "ABOUT US",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Relationship Focused",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Results Driven",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "DELIVERING UNMATCHED SERVICE & RESULTS",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "H&T AT A GLANCE",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "$10B+",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "IN RECENT TRANSACTIONS",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "3,000+",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "TRANSACTIONS ACROSS 44 STATES",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "19",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "OFFICES ACROSS THE US",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "What We Do",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "CONSISTENTLY RECOGNIZED BY",
+      "selector": "div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "STAY IN TOUCH",
+      "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Subscribe to Our Mailing List",
+      "selector": "#modal-heading-1",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#content",
+      "url": "https://horvathtremblay.com/#content",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/",
+      "url": "https://horvathtremblay.com/",
+      "text": "Horvath & Tremblay Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "Our Offices",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/hthelps/",
+      "url": "https://horvathtremblay.com/hthelps/",
+      "text": "HT Helps",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-sales/",
+      "url": "https://horvathtremblay.com/investment-sales/",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/1031-exchange/",
+      "url": "https://horvathtremblay.com/1031-exchange/",
+      "text": "1031 Exchange",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/capital-markets/",
+      "url": "https://horvathtremblay.com/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "http://htappraisal.com/",
+      "url": "http://htappraisal.com/",
+      "text": "Appraisal & Valuation",
+      "rel": "",
+      "internal": false,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Results",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/retail/",
+      "url": "https://horvathtremblay.com/retail/",
+      "text": "Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/results/",
+      "url": "https://horvathtremblay.com/results/",
+      "text": "Multi-Family",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/office-industrial-results/",
+      "url": "https://horvathtremblay.com/office-industrial-results/",
+      "text": "Office/Industrial",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/capital-markets-results/",
+      "url": "https://horvathtremblay.com/capital-markets-results/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/careers/",
+      "url": "https://horvathtremblay.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "Our Offices",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/hthelps/",
+      "url": "https://horvathtremblay.com/hthelps/",
+      "text": "HT Helps",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-sales/",
+      "url": "https://horvathtremblay.com/investment-sales/",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/1031-exchange/",
+      "url": "https://horvathtremblay.com/1031-exchange/",
+      "text": "1031 Exchange",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/capital-markets/",
+      "url": "https://horvathtremblay.com/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "http://htappraisal.com/",
+      "url": "http://htappraisal.com/",
+      "text": "Appraisal & Valuation",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Results",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/retail/",
+      "url": "https://horvathtremblay.com/retail/",
+      "text": "Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/results/",
+      "url": "https://horvathtremblay.com/results/",
+      "text": "Multi-Family",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/office-industrial-results/",
+      "url": "https://horvathtremblay.com/office-industrial-results/",
+      "text": "Office/Industrial",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/capital-markets-results/",
+      "url": "https://horvathtremblay.com/capital-markets-results/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/careers/",
+      "url": "https://horvathtremblay.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Toggle mobile menu",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/author/jvelez/",
+      "url": "https://horvathtremblay.com/author/jvelez/",
+      "text": "Joshua Velez",
+      "rel": "author",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#aboutSection",
+      "url": "https://horvathtremblay.com/#aboutSection",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#aboutSection",
+      "url": "https://horvathtremblay.com/#aboutSection",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "SERVICES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "SERVICES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "OFFICES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "MEET THE TEAM",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/privacy-policy/",
+      "url": "https://horvathtremblay.com/privacy-policy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Subscribe",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.facebook.com/HorvathTremblay/",
+      "url": "https://www.facebook.com/HorvathTremblay/",
+      "text": "facebook",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://twitter.com/horvathtremblay",
+      "url": "https://twitter.com/horvathtremblay",
+      "text": "twitter",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/horvath-&-tremblay",
+      "url": "https://www.linkedin.com/company/horvath-&-tremblay",
+      "text": "linkedin",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/privacy-policy/",
+      "url": "https://horvathtremblay.com/privacy-policy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Go to Top",
+      "rel": "",
+      "internal": true,
+      "selector": "#toTop",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp",
+      "alt": "Horvath & Tremblay Logo",
+      "width": "450",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp",
+      "alt": "Horvath & Tremblay Logo",
+      "width": "450",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(2)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2021/01/arrow.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2021/01/arrow.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/Hobart-ICSC.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/Nadler-and-Client-2.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/D-Kelleher-2.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/Lombardi-and-Conway-2.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Boston-Business-Journal-White-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Commercial-Property-Executive-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/ConnectCRE_Connect-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Crexi-Logo-White.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Globe-Street-real-estate-forum-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/mid-atlantic-1.png",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/nerej-1.png",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/nyrej-1.png",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/costar.webp",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/REBusinessOnline-White-logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/RE-Journals-white-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/The-Real-Reporter-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/traded-logo-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(13) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Yahoo-Finance-White-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/logo-set-1-new-4.png",
+      "alt": null,
+      "width": "800",
+      "height": "260",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/logo-set-2-new.png",
+      "alt": null,
+      "width": "800",
+      "height": "260",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/logo-set-3-new-2.png",
+      "alt": null,
+      "width": "800",
+      "height": "260",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "FirstName",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(2) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "LastName",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "Email",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(4) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "PhoneNo",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "your-name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2) > input:nth-of-type(1)",
+      "name": "your-company",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(3) > input:nth-of-type(1)",
+      "name": "your-email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(4) > input:nth-of-type(1)",
+      "name": "your-phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "p:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "receive-text[]",
+      "type": "checkbox",
+      "label": "Receive Text"
+    },
+    {
+      "selector": "p:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "agreement[]",
+      "type": "checkbox",
+      "label": "Agreement"
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://horvathtremblay.com/\",\"url\":\"https://horvathtremblay.com/\",\"name\":\"Home - Horvath &amp; Tremblay\",\"isPartOf\":{\"@id\":\"https://horvathtremblay.com/#website\"},\"datePublished\":\"2023-11-10T14:03:31+00:00\",\"dateModified\":\"2026-07-23T12:16:07+00:00\",\"breadcrumb\":{\"@id\":\"https://horvathtremblay.com/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://horvathtremblay.com/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://horvathtremblay.com/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://horvathtremblay.com/#website\",\"url\":\"https://horvathtremblay.com/\",\"name\":\"Horvath &amp; Tremblay\",\"description\":\"Investment Real Estate Brokerage Firms\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://horvathtremblay.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://horvathtremblay.com/",
+            "url": "https://horvathtremblay.com/",
+            "name": "Home - Horvath &amp; Tremblay",
+            "isPartOf": {
+              "@id": "https://horvathtremblay.com/#website"
+            },
+            "datePublished": "2023-11-10T14:03:31+00:00",
+            "dateModified": "2026-07-23T12:16:07+00:00",
+            "breadcrumb": {
+              "@id": "https://horvathtremblay.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://horvathtremblay.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://horvathtremblay.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://horvathtremblay.com/#website",
+            "url": "https://horvathtremblay.com/",
+            "name": "Horvath &amp; Tremblay",
+            "description": "Investment Real Estate Brokerage Firms",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://horvathtremblay.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    {
+      "source": "\n    {\n     \"@context\": \"https://schema.org\",\n     \"@type\": \"BreadcrumbList\",\n     \"itemListElement\":\n     [\n      {\n       \"@type\": \"ListItem\",\n       \"position\": 1,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/services/\",\n        \"name\": \"Services\"\n        }\n      },\n      {\n       \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"item\":\n       {\n         \"@id\": \"https://horvathtremblay.com/1031-exchange/\",\n         \"name\": \"1031 Exchange\"\n       }\n      },\n      \n       {\n       \"@type\": \"ListItem\",\n       \"position\": 3,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/team/\",\n        \"name\": \"Meet the Team\"\n        }\n      },\n     \n     \n      {\n       \"@type\": \"ListItem\",\n       \"position\": 4,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/retail/\",\n        \"name\": \"Retail\"\n        }\n      },\n     \n       {\n       \"@type\": \"ListItem\",\n       \"position\": 5,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/results/\",\n        \"name\": \"Multi-Family\"\n        }\n      },\n      \n       {\n       \"@type\": \"ListItem\",\n       \"position\": 6,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/contact/\",\n        \"name\": \"Offices\"\n        }\n      }\n           \n     ]\n          \n    }\n    ",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://horvathtremblay.com/services/",
+              "name": "Services"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://horvathtremblay.com/1031-exchange/",
+              "name": "1031 Exchange"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@id": "https://horvathtremblay.com/team/",
+              "name": "Meet the Team"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@id": "https://horvathtremblay.com/retail/",
+              "name": "Retail"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@id": "https://horvathtremblay.com/results/",
+              "name": "Multi-Family"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@id": "https://horvathtremblay.com/contact/",
+              "name": "Offices"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 1,
+    "article": 0,
+    "section": 2,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "HomeJoshua Velez2026-07-23T08:16:07-04:00 RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the United States. RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the United States. ABOUT US Relationship Focused Results Driven SERVICES Horvath & Tremblay is a premier real estate services firm specializing in investment real estate brokerage, 1031 exchanges, debt and equity placement, and appraisal and valuation services. Headquartered in Boston, with a nationwide presence spanning 19 offices, the firm has earned a reputation as a trusted partner to thousands of real estate investors and industry professionals. Our experienced team is committed to delivering exceptional service and strategic guidance, helping clients maximize the value of their real estate investments and achieve long-term success. SERVICES DELIVERING UNMATCHED SERVICE & RESULTS H&T AT A GLANCE Our success is defined by the high level of value we provide to our clients and other industry professionals. $0IN RECENT TRANSACTIONS$10B+ IN RECENT TRANSACTIONS 0+TRANSACTIONS ACROSS 44 STATES3,000+ TRANSACTIONS ACROSS 44 STATES 0OFFICES ACROSS THE US19 OFFICES ACROSS THE US OFFICES What We Do More than ever, real estate investors need strong relationships with professionals who can provide accurate market insight and strategic recommendations for their investment portfolios. Horvath & Tremblay is committed to being a leading investment real estate services company, delivering superior results for its clients. Backed by years of experience, national market knowledge, and local expertise, the firm continues to innovate by providing enhanced data, technology, and resources to both its professionals and clients. As a result, Horvath & Tremblay has consistently been recognized among the “Top 10 Best Commercial Real Estate Workplaces in the U.S.” while expanding rapidly to nineteen offices nationwide. MEET THE TEAM CONSISTENTLY RECOGNIZED BY STAY IN TOUCH Sign up for news and information about our property listings. ×Subscribe to Our Mailing List Receive Text By checking this box, I agree to receive SMS messages about updates, offers and information from Horvath & Tremblay at the phone number provided above. The SMS frequency may vary. Message and data rates may apply. Text HELP to (781) 776-4000 for assistance. Reply STOP to opt out of receiving SMS messages. Agreement By checking this box, you are confirming that you have read and agree to our Privacy Policy × Subscribe",
+  "text_length": 2624,
+  "iframes": [],
+  "script_sources": [
+    "https://horvathtremblay.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://horvathtremblay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://horvathtremblay.com/wp-content/plugins/horvath-team-sync/public/js/horvath-team-sync-public.js?ver=1.0.0",
+    "https://www.googletagmanager.com/gtag/js?id=UA-72936908-1",
+    "https://www.googletagmanager.com/gtag/js?id=G-Y4XCXGZ6FZ",
+    "https://horvathtremblay.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "https://horvathtremblay.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+    "https://horvathtremblay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+    "https://horvathtremblay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+    "https://horvathtremblay.com/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js?ver=1.4",
+    "https://www.google.com/recaptcha/api.js?render=6LeAWswfAAAAAD8SIERdrf7HLiXoPUNir9oz4czm&ver=3.0",
+    "https://horvathtremblay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+    "https://horvathtremblay.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js?ver=3.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.appear.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.7.2",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js?ver=1.1.2",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/vimeoPlayer.js?ver=2.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-skip-link-focus-fix.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-contact-form-7.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-live-search.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-core/js/min/fusion-vertical-menu-widget.js?ver=5.2.1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1"
+  ],
+  "stylesheets": [
+    "https://horvathtremblay.com/wp-content/plugins/horvath-team-sync/public/css/horvath-team-sync-public.css?ver=1.0.0",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-core/css/style.min.css?ver=5.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/css/style.min.css?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada-Child-Theme/style.css?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/uploads/fusion-icons/icomoon-1/style.css?ver=3.2.1"
+  ],
+  "hreflang": []
+}

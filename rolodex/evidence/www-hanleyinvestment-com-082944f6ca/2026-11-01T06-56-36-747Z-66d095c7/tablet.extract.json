@@ -1,0 +1,529 @@
+{
+  "url": "https://www.hanleyinvestmentgroup.com/",
+  "base_url": "https://www.hanleyinvestmentgroup.com/",
+  "title": "Attention Required! | Cloudflare",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "robots": [
+      "noindex, nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Sorry, you have been blocked",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "You are unable to access hanleyinvestmentgroup.com",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Why have I been blocked?",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "What can I do to resolve this?",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cloudflare.com/5xx-error-landing",
+      "url": "https://www.cloudflare.com/5xx-error-landing",
+      "text": "Cloudflare",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#brand_link",
+      "visible": true
+    }
+  ],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "Please enable cookies. Sorry, you have been blocked You are unable to access hanleyinvestmentgroup.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a539006a2ab2b2a6 • Your IP: Click to reveal 2402:8100:22cf:5908:a845:ee85:50d5:cf42 • Performance & security by Cloudflare",
+  "text_length": 761,
+  "iframes": [],
+  "script_sources": [
+    "https://www.hanleyinvestmentgroup.com/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a539006a2ab2b2a6",
+    "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+  ],
+  "stylesheets": [
+    "https://www.hanleyinvestmentgroup.com/cdn-cgi/styles/cf.errors.css"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "scroll_width": 768,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "Please enable cookies. Sorry, you have been blocked You are unable to access hanleyinvestmentgroup.com Why have I been blocked? This website is using a security service to protect ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 831.15625
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Times New Roman\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "Sorry, you have been blocked",
+        "rect": {
+          "x": 38.40625,
+          "y": 25,
+          "width": 691.1875,
+          "height": 43.1875
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "36px",
+          "font-weight": "300",
+          "line-height": "43.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "You are unable to access hanleyinvestmentgroup.com",
+        "rect": {
+          "x": 38.40625,
+          "y": 68.1875,
+          "width": 691.1875,
+          "height": 39
+        },
+        "styles": {
+          "color": "rgb(89, 89, 89)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "30px",
+          "font-weight": "300",
+          "line-height": "39px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Why have I been blocked?",
+        "rect": {
+          "x": 38.40625,
+          "y": 376.1875,
+          "width": 691.1875,
+          "height": 39
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "30px",
+          "font-weight": "400",
+          "line-height": "39px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could ",
+        "rect": {
+          "x": 38.40625,
+          "y": 430.1875,
+          "width": 691.1875,
+          "height": 67.5
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "15px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "What can I do to resolve this?",
+        "rect": {
+          "x": 38.40625,
+          "y": 542.6875,
+          "width": 691.1875,
+          "height": 39
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "30px",
+          "font-weight": "400",
+          "line-height": "39px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page",
+        "rect": {
+          "x": 38.40625,
+          "y": 596.6875,
+          "width": 691.1875,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "15px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Cloudflare Ray ID: a539006a2ab2b2a6 • Your IP: Click to reveal 2402:8100:22cf:5908:a845:ee85:50d5:cf42 • Performance & security by Cloudflare",
+        "rect": {
+          "x": 38.40625,
+          "y": 737.671875,
+          "width": 691.1875,
+          "height": 68.5
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#cf-footer-ip-reveal",
+        "tag": "button",
+        "text": "Click to reveal",
+        "rect": {
+          "x": 84.625,
+          "y": 762.171875,
+          "width": 80.078125,
+          "height": 19.5
+        },
+        "styles": {
+          "color": "rgb(0, 81, 195)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "#brand_link",
+        "tag": "a",
+        "text": "Cloudflare",
+        "rect": {
+          "x": 193.328125,
+          "y": 787.671875,
+          "width": 58.984375,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 81, 195)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "selector": "#cf-footer-ip-reveal",
+        "tag": "button",
+        "role": null,
+        "name": "Click to reveal",
+        "width": 80.078125,
+        "height": 19.5,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#brand_link",
+        "tag": "a",
+        "role": null,
+        "name": "Cloudflare",
+        "width": 58.984375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 166.30000001192093,
+      "dom_content_loaded_ms": 392.40000000596046,
+      "load_ms": 881.1000000238419
+    },
+    "resources": [
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/speculation",
+        "type": "other",
+        "duration_ms": 87.09999999403954,
+        "transfer_bytes": 451,
+        "decoded_bytes": 151
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/styles/cf.errors.css",
+        "type": "link",
+        "duration_ms": 162.7000000178814,
+        "transfer_bytes": 4854,
+        "decoded_bytes": 24051
+      },
+      {
+        "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+        "type": "script",
+        "duration_ms": 9.300000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a539006a2ab2b2a6",
+        "type": "script",
+        "duration_ms": 416.59999999403954,
+        "transfer_bytes": 18638,
+        "decoded_bytes": 44360
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/images/browser-bar.png?1376755637",
+        "type": "css",
+        "duration_ms": 85.69999998807907,
+        "transfer_bytes": 1015,
+        "decoded_bytes": 715
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/images/cf-no-screenshot-error.png",
+        "type": "css",
+        "duration_ms": 78.40000000596046,
+        "transfer_bytes": 3513,
+        "decoded_bytes": 3213
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/challenge-platform/h/g/precursor/c787ce48cf6b/0.3313013711698136:1793513957:OEzmucAoyOAD1OtG2lWsm7I3chu993nClwCnvXQgVNs/a539006a2ab2b2a6",
+        "type": "xmlhttprequest",
+        "duration_ms": 90.40000000596046,
+        "transfer_bytes": 318,
+        "decoded_bytes": 18
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/cdn-cgi/rum?",
+        "type": "xmlhttprequest",
+        "duration_ms": 84,
+        "transfer_bytes": 300,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.hanleyinvestmentgroup.com/favicon.ico",
+        "type": "other",
+        "duration_ms": 86.69999998807907,
+        "transfer_bytes": 1907,
+        "decoded_bytes": 4586
+      }
+    ],
+    "observations": {
+      "lcp_ms": 408,
+      "layout_shifts": [
+        {
+          "time": 407.80000001192093,
+          "value": 0.0008210614323616028
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 774.7000000178814,
+          "duration_ms": 103
+        }
+      ]
+    }
+  }
+}

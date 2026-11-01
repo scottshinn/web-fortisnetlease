@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.bouldergroup.com/",
+  "headers": {
+    "cache-control": "max-age=600",
+    "content-encoding": "gzip",
+    "content-length": "3901",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Sucuri/Cloudproxy",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.bouldergroup.com/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "be8f6221b0030779109967fd6eb007e7406ace11dfc6137b230945511e84069d",
+  "body_bytes": 11209
+}

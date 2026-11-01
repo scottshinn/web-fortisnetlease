@@ -1,0 +1,46 @@
+{
+  "_note": "Organisation facts. Every value carries its source in architecture.json business.facts or harvest/data.json. Items with status 'unconfirmed' are listed in FACTS-TO-CONFIRM.md and are never emitted in JSON-LD.",
+  "origin": "https://fortisnetlease.com",
+  "name": "Fortis Net Lease",
+  "tagline": "Your net lease company™",
+  "foundingDate": "2009",
+  "founders": ["Robert Bender", "Doug Passon", "Bryan Bender"],
+  "address": {
+    "street": "30445 Northwestern Hwy, Suite #275",
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zip": "48334",
+    "country": "US"
+  },
+  "phone": "(248) 254-3410",
+  "phoneE164": "+12482543410",
+  "email": "info@fortisnetlease.com",
+  "leadInbox": "info@fortisnetlease.com",
+  "leadInboxNote": "TODO(lead-routing): confirm which inbox or CRM receives each form (FACTS-TO-CONFIRM #33). Forms post to mailto until an endpoint exists.",
+  "social": [
+    { "network": "Facebook", "url": "https://www.facebook.com/fortisnetlease/" },
+    { "network": "Instagram", "url": "https://www.instagram.com/fortisnetlease/" },
+    { "network": "LinkedIn", "url": "https://www.linkedin.com/company/16217353/" }
+  ],
+  "stats": {
+    "status": "unconfirmed",
+    "asOfLabel": "Figures as published on fortisnetlease.com, 1 Nov 2026. Pending owner confirmation (FACTS-TO-CONFIRM #1–4).",
+    "items": [
+      { "label": "Total investment sales volume", "value": "$9B+", "source": "Home page “$9+ B”; About “over $9 Billion”. Lowest current claim; the $9.3B figure is withheld." },
+      { "label": "Closed transactions", "value": "4,000+", "source": "About page “over 4,000+ transactions”. Lowest current claim; the 4,500 figure is withheld." },
+      { "label": "States transacted", "value": "46", "source": "Home page “46 States. National Experience”" },
+      { "label": "Investment broker and buyer reach", "value": "400K", "source": "Home page “400K Investment Broker & Proprietary Buyer Reach”" }
+    ]
+  },
+  "smsConsent": "I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service.",
+  "unpublished": [
+    "Fax number (conflict, FACTS-TO-CONFIRM #8)",
+    "Legal entity name (#9)",
+    "Broker licence numbers (#10, #20)",
+    "Client relationship list (#27)",
+    "Careers income figures (#26)",
+    "“#1” claims (#7)",
+    "Sector sales volumes (#6)",
+    "Julie Thomson profile (#18)"
+  ]
+}

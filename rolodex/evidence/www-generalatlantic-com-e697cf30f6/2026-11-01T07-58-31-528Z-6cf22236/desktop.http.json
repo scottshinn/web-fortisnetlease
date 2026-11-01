@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.generalatlantic.com/",
+  "headers": {
+    "cache-control": "public, max-age=604800",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.generalatlantic.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.generalatlantic.com/wp-json/wp/v2/pages/1120>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.generalatlantic.com/>; rel=shortlink",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding, Cookie, Cookie"
+  },
+  "redirects": [
+    {
+      "url": "https://www.generalatlantic.com/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "69df8bd8efb7ccc20a77d8e3b312df969e076a2af2307ce4b2835daf920ffdec",
+  "body_bytes": 226883
+}

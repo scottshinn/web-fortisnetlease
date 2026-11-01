@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.tpg.com/",
+  "headers": {
+    "cache-control": "s-maxage=31536000",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-powered-by": "WP Engine Headless Platform"
+  },
+  "redirects": [
+    {
+      "url": "https://www.tpg.com/",
+      "status": 200
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "0ff32fb67bbf78d7d2daacd2ca987f712d1ec7b68b086306dd2778622c03bd95",
+  "body_bytes": 249962
+}

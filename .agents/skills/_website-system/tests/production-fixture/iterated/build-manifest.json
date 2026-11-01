@@ -1,0 +1,17 @@
+{
+  "algorithm": "sha256",
+  "digest": "674529911209c92d66a405fac8808032cc5a1b6f36c78425bb2fbc5073a8aec2",
+  "files": {
+    "404.html": "2aa5211dee5ec358b77df5b66bd6e231f692bedc9c93fb57a98e055f6308362c",
+    "assets/favicon.svg": "841e8356da0055a32e87542e31f0ba4b4aec0981bd1134ea9aba67b5c831f6b2",
+    "assets/main.js": "8e07649f3bcab88a341bfbd7b352670cd9eb5985ee074ab39f203b218ef1978f",
+    "assets/styles.css": "877bedb0da059cf69379ede497d9ee7e1c7b1fb805d06debaf20a74feac67b6d",
+    "contact/index.html": "3ec0e1777f040305509c1f66c7097bab24dd0312543a11634c646a390f19e220",
+    "index.html": "05fe362a891673f63f738229a367a5514a3225dcbc86a8150997c1821330b103",
+    "robots.txt": "cbcdc6486645397e991e0a51311cecff4dc3a2d2fc4f85a135b8e20c557f19fe",
+    "routes.json": "8860728cc5887730ddb33cf12006fd5cb3cae547465888a119201ff25a738680",
+    "services/roof-inspection/index.html": "9b997030e7a7b3784564d913975bed2bfe30c69b7e1fe99fec4d34529e7501d2",
+    "services/roof-repair/index.html": "fe8bc6d4d8c5328470418ef2dd5d3bb2d6c9fb7dff43b575bbb53db3b7adfee3",
+    "sitemap.xml": "3a9976f0ed80dc22748bf9809f3dcb7b34c125d8d34fdf70209c0a11b6ccf8aa"
+  }
+}

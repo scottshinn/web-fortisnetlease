@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "www-warburgpincus-com-ab351b2c03",
+  "origin": "https://www.warburgpincus.com",
+  "created_at": "2026-11-01T08:02:35.694Z",
+  "updated_at": "2026-11-01T08:02:35.695Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T08-02-23-358Z-95a66aee",
+      "url": "https://warburgpincus.com/",
+      "captured_at": "2026-11-01T08:02:35.632Z",
+      "path": "evidence/www-warburgpincus-com-ab351b2c03/2026-11-01T08-02-23-358Z-95a66aee/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

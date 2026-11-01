@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "www-kkr-com-e3a6a9b463",
+  "origin": "https://www.kkr.com",
+  "created_at": "2026-11-01T06:58:41.772Z",
+  "updated_at": "2026-11-01T08:05:53.510Z",
+  "classification": {
+    "industry": [
+      "financial-services",
+      "private-equity"
+    ],
+    "style": [
+      "brand-color-blocks",
+      "light",
+      "premium",
+      "restrained"
+    ],
+    "technology": [],
+    "components": [
+      "audience-split",
+      "aum-stat-cards",
+      "insights-cards",
+      "mega-footer",
+      "newsletter-band",
+      "story-carousel"
+    ]
+  },
+  "design_notes": [
+    {
+      "text": "Four outlined AUM stat cards with category labels and an 'as of' date footnote - the dated footnote makes numbers credible. Directly borrowable for closed volume / avg cap rate / transactions.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "'Who We Serve' two-column audience split with short copy and underlined text links maps to Buyers / Sellers / 1031 Exchange / Developers.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Light, thin-weight sans headlines in a single brand color, alternating white/pale-grey/dark sections; generous whitespace signals premium.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T06-57-50-347Z-0039e5b0",
+      "url": "https://www.kkr.com/",
+      "captured_at": "2026-11-01T06:58:41.556Z",
+      "path": "evidence/www-kkr-com-e3a6a9b463/2026-11-01T06-57-50-347Z-0039e5b0/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

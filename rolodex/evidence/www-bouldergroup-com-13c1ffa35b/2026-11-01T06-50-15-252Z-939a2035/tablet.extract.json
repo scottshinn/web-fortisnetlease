@@ -1,0 +1,1887 @@
+{
+  "url": "https://www.bouldergroup.com/",
+  "base_url": "https://www.bouldergroup.com/",
+  "title": "The Boulder Group | Single Tenant Net Lease Advisory Firm | Boulder Group",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "keywords": [
+      "The Boulder Group, Boulder Net Lease, Boulder Group, net lease"
+    ],
+    "description": [
+      "The Boulder Group is a national net lease commercial real estate firm that provides brokerage services in the Net leased property sector."
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "google-site-verification": [
+      "rDf4IQxGe7tDN-sAhocVi0KOTPmOuDbJYuBScwbRj6g"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "About Us",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.linkedin.com/company/the-boulder-group",
+      "url": "https://www.linkedin.com/company/the-boulder-group",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://x.com/thebouldergroup",
+      "url": "https://x.com/thebouldergroup",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/bouldergroup/",
+      "url": "https://www.instagram.com/bouldergroup/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCdHnxrT36nU6Hwt7wv9U-5A",
+      "url": "https://www.youtube.com/channel/UCdHnxrT36nU6Hwt7wv9U-5A",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bouldergroup.com/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/NNN-Properties-For-Sale.html",
+      "url": "https://www.bouldergroup.com/NNN-Properties-For-Sale.html",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/research.html",
+      "url": "https://www.bouldergroup.com/research.html",
+      "text": "Research",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/about",
+      "url": "https://www.bouldergroup.com/about",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/services",
+      "url": "https://www.bouldergroup.com/services",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/news",
+      "url": "https://www.bouldergroup.com/news",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/contact.html",
+      "url": "https://www.bouldergroup.com/contact.html",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/signup.html",
+      "url": "https://www.bouldergroup.com/signup.html",
+      "text": "Sign Up",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/",
+      "url": "https://www.bouldergroup.com/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/NNN-Properties-For-Sale.html",
+      "url": "https://www.bouldergroup.com/NNN-Properties-For-Sale.html",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/research.html",
+      "url": "https://www.bouldergroup.com/research.html",
+      "text": "Research",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.bouldergroup.com/about",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services",
+      "url": "https://www.bouldergroup.com/services",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news",
+      "url": "https://www.bouldergroup.com/news",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact.html",
+      "url": "https://www.bouldergroup.com/contact.html",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy.html",
+      "url": "https://www.bouldergroup.com/privacy.html",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/blog",
+      "url": "https://www.bouldergroup.com/blog",
+      "text": "Blog",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/faq",
+      "url": "https://www.bouldergroup.com/faq",
+      "text": "FAQS",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://ipv4.d.adroll.com/px4/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&cookie=EV7YV7V5AZHXJAKNFXLBUM%3A1%7CCGFIUKSHHZBKPJG7FIBQ3H%3A1%7CWWAHQPFQQFA3TGGG7MJSWW%3A1&adroll_s_ref=&keyw=&p0=441&adroll_version=1.0",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/b/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/b_s/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/bombora/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/equativ/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/experian/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/eyeota/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/g/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/index/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/l/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/n/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/o/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/outbrain/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)",
+      "broken": true
+    },
+    {
+      "src": "https://d.adroll.com/cm/pubmatic/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/taboola/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)",
+      "broken": true
+    },
+    {
+      "src": "https://d.adroll.com/cm/triplelift/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)",
+      "broken": false
+    },
+    {
+      "src": "https://d.adroll.com/cm/x/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "head:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/img/boulder-group.jpg",
+      "alt": "Boulder Group",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/mcdonalds.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/walmart.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/chase.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/cvs.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/AAP.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/wags%20new.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/Davita.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/FedEx.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/Olive%20Garden.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/DG.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/CHILIS.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/mcdonalds.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#email",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(7)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    },
+    {
+      "selector": "#email",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > form:nth-of-type(1) > input:nth-of-type(7)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ProfessionalService\",\n  \"@id\": \"https://www.bouldergroup.com/#organization\",\n  \"name\": \"The Boulder Group\",\n  \"alternateName\": \"Boulder Group\",\n  \"url\": \"https://www.bouldergroup.com/\",\n  \"logo\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.bouldergroup.com/img/boulder-group.jpg\"\n  },\n  \"description\": \"The Boulder Group is a boutique commercial real estate advisory firm specializing exclusively in single-tenant net lease (NNN) properties. Founded in 1997, the firm has completed over $11 billion in transactions and ranks among the top national advisors on CoStar.\",\n  \"foundingDate\": \"1997\",\n  \"founder\": {\n    \"@id\": \"https://www.bouldergroup.com/team/randy-blankstein#person\"\n  },\n  \"employee\": [\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://www.bouldergroup.com/team/randy-blankstein#person\",\n      \"name\": \"Randy Blankstein\",\n      \"url\": \"https://www.bouldergroup.com/team/randy-blankstein\"\n    },\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://www.bouldergroup.com/team/jimmy-goodman#person\",\n      \"name\": \"Jimmy Goodman\",\n      \"url\": \"https://www.bouldergroup.com/team/jimmy-goodman\"\n    },\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://www.bouldergroup.com/team/john-feeney#person\",\n      \"name\": \"John Feeney\",\n      \"url\": \"https://www.bouldergroup.com/team/john-feeney\"\n    }\n  ],\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"addressLocality\": \"Wilmette\",\n    \"addressRegion\": \"IL\",\n    \"addressCountry\": \"US\"\n  },\n  \"telephone\": \"+1-847-562-8500\",\n  \"email\": \"info@bouldergroup.com\",\n  \"knowsAbout\": [\n    \"Single-Tenant Net Lease Properties\",\n    \"NNN Properties\",\n    \"Triple Net Lease Investments\",\n    \"1031 Exchange Properties\",\n    \"Cap Rate Research\",\n    \"Commercial Real Estate Brokerage\"\n  ],\n  \"sameAs\": [\n    \"https://www.linkedin.com/company/the-boulder-group\"\n  ]\n}\n",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "@id": "https://www.bouldergroup.com/#organization",
+        "name": "The Boulder Group",
+        "alternateName": "Boulder Group",
+        "url": "https://www.bouldergroup.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.bouldergroup.com/img/boulder-group.jpg"
+        },
+        "description": "The Boulder Group is a boutique commercial real estate advisory firm specializing exclusively in single-tenant net lease (NNN) properties. Founded in 1997, the firm has completed over $11 billion in transactions and ranks among the top national advisors on CoStar.",
+        "foundingDate": "1997",
+        "founder": {
+          "@id": "https://www.bouldergroup.com/team/randy-blankstein#person"
+        },
+        "employee": [
+          {
+            "@type": "Person",
+            "@id": "https://www.bouldergroup.com/team/randy-blankstein#person",
+            "name": "Randy Blankstein",
+            "url": "https://www.bouldergroup.com/team/randy-blankstein"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.bouldergroup.com/team/jimmy-goodman#person",
+            "name": "Jimmy Goodman",
+            "url": "https://www.bouldergroup.com/team/jimmy-goodman"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.bouldergroup.com/team/john-feeney#person",
+            "name": "John Feeney",
+            "url": "https://www.bouldergroup.com/team/john-feeney"
+          }
+        ],
+        "areaServed": {
+          "@type": "Country",
+          "name": "United States"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Wilmette",
+          "addressRegion": "IL",
+          "addressCountry": "US"
+        },
+        "telephone": "+1-847-562-8500",
+        "email": "info@bouldergroup.com",
+        "knowsAbout": [
+          "Single-Tenant Net Lease Properties",
+          "NNN Properties",
+          "Triple Net Lease Investments",
+          "1031 Exchange Properties",
+          "Cap Rate Research",
+          "Commercial Real Estate Brokerage"
+        ],
+        "sameAs": [
+          "https://www.linkedin.com/company/the-boulder-group"
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 0,
+    "main": 1,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "About Us The Boulder Group is a boutique investment real estate service firm specializing in single tenant net lease properties. The firm provides a full range of brokerage, advisory, and financing services nationwide to a substantial and diversified client base, which includes high net worth individuals, developers, REITs, partnerships and institutional investment funds. Founded in 1997, the firm has arranged the acquisition and disposition of over $11 billion of single tenant net lease real estate transactions. From 2015-2025, the firm was ranked in the top 10 companies in the nation for single tenant retail transactions by both CoStar and MSCI Real Capital Analytics. The Boulder Group is headquartered in suburban Chicago and has an office in Denver.",
+  "text_length": 762,
+  "iframes": [],
+  "script_sources": [
+    "https://connect.facebook.net/en_US/fbds.js",
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072733700/?random=1793515827937&cv=9&fst=1793515827937&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247839%2C658953495&u_h=1024&u_w=768&ig=1&frm=0&url=https%3A%2F%2Fwww.bouldergroup.com%2F&tiba=The%20Boulder%20Group%20%7C%20Single%20Tenant%20Net%20Lease%20Advisory%20Firm%20%7C%20Boulder%20Group&hn=www.googleadservices.com&rfmt=3&fmt=4",
+    "https://s.adroll.com/j/roundtrip.js",
+    "https://s.adroll.com/j/pre/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H/fpconsent.js",
+    "https://s.adroll.com/j/pre/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H/index.js",
+    "https://d.adroll.com/consent/check/EV7YV7V5AZHXJAKNFXLBUM?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&_s=328c17c92cd069568b541c643cb31c5c&_b=2",
+    "https://d.adroll.com/pixel/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&cookie=EV7YV7V5AZHXJAKNFXLBUM%3A1%7CCGFIUKSHHZBKPJG7FIBQ3H%3A1%7CWWAHQPFQQFA3TGGG7MJSWW%3A1&adroll_s_ref=&keyw=&p0=441&adroll_version=1.0",
+    "https://s.adroll.com/j/sendrolling.js",
+    "https://www.bouldergroup.com/js/scripts.backstretch.js",
+    "https://www.bouldergroup.com/js/scripts-2.js",
+    "https://www.googleadservices.com/pagead/conversion.js",
+    "https://img1.wsimg.com/traffic-assets/js/tccl.min.js"
+  ],
+  "stylesheets": [
+    "https://www.bouldergroup.com/css/styles.css?v=1789732481"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "scroll_width": 768,
+    "overflowing": [
+      "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)"
+    ],
+    "css_variables": {
+      "--fa-style-family-brands": "\"Font Awesome 6 Brands\"",
+      "--fa-style-family-classic": "\"Font Awesome 6 Free\"",
+      "--fa-font-solid": "normal 900 1em/1 \"Font Awesome 6 Free\"",
+      "--fa-font-regular": "normal 400 1em/1 \"Font Awesome 6 Free\"",
+      "--fa-font-brands": "normal 400 1em/1 \"Font Awesome 6 Brands\""
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "HomePropertiesResearchAbout UsServicesNewsContact Us Sign Up Property Alerts Research Reports About Us The Boulder Group is a boutique investment real estate service firm specializ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 130
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > header:nth-of-type(1)",
+        "tag": "header",
+        "text": "HomePropertiesResearchAbout UsServicesNewsContact Us Sign Up Property Alerts Research Reports",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 130
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "rgb(0, 0, 0) 0px -8px 31px 0px",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 20,
+          "y": 4,
+          "width": 17.5,
+          "height": 22
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 47.5,
+          "y": 4,
+          "width": 15,
+          "height": 22
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 72.5,
+          "y": 4,
+          "width": 17.5,
+          "height": 22
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 100,
+          "y": 4,
+          "width": 22.5,
+          "height": 22
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1)",
+        "tag": "main",
+        "text": "About Us The Boulder Group is a boutique investment real estate service firm specializing in single tenant net lease properties. The firm provides a full range of brokerage, adviso",
+        "rect": {
+          "x": 0,
+          "y": 130,
+          "width": 768,
+          "height": 1121
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "About Us",
+        "rect": {
+          "x": 0,
+          "y": 944,
+          "width": 768,
+          "height": 43
+        },
+        "styles": {
+          "color": "rgb(104, 112, 117)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "32px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "The Boulder Group is a boutique investment real estate service firm specializing in single tenant net lease properties. The firm provides a full range of brokerage, advisory, and f",
+        "rect": {
+          "x": 0,
+          "y": 1027,
+          "width": 768,
+          "height": 224
+        },
+        "styles": {
+          "color": "rgb(104, 112, 117)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "40px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "text": "HomePropertiesResearchAbout UsServicesNewsContact UsPrivacy PolicyBlogFAQS",
+        "rect": {
+          "x": 0,
+          "y": 130,
+          "width": 768,
+          "height": 0
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Home",
+        "rect": {
+          "x": 28.109375,
+          "y": 1335,
+          "width": 35.65625,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Properties",
+        "rect": {
+          "x": 83.765625,
+          "y": 1335,
+          "width": 68.46875,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Research",
+        "rect": {
+          "x": 172.234375,
+          "y": 1335,
+          "width": 58.734375,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "About Us",
+        "rect": {
+          "x": 250.96875,
+          "y": 1335,
+          "width": 58.484375,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Services",
+        "rect": {
+          "x": 329.453125,
+          "y": 1335,
+          "width": 51.96875,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "News",
+        "rect": {
+          "x": 401.421875,
+          "y": 1335,
+          "width": 33.375,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Contact Us",
+        "rect": {
+          "x": 454.796875,
+          "y": 1335,
+          "width": 72.75,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 547.546875,
+          "y": 1335,
+          "width": 90.546875,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Blog",
+        "rect": {
+          "x": 658.09375,
+          "y": 1335,
+          "width": 32.078125,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "FAQS",
+        "rect": {
+          "x": 710.171875,
+          "y": 1335,
+          "width": 29.703125,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 56, 150)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Open Sans\", sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "selector": "body:nth-of-type(1) > header:nth-of-type(1)",
+        "tag": "header",
+        "heading": "",
+        "text_excerpt": "HomePropertiesResearchAbout UsServicesNewsContact Us Sign Up Property Alerts Research Reports",
+        "children": 2,
+        "rect": {
+          "y": 0,
+          "height": 130
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "",
+        "children": 12,
+        "rect": {
+          "y": 130,
+          "height": 774
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2)",
+        "tag": "div",
+        "heading": "About Us",
+        "text_excerpt": "About Us The Boulder Group is a boutique investment real estate service firm specializing in single tenant net lease properties. The firm provides a full range of brokerage, advisory, and financing services nationwide to",
+        "children": 1,
+        "rect": {
+          "y": 904,
+          "height": 347
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "heading": "",
+        "text_excerpt": "HomePropertiesResearchAbout UsServicesNewsContact UsPrivacy PolicyBlogFAQS",
+        "children": 1,
+        "rect": {
+          "y": 130,
+          "height": 0
+        },
+        "layout": "block"
+      }
+    ],
+    "controls": [
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 17.5,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 15,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 17.5,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 22.5,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#email",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 130,
+        "height": 19,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(7)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 22,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#email",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 130,
+        "height": 19,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > form:nth-of-type(1) > input:nth-of-type(7)",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 22,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Home",
+        "width": 35.65625,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Properties",
+        "width": 68.46875,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Research",
+        "width": 58.734375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "About Us",
+        "width": 58.484375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Services",
+        "width": 51.96875,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "News",
+        "width": 33.375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Contact Us",
+        "width": 72.75,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Policy",
+        "width": 90.546875,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Blog",
+        "width": 32.078125,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "FAQS",
+        "width": 29.703125,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 0,
+      "dom_content_loaded_ms": 202.09999999403954,
+      "load_ms": 446
+    },
+    "resources": [
+      {
+        "url": "https://www.bouldergroup.com/css/styles.css?v=1789732481",
+        "type": "link",
+        "duration_ms": 1.699999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 17316
+      },
+      {
+        "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+        "type": "script",
+        "duration_ms": 4.0999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 93100
+      },
+      {
+        "url": "https://www.bouldergroup.com/img/boulder-group.jpg",
+        "type": "img",
+        "duration_ms": 3.5999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 125026
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/mcdonalds.jpg",
+        "type": "img",
+        "duration_ms": 4.700000017881393,
+        "transfer_bytes": 0,
+        "decoded_bytes": 875396
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/walmart.jpg",
+        "type": "img",
+        "duration_ms": 8.200000017881393,
+        "transfer_bytes": 0,
+        "decoded_bytes": 540978
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/chase.jpg",
+        "type": "img",
+        "duration_ms": 9.699999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 646418
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/cvs.jpg",
+        "type": "img",
+        "duration_ms": 11,
+        "transfer_bytes": 0,
+        "decoded_bytes": 412769
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/AAP.jpg",
+        "type": "img",
+        "duration_ms": 40.79999998211861,
+        "transfer_bytes": 0,
+        "decoded_bytes": 504404
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/wags%20new.jpg",
+        "type": "img",
+        "duration_ms": 42.900000005960464,
+        "transfer_bytes": 0,
+        "decoded_bytes": 856274
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/Davita.jpg",
+        "type": "img",
+        "duration_ms": 43.19999998807907,
+        "transfer_bytes": 0,
+        "decoded_bytes": 874936
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/FedEx.jpg",
+        "type": "img",
+        "duration_ms": 38.80000001192093,
+        "transfer_bytes": 0,
+        "decoded_bytes": 182030
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/Olive%20Garden.jpg",
+        "type": "img",
+        "duration_ms": 43.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1052767
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/DG.jpg",
+        "type": "img",
+        "duration_ms": 41.69999998807907,
+        "transfer_bytes": 0,
+        "decoded_bytes": 527907
+      },
+      {
+        "url": "https://www.bouldergroup.com/media/CHILIS.jpg",
+        "type": "img",
+        "duration_ms": 40,
+        "transfer_bytes": 0,
+        "decoded_bytes": 306268
+      },
+      {
+        "url": "https://www.bouldergroup.com/js/scripts.backstretch.js",
+        "type": "script",
+        "duration_ms": 11.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 4233
+      },
+      {
+        "url": "https://www.bouldergroup.com/js/scripts-2.js",
+        "type": "script",
+        "duration_ms": 13,
+        "transfer_bytes": 0,
+        "decoded_bytes": 3011
+      },
+      {
+        "url": "https://www.googleadservices.com/pagead/conversion.js",
+        "type": "script",
+        "duration_ms": 33.400000005960464,
+        "transfer_bytes": 0,
+        "decoded_bytes": 67303
+      },
+      {
+        "url": "https://img1.wsimg.com/traffic-assets/js/tccl.min.js",
+        "type": "script",
+        "duration_ms": 124.10000002384186,
+        "transfer_bytes": 0,
+        "decoded_bytes": 106580
+      },
+      {
+        "url": "https://use.fontawesome.com/releases/v6.4.0/css/all.css",
+        "type": "css",
+        "duration_ms": 0.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800",
+        "type": "css",
+        "duration_ms": 1.2000000178813934,
+        "transfer_bytes": 0,
+        "decoded_bytes": 28875
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/fbds.js",
+        "type": "script",
+        "duration_ms": 5.300000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 4238
+      },
+      {
+        "url": "https://www.bouldergroup.com/img/bg-icon-search-arrow.jpg",
+        "type": "css",
+        "duration_ms": 3.0999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 8563
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072733700/?random=1793515827937&cv=9&fst=1793515827937&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247839%2C658953495&u_h=1024&u_w=768&ig=1&frm=0&url=https%3A%2F%2Fwww.bouldergroup.com%2F&tiba=The%20Boulder%20Group%20%7C%20Single%20Tenant%20Net%20Lease%20Advisory%20Firm%20%7C%20Boulder%20Group&hn=www.googleadservices.com&rfmt=3&fmt=4",
+        "type": "script",
+        "duration_ms": 156.2000000178814,
+        "transfer_bytes": 3241,
+        "decoded_bytes": 7285
+      },
+      {
+        "url": "https://www.facebook.com/tr/?id=791387727605625&ev=PixelInitialized&dl=https%3A%2F%2Fwww.bouldergroup.com%2F&rl=&if=false&v=1.1.1&a=fbds_js&ts=1793515827994",
+        "type": "img",
+        "duration_ms": 103,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google.com/pagead/1p-user-list/1072733700/?random=1793515827937&cv=9&fst=1793512800000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247839%2C658953495&u_h=1024&u_w=768&ig=1&frm=0&url=https%3A%2F%2Fwww.bouldergroup.com%2F&tiba=The%20Boulder%20Group%20%7C%20Single%20Tenant%20Net%20Lease%20Advisory%20Firm%20%7C%20Boulder%20Group&hn=www.googleadservices.com&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-gEAQM4h3M-E2IS1q3Ko__qKO8vsPxBhC_yl0K4XH678s-XLZMgpvdtIl2R7Fy65eQ0BA7zdABj9UcytPNyMuF-BhWxaRE46BH8Wb95GE6q3g7rYvYMOaAitMZXQrVhiDzbEfzVncu6D99qX0ZZM97bB3uTDCuxdYSNZheREWp8s74HuB7byF6PvWG0-FPlf5jzi54HsJ_PmdZso-gsjz-b91gyzqpC0T24Spfi9flYVnUfKusz3pjfj0VJ8-bsFWyRFlZYCCMII8K37Y7mvCs5X0cRw4vCWY0LYA7hOcz83S0LKz8Qt1GWmTL-vkjlzQ84-tTXzyJP0GnWw&random=4037351024&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+        "type": "img",
+        "duration_ms": 134.5,
+        "transfer_bytes": 342,
+        "decoded_bytes": 42
+      },
+      {
+        "url": "https://www.google.co.in/pagead/1p-user-list/1072733700/?random=1793515827937&cv=9&fst=1793512800000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247839%2C658953495&u_h=1024&u_w=768&ig=1&frm=0&url=https%3A%2F%2Fwww.bouldergroup.com%2F&tiba=The%20Boulder%20Group%20%7C%20Single%20Tenant%20Net%20Lease%20Advisory%20Firm%20%7C%20Boulder%20Group&hn=www.googleadservices.com&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-gEAQM4h3M-E2IS1q3Ko__qKO8vsPxBhC_yl0K4XH678s-XLZMgpvdtIl2R7Fy65eQ0BA7zdABj9UcytPNyMuF-BhWxaRE46BH8Wb95GE6q3g7rYvYMOaAitMZXQrVhiDzbEfzVncu6D99qX0ZZM97bB3uTDCuxdYSNZheREWp8s74HuB7byF6PvWG0-FPlf5jzi54HsJ_PmdZso-gsjz-b91gyzqpC0T24Spfi9flYVnUfKusz3pjfj0VJ8-bsFWyRFlZYCCMII8K37Y7mvCs5X0cRw4vCWY0LYA7hOcz83S0LKz8Qt1GWmTL-vkjlzQ84-tTXzyJP0GnWw&random=4037351024&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+        "type": "img",
+        "duration_ms": 133.80000001192093,
+        "transfer_bytes": 342,
+        "decoded_bytes": 42
+      },
+      {
+        "url": "https://s.adroll.com/j/roundtrip.js",
+        "type": "script",
+        "duration_ms": 1,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://s.adroll.com/j/pre/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H/fpconsent.js",
+        "type": "script",
+        "duration_ms": 209.59999999403954,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://s.adroll.com/j/pre/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H/index.js",
+        "type": "script",
+        "duration_ms": 1.0999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/consent/check/EV7YV7V5AZHXJAKNFXLBUM?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&_s=328c17c92cd069568b541c643cb31c5c&_b=2",
+        "type": "script",
+        "duration_ms": 207.80000001192093,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/pixel/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&cookie=EV7YV7V5AZHXJAKNFXLBUM%3A1%7CCGFIUKSHHZBKPJG7FIBQ3H%3A1%7CWWAHQPFQQFA3TGGG7MJSWW%3A1&adroll_s_ref=&keyw=&p0=441&adroll_version=1.0",
+        "type": "script",
+        "duration_ms": 192.2000000178814,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://ipv4.d.adroll.com/px4/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&cookie=EV7YV7V5AZHXJAKNFXLBUM%3A1%7CCGFIUKSHHZBKPJG7FIBQ3H%3A1%7CWWAHQPFQQFA3TGGG7MJSWW%3A1&adroll_s_ref=&keyw=&p0=441&adroll_version=1.0",
+        "type": "img",
+        "duration_ms": 105.69999998807907,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://s.adroll.com/j/sendrolling.js",
+        "type": "script",
+        "duration_ms": 0.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/onp/EV7YV7V5AZHXJAKNFXLBUM/CGFIUKSHHZBKPJG7FIBQ3H?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&pv=15021611152.213634&ev=t%3Dtop%26f%3D0",
+        "type": "img",
+        "duration_ms": 200.40000000596046,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/equativ/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 354.30000001192093,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/bombora/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 495.30000001192093,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/b/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 505.59999999403954,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/g/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 226.69999998807907,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/index/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 422.59999999403954,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/n/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 354,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/o/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 289.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/triplelift/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 435.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 509.40000000596046,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/pubmatic/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 522.7000000178814,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/taboola/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 546.7000000178814,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://d.adroll.com/cm/x/out?af0=9350856b&adroll_fpc=6c5a3662957a2db21c02aacc8f72c282-1793515823013&pv=15021611152.213634&arrfrr=https%3A%2F%2Fwww.bouldergroup.com%2F&advertisable=EV7YV7V5AZHXJAKNFXLBUM",
+        "type": "img",
+        "duration_ms": 406.7000000178814,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      }
+    ],
+    "observations": {
+      "lcp_ms": 280,
+      "layout_shifts": [
+        {
+          "time": 166.69999998807907,
+          "value": 0.000017911195755004883
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 43.69999998807907,
+          "duration_ms": 75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4849 @@
+{
+  "url": "https://www.pjtpartners.com/",
+  "base_url": "https://www.pjtpartners.com/",
+  "title": "Home | PJT Partners",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "next-size-adjust": [
+      ""
+    ],
+    "description": [
+      "PJT is a next-generation global investment bank where advice is the main event."
+    ],
+    "author": [
+      "PJT Partners"
+    ],
+    "creator": [
+      "PJT Partners"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "PJT Partners"
+    ],
+    "apple-mobile-web-app-status-bar-style": [
+      "default"
+    ],
+    "og:title": [
+      "Home"
+    ],
+    "og:description": [
+      "PJT is a next-generation global investment bank where advice is the main event."
+    ],
+    "twitter:card": [
+      "summary"
+    ],
+    "twitter:title": [
+      "Home"
+    ],
+    "twitter:description": [
+      "PJT is a next-generation global investment bank where advice is the main event."
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 2,
+      "text": "Together, we create differentiated solutions to complex challenges",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "One Firm.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Many Capabilities.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Strategic Advisory",
+      "selector": "a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Restructuring & Special Situations",
+      "selector": "a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Fund Advisory",
+      "selector": "a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+      "url": "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+      "text": "Cookiebot by Usercentrics - opens in a new window",
+      "rel": "noopener nofollow",
+      "internal": false,
+      "selector": "#CybotCookiebotDialogPoweredbyCybot",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Consent",
+      "rel": "",
+      "internal": true,
+      "selector": "#CybotCookiebotDialogNavDeclaration",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Details",
+      "rel": "",
+      "internal": true,
+      "selector": "#CybotCookiebotDialogNavDetails",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "[#IABV2SETTINGS#]",
+      "rel": "",
+      "internal": true,
+      "selector": "#CybotCookiebotDialogNavAdSettings",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "#CybotCookiebotDialogNavAbout",
+      "visible": false
+    },
+    {
+      "href": "https://assets.ctfassets.net/zakijxeilt6j/79agmgSMKDFK9hwZhdmVjJ/0562788b593a62f27a9b77fc440f0c2b/PJT_Cookie_Policy.pdf",
+      "url": "https://assets.ctfassets.net/zakijxeilt6j/79agmgSMKDFK9hwZhdmVjJ/0562788b593a62f27a9b77fc440f0c2b/PJT_Cookie_Policy.pdf",
+      "text": "Cookie Policy",
+      "rel": "noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Show details",
+      "rel": "",
+      "internal": true,
+      "selector": "#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Cookiebot1",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://www.cookiebot.com/goto/privacy-policy/",
+      "url": "https://www.cookiebot.com/goto/privacy-policy/",
+      "text": "Learn more about this provider",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Google2",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://business.safety.google/privacy/",
+      "url": "https://business.safety.google/privacy/",
+      "text": "Learn more about this provider",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "www.pjtpartners.com1",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]",
+      "rel": "",
+      "internal": true,
+      "selector": "#CybotCookiebotDialogDetailBulkConsentLink",
+      "visible": false
+    },
+    {
+      "href": "https://www.cookiebot.com",
+      "url": "https://www.cookiebot.com/",
+      "text": "Cookiebot",
+      "rel": "noopener",
+      "internal": false,
+      "selector": "div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/",
+      "url": "https://www.pjtpartners.com/",
+      "text": "PJT Partners Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/who-we-are",
+      "url": "https://www.pjtpartners.com/about/who-we-are",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/our-story",
+      "url": "https://www.pjtpartners.com/about/our-story",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/community-impact",
+      "url": "https://www.pjtpartners.com/about/community-impact",
+      "text": "Community Impact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/locations",
+      "url": "https://www.pjtpartners.com/locations",
+      "text": "Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/strategic-advisory",
+      "url": "https://www.pjtpartners.com/expertise/strategic-advisory",
+      "text": "Strategic Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/restructuring-special-situations",
+      "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations",
+      "text": "Restructuring & Special Situations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/fund-advisory",
+      "url": "https://www.pjtpartners.com/expertise/fund-advisory",
+      "text": "Fund Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/geographic-reach",
+      "url": "https://www.pjtpartners.com/geographic-reach",
+      "text": "Geographic Reach",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/integrated-client-solutions",
+      "url": "https://www.pjtpartners.com/integrated-client-solutions",
+      "text": "Integrated Client Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": " https://ir.pjtpartners.com/",
+      "url": "https://ir.pjtpartners.com/",
+      "text": "Investors",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.pjtpartners.com/careers",
+      "text": "Careers at PJT Partners",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/experienced-professionals",
+      "url": "https://www.pjtpartners.com/careers/experienced-professionals",
+      "text": "Experienced Professionals",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/students",
+      "url": "https://www.pjtpartners.com/careers/students",
+      "text": "Students",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.pjtpartners.com/",
+      "text": "PJT Partners Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/who-we-are",
+      "url": "https://www.pjtpartners.com/about/who-we-are",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/our-story",
+      "url": "https://www.pjtpartners.com/about/our-story",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/community-impact",
+      "url": "https://www.pjtpartners.com/about/community-impact",
+      "text": "Community Impact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/locations",
+      "url": "https://www.pjtpartners.com/locations",
+      "text": "Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/strategic-advisory",
+      "url": "https://www.pjtpartners.com/expertise/strategic-advisory",
+      "text": "Strategic Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/restructuring-special-situations",
+      "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations",
+      "text": "Restructuring & Special Situations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/fund-advisory",
+      "url": "https://www.pjtpartners.com/expertise/fund-advisory",
+      "text": "Fund Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/geographic-reach",
+      "url": "https://www.pjtpartners.com/geographic-reach",
+      "text": "Geographic Reach",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/integrated-client-solutions",
+      "url": "https://www.pjtpartners.com/integrated-client-solutions",
+      "text": "Integrated Client Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": " https://ir.pjtpartners.com/",
+      "url": "https://ir.pjtpartners.com/",
+      "text": "Investors",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.pjtpartners.com/careers",
+      "text": "Careers at PJT Partners",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/experienced-professionals",
+      "url": "https://www.pjtpartners.com/careers/experienced-professionals",
+      "text": "Experienced Professionals",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/students",
+      "url": "https://www.pjtpartners.com/careers/students",
+      "text": "Students",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Meet Our Global Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/strategic-advisory",
+      "url": "https://www.pjtpartners.com/expertise/strategic-advisory",
+      "text": "Strategic AdvisoryOur highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/restructuring-special-situations",
+      "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations",
+      "text": "Restructuring & Special SituationsPJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Year for four consecutive years ('20-'23).",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/fund-advisory",
+      "url": "https://www.pjtpartners.com/expertise/fund-advisory",
+      "text": "Fund AdvisoryPJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.pjtpartners.com/",
+      "text": "PJT Partners",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "mailto:info@pjtpartners.com",
+      "url": "mailto:info@pjtpartners.com",
+      "text": "info@pjtpartners.com",
+      "rel": "",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/who-we-are",
+      "url": "https://www.pjtpartners.com/about/who-we-are",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": " https://ir.pjtpartners.com/",
+      "url": "https://ir.pjtpartners.com/",
+      "text": "Investor Relations",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.pjtpartners.com/careers",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy-notice",
+      "url": "https://www.pjtpartners.com/privacy-notice",
+      "text": "Privacy Notice",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/terms-of-use",
+      "url": "https://www.pjtpartners.com/terms-of-use",
+      "text": "Terms of Use",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/regulatory-disclosure",
+      "url": "https://www.pjtpartners.com/regulatory-disclosure",
+      "text": "Regulatory Disclosure",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://assets.ctfassets.net/zakijxeilt6j/79agmgSMKDFK9hwZhdmVjJ/0562788b593a62f27a9b77fc440f0c2b/PJT_Cookie_Policy.pdf",
+      "url": "https://assets.ctfassets.net/zakijxeilt6j/79agmgSMKDFK9hwZhdmVjJ/0562788b593a62f27a9b77fc440f0c2b/PJT_Cookie_Policy.pdf",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": false,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "data:image/png;base64,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AAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECCaAIAAACQIJoAAAAAJIgmAAAAAAmiCQAAAECC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",
+      "alt": "logo",
+      "width": "46",
+      "height": "34",
+      "loading": null,
+      "selector": "#CybotCookiebotDialogPoweredbyImage",
+      "broken": false
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC6SURBVHgBpdTdCcMgEAdwT/vk04EOkBG6QifpHH3rCF2hk3SVvBaEuoDYu4IgRRMv/iEkD/Hn+QnOuatS6gEAqDoJIQC/vfe594+m576FjAZKL6XXkSDiYox5UQFLXZEoNZJzXg9B/0hK6SKGWkiMcRVBewjnNIuURdIzyFBFo0jZPnoGqaMbCEqRJkSNIiFPCfILj7F1GLkySfvuqnFlShDxWesF6D76zF4jPJ/GWvum7/NRjBCegtsXQuuTY/odOJIAAAAASUVORK5CYII=",
+      "alt": "opens in a new window",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC6SURBVHgBpdTdCcMgEAdwT/vk04EOkBG6QifpHH3rCF2hk3SVvBaEuoDYu4IgRRMv/iEkD/Hn+QnOuatS6gEAqDoJIQC/vfe594+m576FjAZKL6XXkSDiYox5UQFLXZEoNZJzXg9B/0hK6SKGWkiMcRVBewjnNIuURdIzyFBFo0jZPnoGqaMbCEqRJkSNIiFPCfILj7F1GLkySfvuqnFlShDxWesF6D76zF4jPJ/GWvum7/NRjBCegtsXQuuTY/odOJIAAAAASUVORK5CYII=",
+      "alt": "opens in a new window",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/1fZcazlGYlRt9uC4VWkGXc/4cee66c8fcef015b54fd9c96b13b5762/3F7A7831_v13_1-2.jpg?w=3840&q=100",
+      "alt": "cover image",
+      "width": "2048",
+      "height": "1365",
+      "loading": "lazy",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/assets/images/logo-white.png?w=256&q=100",
+      "alt": "PJT Partners Logo",
+      "width": "100",
+      "height": "100",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/assets/images/logo-white.svg?w=256&q=100",
+      "alt": "PJT Partners Logo",
+      "width": "100",
+      "height": "100",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/assets/images/logo-white.png?w=256&q=100",
+      "alt": "PJT Partners Logo",
+      "width": "100",
+      "height": "100",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/3KfRObX0Qr7cBPyh1dmcN7/58bc173aed1c7a4ce19f68d3a2c31703/PJT-1037520-flip.jpg?w=3840&q=100",
+      "alt": "",
+      "width": "5698",
+      "height": "4280",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/1PcAg9skF0BiP5QI8Hxgr8/f73f4da230877415185742c41ab11bfe/PJT-1037472_copy.jpg?w=3840&q=100",
+      "alt": "",
+      "width": "3705",
+      "height": "4728",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/XPDXWnalCrzThVJcldeom/779a25294e8da3c1ab9e3914d02452ea/Vector.svg",
+      "alt": "PJT Partners",
+      "width": "66",
+      "height": "66",
+      "loading": "lazy",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonNecessary",
+      "name": null,
+      "type": "checkbox",
+      "label": "Necessary"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonPreferences",
+      "name": null,
+      "type": "checkbox",
+      "label": "Preferences"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonStatistics",
+      "name": null,
+      "type": "checkbox",
+      "label": "Statistics"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonMarketing",
+      "name": null,
+      "type": "checkbox",
+      "label": "Marketing"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonNecessaryInline",
+      "name": null,
+      "type": "checkbox",
+      "label": "Necessary"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonPreferencesInline",
+      "name": null,
+      "type": "checkbox",
+      "label": "Preferences"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonStatisticsInline",
+      "name": null,
+      "type": "checkbox",
+      "label": "Statistics"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyLevelButtonMarketingInline",
+      "name": null,
+      "type": "checkbox",
+      "label": "Marketing"
+    },
+    {
+      "selector": "#CybotCookiebotDialogBodyContentCheckboxPersonalInformation",
+      "name": null,
+      "type": "checkbox",
+      "label": "Do not sell or share my personal information"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://www.pjtpartners.com\",\"name\":\"Home\",\"description\":\"PJT is a next-generation global investment bank where advice is the main event  \",\"url\":\"https://www.pjtpartners.com\",\"primaryImageOfPage\":{\"@type\":\"ImageObject\",\"url\":\"https://images.ctfassets.net/zakijxeilt6j/1fZcazlGYlRt9uC4VWkGXc/4cee66c8fcef015b54fd9c96b13b5762/3F7A7831_v13_1-2.jpg\"}}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://www.pjtpartners.com",
+        "name": "Home",
+        "description": "PJT is a next-generation global investment bank where advice is the main event  ",
+        "url": "https://www.pjtpartners.com",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://images.ctfassets.net/zakijxeilt6j/1fZcazlGYlRt9uC4VWkGXc/4cee66c8fcef015b54fd9c96b13b5762/3F7A7831_v13_1-2.jpg"
+        }
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 3,
+    "main": 1,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "AboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsInvestorsCareersCareers at PJT PartnersExperienced ProfessionalsStudentsAboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsInvestorsCareersCareers at PJT PartnersExperienced ProfessionalsStudentsTogether, we create differentiated solutions to complex challengesOur highly experienced, collaborative teams provide independent advice coupled with high-touch client service. This ethos has allowed us to attract some of the very best talent in the markets in which we operate.We deliver leading advice to many of the world’s most consequential companies, effect some of the most transformative transactions and restructurings and raise billions of dollars of capital around the globe to support startups and more established companies.Meet Our Global TeamOne Firm. Many Capabilities.PJT Partners is a trusted advisor to global companies focused on driving growth, value creation and durability for the future.ExpertiseStrategic AdvisoryOur highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.Restructuring & Special SituationsPJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Year for four consecutive years ('20-'23).Fund AdvisoryPJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+  "text_length": 1752,
+  "iframes": [
+    {
+      "src": "https://www.pjtpartners.com/",
+      "title": "Blank"
+    },
+    {
+      "src": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "Blank"
+    }
+  ],
+  "script_sources": [
+    "https://consent.cookiebot.com/be47683b-a7f0-4649-839f-f92a2343acc6/cc.js?renew=false&referer=www.pjtpartners.com&dnt=false&init=false",
+    "https://www.googletagmanager.com/gtag/js?id=G-QVVENBRQ99&cx=c&gtm=4e6as1",
+    "https://consent.cookiebot.com/uc.js?cbid=be47683b-a7f0-4649-839f-f92a2343acc6&implementation=gtm&consentmode-dataredaction=dynamic",
+    "https://www.pjtpartners.com/_next/static/chunks/0c7dedb9-fd6b071c75193903.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/552-a9aac09c7b545b5a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/main-app-4ac10cf05fa8c0e5.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/710-109d9b9d363fc0da.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/268-521f5c385748ea82.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/app/%5B%5B...slug%5D%5D/page-cd41d44900ce823e.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/webpack-221daa8066e99c87.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-KB44JF3H"
+  ],
+  "stylesheets": [
+    "https://www.pjtpartners.com/_next/static/css/c8048ee8df830498.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/css/c67af2ce96f6806a.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/css/6fdf72095aa5a100.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "scroll_width": 1440,
+    "overflowing": [],
+    "css_variables": {
+      "--container-md": "28rem",
+      "--border": "oklch(92.49% 0 0)",
+      "--tw-inset-shadow-alpha": "100%",
+      "--page-header-slide-1": "linear-gradient(45deg,#4e3b98 0%,#5ca1e6 100%)",
+      "--tw-ring-shadow": "0 0 #0000",
+      "--text-2xl": "1.5rem",
+      "--card-preview-slide-3": "#4e3b98 0%,#5ca1e6 100%",
+      "--aspect-video": "16/9",
+      "--card": "oklch(100% 0 0)",
+      "--pjt-color-blue-1": "#4e3b98",
+      "--gradient-angle-hover-1": "240deg",
+      "--tw-drop-shadow-alpha": "100%",
+      "--theme-yellow-orange-slide-2": "linear-gradient(180deg,#f9e49e 0%,#f6deb7 50%,#f5ab71 100%)",
+      "--gradient-angle-card-3": "135deg",
+      "--tw-animation-delay": "0s",
+      "--text-lg": "1.125rem",
+      "--theme-current-slide-2": "linear-gradient(180deg,#4e3b98 0%,#5ca1e6 100%)",
+      "--theme-blue-teal-slide-2": "linear-gradient(180deg,#313fb4 0%,#a5a8ee 50%,#c2efec 100%)",
+      "--primary-foreground": "oklch(98.5% 0 0)",
+      "--color-blue-700": "oklch(48.8% .243 264.376)",
+      "--theme-blue-slide-3": "linear-gradient(180deg,#5ca1e6 0%,#4e3b98 100%)",
+      "--theme-green-dark-slide-1": "linear-gradient(45deg,#163927 0%,#166543 50%,#5fbcf8 100%)",
+      "--card-foreground": "oklch(14.5% 0 0)",
+      "--tw-outline-style": "solid",
+      "--text-5xl--line-height": "1",
+      "--gradient-angle-home-1": "150deg",
+      "--theme-purple-light-slide-1": "linear-gradient(45deg,#cfcbf2 0%,#bbbaf1 100%)",
+      "--tw-inset-ring-shadow": "0 0 #0000",
+      "--text-base--line-height": "calc(1.5 / 1)",
+      "--muted": "oklch(97% 0 0)",
+      "--color-blue-300": "oklch(80.9% .105 251.813)",
+      "--tw-animation-direction": "normal",
+      "--tw-enter-scale": "1",
+      "--color-gray-300": "oklch(87.2% .01 258.338)",
+      "--pjt-color-purple-1": "#553d98",
+      "--accent-foreground": "oklch(20.5% 0 0)",
+      "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+      "--theme-blue-dark-slide-3": "linear-gradient(180deg,#5c9de3 0%,#4e3f9b 50%,#1b1c52 100%)",
+      "--color-yellow-400": "oklch(85.2% .199 91.936)",
+      "--angle": "0deg",
+      "--gradient-angle-hover-3": "45deg",
+      "--theme-magenta-slide-1": "linear-gradient(45deg,#1d1d51 0%,#432652 50%,#b42c6b 100%)",
+      "--popover": "oklch(100% 0 0)",
+      "--ring": "oklch(70.8% 0 0)",
+      "--theme-magenta-slide-2": "linear-gradient(180deg,#1d1d51 0%,#432652 50%,#b42c6b 100%)",
+      "--theme-purple-light-slide-2": "linear-gradient(180deg,#cfcbf2 0%,#bbbaf1 100%)",
+      "--tw-inset-shadow": "0 0 #0000",
+      "--tw-ring-offset-color": "#fff",
+      "--pjt-color-blue-light-1": "#5050a7",
+      "--pjt-color-midnight-2": "#5859a0",
+      "--pjt-color-yellow-orange-2": "#f6deb7",
+      "--tw-gradient-from": "rgba(0, 0, 0, 0)",
+      "--color-white": "#fff",
+      "--breakpoint-2xl": "96rem",
+      "--theme-green-dark-slide-2": "linear-gradient(180deg,#163927 0%,#166543 50%,#5fbcf8 100%)",
+      "--text-lg--line-height": "calc(1.75 / 1.125)",
+      "--color-gray-400": "oklch(70.7% .022 261.325)",
+      "--pjt-color-yellow-orange-3": "#f5ab71",
+      "--tw-shadow-alpha": "100%",
+      "--tw-gradient-to": "rgba(0, 0, 0, 0)",
+      "--gradient-angle-home-2": "232deg",
+      "--theme-yellow-orange-slide-3": "linear-gradient(180deg,#f5ab71 0%,#f6deb7 50%,#f9e49e 100%)",
+      "--pjt-color-green-dark-2": "#166543",
+      "--card-preview-slide-1": "#5ca1e6 0%,#4e3b98 100%",
+      "--theme-turquoise-slide-3": "linear-gradient(180deg,#58cab8 0%,#286382 100%)",
+      "--tw-exit-rotate": "0",
+      "--theme-blue-slide-2": "linear-gradient(180deg,#4e3b98 0%,#5ca1e6 100%)",
+      "--font-weight-bold": "700",
+      "--theme-yellow-orange-slide-1": "linear-gradient(45deg,#f9e49e 0%,#f6deb7 50%,#f5ab71 100%)",
+      "--radius": ".625rem",
+      "--popover-foreground": "oklch(14.5% 0 0)",
+      "--theme-turquoise-slide-1": "linear-gradient(45deg,#286382 0%,#58cab8 100%)",
+      "--pjt-color-green-dark-3": "#5fbcf8",
+      "--container-sm": "24rem",
+      "--tw-ring-offset-width": "0px",
+      "--tw-exit-translate-y": "0",
+      "--tw-gradient-via-position": "50%",
+      "--theme-purple-slide-1": "linear-gradient(45deg,#553d98 0%,#beb3df 100%)",
+      "--theme-purple-slide-3": "linear-gradient(180deg,#beb3df 0%,#553d98 100%)",
+      "--pjt-color-magenta-3": "#b42c6b",
+      "--theme-green-slide-2": "linear-gradient(180deg,#347e53 0%,#a4d089 100%)",
+      "--text-xs--line-height": "calc(1 / .75)",
+      "--default-font-family": "\"pjtSans\",\"pjtSans Fallback\"",
+      "--tw-space-x-reverse": "0",
+      "--pjt-color-blue-2": "#5ca1e6",
+      "--pjt-color-green-1": "#347e53",
+      "--tw-gradient-to-position": "100%",
+      "--theme-green-dark-slide-3": "linear-gradient(180deg,#5fbcf8 0%,#166543 50%,#163927 100%)",
+      "--pjt-color-blue-dark-1": "#1b1c52",
+      "--gradient-angle-card-1": "180deg",
+      "--default-transition-duration": ".15s",
+      "--secondary-background": "oklch(96.12% 0 0)",
+      "--radius-2xl": "1rem",
+      "--theme-midnight-slide-3": "linear-gradient(180deg,#1e246a 0%,#5859a0 50%,#cdb8b6 100%)",
+      "--text-xl": "1.25rem",
+      "--theme-purple-light-slide-3": "linear-gradient(180deg,#bbbaf1 0%,#cfcbf2 100%)",
+      "--gradient-brand-from": "#2a35b5",
+      "--gradient-angle-header-1": "45deg",
+      "--tw-gradient-from-position": "0px",
+      "--muted-foreground-secondary": "oklch(41% 0 0)",
+      "--pjt-color-purple-light-2": "#bbbaf1",
+      "--theme-green-slide-3": "linear-gradient(180deg,#a4d089 0%,#347e53 100%)",
+      "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+      "--tw-ring-offset-shadow": "0 0 #0000",
+      "--theme-blue-dark-slide-2": "linear-gradient(180deg,#1b1c52 0%,#4e3f9b 50%,#5c9de3 100%)",
+      "--page-header-slide-3": "linear-gradient(180deg,#5ca1e6 0%,#4e3b98 100%)",
+      "--color-gray-800": "oklch(27.8% .033 256.848)",
+      "--theme-green-slide-1": "linear-gradient(45deg,#347e53 0%,#a4d089 100%)",
+      "--pjt-color-blue-light-2": "#60b6f6",
+      "--accent": "oklch(97% 0 0)",
+      "--tracking-tighter": "-.05em",
+      "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+      "--tw-animation-iteration-count": "1",
+      "--tw-exit-opacity": "1",
+      "--pjt-color-magenta-2": "#432652",
+      "--pjt-color-green-dark-1": "#163927",
+      "--tw-animation-fill-mode": "none",
+      "--text-2xl--line-height": "calc(2 / 1.5)",
+      "--pjt-color-turquoise-2": "#58cab8",
+      "--tw-exit-blur": "0",
+      "--secondary-foreground": "oklch(20.5% 0 0)",
+      "--spacing": ".25rem",
+      "--background": "oklch(100% 0 0)",
+      "--tw-translate-z": "0",
+      "--tw-gradient-via": "rgba(0, 0, 0, 0)",
+      "--border-secondary": "oklch(79% .0757 262.91)",
+      "--pjt-color-purple-2": "#beb3df",
+      "--pjt-color-blue-teal-1": "#313fb4",
+      "--theme-midnight-slide-2": "linear-gradient(180deg,#cdb8b6 0%,#5859a0 50%,#1e246a 100%)",
+      "--page-header-slide-2": "linear-gradient(180deg,#4e3b98 0%,#5ca1e6 100%)",
+      "--tracking-wide": ".025em",
+      "--text-xl--line-height": "calc(1.75 / 1.25)",
+      "--font-weight-semibold": "600",
+      "--gradient-angle-header-3": "180deg",
+      "--theme-purple-slide-2": "linear-gradient(180deg,#553d98 0%,#beb3df 100%)",
+      "--tw-exit-translate-x": "0",
+      "--container-3xl": "48rem",
+      "--text-sm": ".875rem",
+      "--pjt-color-blue-dark-3": "#5c9de3",
+      "--tw-translate-y": "0",
+      "--ease-out": "cubic-bezier(0,0,.2,1)",
+      "--tw-enter-translate-x": "0",
+      "--theme-midnight-slide-1": "linear-gradient(45deg,#cdb8b6 0%,#5859a0 50%,#1e246a 100%)",
+      "--color-gray-700": "oklch(37.3% .034 259.733)",
+      "--leading-tight": "1.25",
+      "--theme-blue-slide-1": "linear-gradient(45deg,#4e3b98 0%,#5ca1e6 100%)",
+      "--color-gray-600": "oklch(44.6% .03 256.802)",
+      "--theme-blue-light-slide-2": "linear-gradient(232deg,#5050a7 0%,#60b6f6 100%)",
+      "--color-purple-400": "oklch(71.4% .203 305.504)",
+      "--theme-blue-teal-slide-1": "linear-gradient(45deg,#313fb4 0%,#a5a8ee 50%,#c2efec 100%)",
+      "--gradient-brand-to": "#5cbdff",
+      "--muted-foreground": "oklch(61% 0 0)",
+      "--text-4xl": "2.25rem",
+      "--tw-divide-y-reverse": "0",
+      "--tw-border-style": "solid",
+      "--tracking-normal": "0em",
+      "--theme-blue-light-slide-1": "linear-gradient(150deg,#5050a7 0%,#60b6f6 100%)",
+      "--pjt-color-midnight-3": "#1e246a",
+      "--container-2xl": "42rem",
+      "--tw-exit-scale": "1",
+      "--tw-shadow": "0 0 #0000",
+      "--text-sm--line-height": "calc(1.25 / .875)",
+      "--tw-translate-x": "0",
+      "--theme-current-slide-1": "linear-gradient(45deg,#4e3b98 0%,#5ca1e6 100%)",
+      "--pjt-color-blue-teal-2": "#a5a8ee",
+      "--color-blue-50": "oklch(97% .014 254.604)",
+      "--theme-blue-teal-slide-3": "linear-gradient(180deg,#c2efec 0%,#a5a8ee 50%,#313fb4 100%)",
+      "--input": "oklch(92.2% 0 0)",
+      "--text-3xl--line-height": "calc(2.25 / 1.875)",
+      "--pjt-color-purple-light-1": "#cfcbf2",
+      "--text-5xl": "3rem",
+      "--pjt-color-midnight-1": "#cdb8b6",
+      "--pjt-color-blue-dark-2": "#4e3f9b",
+      "--tw-enter-rotate": "0",
+      "--text-3xl": "1.875rem",
+      "--text-xs": ".75rem",
+      "--color-black": "#000",
+      "--destructive": "oklch(57.7% .245 27.325)",
+      "--font-weight-medium": "500",
+      "--font-weight-normal": "400",
+      "--tw-enter-translate-y": "0",
+      "--gradient-angle-card-2": "45deg",
+      "--pjt-color-yellow-orange-1": "#f9e49e",
+      "--theme-magenta-slide-3": "linear-gradient(180deg,#b42c6b 0%,#432652 50%,#1d1d51 100%)",
+      "--pjt-color-blue-teal-3": "#c2efec",
+      "--card-preview-slide-2": "#5ca1e6 0%,#4e3b98 100%",
+      "--radius-xs": ".125rem",
+      "--tw-enter-blur": "0",
+      "--theme-turquoise-slide-2": "linear-gradient(180deg,#286382 0%,#58cab8 100%)",
+      "--theme-blue-dark-slide-1": "linear-gradient(45deg,#1b1c52 0%,#4e3f9b 50%,#5c9de3 100%)",
+      "--pjt-color-turquoise-1": "#286382",
+      "--pjt-color-green-2": "#a4d089",
+      "--tw-space-y-reverse": "0",
+      "--gradient-angle-hover-2": "120deg",
+      "--pjt-color-magenta-1": "#1d1d51",
+      "--font-pjt-sans": "\"pjtSans\",\"pjtSans Fallback\"",
+      "--primary": "oklch(41.62% .198 270.55)",
+      "--text-4xl--line-height": "calc(2.5 / 2.25)",
+      "--tw-enter-opacity": "1",
+      "--theme-current-slide-3": "linear-gradient(180deg,#5ca1e6 0%,#4e3b98 100%)",
+      "--foreground": "oklch(0% 0 0)",
+      "--gradient-angle-header-2": "180deg",
+      "--container-7xl": "80rem",
+      "--text-base": "1rem",
+      "--secondary": "oklch(97% 0 0)",
+      "--default-mono-font-family": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+      "--scrollbar-width": "calc(100vw - 100%)"
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "ConsentDetails[#IABV2SETTINGS#]AboutThis website uses cookiesThis website features third-party cookies, pixels, and similar technologies set by our trusted partners (“cookies”) whi",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 1080
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "oklch(1 0 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.5s"
+        }
+      },
+      {
+        "selector": "#CybotCookiebotDialogPoweredbyCybot",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 41.5,
+          "y": 946,
+          "width": 175,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "0.1px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "30px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "This website features third-party cookies, pixels, and similar technologies set by our trusted partners (“cookies”) which are used to track usage of our website and ensure we provi",
+        "rect": {
+          "x": 262.125,
+          "y": 746.125,
+          "width": 822.875,
+          "height": 70.8125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "17.7px",
+          "letter-spacing": "0.5px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Cookie Policy",
+        "rect": {
+          "x": 352.03125,
+          "y": 799.234375,
+          "width": 117.546875,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(238, 241, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "600",
+          "line-height": "17.7px",
+          "letter-spacing": "0.5px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(2)",
+        "tag": "p",
+        "text": "",
+        "rect": {
+          "x": 262.125,
+          "y": 816.9375,
+          "width": 822.875,
+          "height": 17.703125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "17.7px",
+          "letter-spacing": "0.5px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3)",
+        "tag": "p",
+        "text": "Please use the \"Accept all\", \"Set Preferences\" or \"Reject all\", buttons to make your cookie choices (we will always set the cookies necessary for our website to function).",
+        "rect": {
+          "x": 262.125,
+          "y": 834.640625,
+          "width": 822.875,
+          "height": 35.40625
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "17.7px",
+          "letter-spacing": "0.5px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
+        "tag": "a",
+        "text": "Show details",
+        "rect": {
+          "x": 1002.546875,
+          "y": 946,
+          "width": 116.328125,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(238, 241, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "600",
+          "line-height": "24px",
+          "letter-spacing": "0.1px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+        "tag": "button",
+        "text": "Accept all",
+        "rect": {
+          "x": 1130,
+          "y": 709,
+          "width": 286,
+          "height": 58
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "600",
+          "line-height": "24px",
+          "letter-spacing": "0.1px",
+          "padding-top": "15px",
+          "padding-right": "15px",
+          "padding-bottom": "15px",
+          "padding-left": "15px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "3.75px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection",
+        "tag": "button",
+        "text": "Set Preferences",
+        "rect": {
+          "x": 1130,
+          "y": 774.5,
+          "width": 286,
+          "height": 58
+        },
+        "styles": {
+          "color": "rgb(20, 20, 20)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "600",
+          "line-height": "24px",
+          "letter-spacing": "0.1px",
+          "padding-top": "15px",
+          "padding-right": "15px",
+          "padding-bottom": "15px",
+          "padding-left": "15px",
+          "margin-top": "7.5px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "3.75px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyButtonDecline",
+        "tag": "button",
+        "text": "Reject all",
+        "rect": {
+          "x": 1130,
+          "y": 840,
+          "width": 286,
+          "height": 58
+        },
+        "styles": {
+          "color": "rgb(20, 20, 20)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "sans-serif",
+          "font-size": "15px",
+          "font-weight": "600",
+          "line-height": "24px",
+          "letter-spacing": "0.1px",
+          "padding-top": "15px",
+          "padding-right": "15px",
+          "padding-bottom": "15px",
+          "padding-left": "15px",
+          "margin-top": "7.5px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "3.75px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1)",
+        "tag": "main",
+        "text": "AboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsI",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 3600.015625
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 40,
+          "y": -34,
+          "width": 66,
+          "height": 48
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "About",
+        "rect": {
+          "x": 919.09375,
+          "y": -24,
+          "width": 75.765625,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Who We Are",
+        "rect": {
+          "x": 829.09375,
+          "y": 6,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Our Story",
+        "rect": {
+          "x": 829.09375,
+          "y": 62,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Community Impact",
+        "rect": {
+          "x": 829.09375,
+          "y": 118,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Locations",
+        "rect": {
+          "x": 829.09375,
+          "y": 174,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Team",
+        "rect": {
+          "x": 1018.859375,
+          "y": -24,
+          "width": 43.609375,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Expertise",
+        "rect": {
+          "x": 1086.46875,
+          "y": -24,
+          "width": 102.296875,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Expertise",
+        "rect": {
+          "x": 996.46875,
+          "y": 6,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Strategic Advisory",
+        "rect": {
+          "x": 996.46875,
+          "y": 62,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Restructuring & Special Situations",
+        "rect": {
+          "x": 996.46875,
+          "y": 118,
+          "width": 220,
+          "height": 72
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Fund Advisory",
+        "rect": {
+          "x": 996.46875,
+          "y": 198,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Geographic Reach",
+        "rect": {
+          "x": 996.46875,
+          "y": 254,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Integrated Client Solutions",
+        "rect": {
+          "x": 996.46875,
+          "y": 310,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Investors",
+        "rect": {
+          "x": 1212.765625,
+          "y": -24,
+          "width": 73.34375,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers",
+        "rect": {
+          "x": 1310.109375,
+          "y": -24,
+          "width": 89.890625,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers at PJT Partners",
+        "rect": {
+          "x": 1220.109375,
+          "y": 6,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Experienced Professionals",
+        "rect": {
+          "x": 1220.109375,
+          "y": 62,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Students",
+        "rect": {
+          "x": 1220.109375,
+          "y": 118,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 40,
+          "y": 40,
+          "width": 66,
+          "height": 48
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "About",
+        "rect": {
+          "x": 919.09375,
+          "y": 50,
+          "width": 75.765625,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Who We Are",
+        "rect": {
+          "x": 829.09375,
+          "y": 80,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Our Story",
+        "rect": {
+          "x": 829.09375,
+          "y": 136,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Community Impact",
+        "rect": {
+          "x": 829.09375,
+          "y": 192,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Locations",
+        "rect": {
+          "x": 829.09375,
+          "y": 248,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Team",
+        "rect": {
+          "x": 1018.859375,
+          "y": 50,
+          "width": 43.609375,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Expertise",
+        "rect": {
+          "x": 1086.46875,
+          "y": 50,
+          "width": 102.296875,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Expertise",
+        "rect": {
+          "x": 996.46875,
+          "y": 80,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Strategic Advisory",
+        "rect": {
+          "x": 996.46875,
+          "y": 136,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Restructuring & Special Situations",
+        "rect": {
+          "x": 996.46875,
+          "y": 192,
+          "width": 220,
+          "height": 72
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Fund Advisory",
+        "rect": {
+          "x": 996.46875,
+          "y": 272,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Geographic Reach",
+        "rect": {
+          "x": 996.46875,
+          "y": 328,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Integrated Client Solutions",
+        "rect": {
+          "x": 996.46875,
+          "y": 384,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Investors",
+        "rect": {
+          "x": 1212.765625,
+          "y": 50,
+          "width": 73.34375,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers",
+        "rect": {
+          "x": 1310.109375,
+          "y": 50,
+          "width": 89.890625,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers at PJT Partners",
+        "rect": {
+          "x": 1220.109375,
+          "y": 80,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Experienced Professionals",
+        "rect": {
+          "x": 1220.109375,
+          "y": 136,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Students",
+        "rect": {
+          "x": 1220.109375,
+          "y": 192,
+          "width": 220,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "12px",
+          "padding-right": "4px",
+          "padding-bottom": "12px",
+          "padding-left": "4px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Together, we create differentiated solutions to complex challenges",
+        "rect": {
+          "x": 40,
+          "y": 1192,
+          "width": 906.65625,
+          "height": 96
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "-2.4px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "8px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Our highly experienced, collaborative teams provide independent advice coupled with high-touch client service. This ethos has allowed us to attract some of the very best talent in ",
+        "rect": {
+          "x": 501.328125,
+          "y": 1392,
+          "width": 437.328125,
+          "height": 117.96875
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "36px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "We deliver leading advice to many of the world’s most consequential companies, effect some of the most transformative transactions and restructurings and raise billions of dollars ",
+        "rect": {
+          "x": 962.65625,
+          "y": 1392,
+          "width": 437.34375,
+          "height": 141.5625
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "36px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Meet Our Global Team",
+        "rect": {
+          "x": 962.65625,
+          "y": 1573.5625,
+          "width": 437.34375,
+          "height": 52
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "One Firm.",
+        "rect": {
+          "x": 40,
+          "y": 2449.484375,
+          "width": 1360,
+          "height": 48
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "-2.4px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(2)",
+        "tag": "h3",
+        "text": "Many Capabilities.",
+        "rect": {
+          "x": 40,
+          "y": 2497.484375,
+          "width": 1360,
+          "height": 48
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "-2.4px",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "PJT Partners is a trusted advisor to global companies focused on driving growth, value creation and durability for the future.",
+        "rect": {
+          "x": 40,
+          "y": 2593.484375,
+          "width": 656,
+          "height": 47.1875
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "36px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Expertise",
+        "rect": {
+          "x": 40,
+          "y": 2680.671875,
+          "width": 656,
+          "height": 52
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Strategic AdvisoryOur highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.",
+        "rect": {
+          "x": 40,
+          "y": 2822.671875,
+          "width": 437.328125,
+          "height": 777.328125
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Our highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.",
+        "rect": {
+          "x": 40,
+          "y": 3412,
+          "width": 437.328125,
+          "height": 70.78125
+        },
+        "styles": {
+          "color": "oklch(0.205 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "36px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flow-root",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Restructuring & Special SituationsPJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Yea",
+        "rect": {
+          "x": 501.328125,
+          "y": 2822.671875,
+          "width": 437.328125,
+          "height": 777.328125
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "PJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Year for four consecutive years ('20-",
+        "rect": {
+          "x": 501.328125,
+          "y": 3412,
+          "width": 437.328125,
+          "height": 94.375
+        },
+        "styles": {
+          "color": "oklch(0.205 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "36px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flow-root",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Fund AdvisoryPJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+        "rect": {
+          "x": 962.65625,
+          "y": 2822.671875,
+          "width": 437.34375,
+          "height": 777.34375
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "PJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+        "rect": {
+          "x": 962.65625,
+          "y": 3412.015625,
+          "width": 437.34375,
+          "height": 70.78125
+        },
+        "styles": {
+          "color": "oklch(0.205 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "36px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flow-root",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "text": "Contact usinfo@pjtpartners.comAboutTeamExpertiseInvestor RelationsCareersPrivacy NoticeTerms of UseRegulatory DisclosureCookie PolicyCopyright © 2026PJT Partners Inc. All rights re",
+        "rect": {
+          "x": 0,
+          "y": 3720.015625,
+          "width": 1440,
+          "height": 318.625
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 40,
+          "y": 3762.015625,
+          "width": 0,
+          "height": 0
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "32px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Contact us",
+        "rect": {
+          "x": 1300.75,
+          "y": 3762.015625,
+          "width": 99.25,
+          "height": 23.59375
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "23.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "info@pjtpartners.com",
+        "rect": {
+          "x": 1202.734375,
+          "y": 3789.609375,
+          "width": 197.265625,
+          "height": 28
+        },
+        "styles": {
+          "color": "oklch(0.4162 0.198 270.55)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "About",
+        "rect": {
+          "x": 40,
+          "y": 3900.609375,
+          "width": 49.765625,
+          "height": 22
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Team",
+        "rect": {
+          "x": 113.765625,
+          "y": 3900.609375,
+          "width": 43.609375,
+          "height": 22
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Expertise",
+        "rect": {
+          "x": 181.375,
+          "y": 3900.609375,
+          "width": 76.296875,
+          "height": 22
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Investor Relations",
+        "rect": {
+          "x": 281.671875,
+          "y": 3900.609375,
+          "width": 144.0625,
+          "height": 22
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers",
+        "rect": {
+          "x": 449.734375,
+          "y": 3900.609375,
+          "width": 63.890625,
+          "height": 22
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Notice",
+        "rect": {
+          "x": 931.90625,
+          "y": 3902.609375,
+          "width": 91.28125,
+          "height": 17
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Terms of Use",
+        "rect": {
+          "x": 1047.1875,
+          "y": 3902.609375,
+          "width": 81.9375,
+          "height": 17
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Regulatory Disclosure",
+        "rect": {
+          "x": 1153.125,
+          "y": 3902.609375,
+          "width": 137.9375,
+          "height": 17
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Cookie Policy",
+        "rect": {
+          "x": 1315.0625,
+          "y": 3902.609375,
+          "width": 84.9375,
+          "height": 17
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Copyright © 2026PJT Partners Inc. All rights reserved.",
+        "rect": {
+          "x": 40,
+          "y": 3965.609375,
+          "width": 1360,
+          "height": 33.03125
+        },
+        "styles": {
+          "color": "oklch(0 0 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "pjtSans, \"pjtSans Fallback\"",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "16.52px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "40px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "",
+        "children": 1,
+        "rect": {
+          "y": 0,
+          "height": 1064
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "AboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsInvestorsCareersCareers at PJT PartnersEx",
+        "children": 1,
+        "rect": {
+          "y": 0,
+          "height": 20
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(3)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "",
+        "children": 3,
+        "rect": {
+          "y": 0,
+          "height": 1000
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(4)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "AboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsInvestorsCareersCareers at PJT PartnersEx",
+        "children": 1,
+        "rect": {
+          "y": 16,
+          "height": 96
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(5)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "",
+        "children": 1,
+        "rect": {
+          "y": 0,
+          "height": 570
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(6)",
+        "tag": "div",
+        "heading": "Together, we create differentiated solutions to complex challenges",
+        "text_excerpt": "Together, we create differentiated solutions to complex challengesOur highly experienced, collaborative teams provide independent advice coupled with high-touch client service. This ethos has allowed us to attract some o",
+        "children": 1,
+        "rect": {
+          "y": 1064,
+          "height": 2536.015625
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "heading": "",
+        "text_excerpt": "Contact usinfo@pjtpartners.comAboutTeamExpertiseInvestor RelationsCareersPrivacy NoticeTerms of UseRegulatory DisclosureCookie PolicyCopyright © 2026PJT Partners Inc. All rights reserved.",
+        "children": 2,
+        "rect": {
+          "y": 3720.015625,
+          "height": 318.625
+        },
+        "layout": "block"
+      }
+    ],
+    "controls": [
+      {
+        "selector": "#CybotCookiebotDialog",
+        "tag": "div",
+        "role": "region",
+        "name": "ConsentDetails[#IABV2SETTINGS#]AboutThis website uses cookiesThis website features third-party cookies, pixels, and similar technologies set by our trusted partners (“cookies”) which are used to track usage of our website and ensure we provide you with the best user experience. You can update your preferences at any time using the preferences tab in the corner of the webpage. More details can be found in our Cookie Policy.Please use the \"Accept all\", \"Set Preferences\" or \"Reject all\", buttons to make your cookie choices (we will always set the cookies necessary for our website to function).[#GPC_BANNER_ICON#][#GPC_TOAST_TEXT#]Consent SelectionNecessary Preferences Statistics Marketing Show detailsDetailsNecessary 1 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.Cookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainMaximum Storage Duration: 1 yearType: HTTP CookiePreferences 0 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.We do not use cookies of this type.Statistics 0 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.We do not use cookies of this type.Marketing 2 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.Google2Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization._gaUsed to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.Maximum Storage Duration: 2 yearsType: HTTP Cookie_ga_#Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.Maximum Storage Duration: 2 yearsType: HTTP CookieUnclassified 1Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.www.pjtpartners.com1cookie_consent_givenPendingMaximum Storage Duration: 1 yearType: HTTP CookieCross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#][#BULK_CONSENT_TITLE#]List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]Cookie declaration last updated on 10/12/26 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]AboutCookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy. Please state your consent ID and date when you contact us regarding your consent. Do not sell or share my personal informationAccept allCustomizeSet PreferencesReject all",
+        "width": 1440,
+        "height": 315,
+        "tabindex": "-1",
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogPoweredbyCybot",
+        "tag": "a",
+        "role": null,
+        "name": "Cookiebot by Usercentrics - opens in a new window",
+        "width": 175,
+        "height": 30,
+        "tabindex": "-1",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Cookie Policy",
+        "width": 117.546875,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonNecessary",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 57,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonPreferences",
+        "tag": "input",
+        "role": "switch",
+        "name": "",
+        "width": 57,
+        "height": 32,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonStatistics",
+        "tag": "input",
+        "role": "switch",
+        "name": "",
+        "width": 57,
+        "height": 32,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonMarketing",
+        "tag": "input",
+        "role": "switch",
+        "name": "",
+        "width": 57,
+        "height": 32,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyEdgeMoreDetailsLink",
+        "tag": "a",
+        "role": null,
+        "name": "Show details",
+        "width": 116.328125,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+        "tag": "button",
+        "role": null,
+        "name": "Accept all",
+        "width": 286,
+        "height": 58,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection",
+        "tag": "button",
+        "role": null,
+        "name": "Set Preferences",
+        "width": 286,
+        "height": 58,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "#CybotCookiebotDialogBodyButtonDecline",
+        "tag": "button",
+        "role": null,
+        "name": "Reject all",
+        "width": 286,
+        "height": 58,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "PJT Partners Logo",
+        "width": 66,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "About",
+        "width": 75.765625,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Who We Are",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Our Story",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Community Impact",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Locations",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Team",
+        "width": 43.609375,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Expertise",
+        "width": 102.296875,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Expertise",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Strategic Advisory",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Restructuring & Special Situations",
+        "width": 220,
+        "height": 72,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Fund Advisory",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Geographic Reach",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Integrated Client Solutions",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Investors",
+        "width": 73.34375,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers",
+        "width": 89.890625,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers at PJT Partners",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Experienced Professionals",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Students",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "PJT Partners Logo",
+        "width": 66,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "About",
+        "width": 75.765625,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Who We Are",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Our Story",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Community Impact",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Locations",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Team",
+        "width": 43.609375,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Expertise",
+        "width": 102.296875,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Expertise",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Strategic Advisory",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Restructuring & Special Situations",
+        "width": 220,
+        "height": 72,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Fund Advisory",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Geographic Reach",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Integrated Client Solutions",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Investors",
+        "width": 73.34375,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers",
+        "width": 89.890625,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers at PJT Partners",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Experienced Professionals",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Students",
+        "width": 220,
+        "height": 48,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Meet Our Global Team",
+        "width": 437.34375,
+        "height": 52,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Expertise",
+        "width": 656,
+        "height": 52,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Strategic AdvisoryOur highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.",
+        "width": 437.328125,
+        "height": 777.328125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Restructuring & Special SituationsPJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Year for four consecutive years ('20-'23).",
+        "width": 437.328125,
+        "height": 777.328125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Fund AdvisoryPJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+        "width": 437.34375,
+        "height": 777.34375,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "PJT Partners",
+        "width": 0,
+        "height": 0,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "info@pjtpartners.com",
+        "width": 197.265625,
+        "height": 28,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "About",
+        "width": 49.765625,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Team",
+        "width": 43.609375,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Expertise",
+        "width": 76.296875,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Investor Relations",
+        "width": 144.0625,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers",
+        "width": 63.890625,
+        "height": 22,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Notice",
+        "width": 91.28125,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Terms of Use",
+        "width": 81.9375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Regulatory Disclosure",
+        "width": 137.9375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Cookie Policy",
+        "width": 84.9375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > iframe:nth-of-type(2)",
+        "tag": "iframe",
+        "role": "presentation",
+        "name": "",
+        "width": 1,
+        "height": 1,
+        "tabindex": "-1",
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 78.09999999962747,
+      "dom_content_loaded_ms": 1040.5,
+      "load_ms": 1130.1000000000931
+    },
+    "resources": [
+      {
+        "url": "https://www.pjtpartners.com/_next/static/media/84ab4045aa88acc0-s.p.woff2",
+        "type": "link",
+        "duration_ms": 353.1999999997206,
+        "transfer_bytes": 7616,
+        "decoded_bytes": 7316
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/media/a8e2c313f502e145-s.p.woff2",
+        "type": "link",
+        "duration_ms": 207.70000000018626,
+        "transfer_bytes": 24024,
+        "decoded_bytes": 23724
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/media/cb133fb8113f953c-s.p.woff2",
+        "type": "link",
+        "duration_ms": 276.89999999990687,
+        "transfer_bytes": 22884,
+        "decoded_bytes": 22584
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/css/c8048ee8df830498.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "link",
+        "duration_ms": 332.79999999981374,
+        "transfer_bytes": 18581,
+        "decoded_bytes": 109988
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/css/c67af2ce96f6806a.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "link",
+        "duration_ms": 93.6999999997206,
+        "transfer_bytes": 1037,
+        "decoded_bytes": 737
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/webpack-221daa8066e99c87.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "link",
+        "duration_ms": 203.59999999962747,
+        "transfer_bytes": 2713,
+        "decoded_bytes": 4498
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/css/6fdf72095aa5a100.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "link",
+        "duration_ms": 333.39999999990687,
+        "transfer_bytes": 1812,
+        "decoded_bytes": 12597
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/0c7dedb9-fd6b071c75193903.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 275.3000000002794,
+        "transfer_bytes": 55850,
+        "decoded_bytes": 173024
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/710-109d9b9d363fc0da.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 202.20000000018626,
+        "transfer_bytes": 20976,
+        "decoded_bytes": 56028
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/268-521f5c385748ea82.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 312.89999999990687,
+        "transfer_bytes": 8231,
+        "decoded_bytes": 19074
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/552-a9aac09c7b545b5a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 333,
+        "transfer_bytes": 46800,
+        "decoded_bytes": 174691
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/main-app-4ac10cf05fa8c0e5.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 349.89999999990687,
+        "transfer_bytes": 871,
+        "decoded_bytes": 571
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/21-f7e7e23f044cee48.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 351.5,
+        "transfer_bytes": 6649,
+        "decoded_bytes": 16820
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/604-5f30103923f7037b.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 351.70000000018626,
+        "transfer_bytes": 155532,
+        "decoded_bytes": 482747
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/686-1b4ae9e9a86b92d5.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 349.60000000009313,
+        "transfer_bytes": 11103,
+        "decoded_bytes": 38954
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/673-3df418b41956cd50.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 351.79999999981374,
+        "transfer_bytes": 8261,
+        "decoded_bytes": 27848
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/app/%5B%5B...slug%5D%5D/page-cd41d44900ce823e.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 349.79999999981374,
+        "transfer_bytes": 448,
+        "decoded_bytes": 148
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/app/layout-ebcbe27f91c54f6a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 352.5,
+        "transfer_bytes": 941,
+        "decoded_bytes": 1456
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/chunks/966-84b3b7cbc1adb810.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+        "type": "script",
+        "duration_ms": 352.79999999981374,
+        "transfer_bytes": 3899,
+        "decoded_bytes": 9477
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KB44JF3H",
+        "type": "link",
+        "duration_ms": 835.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+        "type": "img",
+        "duration_ms": 68.89999999990687,
+        "transfer_bytes": 464,
+        "decoded_bytes": 164
+      },
+      {
+        "url": "https://www.pjtpartners.com/assets/images/logo-white.png?w=128&q=100",
+        "type": "img",
+        "duration_ms": 397.79999999981374,
+        "transfer_bytes": 2366,
+        "decoded_bytes": 2066
+      },
+      {
+        "url": "https://www.pjtpartners.com/about/our-story?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 87.8000000002794,
+        "transfer_bytes": 31424,
+        "decoded_bytes": 184236
+      },
+      {
+        "url": "https://www.pjtpartners.com/about/who-we-are?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 117.10000000009313,
+        "transfer_bytes": 8888,
+        "decoded_bytes": 46586
+      },
+      {
+        "url": "https://www.pjtpartners.com/about/community-impact?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 92.39999999990687,
+        "transfer_bytes": 14650,
+        "decoded_bytes": 79703
+      },
+      {
+        "url": "https://www.pjtpartners.com/locations?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 73,
+        "transfer_bytes": 24942,
+        "decoded_bytes": 134745
+      },
+      {
+        "url": "https://www.pjtpartners.com/people?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 93.59999999962747,
+        "transfer_bytes": 144190,
+        "decoded_bytes": 883939
+      },
+      {
+        "url": "https://www.pjtpartners.com/expertise?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 73,
+        "transfer_bytes": 7500,
+        "decoded_bytes": 33477
+      },
+      {
+        "url": "https://www.pjtpartners.com/expertise/strategic-advisory?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 100.29999999981374,
+        "transfer_bytes": 17623,
+        "decoded_bytes": 135828
+      },
+      {
+        "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 124.39999999990687,
+        "transfer_bytes": 15402,
+        "decoded_bytes": 120271
+      },
+      {
+        "url": "https://www.pjtpartners.com/expertise/fund-advisory?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 151.89999999990687,
+        "transfer_bytes": 11499,
+        "decoded_bytes": 62427
+      },
+      {
+        "url": "https://www.pjtpartners.com/geographic-reach?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 72.70000000018626,
+        "transfer_bytes": 6770,
+        "decoded_bytes": 29151
+      },
+      {
+        "url": "https://www.pjtpartners.com/integrated-client-solutions?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 159.59999999962747,
+        "transfer_bytes": 8198,
+        "decoded_bytes": 38240
+      },
+      {
+        "url": "https://www.pjtpartners.com/careers?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 95.39999999990687,
+        "transfer_bytes": 10853,
+        "decoded_bytes": 52897
+      },
+      {
+        "url": "https://www.pjtpartners.com/careers/experienced-professionals?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 90.60000000009313,
+        "transfer_bytes": 8406,
+        "decoded_bytes": 37190
+      },
+      {
+        "url": "https://www.pjtpartners.com/careers/students?_rsc=KkNLNijOjhp0J2Lv",
+        "type": "fetch",
+        "duration_ms": 98.60000000009313,
+        "transfer_bytes": 11542,
+        "decoded_bytes": 64057
+      },
+      {
+        "url": "https://consent.cookiebot.com/uc.js?cbid=be47683b-a7f0-4649-839f-f92a2343acc6&implementation=gtm&consentmode-dataredaction=dynamic",
+        "type": "script",
+        "duration_ms": 832.0999999996275,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-QVVENBRQ99&cx=c&gtm=4e6as1",
+        "type": "script",
+        "duration_ms": 312.89999999990687,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+        "type": "iframe",
+        "duration_ms": 726.3999999999069,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://consentcdn.cookiebot.com/consentconfig/be47683b-a7f0-4649-839f-f92a2343acc6/settings.json",
+        "type": "xmlhttprequest",
+        "duration_ms": 496.8000000002794,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://consent.cookiebot.com/be47683b-a7f0-4649-839f-f92a2343acc6/cc.js?renew=false&referer=www.pjtpartners.com&dnt=false&init=false",
+        "type": "script",
+        "duration_ms": 951.2000000001863,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.pjtpartners.com/assets/images/logo-white.svg?w=128&q=100",
+        "type": "img",
+        "duration_ms": 431.10000000009313,
+        "transfer_bytes": 893,
+        "decoded_bytes": 1203
+      }
+    ],
+    "observations": {
+      "lcp_ms": 3476,
+      "layout_shifts": [
+        {
+          "time": 4053.2000000001863,
+          "value": 0.0002140740740740741
+        },
+        {
+          "time": 4069.600000000093,
+          "value": 0.00027152777777777776
+        },
+        {
+          "time": 4086.5,
+          "value": 0.00032819444444444443
+        },
+        {
+          "time": 4103.300000000279,
+          "value": 0.00032583333333333336
+        },
+        {
+          "time": 4119.700000000186,
+          "value": 0.000499375
+        },
+        {
+          "time": 4136.899999999907,
+          "value": 0.0006190046296296296
+        },
+        {
+          "time": 4153.399999999907,
+          "value": 0.0007417824074074074
+        },
+        {
+          "time": 4169.399999999907,
+          "value": 0.0008043518518518519
+        },
+        {
+          "time": 4186.700000000186,
+          "value": 0.0009967824074074074
+        },
+        {
+          "time": 4202.5,
+          "value": 0.0011290046296296295
+        },
+        {
+          "time": 4220.300000000279,
+          "value": 0.001341898148148148
+        },
+        {
+          "time": 4236.899999999907,
+          "value": 0.0014827777777777777
+        },
+        {
+          "time": 4253.5,
+          "value": 0.0015445601851851853
+        },
+        {
+          "time": 4269.300000000279,
+          "value": 0.0014827777777777777
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 1909.1000000000931,
+          "duration_ms": 50
+        },
+        {
+          "time": 3389.600000000093,
+          "duration_ms": 68
+        }
+      ]
+    }
+  }
+}

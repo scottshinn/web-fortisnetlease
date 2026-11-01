@@ -1,0 +1,748 @@
+{
+  "url": "https://www.pjtpartners.com/",
+  "base_url": "https://www.pjtpartners.com/",
+  "title": "Home | PJT Partners",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "next-size-adjust": [
+      ""
+    ],
+    "description": [
+      "PJT is a next-generation global investment bank where advice is the main event."
+    ],
+    "author": [
+      "PJT Partners"
+    ],
+    "creator": [
+      "PJT Partners"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "PJT Partners"
+    ],
+    "apple-mobile-web-app-status-bar-style": [
+      "default"
+    ],
+    "og:title": [
+      "Home"
+    ],
+    "og:description": [
+      "PJT is a next-generation global investment bank where advice is the main event."
+    ],
+    "twitter:card": [
+      "summary"
+    ],
+    "twitter:title": [
+      "Home"
+    ],
+    "twitter:description": [
+      "PJT is a next-generation global investment bank where advice is the main event."
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 2,
+      "text": "Together, we create differentiated solutions to complex challenges",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "One Firm.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Many Capabilities.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Strategic Advisory",
+      "selector": "a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Restructuring & Special Situations",
+      "selector": "a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Fund Advisory",
+      "selector": "a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "url": "https://www.pjtpartners.com/",
+      "text": "PJT Partners Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/who-we-are",
+      "url": "https://www.pjtpartners.com/about/who-we-are",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/our-story",
+      "url": "https://www.pjtpartners.com/about/our-story",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/community-impact",
+      "url": "https://www.pjtpartners.com/about/community-impact",
+      "text": "Community Impact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/locations",
+      "url": "https://www.pjtpartners.com/locations",
+      "text": "Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/strategic-advisory",
+      "url": "https://www.pjtpartners.com/expertise/strategic-advisory",
+      "text": "Strategic Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/restructuring-special-situations",
+      "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations",
+      "text": "Restructuring & Special Situations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/fund-advisory",
+      "url": "https://www.pjtpartners.com/expertise/fund-advisory",
+      "text": "Fund Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/geographic-reach",
+      "url": "https://www.pjtpartners.com/geographic-reach",
+      "text": "Geographic Reach",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/integrated-client-solutions",
+      "url": "https://www.pjtpartners.com/integrated-client-solutions",
+      "text": "Integrated Client Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": " https://ir.pjtpartners.com/",
+      "url": "https://ir.pjtpartners.com/",
+      "text": "Investors",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.pjtpartners.com/careers",
+      "text": "Careers at PJT Partners",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/experienced-professionals",
+      "url": "https://www.pjtpartners.com/careers/experienced-professionals",
+      "text": "Experienced Professionals",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/students",
+      "url": "https://www.pjtpartners.com/careers/students",
+      "text": "Students",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.pjtpartners.com/",
+      "text": "PJT Partners Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/who-we-are",
+      "url": "https://www.pjtpartners.com/about/who-we-are",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/our-story",
+      "url": "https://www.pjtpartners.com/about/our-story",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/community-impact",
+      "url": "https://www.pjtpartners.com/about/community-impact",
+      "text": "Community Impact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/locations",
+      "url": "https://www.pjtpartners.com/locations",
+      "text": "Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/strategic-advisory",
+      "url": "https://www.pjtpartners.com/expertise/strategic-advisory",
+      "text": "Strategic Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/restructuring-special-situations",
+      "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations",
+      "text": "Restructuring & Special Situations",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/fund-advisory",
+      "url": "https://www.pjtpartners.com/expertise/fund-advisory",
+      "text": "Fund Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/geographic-reach",
+      "url": "https://www.pjtpartners.com/geographic-reach",
+      "text": "Geographic Reach",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/integrated-client-solutions",
+      "url": "https://www.pjtpartners.com/integrated-client-solutions",
+      "text": "Integrated Client Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": " https://ir.pjtpartners.com/",
+      "url": "https://ir.pjtpartners.com/",
+      "text": "Investors",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.pjtpartners.com/#",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.pjtpartners.com/careers",
+      "text": "Careers at PJT Partners",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/experienced-professionals",
+      "url": "https://www.pjtpartners.com/careers/experienced-professionals",
+      "text": "Experienced Professionals",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/students",
+      "url": "https://www.pjtpartners.com/careers/students",
+      "text": "Students",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Meet Our Global Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/strategic-advisory",
+      "url": "https://www.pjtpartners.com/expertise/strategic-advisory",
+      "text": "Strategic AdvisoryOur highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/restructuring-special-situations",
+      "url": "https://www.pjtpartners.com/expertise/restructuring-special-situations",
+      "text": "Restructuring & Special SituationsPJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Year for four consecutive years ('20-'23).",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise/fund-advisory",
+      "url": "https://www.pjtpartners.com/expertise/fund-advisory",
+      "text": "Fund AdvisoryPJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.pjtpartners.com/",
+      "text": "PJT Partners",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "mailto:info@pjtpartners.com",
+      "url": "mailto:info@pjtpartners.com",
+      "text": "info@pjtpartners.com",
+      "rel": "",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/who-we-are",
+      "url": "https://www.pjtpartners.com/about/who-we-are",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/people",
+      "url": "https://www.pjtpartners.com/people",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/expertise",
+      "url": "https://www.pjtpartners.com/expertise",
+      "text": "Expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": " https://ir.pjtpartners.com/",
+      "url": "https://ir.pjtpartners.com/",
+      "text": "Investor Relations",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.pjtpartners.com/careers",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy-notice",
+      "url": "https://www.pjtpartners.com/privacy-notice",
+      "text": "Privacy Notice",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/terms-of-use",
+      "url": "https://www.pjtpartners.com/terms-of-use",
+      "text": "Terms of Use",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/regulatory-disclosure",
+      "url": "https://www.pjtpartners.com/regulatory-disclosure",
+      "text": "Regulatory Disclosure",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://assets.ctfassets.net/zakijxeilt6j/79agmgSMKDFK9hwZhdmVjJ/0562788b593a62f27a9b77fc440f0c2b/PJT_Cookie_Policy.pdf",
+      "url": "https://assets.ctfassets.net/zakijxeilt6j/79agmgSMKDFK9hwZhdmVjJ/0562788b593a62f27a9b77fc440f0c2b/PJT_Cookie_Policy.pdf",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": false,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/1fZcazlGYlRt9uC4VWkGXc/4cee66c8fcef015b54fd9c96b13b5762/3F7A7831_v13_1-2.jpg?w=3840&q=100",
+      "alt": "cover image",
+      "width": "2048",
+      "height": "1365",
+      "loading": "lazy",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/assets/images/logo-white.png?w=256&q=100",
+      "alt": "PJT Partners Logo",
+      "width": "100",
+      "height": "100",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/assets/images/logo-white.png?w=256&q=100",
+      "alt": "PJT Partners Logo",
+      "width": "100",
+      "height": "100",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.pjtpartners.com/_next/static/media/right-arrow.d786baca.svg",
+      "alt": "down arrow",
+      "width": "10",
+      "height": "10",
+      "loading": "lazy",
+      "selector": "nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/3KfRObX0Qr7cBPyh1dmcN7/58bc173aed1c7a4ce19f68d3a2c31703/PJT-1037520-flip.jpg?w=3840&q=100",
+      "alt": "",
+      "width": "5698",
+      "height": "4280",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/1PcAg9skF0BiP5QI8Hxgr8/f73f4da230877415185742c41ab11bfe/PJT-1037472_copy.jpg?w=3840&q=100",
+      "alt": "",
+      "width": "3705",
+      "height": "4728",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://images.ctfassets.net/zakijxeilt6j/XPDXWnalCrzThVJcldeom/779a25294e8da3c1ab9e3914d02452ea/Vector.svg",
+      "alt": "PJT Partners",
+      "width": "66",
+      "height": "66",
+      "loading": "lazy",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://www.pjtpartners.com\",\"name\":\"Home\",\"description\":\"PJT is a next-generation global investment bank where advice is the main event  \",\"url\":\"https://www.pjtpartners.com\",\"primaryImageOfPage\":{\"@type\":\"ImageObject\",\"url\":\"https://images.ctfassets.net/zakijxeilt6j/1fZcazlGYlRt9uC4VWkGXc/4cee66c8fcef015b54fd9c96b13b5762/3F7A7831_v13_1-2.jpg\"}}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://www.pjtpartners.com",
+        "name": "Home",
+        "description": "PJT is a next-generation global investment bank where advice is the main event  ",
+        "url": "https://www.pjtpartners.com",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://images.ctfassets.net/zakijxeilt6j/1fZcazlGYlRt9uC4VWkGXc/4cee66c8fcef015b54fd9c96b13b5762/3F7A7831_v13_1-2.jpg"
+        }
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 3,
+    "main": 1,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "AboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsInvestorsCareersCareers at PJT PartnersExperienced ProfessionalsStudentsAboutWho We AreOur StoryCommunity ImpactLocationsTeamExpertiseExpertiseStrategic AdvisoryRestructuring & Special SituationsFund AdvisoryGeographic ReachIntegrated Client SolutionsInvestorsCareersCareers at PJT PartnersExperienced ProfessionalsStudentsTogether, we create differentiated solutions to complex challengesOur highly experienced, collaborative teams provide independent advice coupled with high-touch client service. This ethos has allowed us to attract some of the very best talent in the markets in which we operate.We deliver leading advice to many of the world’s most consequential companies, effect some of the most transformative transactions and restructurings and raise billions of dollars of capital around the globe to support startups and more established companies.Meet Our Global TeamOne Firm. Many Capabilities.PJT Partners is a trusted advisor to global companies focused on driving growth, value creation and durability for the future.ExpertiseStrategic AdvisoryOur highly experienced Strategic Advisory teams offer clients innovative and differentiated advice paired with old-world, high-touch service.Restructuring & Special SituationsPJT Partners remains consistently atop the global restructuring league table rankings and was recognized as IFR’s Restructuring Advisor of the Year for four consecutive years ('20-'23).Fund AdvisoryPJT Park Hill is a premier advisor to alternative asset managers, delivering investor access and capital intelligence across asset classes.",
+  "text_length": 1752,
+  "iframes": [
+    {
+      "src": "https://www.googletagmanager.com/ns.html?id=GTM-KB44JF3H",
+      "title": ""
+    }
+  ],
+  "script_sources": [
+    "https://www.pjtpartners.com/_next/static/chunks/0c7dedb9-fd6b071c75193903.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/552-a9aac09c7b545b5a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/main-app-4ac10cf05fa8c0e5.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/604-5f30103923f7037b.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/710-109d9b9d363fc0da.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/268-521f5c385748ea82.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/21-f7e7e23f044cee48.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/673-3df418b41956cd50.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/686-1b4ae9e9a86b92d5.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/app/%5B%5B...slug%5D%5D/page-cd41d44900ce823e.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/966-84b3b7cbc1adb810.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/app/layout-ebcbe27f91c54f6a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/chunks/webpack-221daa8066e99c87.js?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy"
+  ],
+  "stylesheets": [
+    "https://www.pjtpartners.com/_next/static/css/c8048ee8df830498.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/css/c67af2ce96f6806a.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy",
+    "https://www.pjtpartners.com/_next/static/css/6fdf72095aa5a100.css?dpl=dpl_JAiiD3GNAFHEM2aXvkUEWZ3YRVFy"
+  ],
+  "hreflang": []
+}

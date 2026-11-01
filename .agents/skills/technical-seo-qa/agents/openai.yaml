@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical SEO QA"
+  short_description: "Audit rendering, metadata and crawler controls"
+  default_prompt: "Use $technical-seo-qa to audit this preview against its intended indexing and crawler policy."

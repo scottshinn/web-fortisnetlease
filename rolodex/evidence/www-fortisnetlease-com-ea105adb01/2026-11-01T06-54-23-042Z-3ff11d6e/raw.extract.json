@@ -1,0 +1,986 @@
+{
+  "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+  "base_url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+  "title": "Real Estate Acquisition and Disposition – Fortis Net Lease - Fortis Net Lease",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width,initial-scale=1, user-scalable=no"
+    ],
+    "keywords": [
+      "Fortis Net Lease, Fortis, Bender, Bryan Bender, Doug Passon, Robert Bender, Single-tenant properties, Multi-tenant properties, Properties For Sale, NNN, Shopping Centers for sale, Commercial properties for sale, Single-tenant net leased, 1031 exchange properties"
+    ],
+    "google-site-verification": [
+      "p4SEzhf_4ioMuN-4v3er4qvJ1iZL7zTnIXgUmp4enpU",
+      "W8bnRPsCSIPtRRJrb-epCYmzNpR1WK6qpL6du0ae2h0"
+    ],
+    "msapplication-tilecolor": [
+      "#1b3360"
+    ],
+    "msapplication-tileimage": [
+      "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/ms-icon-144x144.png"
+    ],
+    "theme-color": [
+      "#1b3360"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "description": [
+      "Real estate acquisition and disposition is our specialty. We offer property evaluations, strategic portfolio analysis and guidance."
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "article"
+    ],
+    "og:title": [
+      "Real Estate Acquisition and Disposition – Fortis Net Lease"
+    ],
+    "og:description": [
+      "Real estate acquisition and disposition is our specialty. We offer property evaluations, strategic portfolio analysis and guidance."
+    ],
+    "og:url": [
+      "https://fortisnetlease.com/about-us/"
+    ],
+    "og:site_name": [
+      "Fortis Net Lease"
+    ],
+    "article:modified_time": [
+      "2024-05-02T22:38:05+00:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "twitter:label1": [
+      "Est. reading time"
+    ],
+    "twitter:data1": [
+      "1 minute"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://fortisnetlease.com/about-us/",
+      "url": "https://fortisnetlease.com/about-us/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fortis Net Lease",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "Real EstateAcquisition and Disposition",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Boutique by Design, Nationwide by Experience",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "AN INVESTMENT REAL ESTATE BROKERAGE FIRM SPECIALIZING IN THE ACQUISITION AND DISPOSITION OF NET LEASED REAL ESTATE AND CLIENT ADVISORY.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "In a 1031 Exchange?",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Contact Us",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(3) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TO ADVISE, ONE NEEDS TO TRULY SPECIALIZE",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "TO MAXIMIZE RESULTS, MAXIMIZE THE PLATFORM",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "THE BEST KNOWLEDGE, COMES FROM REAL EXPERIENCE.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "LONG-TERM RELATIONSHIP BASED",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Our Pillars",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "ACCURATE AND ACCOUNTABLE",
+      "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "MAXIMUM EXPOSURE",
+      "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "RELATIONSHIP WITH SELLERS",
+      "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "BUYER REACH AND REPRESENTATION",
+      "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "BROKER COLLABORATION AND CONFIDENCE",
+      "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "RELATIONSHIP WITH SELLERS",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "ACCURATE AND ACCOUNTABLE",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "MAXIMUM EXPOSURE",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "BUYER REACH AND REPRESENTATION",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "BROKER COLLABORATION AND CONFIDENCE",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Tenants we have sold",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "CONTACT US FOR MORE INFORMATION",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 4,
+      "text": "Sign Up For Our Mailing List",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://fortisnetlease.com/",
+      "url": "https://fortisnetlease.com/",
+      "text": "Fortis Net Lease",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/home/",
+      "url": "https://fortisnetlease.com/home/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Fortis",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-testimonials/",
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "text": "Testimonials",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "List With FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/home/",
+      "url": "https://fortisnetlease.com/home/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Fortis",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Our Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-testimonials/",
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "text": "Testimonials",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "List With FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "Menu",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/properties/",
+      "url": "https://fortisnetlease.com/properties/",
+      "text": "VIEW OUR LISTINGS",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/list-with-us/",
+      "url": "https://fortisnetlease.com/list-with-us/",
+      "text": "List with FNL",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-advisors/",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "text": "REAL ESTATE BROKERAGE FIRM",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-real-estate/",
+      "url": "https://fortisnetlease.com/net-lease-real-estate/",
+      "text": "NET LEASED REAL ESTATE",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/",
+      "url": "https://fortisnetlease.com/",
+      "text": "Fortis Net Lease",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "text": "Investment real estate",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "javascript:void(0)",
+      "url": "javascript:void(0)",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "#tab0",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#tab0",
+      "text": "Specialization",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#tab1",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#tab1",
+      "text": "National Platform",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#tab2",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#tab2",
+      "text": "Vast Track Record",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#tab3",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#tab3",
+      "text": "Client Focus & Commitment",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "Buyer",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "Seller",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "Brokers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "CONTACT US FOR MORE INFORMATION",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(1) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "Join Our Mailing List",
+      "rel": "",
+      "internal": true,
+      "selector": "#show_newsletter",
+      "visible": true
+    },
+    {
+      "href": "https://www.facebook.com/fortisnetlease/",
+      "url": "https://www.facebook.com/fortisnetlease/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/16217353/",
+      "url": "https://www.linkedin.com/company/16217353/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/fortisnetlease/",
+      "url": "https://www.instagram.com/fortisnetlease/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-properties/",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "text": "Our Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/contact/",
+      "url": "https://fortisnetlease.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/net-lease-news/",
+      "url": "https://fortisnetlease.com/net-lease-news/",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.bmgmediaco.com",
+      "url": "https://www.bmgmediaco.com/",
+      "text": "BMG Media",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/#",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/privacy/",
+      "url": "https://fortisnetlease.com/privacy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://fortisnetlease.com/messaging-terms/",
+      "url": "https://fortisnetlease.com/messaging-terms/",
+      "text": "Messaging Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > span:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/academy-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/family-dollar-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/tacobell.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/cvs-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/shopping-center-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/uploads/2015/04/davita-1.jpg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home-logo1.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home-logo2.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home-logo3.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home-logo4.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home-logo5.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/home-logo6.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) > textarea:nth-of-type(1)",
+      "name": "message",
+      "type": null,
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "sms_consent",
+      "type": "checkbox",
+      "label": "I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms."
+    },
+    {
+      "selector": "#broker",
+      "name": "type",
+      "type": "radio",
+      "label": "Broker"
+    },
+    {
+      "selector": "#buyer",
+      "name": "type",
+      "type": "radio",
+      "label": "Buyer"
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(3) > input:nth-of-type(1)",
+      "name": "phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(4) > textarea:nth-of-type(1)",
+      "name": "message",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "sms_consent",
+      "type": "checkbox",
+      "label": "I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms."
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"http:\\/\\/schema.org\",\"@type\":\"AboutPage\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/real-estate-acquisition-disposition\\/\"},\"url\":\"https:\\/\\/fortisnetlease.com\\/real-estate-acquisition-disposition\\/\",\"headline\":\"About Us\",\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/fortisnetlease.com\\/#organization\",\"name\":\"Fortis Net Lease\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/fortisnetlease.com\\/wp-content\\/uploads\\/2015\\/04\\/header-image.jpg\",\"width\":600,\"height\":60}},\"description\":\"Boutique by Design, Nationwide by Experience AN INVESTMENT REAL ESTATE BROKERAGE FIRM SPECIALIZING IN THE ACQUISITION AND DISPOSITION OF NET LEASED REAL ESTATE AND CLIENT ADVISORY. Over the past decade, Fortis Net Lease has built a market-leading track record by dedicating our efforts to delivering unparalleled results to each\"}",
+      "valid_json": true,
+      "value": {
+        "@context": "http://schema.org",
+        "@type": "AboutPage",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://fortisnetlease.com/real-estate-acquisition-disposition/"
+        },
+        "url": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+        "headline": "About Us",
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://fortisnetlease.com/#organization",
+          "name": "Fortis Net Lease",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://fortisnetlease.com/wp-content/uploads/2015/04/header-image.jpg",
+            "width": 600,
+            "height": 60
+          }
+        },
+        "description": "Boutique by Design, Nationwide by Experience AN INVESTMENT REAL ESTATE BROKERAGE FIRM SPECIALIZING IN THE ACQUISITION AND DISPOSITION OF NET LEASED REAL ESTATE AND CLIENT ADVISORY. Over the past decade, Fortis Net Lease has built a market-leading track record by dedicating our efforts to delivering unparalleled results to each"
+      }
+    },
+    {
+      "source": "{\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"BreadcrumbList\",\n    \"itemListElement\": [\n        {\n            \"@type\": \"ListItem\",\n            \"position\": 1,\n            \"item\": {\n                \"@id\": \"https://fortisnetlease.com\",\n                \"name\": \"Home\"\n            }\n        },\n        {\n            \"@type\": \"ListItem\",\n            \"position\": 2,\n            \"item\": {\n                \"@id\": \"https://fortisnetlease.com/real-estate-acquisition-disposition/\",\n                \"name\": \"About Us\"\n            }\n        }\n    ]\n}",
+      "valid_json": true,
+      "value": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://fortisnetlease.com",
+              "name": "Home"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://fortisnetlease.com/real-estate-acquisition-disposition/",
+              "name": "About Us"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 1,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "Fortis Net Lease Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Home Our Listings About Fortis Our Success Our Team Testimonials List With FNL Careers Contact Menu Real EstateAcquisition and Disposition VIEW OUR LISTINGS List with FNL Boutique by Design, Nationwide by Experience AN INVESTMENT REAL ESTATE BROKERAGE FIRM SPECIALIZING IN THE ACQUISITION AND DISPOSITION OF NET LEASED REAL ESTATE AND CLIENT ADVISORY. Over the past decade, Fortis Net Lease has built a market-leading track record by dedicating our efforts to delivering unparalleled results to each and every one of our clients. With $9.3 Billion in total sales, by way of over 4,000+ transactions, we credit our success to our goal of creating long-term relationships. Robert Bender, Doug Passon, and Bryan Bender, the Principals and Managing Partners of Fortis Net Lease, along with the rest of the Fortis Net Lease team of brokers, have been consistently recognized among the nation’s top real estate investment brokers. We are built for change. Investment real estate values are changing faster than ever before. That’s why being at the top of our industry requires that we look out the front window and not in the rear-view mirror. We’ve built a firm with a national marketing platform and forward-looking business practices so that we can help our clients navigate today’s dynamic marketplace. Your browser does not support the video tag. In a 1031 Exchange? 45 days Contact Us Contact Us Your message has been sent, thank you! I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms. Send Our Advantages Specialization National Platform Vast Track Record Client Focus & Commitment TO ADVISE, ONE NEEDS TO TRULY SPECIALIZE The Fortis Net Lease team of brokers are among the most experienced and distinguished in the industry due to our specialization. Ranging from the Retail to Medical sectors, 1031 exchanges to new developments, Net Lease Assets are our area specialty. Our Advisory Services include property evaluations, strategic portfolio analysis and guidance, property acquisitions & dispositions, client / property specific marketing planning and implementation. Our ability to provide our clients with unique, creative, and evolving advisory services, launches our brokers one step ahead of our competition. TO MAXIMIZE RESULTS, MAXIMIZE THE PLATFORM In order to achieve the very best results for our clients, we realize the need to maximize the reach of our platform and national marketing footprint. We leave no stone unturned in our efforts to reach as many buyers and brokers across the country as possible. Attaining the best price for your property, with the most attractive deal terms, from the most qualified buyer requires your broker to engage everyone, from the very first day of an assignment. We practice what we preach, and do this by utilizing every marketing medium available. THE BEST KNOWLEDGE, COMES FROM REAL EXPERIENCE. Over the past decade, our focus has been on the acquisition and disposition of net leased real estate with nationally recognized tenants, as well as client advisory. Our team has successfully sold over $9 Billion in real estate on behalf of private investors, real estate developers, and institutional investors throughout the country. With over 4,500 properties sold, our knowledge is based on real transactional experience as there truly is no substitute. LONG-TERM RELATIONSHIP BASED The foundation of Fortis Net Lease is rooted in our desire to better serve our clients in every aspect of the real estate holding and selling continuum. With a robust support network, our agents are always engaged in offering support, negotiating deals, working with clients, and strengthening buyer outreach. Our goals have become our client’s goals, and has allowed for the creation of many long-term client relationships that include: Palmetto Capital Group, The Zaremba Group, Agree Realty Corporation, VEREIT, American Realty Capital, Realty Income, STORE Capital, Capital Growth Buchalter, Spirit Realty, ALRIG, Viking Partners, GMX Real Estate, Hunt Real Estate, Oldacre MacDonald and many more. Are You a... Buyer Seller Brokers Our Pillars ACCURATE AND ACCOUNTABLE More transactions fail due to incomplete or inaccurate information than for any other reason. We pride ourselves in the marketing information that we provide to the buyer and brokerage community, and we hold ourselves accountable. When given an assignment, we require complete and accurate information from our sellers, therefore preventing misrepresentations that could hurt the sale during due diligence. MAXIMUM EXPOSURE In today’s market, a proactive and expansive national marketing platform and strategy is paramount. In order to attain the best offer, from the best buyer, with the most attractive terms, a broker needs to maximize the exposure of a property. We maximize exposure from day one by fully engaging every commercial real estate marketing medium available. Rather than making one post or sending one email advertisement, a truly effective marketing campaign needs to evolve. We treat every deal with the greatest level of importance, which translates into continued and thorough marketing advertisements, while always searching for additional marketing tools and avenues. RELATIONSHIP WITH SELLERS We value the relationships we have with our clients above all else. No commercial real estate broker retires off of one transaction, but rather a long career full of many transactions. Our goal is to create long-term relationships with each and every client, and we have done this by accomplishing our clients’ short- and long-term goals. Our clients routinely become more than just clients, but also friends. BUYER REACH AND REPRESENTATION The key to maximizing exposure is being able to effectively and efficiently reach the largest buyer pool possible. Fortis Net Lease’s marketing platform reaches one of the industry’s largest net lease buyer pools, reaching buyers of all shapes and economic sizes, both nationally and internationally. Buyer representation makes up a core part of business, as our buyer clients’ needs, and goals are our marching orders and we pride ourselves by exceeding expectations. We focus on exposure from both the seller’s and the buyer’s point of view, not only to push the exposure of our listed properties but by also ensuring that we as brokers are exposed to the latest net leased property advertisements and marketing campaigns. This allows us to provide every available option to our buyers, while also providing important market intel and color. BROKER COLLABORATION AND CONFIDENCE Due to the number of transactions we handle, a large portion of the stores we sell include an outside broker, thus making the brokerage community our largest and best client. We cooperate with all brokers on every deal we take to the market. A broker can be confident that we will share any and all brokerage commissions equally with them. RELATIONSHIP WITH SELLERS We value the relationships we have with our clients above all else. No commercial real estate broker retires off of one transaction, but rather a long career full of many transactions. Our goal is to create long-term relationships with each and every client, and we have done this by accomplishing our clients’ short- and long-term goals. Our clients routinely become more than just clients, but also friends. ACCURATE AND ACCOUNTABLE More transactions fail due to incomplete or inaccurate information than for any other reason. We pride ourselves in the marketing information that we provide to the buyer and brokerage community, and we hold ourselves accountable. When given an assignment, we require complete and accurate information from our sellers, therefore preventing misrepresentations that could hurt the sale during due diligence. MAXIMUM EXPOSURE In today’s market, a proactive and expansive national marketing platform and strategy is paramount. In order to attain the best offer, from the best buyer, with the most attractive terms, a broker needs to maximize the exposure of a property. We maximize exposure from day one by fully engaging every commercial real estate marketing medium available. Rather than making one post or sending one email advertisement, a truly effective marketing campaign needs to evolve. We treat every deal with the greatest level of importance, which translates into continued and thorough marketing advertisements, while always searching for additional marketing tools and avenues. BUYER REACH AND REPRESENTATION The key to maximizing exposure is being able to effectively and efficiently reach the largest buyer pool possible. Fortis Net Lease’s marketing platform reaches one of the industry’s largest net lease buyer pools, reaching buyers of all shapes and economic sizes, both nationally and internationally. Buyer representation makes up a core part of business, as our buyer clients’ needs, and goals are our marching orders and we pride ourselves by exceeding expectations. We focus on exposure from both the seller’s and the buyer’s point of view, not only to push the exposure of our listed properties but by also ensuring that we as brokers are exposed to the latest net leased property advertisements and marketing campaigns. This allows us to provide every available option to our buyers, while also providing important market intel and color. BROKER COLLABORATION AND CONFIDENCE Due to the number of transactions we handle, a large portion of the stores we sell include an outside broker, thus making the brokerage community our largest and best client. We cooperate with all brokers on every deal we take to the market. A broker can be confident that we will share any and all brokerage commissions equally with them. Tenants we have sold CONTACT US FOR MORE INFORMATION Join Our Mailing List Contact 30445 Northwestern Hwy,Suite #275Farmington Hills, MI 48334 P (248) 254-3410 F (248) 254-3405 Quicklinks Our Listings About Us Contact News Privacy Messaging Terms 2024 All Rights Reserved - Website developed by BMG Media Sign Up For Our Mailing List Broker Buyer You have subscribed successfully. Error Captcha I agree to receive text messages (SMS/MMS) from Fortis Net Lease and Fortis Capital Solutions, including responses to my inquiry, property and investment opportunities, market updates, and appointment/transaction coordination. Message frequency varies. Message and data rates may apply. Reply STOP to opt out, HELP for help. Consent is not a condition of any purchase or service. View our Privacy Policy and Messaging Terms. Send",
+  "text_length": 11004,
+  "iframes": [],
+  "script_sources": [
+    "https://www.googletagmanager.com/gtag/js?id=UA-147791370-2",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jquery.min.js",
+    "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/nouislider.min.js",
+    "https://fortisnetlease.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://fortisnetlease.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/jquery.countdown.min.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/frontend.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/js.cookie.min.js?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/materialize.min.js?ver=1.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/vendors.js?ver=0.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/swiper.min.js?ver=0.1",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/imagesloaded.pkgd.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/isotope.pkgd.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/datepicker.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/jqFancyTransitions.1.8.min.js?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/js/script.js?ver=1.347",
+    "https://www.google.com/recaptcha/api.js",
+    "https://www.google.com/recaptcha/api.js",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/analytics.js?ver=2.0.6"
+  ],
+  "stylesheets": [
+    "https://fonts.googleapis.com/icon?family=Material+Icons",
+    "https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/nouislider.min.css",
+    "https://vjs.zencdn.net/7.1.0/video-js.css",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/block-style-index.css?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/plugins/hashbar-wp-notification-bar/assets/css/frontend.css?ver=2.0.6",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/core.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/default.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/materialize.min.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/animate.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/swiper.min.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/datepicker.min.css?ver=7.1.4",
+    "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/css/style.css?ver=1.398",
+    "https://fortisnetlease.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70"
+  ],
+  "hreflang": []
+}

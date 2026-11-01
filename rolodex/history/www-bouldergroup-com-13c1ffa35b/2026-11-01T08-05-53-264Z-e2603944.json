@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "www-bouldergroup-com-13c1ffa35b",
+  "origin": "https://www.bouldergroup.com",
+  "created_at": "2026-11-01T06:50:35.398Z",
+  "updated_at": "2026-11-01T06:50:35.399Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-50-15-252Z-939a2035",
+      "url": "https://www.bouldergroup.com/",
+      "captured_at": "2026-11-01T06:50:35.256Z",
+      "path": "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-01T06-56-36-747Z-66d095c7",
+  "site_id": "www-hanleyinvestment-com-082944f6ca",
+  "requested_url": "https://www.hanleyinvestment.com/",
+  "final_url": "https://www.hanleyinvestmentgroup.com/",
+  "captured_at": "2026-11-01T06:57:01.253Z",
+  "artifacts": [
+    {
+      "path": "audit.json",
+      "sha256": "ce2d3883e9e01b1111f29cdae9c536f34976e9a8a8c310241d5be6923854e3dd",
+      "bytes": 25000
+    },
+    {
+      "path": "audit.md",
+      "sha256": "3fe70ab6365d0d26762397717973219b945bcf8bbd2ac4587755567eea2fb2ba",
+      "bytes": 9920
+    },
+    {
+      "path": "capture-data.json",
+      "sha256": "2613507daa55dad0c1f82ab0c68017f801e9389167baefa9bcef03d56ee7ebb1",
+      "bytes": 98034
+    },
+    {
+      "path": "controls.json",
+      "sha256": "7d525d3ffe296b14eef600230d77e546c774a41d5485b82050344e614ce639cb",
+      "bytes": 14683
+    },
+    {
+      "path": "desktop.extract.json",
+      "sha256": "e4c9fd828d2d5e3136f89a7139b7af2b2299d79f3102d048a97fa5db8d1263a4",
+      "bytes": 18399
+    },
+    {
+      "path": "desktop.http.json",
+      "sha256": "c0bee1aa429748fe7f946daea6d5b98e4053f2da1b572b5be97a5c4fde060c8a",
+      "bytes": 655
+    },
+    {
+      "path": "desktop.png",
+      "sha256": "3743f102e12e39dd93a3725675e443cfb2cc3d3aef286108b6a143c18ec3a431",
+      "bytes": 70099
+    },
+    {
+      "path": "desktop.raw.body",
+      "sha256": "41d83e155b31c7b7b1f5e73b223aa5cca9290458b1011f9d20e71976cc9413b3",
+      "bytes": 5589
+    },
+    {
+      "path": "desktop.raw.extract.json",
+      "sha256": "d571fcc4e97784f091ac1b99f6dbb8db3b29c52c80421e601bf81bf2da34e085",
+      "bytes": 2900
+    },
+    {
+      "path": "desktop.raw.html",
+      "sha256": "41d83e155b31c7b7b1f5e73b223aa5cca9290458b1011f9d20e71976cc9413b3",
+      "bytes": 5589
+    },
+    {
+      "path": "desktop.rendered.html",
+      "sha256": "5a69188ff66c0bad8da72071e453400cddb1b307db4b6f44e0a5763e59d5c3dc",
+      "bytes": 5498
+    },
+    {
+      "path": "http.json",
+      "sha256": "c0bee1aa429748fe7f946daea6d5b98e4053f2da1b572b5be97a5c4fde060c8a",
+      "bytes": 655
+    },
+    {
+      "path": "link-checks.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "09080eb8372df90a1cad41d413a83b1ca2bead5423c64049e5995fe085a6a946",
+      "bytes": 4586
+    },
+    {
+      "path": "mobile.extract.json",
+      "sha256": "abd708b18c1fea7de85bbe06f03898bf51d68d4fcbb55d5da7a57d1b16c775e9",
+      "bytes": 18257
+    },
+    {
+      "path": "mobile.http.json",
+      "sha256": "4134e8072c79390a7b0928e85277614720ef5197c264528ce941dd788b0d1118",
+      "bytes": 655
+    },
+    {
+      "path": "mobile.png",
+      "sha256": "977bdd6932ddecad0c3eef70b57b4f3618e39bec32110945705241076c2ddfcc",
+      "bytes": 58108
+    },
+    {
+      "path": "mobile.raw.body",
+      "sha256": "673a93f2ba190427a8b308375bb3894adf9a59414a8a778cb43cc4e7b31871f6",
+      "bytes": 5589
+    },
+    {
+      "path": "mobile.raw.extract.json",
+      "sha256": "5135ff655ba7a87caef83ab069bbeb5f35747debd5ed1763a1cdb31d1072286d",
+      "bytes": 2900
+    },
+    {
+      "path": "mobile.raw.html",
+      "sha256": "673a93f2ba190427a8b308375bb3894adf9a59414a8a778cb43cc4e7b31871f6",
+      "bytes": 5589
+    },
+    {
+      "path": "mobile.rendered.html",
+      "sha256": "e2a4bacefd66a7a1df28966a194ba7f696b0375f7a12f578d7f0e5e97a20db47",
+      "bytes": 5498
+    },
+    {
+      "path": "raw.extract.json",
+      "sha256": "d571fcc4e97784f091ac1b99f6dbb8db3b29c52c80421e601bf81bf2da34e085",
+      "bytes": 2900
+    },
+    {
+      "path": "raw.html",
+      "sha256": "41d83e155b31c7b7b1f5e73b223aa5cca9290458b1011f9d20e71976cc9413b3",
+      "bytes": 5589
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "3073d1e371afb3271c7666148766fedc5145f7d8440f7114062db79b7bd58add",
+      "bytes": 2676
+    },
+    {
+      "path": "sitemap-1.xml",
+      "sha256": "5fd90228a62256614dd8cb1e5c449589b72986dd340269da3160147522c42cd2",
+      "bytes": 5228
+    },
+    {
+      "path": "tablet.extract.json",
+      "sha256": "738dcd0afb4d52b003e54ab9f7acbe559a19c0bdf82d9ea7dd79d8e5539123a1",
+      "bytes": 18456
+    },
+    {
+      "path": "tablet.http.json",
+      "sha256": "b9b91860f24db731825432500b56eb1258c7756ae36e5d5b5b6be55e3e4f7456",
+      "bytes": 655
+    },
+    {
+      "path": "tablet.png",
+      "sha256": "0272082e9bc9afd4a82b00f14c9e63bbe6db728a568ccefe777d03ede50bfff3",
+      "bytes": 59139
+    },
+    {
+      "path": "tablet.raw.body",
+      "sha256": "518088c3e753e5714ead7b19e444fe948ad62b865561aa87f5d2231c5ceb9ab2",
+      "bytes": 5589
+    },
+    {
+      "path": "tablet.raw.extract.json",
+      "sha256": "46fb937a2f175094fc92e671c7ddc7bb55fd5c50155054a26333d609a35df3b6",
+      "bytes": 2900
+    },
+    {
+      "path": "tablet.raw.html",
+      "sha256": "518088c3e753e5714ead7b19e444fe948ad62b865561aa87f5d2231c5ceb9ab2",
+      "bytes": 5589
+    },
+    {
+      "path": "tablet.rendered.html",
+      "sha256": "d8930b4ef5cd9865a5695d46638676c7479465383e8603401e5ecc5c96a5c31c",
+      "bytes": 5498
+    }
+  ]
+}

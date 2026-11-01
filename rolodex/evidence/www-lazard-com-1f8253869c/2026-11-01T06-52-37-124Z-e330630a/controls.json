@@ -1,0 +1,45 @@
+[
+  {
+    "kind": "robots",
+    "url": "https://www.lazard.com/robots.txt",
+    "final_url": "https://www.lazard.com/robots.txt",
+    "status": 403,
+    "headers": {
+      "content-type": "text/html",
+      "content-length": "520",
+      "server": "awselb/2.0"
+    },
+    "path": "robots.txt",
+    "text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n",
+    "looks_html": true
+  },
+  {
+    "kind": "sitemap",
+    "url": "https://www.lazard.com/sitemap.xml",
+    "final_url": "https://www.lazard.com/sitemap.xml",
+    "status": 403,
+    "headers": {
+      "content-type": "text/html",
+      "content-length": "520",
+      "server": "awselb/2.0"
+    },
+    "path": "sitemap-1.xml",
+    "text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n",
+    "looks_html": true
+  },
+  {
+    "kind": "llms",
+    "url": "https://www.lazard.com/llms.txt",
+    "final_url": "https://www.lazard.com/llms.txt",
+    "status": 403,
+    "headers": {
+      "content-type": "text/html",
+      "content-length": "520",
+      "server": "awselb/2.0"
+    },
+    "path": "llms.txt",
+    "text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n",
+    "looks_html": true,
+    "markdown_links": []
+  }
+]

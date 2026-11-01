@@ -1,0 +1,583 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://www.bouldergroup.com/",
+  "findings": [
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "raw: 0 canonicals",
+      "evidence": "raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: form controls without detected labels",
+      "evidence": "raw.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "raw: images lack HTML dimensions",
+      "evidence": "raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:title missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:type missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:url missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:image missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet-raw: 0 canonicals",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: form controls without detected labels",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet-raw: images lack HTML dimensions",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:title missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:type missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:url missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:image missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile-raw: 0 canonicals",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: form controls without detected labels",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile-raw: images lack HTML dimensions",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:title missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:type missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:url missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:image missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: 0 canonicals",
+      "evidence": "desktop.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: images without alt attributes",
+      "evidence": "desktop.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: form controls without detected labels",
+      "evidence": "desktop.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: images lack HTML dimensions",
+      "evidence": "desktop.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:title missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:type missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:url missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:image missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "desktop: observed LCP exceeds 2500 ms",
+      "evidence": "desktop.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: 0 canonicals",
+      "evidence": "tablet.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: images without alt attributes",
+      "evidence": "tablet.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: form controls without detected labels",
+      "evidence": "tablet.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: images lack HTML dimensions",
+      "evidence": "tablet.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:title missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:type missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:url missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:image missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "broken-image",
+      "severity": "warning",
+      "category": "visual",
+      "message": "tablet: broken images",
+      "evidence": "tablet.extract.json",
+      "action": "Repair image URLs or loading behavior."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: 0 canonicals",
+      "evidence": "mobile.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: images without alt attributes",
+      "evidence": "mobile.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: form controls without detected labels",
+      "evidence": "mobile.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: images lack HTML dimensions",
+      "evidence": "mobile.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:title missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:type missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:url missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:image missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "broken-image",
+      "severity": "warning",
+      "category": "visual",
+      "message": "mobile: broken images",
+      "evidence": "mobile.extract.json",
+      "action": "Repair image URLs or loading behavior."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: long tasks observed",
+      "evidence": "mobile.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "sitemap-unavailable",
+      "severity": "info",
+      "category": "crawl",
+      "message": "Sitemap unavailable: https://www.bouldergroup.com/sitemap.xml",
+      "evidence": "controls.json",
+      "action": "Check the intended sitemap location; a missing default path is not proof that no sitemap exists."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 762,
+      "rendered_text_length": 762,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.bouldergroup.com/signup.html"
+      ]
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 762,
+      "rendered_text_length": 762,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.bouldergroup.com/signup.html"
+      ]
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 762,
+      "rendered_text_length": 762,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.bouldergroup.com/signup.html"
+      ]
+    }
+  ],
+  "crawler_policy": {
+    "status": "absent",
+    "agents": []
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 18,
+    "info": 46,
+    "quality": "needs-review"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

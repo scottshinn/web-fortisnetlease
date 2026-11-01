@@ -1,0 +1,99 @@
+{
+  "url": "https://www.northmarq.com/?__cf_chl_rt_tk=lU54e2Q6iKRBFpJNXEipLt86RV9vKm9RnTCprDHjamw-1793515839-1.0.1.1-bRadRJJSkHA_cR8TOxY0SJhYgHRhpJcQ4qeRBT0WvFI",
+  "base_url": "https://www.northmarq.com/?__cf_chl_rt_tk=lU54e2Q6iKRBFpJNXEipLt86RV9vKm9RnTCprDHjamw-1793515839-1.0.1.1-bRadRJJSkHA_cR8TOxY0SJhYgHRhpJcQ4qeRBT0WvFI",
+  "title": "Just a moment...",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "robots": [
+      "noindex,nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [],
+  "links": [],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "",
+  "text_length": 0,
+  "iframes": [],
+  "script_sources": [
+    "https://www.northmarq.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f76e9f884fd4"
+  ],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "scroll_width": 768,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '6WH1hA8hWFNm9VyiHG1DB1Xq7t0W",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 1024
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "18.4px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": []
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 119.31000000238419,
+      "dom_content_loaded_ms": 373.60499998927116,
+      "load_ms": 0
+    },
+    "resources": [],
+    "observations": {
+      "lcp_ms": null,
+      "layout_shifts": [],
+      "long_tasks": []
+    }
+  }
+}

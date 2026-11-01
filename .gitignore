@@ -1,0 +1,9 @@
+node_modules
+.vercel
+.playwright-mcp
+.env*
+site/
+capture/**/*.png
+capture/build/
+harvest/images/
+.cache/

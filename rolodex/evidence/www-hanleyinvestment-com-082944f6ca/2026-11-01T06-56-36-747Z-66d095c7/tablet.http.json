@@ -1,0 +1,24 @@
+{
+  "status": 403,
+  "url": "https://www.hanleyinvestmentgroup.com/",
+  "headers": {
+    "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "vary": "accept-encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.hanleyinvestment.com/",
+      "status": 301
+    },
+    {
+      "url": "https://www.hanleyinvestmentgroup.com/",
+      "status": 403
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "518088c3e753e5714ead7b19e444fe948ad62b865561aa87f5d2231c5ceb9ab2",
+  "body_bytes": 5589
+}

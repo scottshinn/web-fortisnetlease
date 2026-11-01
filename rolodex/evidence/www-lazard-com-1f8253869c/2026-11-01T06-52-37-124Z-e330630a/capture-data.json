@@ -1,0 +1,744 @@
+{
+  "schema_version": 1,
+  "capture_id": "2026-11-01T06-52-37-124Z-e330630a",
+  "site_id": "www-lazard-com-1f8253869c",
+  "requested_url": "https://www.lazard.com/",
+  "final_url": "https://www.lazard.com/",
+  "captured_at": "2026-11-01T06:52:47.150Z",
+  "environment": {
+    "browser": "151.0.7922.34",
+    "playwright": "1.62.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+    "locale": "en-US",
+    "timezone": "UTC",
+    "reduced_motion": "reduce",
+    "anonymous": true,
+    "device_emulation": "Viewport resizing only; no mobile user agent or touch emulation.",
+    "measurement": "Unthrottled local lab run."
+  },
+  "http": {
+    "status": 403,
+    "url": "https://www.lazard.com/",
+    "headers": {
+      "content-length": "520",
+      "content-type": "text/html",
+      "server": "awselb/2.0"
+    },
+    "redirects": [
+      {
+        "url": "https://www.lazard.com/",
+        "status": 403
+      }
+    ],
+    "charset": "utf-8",
+    "body_sha256": "8b73b6ccd7091d6d9d23adaab2baae3c4abf6de06df8efdd03215ee9376fa035",
+    "body_bytes": 520
+  },
+  "raw": {
+    "url": "https://www.lazard.com/",
+    "base_url": "https://www.lazard.com/",
+    "title": "403 Forbidden",
+    "title_count": 1,
+    "lang": "",
+    "meta": {},
+    "canonicals": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "403 Forbidden",
+        "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+        "visible": true
+      }
+    ],
+    "links": [],
+    "images": [],
+    "inputs": [],
+    "jsonld": [],
+    "microdata": [],
+    "rdfa": [],
+    "landmarks": {
+      "header": 0,
+      "nav": 0,
+      "main": 0,
+      "article": 0,
+      "section": 0,
+      "aside": 0,
+      "footer": 0
+    },
+    "text": "403 Forbidden",
+    "text_length": 13,
+    "iframes": [],
+    "script_sources": [],
+    "stylesheets": [],
+    "hreflang": []
+  },
+  "views": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raw": {
+        "url": "https://www.lazard.com/",
+        "base_url": "https://www.lazard.com/",
+        "title": "403 Forbidden",
+        "title_count": 1,
+        "lang": "",
+        "meta": {},
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "403 Forbidden",
+            "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "403 Forbidden",
+        "text_length": 13,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.lazard.com/",
+        "headers": {
+          "content-length": "520",
+          "content-type": "text/html",
+          "server": "awselb/2.0"
+        },
+        "redirects": [
+          {
+            "url": "https://www.lazard.com/",
+            "status": 403
+          }
+        ],
+        "charset": "utf-8",
+        "body_sha256": "8b73b6ccd7091d6d9d23adaab2baae3c4abf6de06df8efdd03215ee9376fa035",
+        "body_bytes": 520
+      },
+      "dom": {
+        "url": "https://www.lazard.com/",
+        "base_url": "https://www.lazard.com/",
+        "title": "403 Forbidden",
+        "title_count": 1,
+        "lang": "",
+        "meta": {},
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "403 Forbidden",
+            "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "403 Forbidden",
+        "text_length": 13,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scroll_width": 1440,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "403 Forbidden",
+              "rect": {
+                "x": 8,
+                "y": 8,
+                "width": 1424,
+                "height": 970.5625
+              },
+              "styles": {
+                "color": "rgb(0, 0, 0)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "\"Times New Roman\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "normal",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "403 Forbidden",
+              "rect": {
+                "x": 8,
+                "y": 8,
+                "width": 1424,
+                "height": 37
+              },
+              "styles": {
+                "color": "rgb(0, 0, 0)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "\"Times New Roman\"",
+                "font-size": "32px",
+                "font-weight": "700",
+                "line-height": "normal",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "21.44px",
+                "margin-bottom": "21.44px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 345.7000000178814,
+            "dom_content_loaded_ms": 1377.4000000059605,
+            "load_ms": 1377.5999999940395
+          },
+          "resources": [],
+          "observations": {
+            "lcp_ms": 1392,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "desktop.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "tablet",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "raw": {
+        "url": "https://www.lazard.com/",
+        "base_url": "https://www.lazard.com/",
+        "title": "403 Forbidden",
+        "title_count": 1,
+        "lang": "",
+        "meta": {},
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "403 Forbidden",
+            "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "403 Forbidden",
+        "text_length": 13,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.lazard.com/",
+        "headers": {
+          "content-length": "520",
+          "content-type": "text/html",
+          "server": "awselb/2.0"
+        },
+        "redirects": [
+          {
+            "url": "https://www.lazard.com/",
+            "status": 403
+          }
+        ],
+        "charset": "utf-8",
+        "body_sha256": "8b73b6ccd7091d6d9d23adaab2baae3c4abf6de06df8efdd03215ee9376fa035",
+        "body_bytes": 520
+      },
+      "dom": {
+        "url": "https://www.lazard.com/",
+        "base_url": "https://www.lazard.com/",
+        "title": "403 Forbidden",
+        "title_count": 1,
+        "lang": "",
+        "meta": {},
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "403 Forbidden",
+            "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "403 Forbidden",
+        "text_length": 13,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "scroll_width": 768,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "403 Forbidden",
+              "rect": {
+                "x": 8,
+                "y": 8,
+                "width": 752,
+                "height": 994.5625
+              },
+              "styles": {
+                "color": "rgb(0, 0, 0)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "\"Times New Roman\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "normal",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "403 Forbidden",
+              "rect": {
+                "x": 8,
+                "y": 8,
+                "width": 752,
+                "height": 37
+              },
+              "styles": {
+                "color": "rgb(0, 0, 0)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "\"Times New Roman\"",
+                "font-size": "32px",
+                "font-weight": "700",
+                "line-height": "normal",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "21.44px",
+                "margin-bottom": "21.44px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 325.40000000596046,
+            "dom_content_loaded_ms": 332.40000000596046,
+            "load_ms": 332.59999999403954
+          },
+          "resources": [],
+          "observations": {
+            "lcp_ms": 340,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "tablet.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raw": {
+        "url": "https://www.lazard.com/",
+        "base_url": "https://www.lazard.com/",
+        "title": "403 Forbidden",
+        "title_count": 1,
+        "lang": "",
+        "meta": {},
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "403 Forbidden",
+            "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "403 Forbidden",
+        "text_length": 13,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.lazard.com/",
+        "headers": {
+          "content-length": "520",
+          "content-type": "text/html",
+          "server": "awselb/2.0"
+        },
+        "redirects": [
+          {
+            "url": "https://www.lazard.com/",
+            "status": 403
+          }
+        ],
+        "charset": "utf-8",
+        "body_sha256": "8b73b6ccd7091d6d9d23adaab2baae3c4abf6de06df8efdd03215ee9376fa035",
+        "body_bytes": 520
+      },
+      "dom": {
+        "url": "https://www.lazard.com/",
+        "base_url": "https://www.lazard.com/",
+        "title": "403 Forbidden",
+        "title_count": 1,
+        "lang": "",
+        "meta": {},
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "403 Forbidden",
+            "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "403 Forbidden",
+        "text_length": 13,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scroll_width": 390,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "403 Forbidden",
+              "rect": {
+                "x": 8,
+                "y": 8,
+                "width": 374,
+                "height": 814.5625
+              },
+              "styles": {
+                "color": "rgb(0, 0, 0)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "\"Times New Roman\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "normal",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "403 Forbidden",
+              "rect": {
+                "x": 8,
+                "y": 8,
+                "width": 374,
+                "height": 37
+              },
+              "styles": {
+                "color": "rgb(0, 0, 0)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "\"Times New Roman\"",
+                "font-size": "32px",
+                "font-weight": "700",
+                "line-height": "normal",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "21.44px",
+                "margin-bottom": "21.44px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 337.30000001192093,
+            "dom_content_loaded_ms": 344.59999999403954,
+            "load_ms": 344.69999998807907
+          },
+          "resources": [],
+          "observations": {
+            "lcp_ms": 356,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "mobile.png",
+      "full_page": true,
+      "section_screenshots": []
+    }
+  ],
+  "controls": [
+    {
+      "kind": "robots",
+      "url": "https://www.lazard.com/robots.txt",
+      "final_url": "https://www.lazard.com/robots.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html",
+        "content-length": "520",
+        "server": "awselb/2.0"
+      },
+      "path": "robots.txt",
+      "text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n",
+      "looks_html": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://www.lazard.com/sitemap.xml",
+      "final_url": "https://www.lazard.com/sitemap.xml",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html",
+        "content-length": "520",
+        "server": "awselb/2.0"
+      },
+      "path": "sitemap-1.xml",
+      "text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n",
+      "looks_html": true
+    },
+    {
+      "kind": "llms",
+      "url": "https://www.lazard.com/llms.txt",
+      "final_url": "https://www.lazard.com/llms.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html",
+        "content-length": "520",
+        "server": "awselb/2.0"
+      },
+      "path": "llms.txt",
+      "text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n",
+      "looks_html": true,
+      "markdown_links": []
+    }
+  ],
+  "link_checks": [],
+  "errors": [],
+  "coverage": {
+    "sitemap_files": 1,
+    "sitemap_skipped": [],
+    "internal_links_discovered": 0,
+    "internal_links_checked": 0,
+    "page_limit": 1,
+    "closed_shadow_dom": "not inspected",
+    "iframes": "inventoried, not traversed",
+    "readiness": "bounded font/selector/scroll wait; dynamic content may remain incomplete"
+  },
+  "technology_hints": []
+}

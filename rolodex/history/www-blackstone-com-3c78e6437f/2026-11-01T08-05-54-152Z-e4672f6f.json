@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "www-blackstone-com-3c78e6437f",
+  "origin": "https://www.blackstone.com",
+  "created_at": "2026-11-01T06:51:32.702Z",
+  "updated_at": "2026-11-01T06:57:25.673Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-51-24-859Z-757afc5b",
+      "url": "https://www.blackstone.com/",
+      "captured_at": "2026-11-01T06:51:32.577Z",
+      "path": "evidence/www-blackstone-com-3c78e6437f/2026-11-01T06-51-24-859Z-757afc5b/manifest.json",
+      "quality": "high-risk"
+    },
+    {
+      "id": "2026-11-01T06-57-04-878Z-ec5b52a2",
+      "url": "https://www.blackstone.com/",
+      "captured_at": "2026-11-01T06:57:25.238Z",
+      "path": "evidence/www-blackstone-com-3c78e6437f/2026-11-01T06-57-04-878Z-ec5b52a2/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

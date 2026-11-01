@@ -1,0 +1,1537 @@
+{
+  "url": "https://www.kkr.com/",
+  "base_url": "https://www.kkr.com/",
+  "title": "KKR: A Leading Global Investment Firm | KKR",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "content-page-ref": [
+      "w5auWvK720YDvwt6IfO02rBI8WvAkZHnWGE4kBoeNa6Uu4KNgzgF0C1rq7u725mbhhFh7MnzqcWBRjYg4onF0Q"
+    ],
+    "title": [
+      "KKR: A Leading Global Investment Firm  | KKR"
+    ],
+    "description": [
+      "KKR is a leading global investment firm offering solutions in alternative assets spanning real estate, private credit, private equity, and infrastructure, as well as liquid credit, capital markets and insurance. "
+    ],
+    "template": [
+      "homepage"
+    ],
+    "viewport": [
+      "width=device-width, initial-scale=1.0, maximum-scale=1"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "coveo_api_url": [
+      "https://platform.cloud.coveo.com"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:site_name": [
+      "KKR"
+    ],
+    "og:title": [
+      "KKR: A Leading Global Investment Firm  | KKR"
+    ],
+    "twitter:title": [
+      "KKR: A Leading Global Investment Firm  | KKR"
+    ],
+    "og:url": [
+      "https://www.kkr.com/"
+    ],
+    "og:description": [
+      "KKR is a leading global investment firm offering solutions in alternative assets spanning real estate, private credit, private equity, and infrastructure, as well as liquid credit, capital markets and insurance. "
+    ],
+    "og:image": [
+      "https://www.kkr.com/_jcr_content/root/main-par/video_hero_banner/image.coreimg.svg/1787597802204/hero-mobile-390x700.svg"
+    ],
+    "twitter:image": [
+      "https://www.kkr.com/_jcr_content/root/main-par/video_hero_banner/image.coreimg.svg/1787597802204/hero-mobile-390x700.svg?utm_source=twitter"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "msapplication-square32x32logo": [
+      "/etc.clientlibs/kkr/clientlibs/clientlib-site/resources/favicon-32x32.png"
+    ],
+    "msapplication-square16x16logo": [
+      "/etc.clientlibs/kkr/clientlibs/clientlib-site/resources/favicon-16x16.png"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://www.kkr.com/",
+      "url": "https://www.kkr.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 4,
+      "text": "Select Your Experience",
+      "selector": "div:nth-of-type(1) > dialog:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 6,
+      "text": "Q4 2026 Global Wealth Investment Playbook",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h6:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "You appear to be located in Singapore",
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "You appear to be located in Hong Kong",
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "50 years of excellence",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "50 years of partnership",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "50 years of performance",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "50 years of innovation",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "KKR is a leading global investment firm. We aim to deliver strong returns and shared success to those we serve and the world at large.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Investing in People, Companies, & Communities",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Explore Our Shared Success Stories",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#main-content",
+      "url": "https://www.kkr.com/#main-content",
+      "text": "Skip Navigation",
+      "rel": "",
+      "internal": true,
+      "selector": "#skip-nav",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.kkr.com/",
+      "text": "KKR Global Learn about KKR's approach, solutions, and insights. This site is for clients, investors, shareholders, career seekers, individuals and portfolio companies.",
+      "rel": "",
+      "internal": true,
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wealth",
+      "url": "https://www.kkr.com/wealth",
+      "text": "Wealth Professionals Learn about KKR's global wealth solutions. This site is for financial advisors, financial intermediaries, professional/accredited investors, and institutional investors.",
+      "rel": "",
+      "internal": true,
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.kkr.com/",
+      "text": "KKR logo",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/search",
+      "url": "https://www.kkr.com/search",
+      "text": "Search",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/login",
+      "url": "https://www.kkr.com/login",
+      "text": "login",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.kkr.com/about",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/history",
+      "url": "https://www.kkr.com/about/history",
+      "text": "History",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/our-people",
+      "url": "https://www.kkr.com/about/our-people",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/institutional-investors",
+      "url": "https://www.kkr.com/about/institutional-investors",
+      "text": "Institutional Investors",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/global-wealth-solutions",
+      "url": "https://www.kkr.com/about/global-wealth-solutions",
+      "text": "Global Wealth",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/family-capital",
+      "url": "https://www.kkr.com/about/family-capital",
+      "text": "Family Capital",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach",
+      "url": "https://www.kkr.com/approach",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/delivering-better-outcomes",
+      "url": "https://www.kkr.com/approach/delivering-better-outcomes",
+      "text": "Delivering Better Outcomes",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/ownership-cultures",
+      "url": "https://www.kkr.com/approach/ownership-cultures",
+      "text": "Ownership Cultures",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success",
+      "url": "https://www.kkr.com/approach/shared-success",
+      "text": "Shared Success",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/sustainability",
+      "url": "https://www.kkr.com/approach/sustainability",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest",
+      "url": "https://www.kkr.com/invest",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/private-equity",
+      "url": "https://www.kkr.com/invest/private-equity",
+      "text": "Private Equity",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/infrastructure",
+      "url": "https://www.kkr.com/invest/infrastructure",
+      "text": "Infrastructure",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/real-estate",
+      "url": "https://www.kkr.com/invest/real-estate",
+      "text": "Real Estate",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/credit",
+      "url": "https://www.kkr.com/invest/credit",
+      "text": "Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/solutions",
+      "url": "https://www.kkr.com/invest/solutions",
+      "text": "Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/capital-markets",
+      "url": "https://www.kkr.com/invest/capital-markets",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/insurance",
+      "url": "https://www.kkr.com/invest/insurance",
+      "text": "Insurance",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/strategic-partnerships",
+      "url": "https://www.kkr.com/invest/strategic-partnerships",
+      "text": "Strategic Partnerships",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.kkr.com/insights",
+      "text": "Learn more",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights#categoryTagId=insights-categories:macro-insights",
+      "url": "https://www.kkr.com/insights#categoryTagId=insights-categories:macro-insights",
+      "text": "Macro Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights#categoryTagId=insights-categories:investment-insights",
+      "url": "https://www.kkr.com/insights#categoryTagId=insights-categories:investment-insights",
+      "text": "Investment Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/alternatives-unlocked",
+      "url": "https://www.kkr.com/alternatives-unlocked",
+      "text": "Education",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://ir.kkr.com/",
+      "url": "https://ir.kkr.com/",
+      "text": "Investor Relations",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://media.kkr.com/",
+      "url": "https://media.kkr.com/",
+      "text": "Media Center",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.kkr.com/careers",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/locations",
+      "url": "https://www.kkr.com/locations",
+      "text": "Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.kkr.com/contact",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/investment-playbook",
+      "url": "https://www.kkr.com/insights/investment-playbook",
+      "text": "FEATURED INSIGHT Q4 2026 Global Wealth Investment Playbook",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#cmp-header__hamburgerBtn",
+      "url": "https://www.kkr.com/#cmp-header__hamburgerBtn",
+      "text": "Skip to Menu Toggle Button",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/sg/en",
+      "url": "https://www.kkr.com/sg/en",
+      "text": "Take Me to KKR Singapore",
+      "rel": "",
+      "internal": true,
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "javascript:void(0)",
+      "url": "javascript:void(0)",
+      "text": "Continue Browsing",
+      "rel": "",
+      "internal": false,
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/hk/en",
+      "url": "https://www.kkr.com/hk/en",
+      "text": "Take Me to KKR Hong Kong",
+      "rel": "",
+      "internal": true,
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "javascript:void(0)",
+      "url": "javascript:void(0)",
+      "text": "Continue Browsing",
+      "rel": "",
+      "internal": false,
+      "selector": "dialog:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.kkr.com/about",
+      "text": "KKR is a leading global investment firm. We aim to deliver strong returns and shared success to those we serve and the world at large.",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.kkr.com/about",
+      "text": "Learn About KKR",
+      "rel": "",
+      "internal": true,
+      "selector": "#teaser-da9cf5e1c0-0",
+      "visible": true
+    },
+    {
+      "href": "/invest/private-equity",
+      "url": "https://www.kkr.com/invest/private-equity",
+      "text": "$ 255B PRIVATE EQUITY",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/credit",
+      "url": "https://www.kkr.com/invest/credit",
+      "text": "$ 293B CREDIT",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/infrastructure",
+      "url": "https://www.kkr.com/invest/infrastructure",
+      "text": "$ 119B INFRASTRUCTURE",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/real-estate",
+      "url": "https://www.kkr.com/invest/real-estate",
+      "text": "$ 84B REAL ESTATE",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/institutional-investors",
+      "url": "https://www.kkr.com/about/institutional-investors",
+      "text": "Explore our institutional capabilities",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/global-wealth-solutions",
+      "url": "https://www.kkr.com/about/global-wealth-solutions",
+      "text": "Learn about Global Wealth Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/family-capital",
+      "url": "https://www.kkr.com/about/family-capital",
+      "text": "Partner with our Family Capital team",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/portfolio",
+      "url": "https://www.kkr.com/invest/portfolio",
+      "text": "View our portfolio",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.kkr.com/insights",
+      "text": "VIEW ALL INSIGHTS",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/investment-playbook",
+      "url": "https://www.kkr.com/insights/investment-playbook",
+      "text": "Macro Insights Global Wealth Investment Playbook October 2026 Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/private-equity-and-interest-rates",
+      "url": "https://www.kkr.com/insights/private-equity-and-interest-rates",
+      "text": "Investment Insights Higher Rates. Higher Bar. Managers Matter. October 2026 Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/in-brief-the-case-for-asia-private-equity",
+      "url": "https://www.kkr.com/insights/in-brief-the-case-for-asia-private-equity",
+      "text": "Investment Insights In Brief: The Case for Asia Private Equity October 2026 Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success",
+      "url": "https://www.kkr.com/approach/shared-success",
+      "text": "View all stories",
+      "rel": "",
+      "internal": true,
+      "selector": "#button-dc95b417f8",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success/novaria-group",
+      "url": "https://www.kkr.com/approach/shared-success/novaria-group",
+      "text": "Novaria Group Celebrates Employee Ownership Milestone Ownership Cultures",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success/chi",
+      "url": "https://www.kkr.com/approach/shared-success/chi",
+      "text": "Giving Every Employee a Voice and a Stake Ownership Cultures",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success/cornell-partnership",
+      "url": "https://www.kkr.com/approach/shared-success/cornell-partnership",
+      "text": "Helping Students Break Barriers and Excel in College Citizenship",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success/zenobe",
+      "url": "https://www.kkr.com/approach/shared-success/zenobe",
+      "text": "Electrifying Transportation Globally Energy Transition",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success/viridor",
+      "url": "https://www.kkr.com/approach/shared-success/viridor",
+      "text": "Putting Waste to Work Infrastructure",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success/skydance",
+      "url": "https://www.kkr.com/approach/shared-success/skydance",
+      "text": "Fueling Innovative Storytelling Media",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://media.kkr.com/",
+      "url": "https://media.kkr.com/",
+      "text": "Media Center",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://ir.kkr.com/",
+      "url": "https://ir.kkr.com/",
+      "text": "Investor Relations",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.kkr.com/careers",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.kkr.com/about",
+      "text": "ABOUT",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/history",
+      "url": "https://www.kkr.com/about/history",
+      "text": "History",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/our-people",
+      "url": "https://www.kkr.com/about/our-people",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/institutional-investors",
+      "url": "https://www.kkr.com/about/institutional-investors",
+      "text": "Institutional Investors",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/global-wealth-solutions",
+      "url": "https://www.kkr.com/about/global-wealth-solutions",
+      "text": "Global Wealth",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about/family-capital",
+      "url": "https://www.kkr.com/about/family-capital",
+      "text": "Family Capital",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach",
+      "url": "https://www.kkr.com/approach",
+      "text": "APPROACH",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/delivering-better-outcomes",
+      "url": "https://www.kkr.com/approach/delivering-better-outcomes",
+      "text": "Delivering Better Outcomes",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/ownership-cultures",
+      "url": "https://www.kkr.com/approach/ownership-cultures",
+      "text": "Ownership Cultures",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/shared-success",
+      "url": "https://www.kkr.com/approach/shared-success",
+      "text": "Shared Success",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/approach/sustainability",
+      "url": "https://www.kkr.com/approach/sustainability",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest",
+      "url": "https://www.kkr.com/invest",
+      "text": "INVEST",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/private-equity",
+      "url": "https://www.kkr.com/invest/private-equity",
+      "text": "Private Equity",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/infrastructure",
+      "url": "https://www.kkr.com/invest/infrastructure",
+      "text": "Infrastructure",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/real-estate",
+      "url": "https://www.kkr.com/invest/real-estate",
+      "text": "Real Estate",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/credit",
+      "url": "https://www.kkr.com/invest/credit",
+      "text": "Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/solutions",
+      "url": "https://www.kkr.com/invest/solutions",
+      "text": "Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/capital-markets",
+      "url": "https://www.kkr.com/invest/capital-markets",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/insurance",
+      "url": "https://www.kkr.com/invest/insurance",
+      "text": "Insurance",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/strategic-partnerships",
+      "url": "https://www.kkr.com/invest/strategic-partnerships",
+      "text": "Strategic Partnerships",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/invest/portfolio",
+      "url": "https://www.kkr.com/invest/portfolio",
+      "text": "Portfolio",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.kkr.com/insights",
+      "text": "INSIGHTS",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights#categoryTagId=insights-categories:macro-insights",
+      "url": "https://www.kkr.com/insights#categoryTagId=insights-categories:macro-insights",
+      "text": "Macro Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights#categoryTagId=insights-categories:investment-insights",
+      "url": "https://www.kkr.com/insights#categoryTagId=insights-categories:investment-insights",
+      "text": "Investment Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/alternatives-unlocked",
+      "url": "https://www.kkr.com/alternatives-unlocked",
+      "text": "Education",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers",
+      "url": "https://www.kkr.com/careers",
+      "text": "CAREERS",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/career-opportunities",
+      "url": "https://www.kkr.com/careers/career-opportunities",
+      "text": "Career Opportunities",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/student-careers",
+      "url": "https://www.kkr.com/careers/student-careers",
+      "text": "Student Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/inclusive-culture",
+      "url": "https://www.kkr.com/careers/inclusive-culture",
+      "text": "Inclusive Culture",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers/citizenship",
+      "url": "https://www.kkr.com/careers/citizenship",
+      "text": "Citizenship",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://portal.kkr.com/",
+      "url": "https://portal.kkr.com/",
+      "text": "CLIENT PORTAL",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://ir.kkr.com/",
+      "url": "https://ir.kkr.com/",
+      "text": "INVESTOR RELATIONS",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://media.kkr.com/",
+      "url": "https://media.kkr.com/",
+      "text": "MEDIA CENTER",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.kkr.com/contact",
+      "text": "CONTACT US",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/subscribe",
+      "url": "https://www.kkr.com/subscribe",
+      "text": "Subscribe",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/locations",
+      "url": "https://www.kkr.com/locations",
+      "text": "Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(3) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/kkr/",
+      "url": "https://www.linkedin.com/company/kkr/",
+      "text": "fab fa-linkedin-in",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#-\\35 b0b1477cb",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/kkr/",
+      "url": "https://www.instagram.com/kkr/",
+      "text": "fab fa-instagram",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#-eee67c241a",
+      "visible": true
+    },
+    {
+      "href": "https://www.youtube.com/@kohlbergkravisroberts",
+      "url": "https://www.youtube.com/@kohlbergkravisroberts",
+      "text": "fab fa-youtube",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#-\\33 b1db85ea5",
+      "visible": true
+    },
+    {
+      "href": "#ot-sdk-btn",
+      "url": "https://www.kkr.com/#ot-sdk-btn",
+      "text": "Manage Cookies",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy-and-cookies",
+      "url": "https://www.kkr.com/privacy-and-cookies",
+      "text": "Privacy and Cookies",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/terms-of-use",
+      "url": "https://www.kkr.com/terms-of-use",
+      "text": "Terms of Use",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "/security-and-fraud-awareness",
+      "url": "https://www.kkr.com/security-and-fraud-awareness",
+      "text": "Security and Fraud",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "/compliance",
+      "url": "https://www.kkr.com/compliance",
+      "text": "Compliance",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "/disclosures",
+      "url": "https://www.kkr.com/disclosures",
+      "text": "Disclosures",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "/accessibility-statement",
+      "url": "https://www.kkr.com/accessibility-statement",
+      "text": "Accessibility",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.kkr.com/",
+      "text": "Footer Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "KKR, Kohlberg Kravis Roberts & Co. L.P. Logo",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.kkr.com/content/experience-fragments/kkr/sites/global/en/structural-fragments/header/master/_jcr_content/root/header/bgImage.coreimg.svg/1793366753078/header-ampersand-image.svg",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.kkr.com/content/experience-fragments/kkr/sites/global/en/structural-fragments/header/master/_jcr_content/root/header/featuredImage.coreimg.jpeg/1793366753078/gwi-playbook-440x532.jpeg",
+      "alt": "Featured card",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "1320",
+      "height": "470",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "1320",
+      "height": "470",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "1320",
+      "height": "470",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPG1hc2sgaWQ9Im1hc2swXzI3OTlfNzk0IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMSIgeT0iMyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjMyIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xLjY2NjY2IDM1SDM4LjMzMzNMMjAgMy4zMzMzNEwxLjY2NjY2IDM1Wk0yMS42NjY3IDMwSDE4LjMzMzNWMjYuNjY2N0gyMS42NjY3VjMwWk0yMS42NjY3IDIzLjMzMzNIMTguMzMzM1YxNi42NjY3SDIxLjY2NjdWMjMuMzMzM1oiIGZpbGw9IndoaXRlIi8+CjwvbWFzaz4KPGcgbWFzaz0idXJsKCNtYXNrMF8yNzk5Xzc5NCkiPgo8cmVjdCB4PSItMjEuNjY2NyIgeT0iLTIxLjY2NjciIHdpZHRoPSI4My4zMzMzIiBoZWlnaHQ9IjgzLjMzMzMiIGZpbGw9IiNEMDA5NDYiLz4KPG1hc2sgaWQ9Im1hc2sxXzI3OTlfNzk0IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iLTIyIiB5PSItMjIiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCI+CjxyZWN0IHg9Ii0yMS42NjY3IiB5PSItMjEuNjY2NyIgd2lkdGg9IjgzLjMzMzMiIGhlaWdodD0iODMuMzMzMyIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2sxXzI3OTlfNzk0KSI+CjwvZz4KPC9nPgo8L3N2Zz4K",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPG1hc2sgaWQ9Im1hc2swXzI3OTlfNzk0IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMSIgeT0iMyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjMyIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xLjY2NjY2IDM1SDM4LjMzMzNMMjAgMy4zMzMzNEwxLjY2NjY2IDM1Wk0yMS42NjY3IDMwSDE4LjMzMzNWMjYuNjY2N0gyMS42NjY3VjMwWk0yMS42NjY3IDIzLjMzMzNIMTguMzMzM1YxNi42NjY3SDIxLjY2NjdWMjMuMzMzM1oiIGZpbGw9IndoaXRlIi8+CjwvbWFzaz4KPGcgbWFzaz0idXJsKCNtYXNrMF8yNzk5Xzc5NCkiPgo8cmVjdCB4PSItMjEuNjY2NyIgeT0iLTIxLjY2NjciIHdpZHRoPSI4My4zMzMzIiBoZWlnaHQ9IjgzLjMzMzMiIGZpbGw9IiNEMDA5NDYiLz4KPG1hc2sgaWQ9Im1hc2sxXzI3OTlfNzk0IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iLTIyIiB5PSItMjIiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCI+CjxyZWN0IHg9Ii0yMS42NjY3IiB5PSItMjEuNjY2NyIgd2lkdGg9IjgzLjMzMzMiIGhlaWdodD0iODMuMzMzMyIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2sxXzI3OTlfNzk0KSI+CjwvZz4KPC9nPgo8L3N2Zz4K",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPG1hc2sgaWQ9Im1hc2swXzI3OTlfNzk0IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMSIgeT0iMyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjMyIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xLjY2NjY2IDM1SDM4LjMzMzNMMjAgMy4zMzMzNEwxLjY2NjY2IDM1Wk0yMS42NjY3IDMwSDE4LjMzMzNWMjYuNjY2N0gyMS42NjY3VjMwWk0yMS42NjY3IDIzLjMzMzNIMTguMzMzM1YxNi42NjY3SDIxLjY2NjdWMjMuMzMzM1oiIGZpbGw9IndoaXRlIi8+CjwvbWFzaz4KPGcgbWFzaz0idXJsKCNtYXNrMF8yNzk5Xzc5NCkiPgo8cmVjdCB4PSItMjEuNjY2NyIgeT0iLTIxLjY2NjciIHdpZHRoPSI4My4zMzMzIiBoZWlnaHQ9IjgzLjMzMzMiIGZpbGw9IiNEMDA5NDYiLz4KPG1hc2sgaWQ9Im1hc2sxXzI3OTlfNzk0IiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iLTIyIiB5PSItMjIiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCI+CjxyZWN0IHg9Ii0yMS42NjY3IiB5PSItMjEuNjY2NyIgd2lkdGg9IjgzLjMzMzMiIGhlaWdodD0iODMuMzMzMyIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2sxXzI3OTlfNzk0KSI+CjwvZz4KPC9nPgo8L3N2Zz4K",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "2290",
+      "height": "1080",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "2290",
+      "height": "1080",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "2290",
+      "height": "1080",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "2290",
+      "height": "1080",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "2290",
+      "height": "1080",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "1600",
+      "height": "756",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "705",
+      "height": "560",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "705",
+      "height": "560",
+      "loading": null,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "705",
+      "height": "560",
+      "loading": null,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "alt": "",
+      "width": "705",
+      "height": "560",
+      "loading": null,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": "Email Address"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "\n        {\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"KKR\",\n  \"url\": \"https://www.kkr.com/\",\n  \"description\": \"KKR is a leading global investment firm offering solutions in alternative assets spanning real estate, private credit, private equity, and infrastructure, as well as liquid credit, capital markets and insurance. \",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"\",\n    \"addressLocality\": \"\",\n    \"addressCountry\": \"\",\n    \"addressRegion\": \"\",\n    \"postalCode\": \"\"\n  }\n}\n    ",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "KKR",
+        "url": "https://www.kkr.com/",
+        "description": "KKR is a leading global investment firm offering solutions in alternative assets spanning real estate, private credit, private equity, and infrastructure, as well as liquid credit, capital markets and insurance. ",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "",
+          "addressCountry": "",
+          "addressRegion": "",
+          "postalCode": ""
+        }
+      }
+    }
+  ],
+  "microdata": [
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-42ed68e148"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-521a73d946"
+    },
+    {
+      "type": "http://schema.org/SiteNavigationElement",
+      "id": null,
+      "selector": "#navigation-93ad732188"
+    },
+    {
+      "type": "http://schema.org/SiteNavigationElement",
+      "id": null,
+      "selector": "#navigation-231181b732"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-3dbe5c8359"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-430f6c2a20"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-91f232dd2a"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-d0872aa1a9"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-a2f9f58da4"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-d45edd23f7"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-93792f5f41"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-7f8562ab85"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-8d0dbd18fc"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-8d6cabe02b"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-da830d6db4"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-26af7547d9"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-265d782295"
+    },
+    {
+      "type": "http://schema.org/ImageObject",
+      "id": null,
+      "selector": "#image-04116ccaea"
+    },
+    {
+      "type": "http://schema.org/SiteNavigationElement",
+      "id": null,
+      "selector": "#navigation-6877ffd1c9"
+    },
+    {
+      "type": "http://schema.org/SiteNavigationElement",
+      "id": null,
+      "selector": "#navigation-b5ef7d781f"
+    }
+  ],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 4,
+    "main": 1,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "You appear to be located in Singapore Do you want to be redirected to the KKR Singapore website? Take Me to KKR Singapore Continue Browsing You appear to be located in Hong Kong Do you want to be redirected to the KKR Hong Kong website? Take Me to KKR Hong Kong Continue Browsing 50 years of excellence 50 years of partnership 50 years of performance 50 years of innovation VIEW OUR STORY KKR is a leading global investment firm. We aim to deliver strong returns and shared success to those we serve and the world at large. Learn About KKR Investing in People, Companies, & Communities $ 255B PRIVATE EQUITY $ 293B CREDIT $ 119B INFRASTRUCTURE $ 84B REAL ESTATE As of June 30, 2026. Credit AUM including liquid strategies is $331B. Who We Serve Institutional Investors Our differentiated investment insights, time-tested approach, and wide array of solutions help pensions, sovereign wealth funds, endowments and foundations, consultants, and insurance companies fulfill their missions. Explore our institutional capabilities Global Wealth Our Global Wealth Solutions for eligible individual investors across private equity, private credit, infrastructure, and real estate draw on an investment process honed over nearly five decades and many market cycles. Learn about Global Wealth Solutions Family Capital Our global Family Capital team is dedicated to helping families and entrepreneurs find solutions for their unique investment needs. Partner with our Family Capital team Companies The companies we invest in benefit from more than just our capital. As trusted partners, we aim to help them achieve operational excellence and provide expertise across a variety of industries and markets. View our portfolio Latest News & Insights VIEW ALL INSIGHTS Macro Insights Global Wealth Investment Playbook October 2026 Learn More Investment Insights Higher Rates. Higher Bar. Managers Matter. October 2026 Learn More Investment Insights In Brief: The Case for Asia Private Equity October 2026 Learn More Sign up to subscribe to the latest insights from KKR Email Address Please enter your business email. Please enter a valid email address. Please enter a professional email address. SUBSCRIBE TO INSIGHTS Explore Our Shared Success Stories View all stories Novaria Group Celebrates Employee Ownership Milestone Ownership Cultures Giving Every Employee a Voice and a Stake Ownership Cultures Helping Students Break Barriers and Excel in College Citizenship Electrifying Transportation Globally Energy Transition Putting Waste to Work Infrastructure Fueling Innovative Storytelling Media MORE ABOUT KKR Media Center Investor Relations Careers",
+  "text_length": 2638,
+  "iframes": [],
+  "script_sources": [
+    "https://www.kkr.com/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+    "https://assets.adobedtm.com/440b88e6f573/ff1ac198b3c0/launch-639e0d8c87c5.min.js",
+    "https://players.brightcove.net/6415685851001/default_default/index.min.js",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://www.kkr.com/etc.clientlibs/kkr-aem-base/clientlibs/clientlib-dependencies.lc-d1be42ed653dba8acb0cfd171da47663-lc.min.js",
+    "https://www.kkr.com/etc.clientlibs/kkr/clientlibs/clientlib-all.lc-440322eabfd264426aec2531a2ea9487-lc.min.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+  ],
+  "stylesheets": [
+    "https://www.kkr.com/etc.clientlibs/kkr-aem-base/clientlibs/clientlib-dependencies.lc-d1a93155cf91a9a84eac335e179cf329-lc.min.css",
+    "https://www.kkr.com/etc.clientlibs/kkr/clientlibs/clientlib-all.lc-df0808b6fd1a20286abdcb138ef12fe0-lc.min.css"
+  ],
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "url": "https://www.kkr.com/"
+    },
+    {
+      "lang": "en",
+      "url": "https://www.kkr.com/"
+    },
+    {
+      "lang": "ja-jp",
+      "url": "https://www.kkr.com/jp/ja"
+    },
+    {
+      "lang": "en-au",
+      "url": "https://www.kkr.com/au/en"
+    },
+    {
+      "lang": "ko-kr",
+      "url": "https://www.kkr.com/kr/ko"
+    },
+    {
+      "lang": "zh-cn",
+      "url": "https://www.kkr.com/cn/zh"
+    },
+    {
+      "lang": "en-sg",
+      "url": "https://www.kkr.com/sg/en"
+    },
+    {
+      "lang": "en-hk",
+      "url": "https://www.kkr.com/hk/en"
+    },
+    {
+      "lang": "fr-fr",
+      "url": "https://www.kkr.com/fr/fr"
+    },
+    {
+      "lang": "de-de",
+      "url": "https://www.kkr.com/de/de"
+    }
+  ]
+}

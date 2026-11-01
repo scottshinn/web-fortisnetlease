@@ -1,0 +1,70 @@
+# Matthews Real Estate Investment Services
+> Matthews™ is a national commercial real estate (CRE) firm with 30+ offices across the United States and $88.37B in completed transactions. The firm provides investment sales, debt & structured finance, equity, leasing, auction services, and a 1031 exchange program, supported by market research and a nationwide network of specialized agents.
+Matthews serves private investors, institutions, and developers across asset classes including retail, shopping centers, industrial, multifamily, self storage, healthcare/medical, hospitality, and mixed-use. Headquartered in the U.S. with national reach and local market expertise. Contact: 866-889-0550, contact@matthews.com.
+## Services
+- [All Services](https://www.matthews.com/services): Overview of Matthews' commercial real estate service lines
+- [Investment Sales](https://www.matthews.com/services/investment-sales): Acquisition and disposition advisory for commercial real estate investments
+- [Debt & Structured Finance](https://www.matthews.com/services/debt-structured-finance): Customized debt financing solutions for CRE investments
+- [Equity](https://www.matthews.com/services/equity): Equity placement and capital markets services
+- [Leasing](https://www.matthews.com/services/leasing): Strategic leasing solutions to maximize asset performance and occupancy
+- [Auction Services](https://www.matthews.com/services/auctions): Accelerated property disposition through structured auctions
+- [1031 Exchange Program](https://www.matthews.com/services/1031-exchange-program): Tax-deferred exchange solutions for real estate investors
+## Properties
+- [Property Listings](https://www.matthews.com/listings): Searchable inventory of commercial properties for sale nationwide
+- [Leasing Listings](https://www.matthews.com/listings?transaction=leasing): Commercial space available for lease
+- [Example Listing: 861 Broadway, Brooklyn, NY](https://www.matthews.com/properties/mixed-use-861-broadway-brooklyn-ny): Individual listing pages include price, cap rate, NOI, square footage, photos, offering memorandum, and listing agents
+## Insights & Research
+- [Insights](https://www.matthews.com/insights): Market reports, sector analysis, and commentary on commercial real estate trends
+- [Matthews Publication](https://www.matthews.com/insights/publication): The firm's flagship CRE publication
+- [Matthews Mentality Podcast](https://www.thematthewsmentalitypodcast.com/): Podcast hosted by CEO Kyle Matthews on mindsets and strategies of successful individuals
+- [The Matthews Market Pulse](https://matthewsreisresearch.substack.com/): Research newsletter on Substack
+## Company
+- [About Matthews](https://www.matthews.com/about-us): Company history, mission, and overview
+- [Executive Leadership](https://www.matthews.com/about-us/executive-leadership): Leadership team profiles
+- [Our Agents](https://www.matthews.com/about-us/our-agents): Directory of Matthews agents; individual profiles include specialty, market, contact details, and license information
+- [Client Success](https://www.matthews.com/about-us/client-success): Success stories and case studies of completed transactions
+- [Corporate Careers](https://www.matthews.com/about-us/careers): Open corporate positions with full job descriptions, locations, and salary ranges
+- [In the News](https://www.matthews.com/about-us/in-the-news): Press releases and media coverage
+- [Giving Back](https://www.matthews.com/about-us/charities): Charitable initiatives
+## Contact
+- [Office Locations & Contact](https://www.matthews.com/contact): 30+ office locations nationwide, phone 866-889-0550
+## Office Locations
+- Atlanta: 3060 Peachtree Rd NW., Suite 1450, Atlanta, GA 30305
+- Austin: 515 Congress Ave., Suite 2410, Austin, TX 78701
+- Birmingham: 1900 28th Ave., South Suite 220, Birmingham, AL 35209
+- Boston: 225 Franklin St., Suite 1705, Boston, MA 02210
+- Charleston: 201 Sigma Drive, Suite 300, Office 219, Summerville, SC 29486
+- Charlotte: 1930 Camden Rd, Suite 225, Charlotte, NC 28203
+- Chicago: 600 W Fulton, Suite 100, Chicago, IL 60661
+- Cleveland: 950 Main Ave., Suite 510, Cleveland, OH 44113
+- Columbus: 485 Metro Place South, Suite 275, Dublin, OH 43017
+- Dallas: 2699 Howell St., Suite 400, Dallas, TX 75204
+- Denver: 6400 South Fiddlers Green Cir., Suite 1330, Greenwood Village, CO 80111
+- El Segundo: 2321 Rosecrans Ave., Suite 1225, El Segundo, CA 90245
+- Encino: 16501 Ventura Blvd., Suite 510, Encino, CA 91436
+- Fort Lauderdale: 450 East Las Olas Blvd., Suite 1550, Fort Lauderdale, FL 33301
+- Houston: 515 Post Oak Blvd., Suite 910, Houston, TX 77027
+- Kansas City: 107 W 9th St., Suite 313, Kansas City, MO 64105
+- Miami: 801 Brickell Avenue, 8th floor, Office 701, Miami, FL 33131
+- Minneapolis: 701 Xenia Ave S, Suite 485, Golden Valley, MN 55416
+- Nashville: 1600 West End Ave., Suite 1500, Nashville, TN 37203
+- New Jersey: 300 Frank W Burr Blvd, Suite 440, Teaneck, NJ 07666
+- New York: 711 Third Ave, Suite 1800, New York, NY 10017
+- Orange County: 3161 Michelson Dr., Suite 1050, Irvine, CA 92612
+- Philadelphia: 200 Barr Harbor Dr., Suite 400, West Conshohocken, PA 19428
+- Phoenix: 4110 N Scottsdale Rd., Suite 100, Scottsdale, AZ 85251
+- Sacramento: 2264 Fair Oaks Blvd, Suite 201, Sacramento, CA 95825
+- San Diego: 4250 Executive Square, Suite 675, La Jolla, CA 92037
+- San Francisco: 44 Montgomery St., Suite 2388, San Francisco, CA 94104
+- St. Louis: 7777 Bonhomme Ave., Suite 1800, Clayton, MO 63105
+- Tampa: 1001 Water St., Suite 750, Tampa, FL 33602
+- Walnut Creek: 1981 N Broadway, Suite 235, Walnut Creek, CA 94596
+- Washington D.C.: 4800 Montgomery Ln., Suite 750, Bethesda, MD 20814
+- [License Information & Online Disclosures](https://www.matthews.com/license-information-online-disclosures): State licensing details
+- [Texas Real Estate Commission Information About Brokerage Services](https://www.matthews.com/texas-disclosure): Required Texas disclosure
+## Optional
+- [HTML Sitemap](https://www.matthews.com/sitemap-html): Full index of site pages
+- [Privacy Policy](https://www.matthews.com/privacy-policy): Data and privacy practices
+- [LinkedIn](https://www.linkedin.com/company/4821421): Official company LinkedIn page
+- [Instagram](https://www.instagram.com/matthews_cre/): Official Instagram account
+- [YouTube](https://www.youtube.com/c/TheMatthewsRetailGroupElSegundo): Official YouTube channel

@@ -1,0 +1,11 @@
+{
+  "_note": "Tenant hub content (ARCHITECTURE.md section 6). 'intro' must be owner-approved copy; until it is supplied the hub is built and linked but served noindex,follow and kept out of the sitemap (FACTS-TO-CONFIRM #28). 'creditNotes' only with a cited source.",
+  "tenants": {
+    "dollar-general": { "intro": null, "creditNotes": null },
+    "family-dollar": { "intro": null, "creditNotes": null, "aliasNote": "Includes Family Dollar / Dollar Tree combo stores as listed in Buildout." },
+    "dollar-tree": { "intro": null, "creditNotes": null },
+    "taco-bell": { "intro": null, "creditNotes": null },
+    "7-eleven": { "intro": null, "creditNotes": null, "aliasNote": "Includes stores listed as “7-Eleven (Speedway)”." },
+    "joe-hudsons-collision-center": { "intro": null, "creditNotes": null }
+  }
+}

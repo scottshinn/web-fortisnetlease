@@ -1,0 +1,18 @@
+{
+  "status": 403,
+  "url": "https://www.lazard.com/",
+  "headers": {
+    "content-length": "520",
+    "content-type": "text/html",
+    "server": "awselb/2.0"
+  },
+  "redirects": [
+    {
+      "url": "https://www.lazard.com/",
+      "status": 403
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "8b73b6ccd7091d6d9d23adaab2baae3c4abf6de06df8efdd03215ee9376fa035",
+  "body_bytes": 520
+}

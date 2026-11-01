@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/what-is-a-net-lease/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "14793",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/118436>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=118436>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://fortisnetlease.com/what-is-a-net-lease/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "79ddf6a9793dbbb48471d37cbcd359f76f0ba113ecdb7b24d618c25580275851",
+  "body_bytes": 55689
+}

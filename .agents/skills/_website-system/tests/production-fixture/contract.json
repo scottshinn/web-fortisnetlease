@@ -1,0 +1,22 @@
+{
+  "artifacts": {
+    "baseline": "f5615b029ea58efcfbb38cc35ec775ede023f67691007134163c70d929e17dc8",
+    "iterated": "674529911209c92d66a405fac8808032cc5a1b6f36c78425bb2fbc5073a8aec2"
+  },
+  "protected_files": [
+    "package.json",
+    "design.md",
+    "src/assets/styles.css",
+    "src/assets/main.js",
+    "src/assets/favicon.svg",
+    "scripts/build.mjs",
+    "scripts/server.mjs"
+  ],
+  "unchanged_routes": ["/services/roof-repair/", "/contact/"],
+  "allowed_content_additions": {
+    "/services/roof-repair/": {"callPlacement": "repair-hero"}
+  },
+  "added_route": "/services/roof-inspection/",
+  "canonical_origin": "https://northline.example",
+  "phone_href": "tel:+12485550100"
+}

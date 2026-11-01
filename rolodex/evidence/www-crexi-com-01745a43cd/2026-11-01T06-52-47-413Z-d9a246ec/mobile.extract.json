@@ -1,0 +1,107 @@
+{
+  "url": "https://www.crexi.com/?__cf_chl_rt_tk=wjQG5CQijdlaTXx9uIKQs.23yalnY2CYn3ThXTnQppc-1793515972-1.0.1.1-YJMdI7uDAKGivnY_gH9IFK3MDdxefwDEYMOdixtDzKI",
+  "base_url": "https://www.crexi.com/?__cf_chl_rt_tk=wjQG5CQijdlaTXx9uIKQs.23yalnY2CYn3ThXTnQppc-1793515972-1.0.1.1-YJMdI7uDAKGivnY_gH9IFK3MDdxefwDEYMOdixtDzKI",
+  "title": "Just a moment...",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "robots": [
+      "noindex,nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [],
+  "links": [],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "",
+  "text_length": 0,
+  "iframes": [],
+  "script_sources": [
+    "https://www.crexi.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a538faadbd467efe"
+  ],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll_width": 390,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'I4CnlQNdr6DQaqLKlS2VtI9U5JE3",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "18.4px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": []
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 114.83499997854233,
+      "dom_content_loaded_ms": 360.7000000178814,
+      "load_ms": 0
+    },
+    "resources": [
+      {
+        "url": "https://www.crexi.com/cdn-cgi/speculation",
+        "type": "other",
+        "duration_ms": 118.23499998450279,
+        "transfer_bytes": 451,
+        "decoded_bytes": 151
+      }
+    ],
+    "observations": {
+      "lcp_ms": null,
+      "layout_shifts": [],
+      "long_tasks": []
+    }
+  }
+}

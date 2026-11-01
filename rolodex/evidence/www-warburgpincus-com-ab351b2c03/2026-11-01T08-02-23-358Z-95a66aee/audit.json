@@ -1,0 +1,617 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://warburgpincus.com/",
+  "findings": [
+    {
+      "code": "http-error",
+      "severity": "error",
+      "category": "crawl",
+      "message": "Document returns 403",
+      "evidence": "http.json",
+      "action": "Serve the intended status and content."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "raw: description missing",
+      "evidence": "raw.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "raw: 0 canonicals",
+      "evidence": "raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "raw: indexing restriction present",
+      "evidence": "raw.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "raw: 0 H1 elements",
+      "evidence": "raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: 0 main landmarks",
+      "evidence": "raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:title missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:type missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:url missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:image missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet-raw: description missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet-raw: 0 canonicals",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "tablet-raw: indexing restriction present",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet-raw: 0 H1 elements",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: 0 main landmarks",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:title missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:type missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:url missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:image missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile-raw: description missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile-raw: 0 canonicals",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "mobile-raw: indexing restriction present",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile-raw: 0 H1 elements",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: 0 main landmarks",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:title missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:type missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:url missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:image missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: description missing",
+      "evidence": "desktop.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: 0 canonicals",
+      "evidence": "desktop.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "desktop: indexing restriction present",
+      "evidence": "desktop.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: 0 main landmarks",
+      "evidence": "desktop.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: images lack HTML dimensions",
+      "evidence": "desktop.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:title missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:type missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:url missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:image missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "render-dependent-content",
+      "severity": "warning",
+      "category": "rendering",
+      "message": "desktop: important content appears only after JavaScript",
+      "evidence": "desktop.extract.json",
+      "action": "Deliver key headings, copy and navigation in the initial HTML where crawler access matters."
+    },
+    {
+      "code": "broken-image",
+      "severity": "warning",
+      "category": "visual",
+      "message": "desktop: broken images",
+      "evidence": "desktop.extract.json",
+      "action": "Repair image URLs or loading behavior."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: long tasks observed",
+      "evidence": "desktop.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: a script exceeds 500 KB decoded",
+      "evidence": "desktop.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: description missing",
+      "evidence": "tablet.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: 0 canonicals",
+      "evidence": "tablet.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "tablet: indexing restriction present",
+      "evidence": "tablet.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: 0 main landmarks",
+      "evidence": "tablet.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: images lack HTML dimensions",
+      "evidence": "tablet.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:title missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:type missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:url missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:image missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "render-dependent-content",
+      "severity": "warning",
+      "category": "rendering",
+      "message": "tablet: important content appears only after JavaScript",
+      "evidence": "tablet.extract.json",
+      "action": "Deliver key headings, copy and navigation in the initial HTML where crawler access matters."
+    },
+    {
+      "code": "broken-image",
+      "severity": "warning",
+      "category": "visual",
+      "message": "tablet: broken images",
+      "evidence": "tablet.extract.json",
+      "action": "Repair image URLs or loading behavior."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: a script exceeds 500 KB decoded",
+      "evidence": "tablet.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: description missing",
+      "evidence": "mobile.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: 0 canonicals",
+      "evidence": "mobile.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "mobile: indexing restriction present",
+      "evidence": "mobile.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: 0 main landmarks",
+      "evidence": "mobile.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: images lack HTML dimensions",
+      "evidence": "mobile.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:title missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:type missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:url missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:image missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "render-dependent-content",
+      "severity": "warning",
+      "category": "rendering",
+      "message": "mobile: important content appears only after JavaScript",
+      "evidence": "mobile.extract.json",
+      "action": "Deliver key headings, copy and navigation in the initial HTML where crawler access matters."
+    },
+    {
+      "code": "broken-image",
+      "severity": "warning",
+      "category": "visual",
+      "message": "mobile: broken images",
+      "evidence": "mobile.extract.json",
+      "action": "Repair image URLs or loading behavior."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: a script exceeds 500 KB decoded",
+      "evidence": "mobile.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "robots-unavailable",
+      "severity": "warning",
+      "category": "crawl",
+      "message": "robots.txt could not be reliably interpreted",
+      "evidence": "controls.json",
+      "action": "Check HTTP status, redirects, content type and crawler-specific failure handling."
+    },
+    {
+      "code": "sitemap-unavailable",
+      "severity": "info",
+      "category": "crawl",
+      "message": "Sitemap unavailable: https://warburgpincus.com/sitemap.xml",
+      "evidence": "controls.json",
+      "action": "Check the intended sitemap location; a missing default path is not proof that no sitemap exists."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 0,
+      "rendered_text_length": 323,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": true,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 0,
+      "rendered_text_length": 323,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": true,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 0,
+      "rendered_text_length": 323,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": true,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    }
+  ],
+  "crawler_policy": {
+    "status": "unknown",
+    "agents": []
+  },
+  "summary": {
+    "errors": 1,
+    "warnings": 34,
+    "info": 34,
+    "quality": "high-risk"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

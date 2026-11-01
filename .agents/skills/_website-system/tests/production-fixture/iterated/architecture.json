@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "business": {
+    "name": "Northline Roofing",
+    "model": "service-area",
+    "facts": [
+      {"key":"identity","value":"Fictional demonstration client","source":"Supplied exercise brief","status":"verified"},
+      {"key":"services","value":"Residential roof repair and roof inspection","source":"Supplied exercise brief","status":"verified"},
+      {"key":"service_area","value":"Birmingham and Troy, Michigan","source":"Supplied exercise brief","status":"verified"},
+      {"key":"telephone","value":"+1-248-555-0100 (reserved fictional number)","source":"Supplied exercise brief","status":"verified"},
+      {"key":"address_publication","value":"No public office address","source":"Supplied exercise brief","status":"verified"},
+      {"key":"canonical_origin","value":"https://northline.example","source":"Supplied exercise brief","status":"verified"},
+      {"key":"inspection_scope","value":"Reviews visible roof condition, helps the homeowner understand observed concerns, and identifies questions to discuss before deciding on repair; available in Birmingham and Troy","source":"Supplied roof-inspection iteration brief","status":"verified"}
+    ]
+  },
+  "pages": [
+    {"path":"/","intent":"Understand services, service area and telephone contact","template":"home","parent":"","index":false,"unique_value":"Overview of both supplied residential services and two service areas","required_facts":["services","service_area","telephone","identity"],"schema_types":["WebSite","WebPage"],"internal_links":["/services/roof-repair/","/services/roof-inspection/","/contact/"]},
+    {"path":"/services/roof-repair/","intent":"Understand the roof-repair service and prepare a useful call","template":"service","parent":"/","index":false,"unique_value":"Repair-focused introduction and homeowner call-preparation prompts","required_facts":["services","service_area","telephone","identity"],"schema_types":["WebSite","WebPage","BreadcrumbList"],"internal_links":["/","/contact/"]},
+    {"path":"/services/roof-inspection/","intent":"Understand the inspection service and its role before a repair decision","template":"service","parent":"/","index":false,"unique_value":"Supplied inspection scope: visible condition, observed concerns and questions before deciding on repair","required_facts":["inspection_scope","service_area","telephone","identity"],"schema_types":["WebSite","WebPage","BreadcrumbList"],"internal_links":["/","/services/roof-repair/","/contact/"]},
+    {"path":"/contact/","intent":"Find the telephone link and confirm the demonstration's service area","template":"contact","parent":"/","index":false,"unique_value":"Consolidated telephone details, fictional-number explanation and service-area access model","required_facts":["telephone","service_area","services","identity","address_publication"],"schema_types":["WebSite","ContactPage","BreadcrumbList"],"internal_links":["/","/services/roof-repair/"]}
+  ],
+  "unresolved": [
+    "Independent technical and visual regression review of the roof-inspection addition is assigned by the parent workflow after handoff.",
+    "A real launch would require verified business details, a working phone, a deployable domain, an indexing decision and deployment authorization."
+  ]
+}

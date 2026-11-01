@@ -1,0 +1,380 @@
+{
+  "url": "https://www.blackstone.com/",
+  "base_url": "https://www.blackstone.com/",
+  "title": "Just a moment...",
+  "title_count": 1,
+  "lang": "en-us",
+  "meta": {
+    "robots": [
+      "noindex,nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "www.blackstone.com",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Performing security verification",
+      "selector": "#izjb4",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Verification successful. Waiting for www.blackstone.com to respond",
+      "selector": "#HUrAm0",
+      "visible": false
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+      "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+      "text": "Cloudflare",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.cloudflare.com/privacypolicy/",
+      "url": "https://www.cloudflare.com/privacypolicy/",
+      "text": "Privacy",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.blackstone.com/favicon.ico",
+      "alt": "Icon for www.blackstone.com",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": true
+    }
+  ],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.blackstone.com to respondRay ID: a538f8a7e8483f7fPerformance and Security by CloudflarePrivacy",
+  "text_length": 325,
+  "iframes": [],
+  "script_sources": [
+    "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f8a7e8483f7f",
+    "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+  ],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll_width": 390,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "www.blackstone.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "18.4px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "www.blackstone.com",
+        "rect": {
+          "x": 16,
+          "y": 128,
+          "width": 358,
+          "height": 100
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "40px",
+          "font-weight": "600",
+          "line-height": "50px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#izjb4",
+        "tag": "h2",
+        "text": "Performing security verification",
+        "rect": {
+          "x": 16,
+          "y": 236,
+          "width": 358,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "24px",
+          "font-weight": "600",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "8px",
+          "margin-bottom": "8px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#rrKi4",
+        "tag": "p",
+        "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+        "rect": {
+          "x": 16,
+          "y": 274,
+          "width": 358,
+          "height": 72
+        },
+        "styles": {
+          "color": "rgb(49, 49, 49)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "32px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Cloudflare",
+        "rect": {
+          "x": 217.578125,
+          "y": 810,
+          "width": 54.453125,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(0, 0, 238)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy",
+        "rect": {
+          "x": 290.03125,
+          "y": 810,
+          "width": 37.015625,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(0, 0, 238)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Cloudflare, opens in a new tab",
+        "width": 54.453125,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy, opens in a new tab",
+        "width": 37.015625,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 55.5,
+      "dom_content_loaded_ms": 110.15999999642372,
+      "load_ms": 592.3099999725819
+    },
+    "resources": [
+      {
+        "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f8a7e8483f7f",
+        "type": "script",
+        "duration_ms": 196.04499998688698,
+        "transfer_bytes": 191138,
+        "decoded_bytes": 574284
+      },
+      {
+        "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+        "type": "script",
+        "duration_ms": 1.4449999928474426,
+        "transfer_bytes": 0,
+        "decoded_bytes": 86732
+      },
+      {
+        "url": "https://www.blackstone.com/favicon.ico",
+        "type": "img",
+        "duration_ms": 165.9699999988079,
+        "transfer_bytes": 6477,
+        "decoded_bytes": 6177
+      },
+      {
+        "url": "https://www.blackstone.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a538f8a7e8483f7f/D1wB.9y48SUCCoYuH97dEN4czeO93OQTuqphprJD34A-1793515889-1.2.1.1-LkCA_YSaoKOMy1D2yKtbJPFcR.Xx2gX0Xl6iSiZqtRUQfiX6lxkT7H9N.LZ4XUh5",
+        "type": "xmlhttprequest",
+        "duration_ms": 231.04499998688698,
+        "transfer_bytes": 82976,
+        "decoded_bytes": 109056
+      },
+      {
+        "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/eqhzc/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+        "type": "iframe",
+        "duration_ms": 608.1800000071526,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      }
+    ],
+    "observations": {
+      "lcp_ms": 454.2399999797344,
+      "layout_shifts": [
+        {
+          "time": 605.1799999773502,
+          "value": 0.006615786174300345
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 309.52999997138977,
+          "duration_ms": 67
+        }
+      ]
+    }
+  }
+}

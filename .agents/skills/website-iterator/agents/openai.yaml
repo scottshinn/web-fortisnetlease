@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Iterator"
+  short_description: "Improve existing sites while preserving their foundations"
+  default_prompt: "Use $website-iterator to make this scoped website change while preserving the existing brand, architecture and tracking, then obtain independent regression QA."

@@ -1,0 +1,38 @@
+{
+  "url": "https://warburgpincus.com/",
+  "base_url": "https://warburgpincus.com/",
+  "title": "Just a moment...",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "robots": [
+      "noindex,nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [],
+  "links": [],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "",
+  "text_length": 0,
+  "iframes": [],
+  "script_sources": [],
+  "stylesheets": [],
+  "hreflang": []
+}

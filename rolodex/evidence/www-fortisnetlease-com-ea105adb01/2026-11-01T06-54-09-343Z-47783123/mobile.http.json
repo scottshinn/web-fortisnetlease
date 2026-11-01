@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/team/robert-bender/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "12984",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/?p=42872>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/team/robert-bender/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/team/robert-bender/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+  "body_bytes": 48972
+}

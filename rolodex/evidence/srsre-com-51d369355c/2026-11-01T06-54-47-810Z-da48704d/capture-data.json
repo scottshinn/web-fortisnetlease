@@ -1,0 +1,1540 @@
+{
+  "schema_version": 1,
+  "capture_id": "2026-11-01T06-54-47-810Z-da48704d",
+  "site_id": "srsre-com-51d369355c",
+  "requested_url": "https://srsre.com/",
+  "final_url": "https://srsre.com/",
+  "captured_at": "2026-11-01T06:55:11.438Z",
+  "environment": {
+    "browser": "156.0.8078.74",
+    "playwright": "1.62.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "locale": "en-US",
+    "timezone": "UTC",
+    "reduced_motion": "reduce",
+    "anonymous": true,
+    "device_emulation": "Viewport resizing only; no mobile user agent or touch emulation.",
+    "measurement": "Unthrottled local lab run."
+  },
+  "http": {
+    "status": 403,
+    "url": "https://srsre.com/",
+    "headers": {
+      "content-encoding": "gzip",
+      "content-type": "text/html; charset=UTF-8",
+      "server": "cloudflare",
+      "vary": "accept-encoding"
+    },
+    "redirects": [
+      {
+        "url": "https://srsre.com/",
+        "status": 307
+      },
+      {
+        "url": "https://srsre.com/",
+        "status": 403
+      }
+    ],
+    "charset": "UTF-8",
+    "body_sha256": "b5055a74169845eb49b2af7e0eaee6ecd2c88c4e57b561f8a70d6f6dfc5f31b0",
+    "body_bytes": 6136
+  },
+  "raw": {
+    "url": "https://srsre.com/",
+    "base_url": "https://srsre.com/",
+    "title": "Just a moment...",
+    "title_count": 1,
+    "lang": "en-US",
+    "meta": {
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "viewport": [
+        "width=device-width,initial-scale=1"
+      ]
+    },
+    "canonicals": [],
+    "headings": [],
+    "links": [],
+    "images": [],
+    "inputs": [],
+    "jsonld": [],
+    "microdata": [],
+    "rdfa": [],
+    "landmarks": {
+      "header": 0,
+      "nav": 0,
+      "main": 0,
+      "article": 0,
+      "section": 0,
+      "aside": 0,
+      "footer": 0
+    },
+    "text": "",
+    "text_length": 0,
+    "iframes": [],
+    "script_sources": [],
+    "stylesheets": [],
+    "hreflang": []
+  },
+  "views": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raw": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://srsre.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare",
+          "vary": "accept-encoding"
+        },
+        "redirects": [
+          {
+            "url": "https://srsre.com/",
+            "status": 307
+          },
+          {
+            "url": "https://srsre.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "b5055a74169845eb49b2af7e0eaee6ecd2c88c4e57b561f8a70d6f6dfc5f31b0",
+        "body_bytes": 6136
+      },
+      "dom": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "srsre.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for srsre.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://srsre.com/favicon.ico",
+            "alt": "Icon for srsre.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "srsre.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for srsre.com to respondRay ID: a538fd87587f1d45Performance and Security by CloudflarePrivacy",
+        "text_length": 307,
+        "iframes": [],
+        "script_sources": [
+          "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fd87587f1d45",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scroll_width": 1440,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "srsre.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 1000
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "srsre.com",
+              "rect": {
+                "x": 272,
+                "y": 128,
+                "width": 173.03125,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 272,
+                "y": 186,
+                "width": 896,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 272,
+                "y": 224,
+                "width": 896,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 742.578125,
+                "y": 966,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 815.03125,
+                "y": 966,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 117.5949999988079,
+            "dom_content_loaded_ms": 1460.7400000095367,
+            "load_ms": 5820.264999985695
+          },
+          "resources": [
+            {
+              "url": "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fd87587f1d45",
+              "type": "script",
+              "duration_ms": 1741.3050000071526,
+              "transfer_bytes": 188750,
+              "decoded_bytes": 568383
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 890.0750000178814,
+              "transfer_bytes": 28346,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://srsre.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 330.44999998807907,
+              "transfer_bytes": 6468,
+              "decoded_bytes": 6168
+            },
+            {
+              "url": "https://srsre.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a538fd87587f1d45/tFpxVSP.fow4Ak4q.ZYSoKxbh3ViT3Y7OK3zJpEvVc4-1793516089-1.2.1.1-2OIz63UjpLMSUySH1.cXC.Te2fR4Gu3NJ0s3DcJVV6Fi5aIP7.3fY157bba6P2M3",
+              "type": "xmlhttprequest",
+              "duration_ms": 366.56999999284744,
+              "transfer_bytes": 83003,
+              "decoded_bytes": 109056
+            },
+            {
+              "url": "https://srsre.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 209.3149999976158,
+              "transfer_bytes": 4015,
+              "decoded_bytes": 6168
+            }
+          ],
+          "observations": {
+            "lcp_ms": 5837.384999990463,
+            "layout_shifts": [
+              {
+                "time": 5832.685000002384,
+                "value": 0.0003277739197530864
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 3209.1599999964237,
+                "duration_ms": 118
+              },
+              {
+                "time": 3328.9449999928474,
+                "duration_ms": 2159
+              },
+              {
+                "time": 5949.594999998808,
+                "duration_ms": 60
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "desktop.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "tablet",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "raw": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://srsre.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare",
+          "vary": "accept-encoding"
+        },
+        "redirects": [
+          {
+            "url": "https://srsre.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "ea08c187bf8b191559520041105627a0d2013c443307612104148769624473cc",
+        "body_bytes": 6157
+      },
+      "dom": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "srsre.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for srsre.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://srsre.com/favicon.ico",
+            "alt": "Icon for srsre.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "srsre.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for srsre.com to respondRay ID: a538fdb27ba91d45Performance and Security by CloudflarePrivacy",
+        "text_length": 307,
+        "iframes": [],
+        "script_sources": [
+          "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fdb27ba91d45",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "scroll_width": 768,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "srsre.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 1024
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "srsre.com",
+              "rect": {
+                "x": 24,
+                "y": 128,
+                "width": 173.03125,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 24,
+                "y": 186,
+                "width": 720,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 24,
+                "y": 224,
+                "width": 720,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 406.578125,
+                "y": 990,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 479.03125,
+                "y": 990,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 361.83500000834465,
+            "dom_content_loaded_ms": 401.88499999046326,
+            "load_ms": 2649.1200000047684
+          },
+          "resources": [
+            {
+              "url": "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fdb27ba91d45",
+              "type": "script",
+              "duration_ms": 1485.3700000047684,
+              "transfer_bytes": 197584,
+              "decoded_bytes": 585470
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 6.895000010728836,
+              "transfer_bytes": 0,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://srsre.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 448.31999999284744,
+              "transfer_bytes": 6468,
+              "decoded_bytes": 6168
+            },
+            {
+              "url": "https://srsre.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a538fdb27ba91d45/GuVIB6EDKa8h1CCILNH2aRW6Vqj7NDvprZZZuDCkEUc-1793516096-1.2.1.1-Rpqp50ZGoSifpgMUhYcOZPxZVkU9n3UGPFtmGU.XIqUlkpsdFf9Cp2gkuk5ulMBu",
+              "type": "xmlhttprequest",
+              "duration_ms": 1728.75,
+              "transfer_bytes": 82994,
+              "decoded_bytes": 109056
+            },
+            {
+              "url": "https://srsre.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 1378.5049999952316,
+              "transfer_bytes": 4017,
+              "decoded_bytes": 6168
+            },
+            {
+              "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/nwyac/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+              "type": "iframe",
+              "duration_ms": 1309.9500000178814,
+              "transfer_bytes": 0,
+              "decoded_bytes": 0
+            }
+          ],
+          "observations": {
+            "lcp_ms": 2353.0399999916553,
+            "layout_shifts": [
+              {
+                "time": 2662.2399999797344,
+                "value": 0.0008439918359120686
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 1899.5699999928474,
+                "duration_ms": 141
+              },
+              {
+                "time": 2042.4249999821186,
+                "duration_ms": 157
+              },
+              {
+                "time": 4036.3349999785423,
+                "duration_ms": 87
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "tablet.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raw": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://srsre.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare",
+          "vary": "accept-encoding"
+        },
+        "redirects": [
+          {
+            "url": "https://srsre.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "b391289635838f7ccf29dfb25508500cd0237708b4e299001d0a0d60fea6d1a6",
+        "body_bytes": 6136
+      },
+      "dom": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "srsre.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for srsre.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://srsre.com/favicon.ico",
+            "alt": "Icon for srsre.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": true
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "srsre.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for srsre.com to respondRay ID: a538fdd88c171d45Performance and Security by CloudflarePrivacy",
+        "text_length": 307,
+        "iframes": [],
+        "script_sources": [
+          "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fdd88c171d45",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scroll_width": 390,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "srsre.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 844
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "srsre.com",
+              "rect": {
+                "x": 16,
+                "y": 128,
+                "width": 173.03125,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 16,
+                "y": 186,
+                "width": 358,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 16,
+                "y": 224,
+                "width": 358,
+                "height": 72
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 217.578125,
+                "y": 810,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 290.03125,
+                "y": 810,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 63.28499999642372,
+            "dom_content_loaded_ms": 129.80000001192093,
+            "load_ms": 2610.830000013113
+          },
+          "resources": [
+            {
+              "url": "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fdd88c171d45",
+              "type": "script",
+              "duration_ms": 2028.530000001192,
+              "transfer_bytes": 186016,
+              "decoded_bytes": 589424
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 1.4949999749660492,
+              "transfer_bytes": 0,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://srsre.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 284.03999999165535,
+              "transfer_bytes": 6468,
+              "decoded_bytes": 6168
+            },
+            {
+              "url": "https://srsre.com/cdn-cgi/challenge-platform/h/g/fo/2596386118:1793513946:dWlvDDXpKaQOV581hIn-JYsCeoQ0f7oWgwf3kG0diyY/a538fdd88c171d45/8pZtzdVVuxI3pk6HX19f1o1CFd224NUNTT7L4wmci7Y-1793516102-1.2.1.1-G7.DRlvNz0zVc.IT8IJvMt4Gb7Phy5tF_GU67Xqub.n1_qzZDqcxBmlejsn5i55g",
+              "type": "xmlhttprequest",
+              "duration_ms": 2149.2950000166893,
+              "transfer_bytes": 82994,
+              "decoded_bytes": 109056
+            },
+            {
+              "url": "https://srsre.com/favicon.ico",
+              "type": "other",
+              "duration_ms": 1923.544999986887,
+              "transfer_bytes": 4013,
+              "decoded_bytes": 6168
+            }
+          ],
+          "observations": {
+            "lcp_ms": 2421.1950000226498,
+            "layout_shifts": [
+              {
+                "time": 2626.270000010729,
+                "value": 0.002446526243161539
+              }
+            ],
+            "long_tasks": [
+              {
+                "time": 2160.4650000035763,
+                "duration_ms": 80
+              },
+              {
+                "time": 2242.3850000202656,
+                "duration_ms": 83
+              },
+              {
+                "time": 4536.965000003576,
+                "duration_ms": 55
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 5000
+      },
+      "screenshot": "mobile.png",
+      "full_page": true,
+      "section_screenshots": []
+    }
+  ],
+  "controls": [
+    {
+      "kind": "robots",
+      "url": "https://srsre.com/robots.txt",
+      "final_url": "https://srsre.com/robots.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "vary": "accept-encoding",
+        "content-encoding": "gzip"
+      },
+      "path": "robots.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-QMIpbZbLEKamKoIjp4adIi&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"QMIpbZbLEKamKoIjp4adIi\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'W04Xthc6qiVMqZueQfMc1CHap4_sK5prOIGPro56GSU-1793516108-1.2.1.1-RivE44oS5RgohvaRIzmFQo7CS7qyPkBln2FvhmtOvsVWePA.gx6DcispKA8lXS9v',cITimeS: '1793516108',cN: 'QMIpbZbLEKamKoIjp4adIi',cRay: 'a538fdfd1b4b1ed1',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=DPynA9SN4QxWJH9yLsknuhvyHyZtsH1M2a.kUt4IFP8-1793516108-1.0.1.1-ggVaaq80be6GtYoz5XXrQw_cOohJhV43t1hnd9QXchI\",cvId: '3',cZone: 'srsre.com',fa:\"/robots.txt?__cf_chl_f_tk=DPynA9SN4QxWJH9yLsknuhvyHyZtsH1M2a.kUt4IFP8-1793516108-1.0.1.1-ggVaaq80be6GtYoz5XXrQw_cOohJhV43t1hnd9QXchI\",md: 'NtWUkMuvvs6kEtSKzkMncWmiohv6K1hMAS4Kzdg0VJg-1793516108-1.2.1.1-mVeujDMZuc5C87FjZ8mMdGZDDfQaSVsdxsgC8NKWAQxvkc2vs.e1gp9wR6ADLlvTFdzj5YsuAKW85pas_jciNqJOzEV408U1mMqGx7Ih.jdAq5lbkUmG3siMIwv9AdCJ2hzDun4D7DsDKePYBe_nzUk8Z4UNzmx5C.vMkSsER_Pk4jshfj06MCD_OHWqfP4bP_Q2m2hgBV5DghzYiQ21AfaehbiZLBsvRhrQ4R5mQwY0uJmD6CHjoi9hL6Rj_Ut4xuOApz5.NUN1gFFsUEaWRP.bZpVuYM7rL9uUppEQAzP6D3m.YR_ENtLrfU31hIfrbGgbYTnrXZd9Q1_7fnqjFYtJY_gaHlIOAMG5diMrQXRD0zqhZa4OnJormvmELTEqIEvkYJTjqQHVpJ071Ae1EzLrpqbMsnh7Yylbw2kzkBc5VLgH.UVE.fsZZUjec3GY_IKGttD7bc5ZUPfhSh1NtI_VluMe0D71P9_MjErt5T1QDJLW6C2lYrgwOZFq4lIUeOKkqEN75aUuhgoEp37zYIaD7ZNzAF7gLRjRlwYQEBh9LnneWa.fBMzfdzPrDMrrQ9Xw5SjxpQsYdlz4g_iGUpy2sHa.gqI6w_6v6Mx0o6VY4Ii6rw4njRf3bfVHYg_Q5H4JLV7b8NqG_lMZnRHkaGuZBHb7lGGUS57ykvJE2F7lXbHcumdtW4YyYqPyzezoGz7bNeR15C18AK90sw_ra9qarhON7.lyttW_j.Y8wvdGN0U0H64PPTNywZ7OpwHu2QbCeC9gOja2.svZbbu8D0n6brRhJA3pXYA7xmKJ.yvjt384KTL0dtLW3piFs9qXceSWhh31MPttYG_keLDDBGIU2UlrzDOU8VdlHw2EUXrsd4ErsWSvmLr6kPE6iRT5BPfn44l5yyD1PnShfVc1KaE2uvqkDof2CG7veJmL37m4IpAvOoMpUFwlehuV1BUCg1_U5Lxvg4v3AEXp4z5bVI8L507VZiiw0bYzUuY6I7GTmupUlQU4_rsWr0sAZnMMdZlOisAuxMmE47USxEaLBcGdD31nxR84hrad_nDTUPD9le4Q_7uvqLhoHZFAXNoiYUUq60H7O3ijv.X3jedhDcEruih72CsBvg_kSFbUOIC_SSR7y1wEMfA4v03LpzT3sVPkjv9ZripXHYX3kE4Rec12uknM2aLr2.s7wUtN66QDe1AoYhtoISSvXG7gmMSARMYyW88HliI3tMykSfis8qGW_t88pzFvsQ5Dr5_g7yc',mdrd: 'f8wSgsQtypE.FdIzjnas9dESR_ga2XErncEvlg5so_A-1793516108-1.2.1.1-Is7wMIhwSpRw1IUzUhdMhBfzMTtR18ez_1ZfXRishzpY6mPHlqp87VjVxrXjbgw.9Q8RGyqRqKjoPo1YvvnkQ66TOK.U_i_KHM5ZANKUmjPrXjgatiAiB3fWBmYDVUIHdPHh4dPQU.vypbR1PRAwT4u8krEcjcOapnhnwUUTA1.uKw2MY_RgyppUJ6MQJjvVo_.y3WhD1ype3n3xK5LfeOeBhlPZC42jzYuF18c.CZsqIPU8_wfNd2S_TeFFMgubfQKmi6zJ6.wEJ1SsMAUke3DDXxtMmYNu2yFFnwUYano4IvFLjQgYTmWFE209ir5fk3ZiySuEPWVDRp_y694Y9DaSUKIQW8PjYqkcrfr.BFaxAdflo7ssVNKvlQ67OOg9',};var a = document.createElement('script');a.nonce = 'QMIpbZbLEKamKoIjp4adIi';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fdfd1b4b1ed1';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=DPynA9SN4QxWJH9yLsknuhvyHyZtsH1M2a.kUt4IFP8-1793516108-1.0.1.1-ggVaaq80be6GtYoz5XXrQw_cOohJhV43t1hnd9QXchI\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://srsre.com/sitemap.xml",
+      "final_url": "https://srsre.com/sitemap.xml",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "vary": "accept-encoding",
+        "content-encoding": "gzip"
+      },
+      "path": "sitemap-1.xml",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-7NGV7c6rRicrQkPBPcWcLj&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"7NGV7c6rRicrQkPBPcWcLj\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'aJDTKUROo3EcuZ.DeXIF08OZU4OAgexiFykjAL5nFNQ-1793516110-1.2.1.1-1r9cm2QxzktSHAPI_HFIaX.2DGBJ3nNO8IVq3A_qsG.1aSJyNzNwTkT.2B6gxDrM',cITimeS: '1793516110',cN: '7NGV7c6rRicrQkPBPcWcLj',cRay: 'a538fe083fbf3a14',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/sitemap.xml?__cf_chl_tk=uxRTEBZZDtlWI7kyG3Iv6CO68KGRWF3LsBspkNxPTSk-1793516110-1.0.1.1-gEDw9fbRSuyDZMueuO2An1.._TjwKLHThRCW1Bv8C5E\",cvId: '3',cZone: 'srsre.com',fa:\"/sitemap.xml?__cf_chl_f_tk=uxRTEBZZDtlWI7kyG3Iv6CO68KGRWF3LsBspkNxPTSk-1793516110-1.0.1.1-gEDw9fbRSuyDZMueuO2An1.._TjwKLHThRCW1Bv8C5E\",md: 'pvYoGTiYJHXck.k.W4M2lbkIWMIStkXdAClPEiSnBfE-1793516110-1.2.1.1-ORRtxhepD2orK4m6tPcNb5KsORRodcdDAJvj96dulwO3RmFUa7f4Wy71AFFZPpnYDaEvpfAMolvRxCSxCYZBpIRPqfpHjBG5yWP6ucZtTTTP8Mp0jhKtK11Q.l.Dw29MVxChKnGPChOCyUkH4axYBjVOtRQmNeX2hSsTCCvrLf6Z.yaqn0xZisFvcQTDe7ujUkt3zuMVjEi29EAu8zLmyMNZki4OoVUJWW3SfXptUyLYX.v41kAeD5Od3AyRugHn4.kGUK05ZkNa_GDue4eDABykGPdyTok3oMd3B4iH2wtuJnPni7ceVv49F5LcJAOoOFjhTLa8lhwy.L8blw.UBhkDGRvsJ5ZZyA3KRyDUkabo9URRtmUDo9zA7eFkJxnFlu_c6cSyD8IiPd1qGc2QtjtO6uzOu3SUY5AWhSNLqaOlUSTUJNR_EC62Tk7DRcUh840.OgK.R1pQmNB_EuWh4GcPielLaSsNlq0z_kqPQ9pmK_ptmSUV.Z07W2HHwi7bHjVdwb.aqbo4YKqEv8PmjV2JK7Sjs.8OFKS9mO1ckRlf3POmbbVNrR7UHCM6EckplsftoTDdiMJUWMePPGJH.eiiqt4x2UWrBDMBZ_AUeYzHjnfrBOW8c8I7MJ10J28bqTPaAYzcJz_..aPn.ksdcd7FoDCWKGZDj5zrFupMUjJhiBoDhmnF5cy0KAAJCxV9WHIqYAVsOyoMlzA6cgpcv41Rl9oHYzXxkYCS.9fB.eeTc0sZEbXqm9Mt3kD.KR9VJBE0kaZ1K379EaDldXe5euD8h4ygGf06OeIS62ZWcZahVvxxUee.erybsFG0U_bViBplLFPo_vgRM0WPPVi2RoSq4mnW7XUPmkIgrgyMxY8pbqZ5.I5VGgBvfWvy_RquQc2eQ.ETnCub4D4oL74G3IqIQZ0E9qjS2VMN0I32JEt1yrEBaCRmJRPU5DdfetzIo2GsZclkhQN8w9T3U1jU4h2v6o2Qn3HkTVvKXnlIo9t5sgHX8HG2Ep_NJISPhek48w_CSDs9bU5q1.tiz7WRPVyv_I9HId12KYGI2ozN8gh4sDGm2iRuSO5O0ozxsvPIMy0xvdRrGyTrNYdv3OhfvRn7J7LZU1ASYGcdv17.keNMRBzGaT8Gz_TE4M2nyCCtoiFZwAMh5rwHDZ4sImz5357x7TYDkMccGnSvS.b8kYPrpxzBlex.Jrq_tDgDjntg',mdrd: 'CWN58WIqCcz0vfZYSSUumOI_7Sn7y.OkB7wmaCAo.i4-1793516110-1.2.1.1-m_MzFfoW.bBxYE9HzM38N77rg3CKC_wcRmZlKgoK_kTxYTiT_H24HVl5a28Qm3MtGTnImqzUv_gKa.d.lrV0aH3TWWSRey40unZj6jSzRKac3KBnuN._4wQq1re3upSNDZ1tq57GFHyXNTMxiQ4JEB7Y_Yk5TplOBN84TiBKTddWuJTrhXUxm_sTeweK8APkbAcpISMR3mrSHXGetVEjV5sNAfDlFZwmqzb.zwz_JSg6A45QLhiHJhZ_2gqwJKG.N8fV73s.4ElVWnvdAdbL3BrfB9RQbMoYrW3vCUP8wjYTpJNh1BMdUvNQ1E2eI6831ctEHiJK7VM81uAQZawUrpOwdlEEysoYbhuLw4RNArKG_ooXIk4YrjK_VHhc1bEN',};var a = document.createElement('script');a.nonce = '7NGV7c6rRicrQkPBPcWcLj';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe083fbf3a14';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/sitemap.xml?__cf_chl_rt_tk=uxRTEBZZDtlWI7kyG3Iv6CO68KGRWF3LsBspkNxPTSk-1793516110-1.0.1.1-gEDw9fbRSuyDZMueuO2An1.._TjwKLHThRCW1Bv8C5E\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "llms",
+      "url": "https://srsre.com/llms.txt",
+      "final_url": "https://srsre.com/llms.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "vary": "accept-encoding",
+        "content-encoding": "gzip"
+      },
+      "path": "llms.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-sgasA5stRBROP7M3GpJaYG&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"sgasA5stRBROP7M3GpJaYG\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'x19smKvHVpox3RCdqqoAvTViSXJJQuE3Z60TZOSKUlw-1793516111-1.2.1.1-mVI5Mg1TV9skjklRoFN1hE4thYQ9f4zVKYQLprJ7rUu7LgbSSGzDfLm4lB_oPssE',cITimeS: '1793516111',cN: 'sgasA5stRBROP7M3GpJaYG',cRay: 'a538fe0fdd1ecebc',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/llms.txt?__cf_chl_tk=3gBLnHZLr_D3C6fmws_.p2LBLNb7gQSlWpgYxVPNSvY-1793516111-1.0.1.1-X84i_dhX3GCBT9JeUNOcayrGnlrANV0Qa7NwFF9GzhI\",cvId: '3',cZone: 'srsre.com',fa:\"/llms.txt?__cf_chl_f_tk=3gBLnHZLr_D3C6fmws_.p2LBLNb7gQSlWpgYxVPNSvY-1793516111-1.0.1.1-X84i_dhX3GCBT9JeUNOcayrGnlrANV0Qa7NwFF9GzhI\",md: 'N06.1_5lWDYsM0htGEOHiDPBwgOam9mSd75B1NOQbh8-1793516111-1.2.1.1-u4OXgRhz9tCKRvoJF4r1VZEC7DHkjjpyzhrI1HJdesy9JgM.NfKGE1A5gMddNP0N5Z0q7AvJGpcaVXtETYeIhYLnhL5o8sA.Ab.b8k2UCe8tFxJ0YdDIS3cm3tsaUjQN00RroeSN0pReLKBwIukalRpc0h6GXAZAbMgN0qQtkSy8gkH7Krkzs.cj6QqmBUAOUUugctjjFPeev_Mw17uMZIDgYdSUWIQI1QaZEi4H0es.TXF36ZyTzdwjitu0oRAVaavTEJqJ9NYLQzcWjtzPx_yXuNxLoCclf6YUzouufl_TA7s3ozADQ6OVHhb7gT9x5kAOl8Wiw5TdhlHOHzA28bB7PybFEO8PTgve6BxyfhUSJ03ZjnSkcriQz2B0vuZ7.2oSFhWdCTZaMaMwx8c8NJcm4eiZ1tSyQ_Lz5RRhJEG_HkksYw3d5IxXruINCln6t4YxHQKDBGUAMqg3isPzdU9dwE5ZrXC__RLA3zxZFEuOII8v_N9wlsHIv8nU3SAX4Y4ptChfYBWgP8eRFaQ6k7hRmabdHrKQE_omk4z5KGpuo4aFNHaAgl.kbS5QDV1E0DiygiZ0kaRT0o9LbpTAVnAAt1KWvOogF._NMurl0sG2Gfs9G6JUbub3ILVMh4y..z8mZIYs8zEVcJk72y9Dh6Tfq4T_h8l3Uz3AaKncaQhzYK8zogztIaToeWYXmHTvA80yw2fxU0JCY5_1xv_sUfVSbFBM6NNk4IPpNdwAs3cUC3Lz0kRfpstWSF.sg.ZFWQau7BUTVgDIutPxhryE10Mj6tp4M_0QcEjYZ.4k0N2dDxdMxkBlkjbtHF6VZgpIaUWjO4G8A8JoWcpaYB6zTP7HWXdgH4SZCVZBa5b5PIhUzMeA25zXTjlbrgL4Ta3ruLLykHNJhXwVfRx5FaDEDBjbnG9aVDBw3qU.T2.oHVitF.6iVAPzOvOe6pqTIxJ0__bWWq5k6VVIbu09MQuvCdR1MUG7tHAVr0gX1TUQLHJghA.7pn5oY5f3xA.Svk8TkXv_GiJDULYEGbjhaXNkxL6dudlsjk5DEYykniRrtbgOAhB9STOIVxBsCC9wvIs316rxam2AckLYsV4JpT1Psy2nf0pboiAyxzMd91l1_TYL7GjTxmmJMTNHa4TDlEsjTnz_Pe6Fy3WRcgZDHtP4BNiS..13GVdRKZPpDiK5mW4ojFJXa_AI00_YknOL2K.3Zn4Dp2fKzUYLALrzKECYfFgna0I9AAOYjj0n85nf0.E',mdrd: 'w1h7i5ERk0cfnk9BosmyFtB0whkt6xXvY7y.IYhpPxQ-1793516111-1.2.1.1-Bj0DjLQFP7h_6sOYy7IivNPasYdKCbitVG2rW9hNmBebwCyqyzWKLlLiIbP5DqtFhOO6gXVJhsf_X1xf8nJGtWZBIPOpYsQj8jzcdbbasF_AgppsmbK4Sn5d5.WUWTnFueJa1rp3vFe6uKcQBDwLlLluoNXNJ9dM0P9qMqD8I6PTRY47wAuiEK4flYo5j1gziGkDHj76wM5ojeedPdxHWoINsSq9.vFmyPsGKyMluQ_ysajted7C4m3gZ.h4lZu7mm3TZQ4zp7uTCpDsQ6NKQDHk2RW8EoNah2aZIvygpNVR0H9FC3rXMX9UT_FgPTiLJl_TLf2O1b0mIZFfTjWM0IToGSp.FwUFDKsuHeF2X8c6e1xBFIkfVmyXklx8y5vo',};var a = document.createElement('script');a.nonce = 'sgasA5stRBROP7M3GpJaYG';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fe0fdd1ecebc';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/llms.txt?__cf_chl_rt_tk=3gBLnHZLr_D3C6fmws_.p2LBLNb7gQSlWpgYxVPNSvY-1793516111-1.0.1.1-X84i_dhX3GCBT9JeUNOcayrGnlrANV0Qa7NwFF9GzhI\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true,
+      "markdown_links": []
+    }
+  ],
+  "link_checks": [],
+  "errors": [],
+  "coverage": {
+    "sitemap_files": 1,
+    "sitemap_skipped": [],
+    "internal_links_discovered": 0,
+    "internal_links_checked": 0,
+    "page_limit": 1,
+    "closed_shadow_dom": "not inspected",
+    "iframes": "inventoried, not traversed",
+    "readiness": "bounded font/selector/scroll wait; dynamic content may remain incomplete"
+  },
+  "technology_hints": []
+}

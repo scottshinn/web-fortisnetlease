@@ -1,0 +1,3960 @@
+{
+  "url": "https://horvathtremblay.com/",
+  "base_url": "https://horvathtremblay.com/",
+  "title": "Home - Horvath & Tremblay",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website",
+      "article"
+    ],
+    "og:title": [
+      "Home - Horvath & Tremblay",
+      "Home"
+    ],
+    "og:url": [
+      "https://horvathtremblay.com/",
+      "https://horvathtremblay.com/"
+    ],
+    "og:site_name": [
+      "Horvath & Tremblay",
+      "Horvath & Tremblay"
+    ],
+    "article:modified_time": [
+      "2026-07-23T12:16:07+00:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "og:description": [
+      "ABOUT US\nRelationship Focused\nResults Driven\nSERVICES  \nHorvath & Tremblay is a premier real estate services firm specializing in investment real estate brokerage, 1031 exchanges, debt and equity placement, and appraisal and valuation services.\nHeadquartered in Boston, with a nationwide presence spanning 19 offices,"
+    ],
+    "og:image": [
+      "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp"
+    ],
+    "cdp-version": [
+      "1.4.9"
+    ],
+    "msapplication-tileimage": [
+      "https://horvathtremblay.com/wp-content/uploads/2026/07/cropped-HT-Logo-Circle-2025-1-270x270.png"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://horvathtremblay.com/",
+      "url": "https://horvathtremblay.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 5,
+      "text": "E-Mail Signup",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > h5:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 5,
+      "text": "Sign up for news and information about our property listings.",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > h5:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "level": 1,
+      "text": "RESULTS DRIVEN INVESTMENT",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 1,
+      "text": "REAL ESTATE SERVICES",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "Consistently recognized as one of the top investment real estate service firms in the United States.",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 1,
+      "text": "RESULTS DRIVEN INVESTMENT",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 1,
+      "text": "REAL ESTATE SERVICES",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "Consistently recognized as one of the top investment real estate service firms in the United States.",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "ABOUT US",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Relationship Focused",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Results Driven",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "DELIVERING UNMATCHED SERVICE & RESULTS",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "H&T AT A GLANCE",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "$10B+",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "IN RECENT TRANSACTIONS",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "3,000+",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "TRANSACTIONS ACROSS 44 STATES",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "19",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "OFFICES ACROSS THE US",
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "level": 2,
+      "text": "What We Do",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "CONSISTENTLY RECOGNIZED BY",
+      "selector": "div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "STAY IN TOUCH",
+      "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Subscribe to Our Mailing List",
+      "selector": "#modal-heading-1",
+      "visible": false
+    }
+  ],
+  "links": [
+    {
+      "href": "#content",
+      "url": "https://horvathtremblay.com/#content",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/",
+      "url": "https://horvathtremblay.com/",
+      "text": "Horvath & Tremblay Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "Our Offices",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/hthelps/",
+      "url": "https://horvathtremblay.com/hthelps/",
+      "text": "HT Helps",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-sales/",
+      "url": "https://horvathtremblay.com/investment-sales/",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/1031-exchange/",
+      "url": "https://horvathtremblay.com/1031-exchange/",
+      "text": "1031 Exchange",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/capital-markets/",
+      "url": "https://horvathtremblay.com/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "http://htappraisal.com/",
+      "url": "http://htappraisal.com/",
+      "text": "Appraisal & Valuation",
+      "rel": "",
+      "internal": false,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Results",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/retail/",
+      "url": "https://horvathtremblay.com/retail/",
+      "text": "Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/results/",
+      "url": "https://horvathtremblay.com/results/",
+      "text": "Multi-Family",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/office-industrial-results/",
+      "url": "https://horvathtremblay.com/office-industrial-results/",
+      "text": "Office/Industrial",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/capital-markets-results/",
+      "url": "https://horvathtremblay.com/capital-markets-results/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/careers/",
+      "url": "https://horvathtremblay.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "Our Offices",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/hthelps/",
+      "url": "https://horvathtremblay.com/hthelps/",
+      "text": "HT Helps",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-sales/",
+      "url": "https://horvathtremblay.com/investment-sales/",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/1031-exchange/",
+      "url": "https://horvathtremblay.com/1031-exchange/",
+      "text": "1031 Exchange",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/capital-markets/",
+      "url": "https://horvathtremblay.com/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "http://htappraisal.com/",
+      "url": "http://htappraisal.com/",
+      "text": "Appraisal & Valuation",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Results",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/retail/",
+      "url": "https://horvathtremblay.com/retail/",
+      "text": "Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/results/",
+      "url": "https://horvathtremblay.com/results/",
+      "text": "Multi-Family",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/office-industrial-results/",
+      "url": "https://horvathtremblay.com/office-industrial-results/",
+      "text": "Office/Industrial",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/capital-markets-results/",
+      "url": "https://horvathtremblay.com/capital-markets-results/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/careers/",
+      "url": "https://horvathtremblay.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Toggle mobile menu",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Who We Are",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "Our People",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "Our Offices",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/hthelps/",
+      "url": "https://horvathtremblay.com/hthelps/",
+      "text": "HT Helps",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-sales/",
+      "url": "https://horvathtremblay.com/investment-sales/",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/1031-exchange/",
+      "url": "https://horvathtremblay.com/1031-exchange/",
+      "text": "1031 Exchange",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/capital-markets/",
+      "url": "https://horvathtremblay.com/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "http://htappraisal.com/",
+      "url": "http://htappraisal.com/",
+      "text": "Appraisal & Valuation",
+      "rel": "",
+      "internal": false,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Results",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/retail/",
+      "url": "https://horvathtremblay.com/retail/",
+      "text": "Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/results/",
+      "url": "https://horvathtremblay.com/results/",
+      "text": "Multi-Family",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/office-industrial-results/",
+      "url": "https://horvathtremblay.com/office-industrial-results/",
+      "text": "Office/Industrial",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/capital-markets-results/",
+      "url": "https://horvathtremblay.com/capital-markets-results/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/careers/",
+      "url": "https://horvathtremblay.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/author/jvelez/",
+      "url": "https://horvathtremblay.com/author/jvelez/",
+      "text": "Joshua Velez",
+      "rel": "author",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#aboutSection",
+      "url": "https://horvathtremblay.com/#aboutSection",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#aboutSection",
+      "url": "https://horvathtremblay.com/#aboutSection",
+      "text": "",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "SERVICES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/investment-real-estate-services/",
+      "url": "https://horvathtremblay.com/investment-real-estate-services/",
+      "text": "SERVICES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://horvathtremblay.com/contact/",
+      "url": "https://horvathtremblay.com/contact/",
+      "text": "OFFICES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/team/",
+      "url": "https://horvathtremblay.com/team/",
+      "text": "MEET THE TEAM",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/privacy-policy/",
+      "url": "https://horvathtremblay.com/privacy-policy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Subscribe",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.facebook.com/HorvathTremblay/",
+      "url": "https://www.facebook.com/HorvathTremblay/",
+      "text": "facebook",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://twitter.com/horvathtremblay",
+      "url": "https://twitter.com/horvathtremblay",
+      "text": "twitter",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/horvath-&-tremblay",
+      "url": "https://www.linkedin.com/company/horvath-&-tremblay",
+      "text": "linkedin",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://horvathtremblay.com/privacy-policy/",
+      "url": "https://horvathtremblay.com/privacy-policy/",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://horvathtremblay.com/#",
+      "text": "Go to Top",
+      "rel": "",
+      "internal": true,
+      "selector": "#toTop",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp",
+      "alt": "Horvath & Tremblay Logo",
+      "width": "450",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp",
+      "alt": "Horvath & Tremblay Logo",
+      "width": "450",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(2)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2021/01/arrow.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2021/01/arrow.png",
+      "alt": null,
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/Hobart-ICSC.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/Nadler-and-Client-2.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/D-Kelleher-2.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/Lombardi-and-Conway-2.webp",
+      "alt": null,
+      "width": "1280",
+      "height": "620",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Boston-Business-Journal-White-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Commercial-Property-Executive-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/ConnectCRE_Connect-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Crexi-Logo-White.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Globe-Street-real-estate-forum-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/mid-atlantic-1.png",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/nerej-1.png",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/nyrej-1.png",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/11/costar.webp",
+      "alt": null,
+      "width": "258",
+      "height": "130",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/REBusinessOnline-White-logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/RE-Journals-white-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/The-Real-Reporter-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/traded-logo-white.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(13) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/Yahoo-Finance-White-Logo.webp",
+      "alt": null,
+      "width": "200",
+      "height": "52",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/logo-set-1-new-4.png",
+      "alt": null,
+      "width": "800",
+      "height": "260",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/logo-set-2-new.png",
+      "alt": null,
+      "width": "800",
+      "height": "260",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://horvathtremblay.com/wp-content/uploads/2023/10/logo-set-3-new-2.png",
+      "alt": null,
+      "width": "800",
+      "height": "260",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "FirstName",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(2) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "LastName",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "Email",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(4) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "PhoneNo",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > input:nth-of-type(1)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "your-name",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2) > input:nth-of-type(1)",
+      "name": "your-company",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(3) > input:nth-of-type(1)",
+      "name": "your-email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(4) > input:nth-of-type(1)",
+      "name": "your-phone",
+      "type": "text",
+      "label": ""
+    },
+    {
+      "selector": "p:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "receive-text[]",
+      "type": "checkbox",
+      "label": "Receive Text"
+    },
+    {
+      "selector": "p:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1) > label:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "agreement[]",
+      "type": "checkbox",
+      "label": "Agreement"
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > p:nth-of-type(2) > input:nth-of-type(1)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    },
+    {
+      "selector": "#g-recaptcha-response-100000",
+      "name": "g-recaptcha-response",
+      "type": null,
+      "label": ""
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://horvathtremblay.com/\",\"url\":\"https://horvathtremblay.com/\",\"name\":\"Home - Horvath &amp; Tremblay\",\"isPartOf\":{\"@id\":\"https://horvathtremblay.com/#website\"},\"datePublished\":\"2023-11-10T14:03:31+00:00\",\"dateModified\":\"2026-07-23T12:16:07+00:00\",\"breadcrumb\":{\"@id\":\"https://horvathtremblay.com/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://horvathtremblay.com/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://horvathtremblay.com/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://horvathtremblay.com/#website\",\"url\":\"https://horvathtremblay.com/\",\"name\":\"Horvath &amp; Tremblay\",\"description\":\"Investment Real Estate Brokerage Firms\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://horvathtremblay.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://horvathtremblay.com/",
+            "url": "https://horvathtremblay.com/",
+            "name": "Home - Horvath &amp; Tremblay",
+            "isPartOf": {
+              "@id": "https://horvathtremblay.com/#website"
+            },
+            "datePublished": "2023-11-10T14:03:31+00:00",
+            "dateModified": "2026-07-23T12:16:07+00:00",
+            "breadcrumb": {
+              "@id": "https://horvathtremblay.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://horvathtremblay.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://horvathtremblay.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://horvathtremblay.com/#website",
+            "url": "https://horvathtremblay.com/",
+            "name": "Horvath &amp; Tremblay",
+            "description": "Investment Real Estate Brokerage Firms",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://horvathtremblay.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      }
+    },
+    {
+      "source": "\n    {\n     \"@context\": \"https://schema.org\",\n     \"@type\": \"BreadcrumbList\",\n     \"itemListElement\":\n     [\n      {\n       \"@type\": \"ListItem\",\n       \"position\": 1,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/services/\",\n        \"name\": \"Services\"\n        }\n      },\n      {\n       \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"item\":\n       {\n         \"@id\": \"https://horvathtremblay.com/1031-exchange/\",\n         \"name\": \"1031 Exchange\"\n       }\n      },\n      \n       {\n       \"@type\": \"ListItem\",\n       \"position\": 3,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/team/\",\n        \"name\": \"Meet the Team\"\n        }\n      },\n     \n     \n      {\n       \"@type\": \"ListItem\",\n       \"position\": 4,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/retail/\",\n        \"name\": \"Retail\"\n        }\n      },\n     \n       {\n       \"@type\": \"ListItem\",\n       \"position\": 5,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/results/\",\n        \"name\": \"Multi-Family\"\n        }\n      },\n      \n       {\n       \"@type\": \"ListItem\",\n       \"position\": 6,\n       \"item\":\n       {\n        \"@id\": \"https://horvathtremblay.com/contact/\",\n        \"name\": \"Offices\"\n        }\n      }\n           \n     ]\n          \n    }\n    ",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://horvathtremblay.com/services/",
+              "name": "Services"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://horvathtremblay.com/1031-exchange/",
+              "name": "1031 Exchange"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@id": "https://horvathtremblay.com/team/",
+              "name": "Meet the Team"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@id": "https://horvathtremblay.com/retail/",
+              "name": "Retail"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@id": "https://horvathtremblay.com/results/",
+              "name": "Multi-Family"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@id": "https://horvathtremblay.com/contact/",
+              "name": "Offices"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 1,
+    "article": 0,
+    "section": 2,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "HomeJoshua Velez2026-07-23T08:16:07-04:00 RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the United States. RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the United States. ABOUT US Relationship Focused Results Driven SERVICES Horvath & Tremblay is a premier real estate services firm specializing in investment real estate brokerage, 1031 exchanges, debt and equity placement, and appraisal and valuation services. Headquartered in Boston, with a nationwide presence spanning 19 offices, the firm has earned a reputation as a trusted partner to thousands of real estate investors and industry professionals. Our experienced team is committed to delivering exceptional service and strategic guidance, helping clients maximize the value of their real estate investments and achieve long-term success. SERVICES DELIVERING UNMATCHED SERVICE & RESULTS H&T AT A GLANCE Our success is defined by the high level of value we provide to our clients and other industry professionals. $0IN RECENT TRANSACTIONS$10B+ IN RECENT TRANSACTIONS 0+TRANSACTIONS ACROSS 44 STATES3,000+ TRANSACTIONS ACROSS 44 STATES 0OFFICES ACROSS THE US19 OFFICES ACROSS THE US OFFICES What We Do More than ever, real estate investors need strong relationships with professionals who can provide accurate market insight and strategic recommendations for their investment portfolios. Horvath & Tremblay is committed to being a leading investment real estate services company, delivering superior results for its clients. Backed by years of experience, national market knowledge, and local expertise, the firm continues to innovate by providing enhanced data, technology, and resources to both its professionals and clients. As a result, Horvath & Tremblay has consistently been recognized among the “Top 10 Best Commercial Real Estate Workplaces in the U.S.” while expanding rapidly to nineteen offices nationwide. MEET THE TEAM CONSISTENTLY RECOGNIZED BY STAY IN TOUCH Sign up for news and information about our property listings. ×Subscribe to Our Mailing List Receive Text By checking this box, I agree to receive SMS messages about updates, offers and information from Horvath & Tremblay at the phone number provided above. The SMS frequency may vary. Message and data rates may apply. Text HELP to (781) 776-4000 for assistance. Reply STOP to opt out of receiving SMS messages. Agreement By checking this box, you are confirming that you have read and agree to our Privacy Policy × Subscribe",
+  "text_length": 2624,
+  "iframes": [
+    {
+      "src": "https://horvathtremblay.com/",
+      "title": ""
+    },
+    {
+      "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeAWswfAAAAAD8SIERdrf7HLiXoPUNir9oz4czm&co=aHR0cHM6Ly9ob3J2YXRodHJlbWJsYXkuY29tOjQ0Mw..&hl=en&v=NhfdZHzre166o-vFZrWsq3yu&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=synpwg6hab0e",
+      "title": "reCAPTCHA"
+    },
+    {
+      "src": "https://horvathtremblay.com/",
+      "title": ""
+    }
+  ],
+  "script_sources": [
+    "https://www.youtube.com/s/player/11a45ffb/www-widgetapi.vflset/www-widgetapi.js",
+    "https://www.youtube.com/iframe_api",
+    "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__en.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-QM3DMPVSFQ&cx=c&gtm=4e6at0h2",
+    "https://www.googletagmanager.com/gtag/js?id=UA-72936908-1&cx=c&gtm=4e6as1",
+    "https://g10102301085.co/gr?id=-O2BBnYtxvAc-KzYGnMk&refurl=&winurl=https%3A%2F%2Fhorvathtremblay.com%2F",
+    "https://g10102301085.co/gr?id=-O2B9L9XLP3vWW3J6rCg&refurl=&winurl=https%3A%2F%2Fhorvathtremblay.com%2F",
+    "https://horvathtremblay.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://horvathtremblay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://horvathtremblay.com/wp-content/plugins/horvath-team-sync/public/js/horvath-team-sync-public.js?ver=1.0.0",
+    "https://www.googletagmanager.com/gtag/js?id=UA-72936908-1",
+    "https://www.googletagmanager.com/gtag/js?id=G-Y4XCXGZ6FZ",
+    "https://horvathtremblay.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "https://horvathtremblay.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+    "https://horvathtremblay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+    "https://horvathtremblay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+    "https://horvathtremblay.com/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js?ver=1.4",
+    "https://www.google.com/recaptcha/api.js?render=6LeAWswfAAAAAD8SIERdrf7HLiXoPUNir9oz4czm&ver=3.0",
+    "https://horvathtremblay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+    "https://horvathtremblay.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js?ver=3.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.appear.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.7.2",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js?ver=1.1.2",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/vimeoPlayer.js?ver=2.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-skip-link-focus-fix.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-contact-form-7.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-live-search.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-core/js/min/fusion-vertical-menu-widget.js?ver=5.2.1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1"
+  ],
+  "stylesheets": [
+    "https://horvathtremblay.com/wp-content/plugins/horvath-team-sync/public/css/horvath-team-sync-public.css?ver=1.0.0",
+    "https://horvathtremblay.com/wp-content/plugins/fusion-core/css/style.min.css?ver=5.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada/assets/css/style.min.css?ver=7.2.1",
+    "https://horvathtremblay.com/wp-content/themes/Avada-Child-Theme/style.css?ver=7.1.4",
+    "https://horvathtremblay.com/wp-content/uploads/fusion-icons/icomoon-1/style.css?ver=3.2.1"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "scroll_width": 1440,
+    "overflowing": [
+      "div:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "div:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "div:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1)",
+      "div:nth-of-type(2) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1)"
+    ],
+    "css_variables": {
+      "--mobile_menu_hover_color": "#f6f6f6",
+      "--dates_box_color": "#eef0f2",
+      "--sidebar_width": "30%",
+      "--h2_typography-margin-top": "10px",
+      "--primary_color-85a": "rgba(160,206,78,0.85)",
+      "--pricing_box_color": "#a0ce4e",
+      "--wp--preset--font-size--large": "22.5px",
+      "--wpforms-button-size-height": "41px",
+      "--footer_headings_typography-line-height": "1.5",
+      "--wpforms-container-border-style": "none",
+      "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+      "--h5_typography-letter-spacing": "0px",
+      "--countdown_counter_box_color": "#333333",
+      "--form_text_size": "13px",
+      "--countdown_label_color": "#ffffff",
+      "--main_padding-top": "0px",
+      "--mobile_menu_typography-font-size-open-submenu": "12px",
+      "--icon_circle_color_hover": "#333333",
+      "--wpforms-label-size-line-height": "19px",
+      "--button_gradient_top_color_hover": "#96c346",
+      "--button_gradient_bottom_color_hover": "#96c346",
+      "--primary_color-35a": "rgba(160,206,78,0.35)",
+      "--header_bg_image": "",
+      "--primary_color": "#a0ce4e",
+      "--button_typography-letter-spacing": "0px",
+      "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+      "--sec_menu_lh": "",
+      "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)",
+      "--privacy_color": "rgba(0,0,0,0.3)",
+      "--testimonial_text_color": "#747474",
+      "--privacy_bar_link_hover_color": "#a0ce4e",
+      "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+      "--base-font-size": "15",
+      "--header_top_menu_sub_color": "#747474",
+      "--post_titles_extras_typography-letter-spacing": "0px",
+      "--nav_typography-color-65a": "rgba(9,31,63,0.65)",
+      "--dual_sidebar_gutter": "40px",
+      "--form_border_color": "#d2d2d2",
+      "--button_font_size": "13px",
+      "--h5_typography-margin-top": "1.67em",
+      "--menu_sub_color": "#333333",
+      "--privacy_bar_color": "#8c8989",
+      "--content_bg_color": "#ffffff",
+      "--wp-admin-theme-color--rgb": "0,124,186",
+      "--pagination_font_size": "12px",
+      "--mobile_header_bg_color": "#323a49",
+      "--mobile_menu_typography-font-family": "Montserrat",
+      "--menu_arrow_size-width-header_border_color_condition_5": "",
+      "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+      "--footer_headings_typography-font-weight": "400",
+      "--wpforms-field-border-radius": "3px",
+      "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+      "--pagination_border_radius": "0px",
+      "--wpforms-field-size-padding-h": "14px",
+      "--tabs_inactive_color": "#ebeaea",
+      "--button_text_transform": "uppercase",
+      "--footer_headings_typography-color": "#dddddd",
+      "--h6_typography-font-weight": "400",
+      "--social_bg_color-0-transparent": "",
+      "--button_border_radius": "2px",
+      "--sidebar_2_2_width": "21%",
+      "--h1_typography-font-style": "",
+      "--privacy_bar_padding-left": "30px",
+      "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+      "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+      "--h3_typography-letter-spacing": "0px",
+      "--wpforms-label-error-color": "#d63637",
+      "--h4_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--button_border_hover_color": "#ffffff",
+      "--margin_offset-bottom-no-percent": "0px",
+      "--privacy_bg_color": "rgba(0,0,0,0.1)",
+      "--accordian_active_color": "#a0ce4e",
+      "--h6_typography-color": "#333333",
+      "--sharing_social_links_icon_color": "#2b2e35",
+      "--body_typography-font-style": "",
+      "--wpforms-background-repeat": "no-repeat",
+      "--body_typography-letter-spacing": "0px",
+      "--post_title_typography-font-style": "",
+      "--wpforms-field-border-color": "rgba( 0, 0, 0, 0.25 )",
+      "--menu_hover_first_color": "#ffffff",
+      "--h2_typography-margin-bottom": "10px",
+      "--wpforms-button-border-style": "none",
+      "--mobile_menu_nav_height": "35px",
+      "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+      "--icon_color_hover": "#ffffff",
+      "--margin_offset-top-no-percent": "0px",
+      "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+      "--mobile_menu_typography-line-height": "35px",
+      "--nav_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--h1_typography-font-size": "48px",
+      "--side_header_width-int": "280",
+      "--side_header_break_point": "1245",
+      "--primary_color-2a": "rgba(160,206,78,0.2)",
+      "--wp--preset--spacing--80": "5.06rem",
+      "--wpforms-field-text-color": "rgba( 0, 0, 0, 0.7 )",
+      "--carousel_hover_color": "rgba(0,0,0,0.7)",
+      "--carousel_nav_color": "rgba(0,0,0,0.6)",
+      "--post_title_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--pagination_box_padding-width": "6px",
+      "--form_border_width-top": "1px",
+      "--wp--preset--font-size--medium": "20px",
+      "--button_padding": "11px 23px",
+      "--slidingbar_divider_color": "#282a2b",
+      "--mobile_menu_typography-font-style": "",
+      "--h6_typography-font-style": "",
+      "--button_bevel_color": "#54770f",
+      "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+      "--testimonial_bg_color": "#f6f6f6",
+      "--hundredp_padding": "0px",
+      "--bg_image": "none",
+      "--nav_typography-font-style": "",
+      "--typography_sensitivity": "0.90",
+      "--slider_arrow_size": "14px",
+      "--mobile_menu_border_color": "#040051",
+      "--slidingbar_bg_color": "#363839",
+      "--icon_border_color": "#333333",
+      "--privacy_bar_padding-top": "15px",
+      "--sep_color": "#e0dede",
+      "--portfolio_archive_column_spacing": "20px",
+      "--dropdown_menu_top_border_size": "3px",
+      "--wpforms-label-size-sublabel-font-size": "14px",
+      "--wp--preset--aspect-ratio--16-9": "16/9",
+      "--wp--preset--color--pale-pink": "#f78da7",
+      "--wp-block-synced-color--rgb": "122,0,223",
+      "--icon_color": "#ffffff",
+      "--sidebar_2_1_width": "21%",
+      "--wpforms-button-size-margin-top": "10px",
+      "--h1_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--h1_typography-margin-top": "0.67em",
+      "--wpforms-field-size-icon-size": "1",
+      "--checklist_circle_color": "#a0ce4e",
+      "--privacy_bar_headings_color": "#dddddd",
+      "--footer_headings_typography-font-style": "",
+      "--h2_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--timeline_bg_color": "rgba(255,255,255,0)",
+      "--post_titles_extras_typography-color": "#333333",
+      "--bg-color-overlay": "normal",
+      "--countdown_heading_text_color": "#ffffff",
+      "--pagination_width_height": "30px",
+      "--button_accent_hover_color": "#ffffff",
+      "--h6_typography-font-size": "11px",
+      "--mobile_menu_typography-letter-spacing": "0px",
+      "--wpforms-button-text-color": "#ffffff",
+      "--menu_sub_sep_color": "#dcdadb",
+      "--h6_typography-margin-bottom": "2.33em",
+      "--logo_background_color": "#a0ce4e",
+      "--menu_sub_bg_color": "#f2efef",
+      "--timeline_bg_color-not-transparent": "#ffffff",
+      "--wpforms-button-border-size": "1px",
+      "--pagination_border_width": "1px",
+      "--wpforms-background-image": "none",
+      "--wpforms-label-sublabel-color": "rgba( 0, 0, 0, 0.55 )",
+      "--countdown_counter_text_color": "#ffffff",
+      "--h6_typography-letter-spacing": "0px",
+      "--h2_typography-font-style": "",
+      "--site_width": "1170px",
+      "--h2_typography-font-weight": "400",
+      "--nav_padding-no-zero": "30px",
+      "--wp--preset--aspect-ratio--2-3": "2/3",
+      "--wp--preset--font-size--x-large": "42px",
+      "--wpforms-field-size-input-spacing": "15px",
+      "--wp--preset--font-size--normal": "16px",
+      "--sidebar_gutter": "80px",
+      "--h5_typography-margin-bottom": "1.67em",
+      "--mobile_menu_typography-font-weight": "400",
+      "--wp--preset--font-size--xlarge": "30px",
+      "--menu_icon_size": "14px",
+      "--wpforms-field-border-color-spare": "rgba( 0, 0, 0, 0.25 )",
+      "--icon_circle_color": "#333333",
+      "--sharing_social_links_box_color": "#e8e8e8",
+      "--link_color-8a": "rgba(51,51,51,0.8)",
+      "--h4_typography-line-height": "1.2",
+      "--h3_typography-margin-top": "10px",
+      "--slidingbar_content_padding-bottom": "35px",
+      "--wpforms-button-border-color": "#066aab",
+      "--timeline_bg_color-20px-transparent": "",
+      "--wp--preset--font-size--small": "11.25px",
+      "--h1_typography-color": "#000000",
+      "--bg_pattern": "url(\"//horvathtremblay.com/wp-content/themes/Avada/assets/images/patterns/pattern1.png\")",
+      "--content_bg_repeat": "no-repeat",
+      "--footer_headings_typography-font-family": "\"PT Sans\"",
+      "--wp-block-synced-color": "#7a00df",
+      "--h6_typography-line-height": "1.5",
+      "--menu_bg_hover_color": "#f8f8f8",
+      "--header_padding-top": "0px",
+      "--hundredp_padding-fallback_to_zero_px": "0px",
+      "--slidingbar_link_color": "#bfbfbf",
+      "--grid_main_break_point": "1265",
+      "--h4_typography-margin-bottom": "10px",
+      "--wp--preset--color--light-green-cyan": "#7bdcb5",
+      "--form_border_width-left": "1px",
+      "--margin_offset-top": "0px",
+      "--wp-admin-border-width-focus": "2px",
+      "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%)",
+      "--nav_padding": "30px",
+      "--form_border_radius": "0px",
+      "--wp-admin-theme-color-darker-10": "#006ba1",
+      "--body_typography-font-weight": "400",
+      "--hundredp_padding-hundred_percent_negative_margin": "-0px",
+      "--mainmenu_dropdown_vertical_padding": "7px",
+      "--body_typography-font-size": "15px",
+      "--wpforms-background-color": "rgba( 0, 0, 0, 0 )",
+      "--slidingbar_width-percent_to_vw": "300px",
+      "--bg_color": "#ffffff",
+      "--wp--preset--spacing--20": "0.44rem",
+      "--slider_nav_box_dimensions-height": "30px",
+      "--footer_text_color": "#8c8989",
+      "--nav_highlight_border": "3px",
+      "--checklist_icons_color": "#ffffff",
+      "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+      "--header_bg_repeat": "no-repeat",
+      "--link_color": "#333333",
+      "--mobile_menu_typography-color": "#10174d",
+      "--slider_nav_box_dimensions-width": "30px",
+      "--wp-admin-theme-color-darker-20": "#005a87",
+      "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+      "--form_input_height": "29px",
+      "--button_border_width": "0px",
+      "--post_titles_extras_typography-font-size": "18px",
+      "--content_bg_image": "none",
+      "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+      "--wp--preset--color--vivid-purple": "#9b51e0",
+      "--wpforms-button-size-font-size": "17px",
+      "--header_padding-bottom": "0px",
+      "--meta_font_size": "12px",
+      "--h2_typography-color": "#333333",
+      "--privacy_bar_padding-bottom": "15px",
+      "--wpforms-background-height": "100px",
+      "--post_title_typography-font-size": "15px",
+      "--wp-bound-block-color": "#7a00df",
+      "--nav_typography-letter-spacing": "1px",
+      "--title_border_color": "#e0dede",
+      "--h3_typography-font-style": "",
+      "--content_break_point": "1035",
+      "--primary_color-5a": "rgba(160,206,78,0.5)",
+      "--mobile_menu_background_color": "#ffffff",
+      "--grid_separator_color": "#ebeaea",
+      "--h5_typography-color": "#333333",
+      "--post_titles_extras_typography-line-height": "1.5",
+      "--post_titles_extras_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--wpforms-field-border-size": "1px",
+      "--button_box_shadow": "none",
+      "--form_border_width-right": "1px",
+      "--wpforms-field-background-color": "#ffffff",
+      "--h4_typography-font-style": "",
+      "--wpforms-button-background-color": "#066aab",
+      "--portfolio_meta_font_size": "13px",
+      "--slidingbar_content_padding-top": "35px",
+      "--sharing_social_links_boxed_padding": "8px",
+      "--blog_archive_grid_column_spacing": "40px",
+      "--wp-admin-theme-color-darker-20--rgb": "0,90,135",
+      "--wp--preset--spacing--40": "1rem",
+      "--bg_repeat": "no-repeat",
+      "--wpforms-background-position": "center center",
+      "--accordian_inactive_color": "#333333",
+      "--body_typography-color": "#000000",
+      "--wpforms-field-size-checkbox-size": "16px",
+      "--nav_typography-color-35a": "rgba(9,31,63,0.35)",
+      "--h6_typography-margin-top": "2.33em",
+      "--margin_offset-bottom": "0px",
+      "--mobile_menu_typography-font-size-30-or-24px": "24px",
+      "--button_accent_color": "#ffffff",
+      "--site_width-int": "1170",
+      "--timeline_color": "#ebeaea",
+      "--header_padding-right": "0px",
+      "--form_focus_border_color-5a": "rgba(210,210,210,0.5)",
+      "--wp-admin-theme-color-darker-10--rgb": "0,107,160.5",
+      "--main_padding-bottom": "0px",
+      "--wp--preset--spacing--30": "0.67rem",
+      "--h5_typography-font-weight": "400",
+      "--wp--preset--spacing--50": "1.5rem",
+      "--adminbar-height": "32px",
+      "--h4_typography-color": "#333333",
+      "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+      "--nav_typography-font-weight": "400",
+      "--footer_divider_color": "#505152",
+      "--form_focus_border_color": "#d2d2d2",
+      "--h2_typography-font-size": "36px",
+      "--h4_typography-letter-spacing": "0px",
+      "--wpforms-label-color": "rgba( 0, 0, 0, 0.85 )",
+      "--form_text_color-35a": "rgba(170,169,169,0.35)",
+      "--snav_font_size": "",
+      "--wpforms-background-size": "cover",
+      "--mobile_menu_typography-font-size": "12px",
+      "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%)",
+      "--post_titles_extras_typography-font-style": "",
+      "--button_gradient_top_color": "#a0ce4e",
+      "--post_title_typography-color": "#333333",
+      "--menu_hover_first_color-65a": "rgba(255,255,255,0.65)",
+      "--wp--preset--color--vivid-red": "#cf2e2e",
+      "--mobile_menu_icons_top_margin": "15px",
+      "--h1_typography-font-weight": "400",
+      "--countdown_background_color": "#a0ce4e",
+      "--wp--preset--aspect-ratio--square": "1",
+      "--body_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--button_typography-font-weight": "400",
+      "--button_border_color": "#ffffff",
+      "--wpforms-container-shadow-size-box-shadow": "none",
+      "--h1_typography-line-height": "1.2",
+      "--wp--preset--color--black": "#000000",
+      "--h4_typography-margin-top": "10px",
+      "--h3_typography-color": "#333333",
+      "--h5_typography-line-height": "1.5",
+      "--wpforms-field-size-font-size": "16px",
+      "--privacy_bar_bg_color": "#363839",
+      "--slidingbar_content_padding-left": "30px",
+      "--privacy_bar_padding-right": "30px",
+      "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%)",
+      "--wpforms-field-size-sublabel-spacing": "5px",
+      "--wpforms-field-border-style": "solid",
+      "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+      "--wpforms-label-size-font-size": "16px",
+      "--logo_alignment": "left",
+      "--image_rollover_icon_size": "15px",
+      "--h4_typography-font-size": "18px",
+      "--h2_typography-letter-spacing": "0px",
+      "--button_typography-font-family": "PT Sans",
+      "--h3_typography-margin-bottom": "10px",
+      "--wpforms-button-size-padding-h": "15px",
+      "--privacy_bar_font_size": "13px",
+      "--typography_factor": "1.50",
+      "--h1_typography-letter-spacing": "0px",
+      "--wpforms-background-url": "none",
+      "--wpforms-field-menu-color": "#ffffff",
+      "--checklist_divider_color": "#e0dede",
+      "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+      "--es_caption_font_size": "20px",
+      "--h3_typography-font-weight": "400",
+      "--form_input_height-main-menu-search-width": "250px",
+      "--mobile_menu_font_hover_color": "#10174d",
+      "--nav_typography-color": "#091f3f",
+      "--icon_border_size": "#ffffff",
+      "--nav_dropdown_font_size": "13px",
+      "--wp--preset--spacing--60": "2.25rem",
+      "--pagination_box_padding-height": "2px",
+      "--wpforms-container-border-color": "#000000",
+      "--wp--preset--color--vivid-green-cyan": "#00d084",
+      "--post_title_typography-font-weight": "400",
+      "--side_header_width": "280px",
+      "--flyout_menu_icon_font_size_px": "20px",
+      "--wpforms-background-width": "100px",
+      "--h3_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--post_title_typography-line-height": "22.5px",
+      "--wp-editor-canvas-background": "#ddd",
+      "--h5_typography-font-size": "12px",
+      "--sidebar_bg_color": "rgba(255,255,255,0)",
+      "--wp-admin-theme-color": "#007cba",
+      "--body_typography-line-height": "2.27",
+      "--wpforms-field-size-line-height": "19px",
+      "--slidingbar_width": "300px",
+      "--tabs_bg_color": "#ffffff",
+      "--wp--preset--aspect-ratio--3-2": "3/2",
+      "--wp--preset--font-size--huge": "42px",
+      "--nav_typography-font-size": "15px",
+      "--h5_typography-font-style": "",
+      "--form_border_width-bottom": "1px",
+      "--button_typography-font-style": "",
+      "--header_padding-left": "0px",
+      "--footer_headings_typography-letter-spacing": "0px",
+      "--wpforms-container-border-radius": "3px",
+      "--h2_typography-line-height": "40px",
+      "--flyout_menu_icon_font_size": "20px",
+      "--wp--preset--aspect-ratio--4-3": "4/3",
+      "--h1_typography-margin-bottom": "0.4em",
+      "--icon_border_color_hover": "#333333",
+      "--form_text_color": "#aaa9a9",
+      "--wp--preset--spacing--70": "3.38rem",
+      "--menu_arrow_size-height": "12px",
+      "--h6_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--button_line_height": "16px",
+      "--main_padding-top-or-55px": "0px",
+      "--wpforms-container-border-width": "1px",
+      "--button_gradient_bottom_color": "#a0ce4e",
+      "--h5_typography-font-family": "Montserrat, Arial, Helvetica, sans-serif",
+      "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+      "--wpforms-field-size-input-height": "43px",
+      "--image_rollover_text_color": "#333333",
+      "--hundredp_padding-fallback_to_zero": "0px",
+      "--form_bg_color": "#ffffff",
+      "--wp--preset--aspect-ratio--9-16": "9/16",
+      "--h4_typography-font-weight": "400",
+      "--privacy_bar_link_color": "#bfbfbf",
+      "--wpforms-button-border-radius": "3px",
+      "--dropdown_menu_width": "180px",
+      "--wpforms-label-size-sublabel-line-height": "17px",
+      "--wpforms-container-padding": "0px",
+      "--social_bg_color": "#f6f6f6",
+      "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+      "--wp--preset--color--white": "#ffffff",
+      "--primary_color-7a": "rgba(160,206,78,0.7)",
+      "--menu_h45_bg_color": "#ffffff",
+      "--post_titles_extras_typography-font-weight": "400",
+      "--slidingbar_link_color_hover": "#a0ce4e",
+      "--wpforms-page-break-color": "#066aab",
+      "--wp--preset--aspect-ratio--3-4": "3/4",
+      "--menu_arrow_size-width": "23px",
+      "--slidingbar_content_padding-right": "30px",
+      "--h3_typography-line-height": "1.2",
+      "--menu_highlight_background": "#323a49",
+      "--h3_typography-font-size": "24px",
+      "--tabs_border_color": "#ebeaea",
+      "--post_title_typography-letter-spacing": "0px",
+      "--mobile_menu_toggle_color": "#10174d",
+      "--footer_headings_typography-font-size": "13px"
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "jQuery(document).ready(function(){ var heighttobegin = jQuery(\"#sliders-container\").height(); jQuery(\"#top_header_newsletter_signup\").css(\"top\", heighttobegin); jQuery(window).on('",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 3352.625
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Skip to content",
+        "rect": {
+          "x": -1,
+          "y": -1,
+          "width": 1,
+          "height": 1
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "-1px",
+          "margin-bottom": "-1px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > header:nth-of-type(1)",
+        "tag": "header",
+        "text": "Who We AreOur PeopleOur OfficesHT HelpsServicesInvestment Sales1031 ExchangeCapital MarketsAppraisal & ValuationResultsRetailMulti-FamilyOffice/IndustrialCapital MarketsCareersWho ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 0
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 145,
+          "y": 15,
+          "width": 190,
+          "height": 54.875
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "15px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "100%",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Who We Are",
+        "rect": {
+          "x": 886.015625,
+          "y": 0,
+          "width": 134.34375,
+          "height": 78
+        },
+        "styles": {
+          "color": "rgb(16, 23, 77)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "15px",
+          "letter-spacing": "1px",
+          "padding-top": "0px",
+          "padding-right": "15px",
+          "padding-bottom": "0px",
+          "padding-left": "15px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Services",
+        "rect": {
+          "x": 1020.359375,
+          "y": 0,
+          "width": 99.390625,
+          "height": 78
+        },
+        "styles": {
+          "color": "rgb(16, 23, 77)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "15px",
+          "letter-spacing": "1px",
+          "padding-top": "0px",
+          "padding-right": "15px",
+          "padding-bottom": "0px",
+          "padding-left": "15px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Results",
+        "rect": {
+          "x": 1119.75,
+          "y": 0,
+          "width": 91.625,
+          "height": 78
+        },
+        "styles": {
+          "color": "rgb(16, 23, 77)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "15px",
+          "letter-spacing": "1px",
+          "padding-top": "0px",
+          "padding-right": "15px",
+          "padding-bottom": "0px",
+          "padding-left": "15px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers",
+        "rect": {
+          "x": 1211.375,
+          "y": 0,
+          "width": 93.625,
+          "height": 78
+        },
+        "styles": {
+          "color": "rgb(16, 23, 77)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "15px",
+          "letter-spacing": "1px",
+          "padding-top": "0px",
+          "padding-right": "15px",
+          "padding-bottom": "0px",
+          "padding-left": "15px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "#main",
+        "tag": "main",
+        "text": "HomeJoshua Velez2026-07-23T08:16:07-04:00 RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the Unite",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 3264.578125
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#content",
+        "tag": "section",
+        "text": "HomeJoshua Velez2026-07-23T08:16:07-04:00 RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the Unite",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 3264.578125
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 700,
+          "y": 870,
+          "width": 40,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "40px",
+          "font-weight": "400",
+          "line-height": "40px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "ABOUT US",
+        "rect": {
+          "x": 134.953125,
+          "y": 1040,
+          "width": 440,
+          "height": 28.796875
+        },
+        "styles": {
+          "color": "rgb(0, 176, 240)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "24px",
+          "font-weight": "400",
+          "line-height": "28.8px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Relationship Focused",
+        "rect": {
+          "x": 134.953125,
+          "y": 1088.796875,
+          "width": 440,
+          "height": 39.953125
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "36px",
+          "font-weight": "700",
+          "line-height": "39.96px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(2)",
+        "tag": "h2",
+        "text": "Results Driven",
+        "rect": {
+          "x": 134.953125,
+          "y": 1148.75,
+          "width": 440,
+          "height": 39.953125
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "36px",
+          "font-weight": "700",
+          "line-height": "39.96px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "SERVICES",
+        "rect": {
+          "x": 134.953125,
+          "y": 1202.5,
+          "width": 440,
+          "height": 60
+        },
+        "styles": {
+          "color": "rgb(136, 136, 136)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "3.79688px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "SERVICES",
+        "rect": {
+          "x": 134.953125,
+          "y": 1232.5,
+          "width": 115.484375,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(0, 176, 240)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "30px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Horvath & Tremblay is a premier real estate services firm specializing in investment real estate brokerage, 1031 exchanges, debt and equity placement, and appraisal and valuation s",
+        "rect": {
+          "x": 651.671875,
+          "y": 1020,
+          "width": 653.359375,
+          "height": 67.5
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+        "tag": "p",
+        "text": "Headquartered in Boston, with a nationwide presence spanning 19 offices, the firm has earned a reputation as a trusted partner to thousands of real estate investors and industry pr",
+        "rect": {
+          "x": 651.671875,
+          "y": 1107.5,
+          "width": 653.359375,
+          "height": 67.5
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(3)",
+        "tag": "p",
+        "text": "Our experienced team is committed to delivering exceptional service and strategic guidance, helping clients maximize the value of their real estate investments and achieve long-ter",
+        "rect": {
+          "x": 651.671875,
+          "y": 1195,
+          "width": 653.359375,
+          "height": 67.5
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "DELIVERING UNMATCHED SERVICE & RESULTS",
+        "rect": {
+          "x": 134.953125,
+          "y": 1382.5,
+          "width": 1170.078125,
+          "height": 28.796875
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "24px",
+          "font-weight": "700",
+          "line-height": "28.8px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "H&T AT A GLANCE",
+        "rect": {
+          "x": 134.953125,
+          "y": 1531.296875,
+          "width": 440,
+          "height": 110
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "50px",
+          "font-weight": "700",
+          "line-height": "55px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Our success is defined by the high level of value we provide to our clients and other industry professionals.",
+        "rect": {
+          "x": 134.953125,
+          "y": 1651.296875,
+          "width": 440,
+          "height": 81
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "18px",
+          "font-weight": "400",
+          "line-height": "27px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "OFFICES",
+        "rect": {
+          "x": 154.953125,
+          "y": 1772.296875,
+          "width": 663.359375,
+          "height": 27
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "OFFICES",
+        "rect": {
+          "x": 154.953125,
+          "y": 1772.296875,
+          "width": 109.671875,
+          "height": 27
+        },
+        "styles": {
+          "color": "rgb(0, 176, 240)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "27px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "What We Do",
+        "rect": {
+          "x": 134.953125,
+          "y": 1959.296875,
+          "width": 1170.078125,
+          "height": 39.953125
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "36px",
+          "font-weight": "700",
+          "line-height": "39.96px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "More than ever, real estate investors need strong relationships with professionals who can provide accurate market insight and strategic recommendations for their investment portfo",
+        "rect": {
+          "x": 743.34375,
+          "y": 2054.25,
+          "width": 561.671875,
+          "height": 330
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2)",
+        "tag": "p",
+        "text": "MEET THE TEAM",
+        "rect": {
+          "x": 743.34375,
+          "y": 2404.25,
+          "width": 561.671875,
+          "height": 46
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "20px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "MEET THE TEAM",
+        "rect": {
+          "x": 743.34375,
+          "y": 2414.25,
+          "width": 176.28125,
+          "height": 36
+        },
+        "styles": {
+          "color": "rgb(0, 176, 240)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "36px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "CONSISTENTLY RECOGNIZED BY",
+        "rect": {
+          "x": 134.953125,
+          "y": 2510.25,
+          "width": 1170.078125,
+          "height": 28.796875
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "24px",
+          "font-weight": "700",
+          "line-height": "28.8px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "STAY IN TOUCH",
+        "rect": {
+          "x": 134.953125,
+          "y": 3121.03125,
+          "width": 764.46875,
+          "height": 39.953125
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "36px",
+          "font-weight": "700",
+          "line-height": "39.96px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Sign up for news and information about our property listings.",
+        "rect": {
+          "x": 134.953125,
+          "y": 3160.984375,
+          "width": 764.46875,
+          "height": 28.59375
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "22px",
+          "font-weight": "400",
+          "line-height": "28.6px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Subscribe",
+        "rect": {
+          "x": 1031.109375,
+          "y": 3133.796875,
+          "width": 188.9375,
+          "height": 43
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(45, 54, 76)",
+          "font-family": "Montserrat",
+          "font-size": "18px",
+          "font-weight": "600",
+          "line-height": "17px",
+          "letter-spacing": "normal",
+          "padding-top": "13px",
+          "padding-right": "40px",
+          "padding-bottom": "13px",
+          "padding-left": "40px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "7px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(1)",
+        "tag": "section",
+        "text": "AUSTIN BETHESDA BOSTON CHARLESTON CHICAGO FORT LAUDERDALE FOXBORO JACKSONVILLE MECHANICSBURG MIAMI MILWAUKEE NEW YORK CITY OAK BROOK PARK CITY PHILADELPHIA SADDLE BROOK SHELTON TAM",
+        "rect": {
+          "x": 0,
+          "y": 3264.578125,
+          "width": 1440,
+          "height": 88.046875
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 676.25,
+          "y": 3279.578125,
+          "width": 16,
+          "height": 16
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "icomoon",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "16px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 712.25,
+          "y": 3279.578125,
+          "width": 15.5,
+          "height": 16
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "icomoon",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "16px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 747.75,
+          "y": 3279.578125,
+          "width": 16,
+          "height": 16
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "icomoon",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "16px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "10px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Copyright © 2026 Horvath & Tremblay | All Rights Reserved | Privacy Policy",
+        "rect": {
+          "x": 14.953125,
+          "y": 3322.625,
+          "width": 1410.09375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "12px",
+          "margin-bottom": "12px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 860.1875,
+          "y": 3323.625,
+          "width": 81.640625,
+          "height": 15
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 0,
+          "y": 3352.625,
+          "width": 0,
+          "height": 0
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "34.05px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.2s"
+        }
+      },
+      {
+        "selector": "#toTop",
+        "tag": "a",
+        "text": "Go to Top",
+        "rect": {
+          "x": 1317,
+          "y": 965,
+          "width": 48,
+          "height": 35
+        },
+        "styles": {
+          "color": "rgb(51, 51, 51)",
+          "background-color": "rgb(51, 51, 51)",
+          "font-family": "Montserrat, Arial, Helvetica, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "15px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "4px 4px 0px 0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.4s, 0.2s"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > header:nth-of-type(1)",
+        "tag": "header",
+        "heading": "",
+        "text_excerpt": "Who We AreOur PeopleOur OfficesHT HelpsServicesInvestment Sales1031 ExchangeCapital MarketsAppraisal & ValuationResultsRetailMulti-FamilyOffice/IndustrialCapital MarketsCareersWho We AreOur PeopleOur OfficesHT HelpsServi",
+        "children": 2,
+        "rect": {
+          "y": 0,
+          "height": 0
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "heading": "RESULTS DRIVEN INVESTMENT",
+        "text_excerpt": "HomeJoshua Velez2026-07-23T08:16:07-04:00 RESULTS DRIVEN INVESTMENT REAL ESTATE SERVICES Consistently recognized as one of the top investment real estate service firms in the United States. jQuery(document).ready(functio",
+        "children": 1,
+        "rect": {
+          "y": 0,
+          "height": 3264.578125
+        },
+        "layout": "block"
+      }
+    ],
+    "controls": [
+      {
+        "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Skip to content",
+        "width": 1,
+        "height": 1,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Horvath & Tremblay Logo",
+        "width": 190,
+        "height": 54.875,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Who We Are",
+        "width": 134.34375,
+        "height": 78,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Services",
+        "width": 99.390625,
+        "height": 78,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Results",
+        "width": 91.625,
+        "height": 78,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers",
+        "width": 93.625,
+        "height": 78,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "",
+        "width": 40,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "SERVICES",
+        "width": 115.484375,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "OFFICES",
+        "width": 109.671875,
+        "height": 27,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "MEET THE TEAM",
+        "width": 176.28125,
+        "height": 36,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Subscribe",
+        "width": 188.9375,
+        "height": 43,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "facebook",
+        "width": 16,
+        "height": 16,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "twitter",
+        "width": 15.5,
+        "height": 16,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "role": null,
+        "name": "linkedin",
+        "width": 16,
+        "height": 16,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Policy",
+        "width": 81.640625,
+        "height": 15,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#toTop",
+        "tag": "a",
+        "role": null,
+        "name": "Go to Top",
+        "width": 48,
+        "height": 35,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 879.5,
+      "dom_content_loaded_ms": 29755.5,
+      "load_ms": 0
+    },
+    "resources": [
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/horvath-team-sync/public/css/horvath-team-sync-public.css?ver=1.0.0",
+        "type": "link",
+        "duration_ms": 5277.800000000279,
+        "transfer_bytes": 384,
+        "decoded_bytes": 98
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-core/css/style.min.css?ver=5.2.1",
+        "type": "link",
+        "duration_ms": 5277.199999999721,
+        "transfer_bytes": 2095,
+        "decoded_bytes": 8943
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/css/style.min.css?ver=7.2.1",
+        "type": "link",
+        "duration_ms": 5277.100000000093,
+        "transfer_bytes": 15759,
+        "decoded_bytes": 84533
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada-Child-Theme/style.css?ver=7.1.4",
+        "type": "link",
+        "duration_ms": 5277.100000000093,
+        "transfer_bytes": 2913,
+        "decoded_bytes": 9607
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/fusion-icons/icomoon-1/style.css?ver=3.2.1",
+        "type": "link",
+        "duration_ms": 5277.200000000186,
+        "transfer_bytes": 706,
+        "decoded_bytes": 850
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "type": "script",
+        "duration_ms": 7143.399999999907,
+        "transfer_bytes": 30933,
+        "decoded_bytes": 87553
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "type": "script",
+        "duration_ms": 7143.5,
+        "transfer_bytes": 5181,
+        "decoded_bytes": 13577
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/horvath-team-sync/public/js/horvath-team-sync-public.js?ver=1.0.0",
+        "type": "script",
+        "duration_ms": 7143.699999999721,
+        "transfer_bytes": 779,
+        "decoded_bytes": 838
+      },
+      {
+        "url": "https://g10102301085.co/gr?id=-O2BBnYtxvAc-KzYGnMk&refurl=&winurl=https%3A%2F%2Fhorvathtremblay.com%2F",
+        "type": "script",
+        "duration_ms": 7607.399999999907,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://g10102301085.co/gr?id=-O2B9L9XLP3vWW3J6rCg&refurl=&winurl=https%3A%2F%2Fhorvathtremblay.com%2F",
+        "type": "script",
+        "duration_ms": 7612.100000000093,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-Y4XCXGZ6FZ",
+        "type": "script",
+        "duration_ms": 3714.3000000002794,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-72936908-1",
+        "type": "script",
+        "duration_ms": 3715.100000000093,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/2023/11/blank-logo-1x.webp",
+        "type": "img",
+        "duration_ms": 2162.3000000002794,
+        "transfer_bytes": 602,
+        "decoded_bytes": 302
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/2021/01/arrow.png",
+        "type": "img",
+        "duration_ms": 2162,
+        "transfer_bytes": 530,
+        "decoded_bytes": 230
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/2023/11/Hobart-ICSC-600x291.webp",
+        "type": "img",
+        "duration_ms": 2279.7999999998137,
+        "transfer_bytes": 17958,
+        "decoded_bytes": 17658
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/2023/11/Nadler-and-Client-2-600x291.webp",
+        "type": "img",
+        "duration_ms": 24669.299999999814,
+        "transfer_bytes": 31140,
+        "decoded_bytes": 30840
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/2023/11/D-Kelleher-2-600x291.webp",
+        "type": "img",
+        "duration_ms": 24669.5,
+        "transfer_bytes": 17580,
+        "decoded_bytes": 17280
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "type": "script",
+        "duration_ms": 2661.100000000093,
+        "transfer_bytes": 2794,
+        "decoded_bytes": 5791
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+        "type": "script",
+        "duration_ms": 2660.5,
+        "transfer_bytes": 4577,
+        "decoded_bytes": 13452
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+        "type": "script",
+        "duration_ms": 2681.399999999907,
+        "transfer_bytes": 3818,
+        "decoded_bytes": 12512
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "type": "script",
+        "duration_ms": 10014.899999999907,
+        "transfer_bytes": 2160,
+        "decoded_bytes": 5107
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api.js?render=6LeAWswfAAAAAD8SIERdrf7HLiXoPUNir9oz4czm&ver=3.0",
+        "type": "script",
+        "duration_ms": 2533.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/cf7-phone-mask-field/assets/js/jquery.maskedinput.js?ver=1.4",
+        "type": "script",
+        "duration_ms": 10014.799999999814,
+        "transfer_bytes": 3264,
+        "decoded_bytes": 11535
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+        "type": "script",
+        "duration_ms": 3445.4000000003725,
+        "transfer_bytes": 11071,
+        "decoded_bytes": 29874
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+        "type": "script",
+        "duration_ms": 10014.80000000028,
+        "transfer_bytes": 783,
+        "decoded_bytes": 934
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1",
+        "type": "script",
+        "duration_ms": 12418,
+        "transfer_bytes": 1059,
+        "decoded_bytes": 2221
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1",
+        "type": "script",
+        "duration_ms": 12417.900000000373,
+        "transfer_bytes": 5390,
+        "decoded_bytes": 12991
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28",
+        "type": "script",
+        "duration_ms": 3243.600000000093,
+        "transfer_bytes": 1798,
+        "decoded_bytes": 3344
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1",
+        "type": "script",
+        "duration_ms": 3244.100000000093,
+        "transfer_bytes": 729,
+        "decoded_bytes": 945
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js?ver=3.2.1",
+        "type": "script",
+        "duration_ms": 3444.8000000002794,
+        "transfer_bytes": 1595,
+        "decoded_bytes": 3506
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1",
+        "type": "script",
+        "duration_ms": 12418,
+        "transfer_bytes": 1607,
+        "decoded_bytes": 3974
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5",
+        "type": "script",
+        "duration_ms": 12418,
+        "transfer_bytes": 4144,
+        "decoded_bytes": 10862
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3",
+        "type": "script",
+        "duration_ms": 3838.7999999998137,
+        "transfer_bytes": 2907,
+        "decoded_bytes": 8833
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1",
+        "type": "script",
+        "duration_ms": 12418,
+        "transfer_bytes": 637,
+        "decoded_bytes": 695
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1",
+        "type": "script",
+        "duration_ms": 12418.299999999814,
+        "transfer_bytes": 1088,
+        "decoded_bytes": 1767
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.appear.js?ver=1",
+        "type": "script",
+        "duration_ms": 12418.100000000093,
+        "transfer_bytes": 1624,
+        "decoded_bytes": 2985
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3",
+        "type": "script",
+        "duration_ms": 12418.19999999972,
+        "transfer_bytes": 1050,
+        "decoded_bytes": 2283
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1",
+        "type": "script",
+        "duration_ms": 2660.2999999998137,
+        "transfer_bytes": 634,
+        "decoded_bytes": 647
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.7.2",
+        "type": "script",
+        "duration_ms": 4066.5999999996275,
+        "transfer_bytes": 6805,
+        "decoded_bytes": 22335
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1",
+        "type": "script",
+        "duration_ms": 4066.8000000002794,
+        "transfer_bytes": 755,
+        "decoded_bytes": 1098
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6",
+        "type": "script",
+        "duration_ms": 16545.600000000093,
+        "transfer_bytes": 1428,
+        "decoded_bytes": 2604
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7",
+        "type": "script",
+        "duration_ms": 16545.600000000093,
+        "transfer_bytes": 1149,
+        "decoded_bytes": 2176
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1",
+        "type": "script",
+        "duration_ms": 16545.700000000186,
+        "transfer_bytes": 739,
+        "decoded_bytes": 1162
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1",
+        "type": "script",
+        "duration_ms": 16545.80000000028,
+        "transfer_bytes": 921,
+        "decoded_bytes": 1417
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3",
+        "type": "script",
+        "duration_ms": 16545.30000000028,
+        "transfer_bytes": 25628,
+        "decoded_bytes": 82293
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1",
+        "type": "script",
+        "duration_ms": 12418.100000000093,
+        "transfer_bytes": 3171,
+        "decoded_bytes": 12004
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1",
+        "type": "script",
+        "duration_ms": 4066.899999999907,
+        "transfer_bytes": 587,
+        "decoded_bytes": 503
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1",
+        "type": "script",
+        "duration_ms": 16545.799999999814,
+        "transfer_bytes": 2288,
+        "decoded_bytes": 5453
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1",
+        "type": "script",
+        "duration_ms": 16546,
+        "transfer_bytes": 793,
+        "decoded_bytes": 1707
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1",
+        "type": "script",
+        "duration_ms": 16545.600000000093,
+        "transfer_bytes": 2282,
+        "decoded_bytes": 6803
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1",
+        "type": "script",
+        "duration_ms": 16545.799999999814,
+        "transfer_bytes": 2426,
+        "decoded_bytes": 7279
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1",
+        "type": "script",
+        "duration_ms": 16546,
+        "transfer_bytes": 647,
+        "decoded_bytes": 920
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.sticky-kit.js?ver=1.1.2",
+        "type": "script",
+        "duration_ms": 16546,
+        "transfer_bytes": 2249,
+        "decoded_bytes": 5806
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/vimeoPlayer.js?ver=2.2.1",
+        "type": "script",
+        "duration_ms": 16546,
+        "transfer_bytes": 5637,
+        "decoded_bytes": 16573
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-skip-link-focus-fix.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546,
+        "transfer_bytes": 542,
+        "decoded_bytes": 325
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2",
+        "type": "script",
+        "duration_ms": 16546.099999999627,
+        "transfer_bytes": 1365,
+        "decoded_bytes": 2709
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.200000000186,
+        "transfer_bytes": 1062,
+        "decoded_bytes": 1848
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.100000000093,
+        "transfer_bytes": 518,
+        "decoded_bytes": 413
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.30000000028,
+        "transfer_bytes": 612,
+        "decoded_bytes": 682
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.30000000028,
+        "transfer_bytes": 559,
+        "decoded_bytes": 498
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 16546.600000000093,
+        "transfer_bytes": 495,
+        "decoded_bytes": 260
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.399999999907,
+        "transfer_bytes": 1903,
+        "decoded_bytes": 4545
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-live-search.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.5,
+        "transfer_bytes": 1339,
+        "decoded_bytes": 3062
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-contact-form-7.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 16546.30000000028,
+        "transfer_bytes": 857,
+        "decoded_bytes": 1575
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 16546.700000000186,
+        "transfer_bytes": 918,
+        "decoded_bytes": 1642
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 16546.600000000093,
+        "transfer_bytes": 1616,
+        "decoded_bytes": 5834
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 16546.700000000186,
+        "transfer_bytes": 456,
+        "decoded_bytes": 236
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1",
+        "type": "script",
+        "duration_ms": 16546.799999999814,
+        "transfer_bytes": 1152,
+        "decoded_bytes": 2434
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1",
+        "type": "script",
+        "duration_ms": 16546.799999999814,
+        "transfer_bytes": 827,
+        "decoded_bytes": 1269
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1",
+        "type": "script",
+        "duration_ms": 17900.899999999907,
+        "transfer_bytes": 3403,
+        "decoded_bytes": 15833
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635,
+        "transfer_bytes": 533,
+        "decoded_bytes": 565
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635,
+        "transfer_bytes": 1415,
+        "decoded_bytes": 5839
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635,
+        "transfer_bytes": 760,
+        "decoded_bytes": 1012
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635.200000000186,
+        "transfer_bytes": 7324,
+        "decoded_bytes": 40017
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635,
+        "transfer_bytes": 4602,
+        "decoded_bytes": 33211
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635.299999999814,
+        "transfer_bytes": 631,
+        "decoded_bytes": 761
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=7.2.1",
+        "type": "script",
+        "duration_ms": 17635.200000000186,
+        "transfer_bytes": 1141,
+        "decoded_bytes": 3569
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1",
+        "type": "script",
+        "duration_ms": 17635.299999999814,
+        "transfer_bytes": 1368,
+        "decoded_bytes": 3575
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1",
+        "type": "script",
+        "duration_ms": 21260.600000000093,
+        "transfer_bytes": 2027,
+        "decoded_bytes": 5512
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1",
+        "type": "script",
+        "duration_ms": 21261,
+        "transfer_bytes": 975,
+        "decoded_bytes": 2069
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-core/js/min/fusion-vertical-menu-widget.js?ver=5.2.1",
+        "type": "script",
+        "duration_ms": 21260.899999999907,
+        "transfer_bytes": 762,
+        "decoded_bytes": 1887
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1",
+        "type": "script",
+        "duration_ms": 21260.799999999814,
+        "transfer_bytes": 545,
+        "decoded_bytes": 483
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1",
+        "type": "script",
+        "duration_ms": 21261,
+        "transfer_bytes": 1241,
+        "decoded_bytes": 5069
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/2023/11/horvath-tremblay-logo-white-1x.png",
+        "type": "css",
+        "duration_ms": 7812.799999999814,
+        "transfer_bytes": 9296,
+        "decoded_bytes": 8996
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+        "type": "css",
+        "duration_ms": 561,
+        "transfer_bytes": 20948,
+        "decoded_bytes": 20648
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff",
+        "type": "css",
+        "duration_ms": 3511.7999999998137,
+        "transfer_bytes": 21208,
+        "decoded_bytes": 20908
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+        "type": "css",
+        "duration_ms": 440,
+        "transfer_bytes": 20972,
+        "decoded_bytes": 20672
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2",
+        "type": "css",
+        "duration_ms": 7763.800000000279,
+        "transfer_bytes": 80572,
+        "decoded_bytes": 80272
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0oJC8MLnrtQ.woff",
+        "type": "css",
+        "duration_ms": 495.89999999990687,
+        "transfer_bytes": 21768,
+        "decoded_bytes": 21468
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-72936908-1&cx=c&gtm=4e6as1",
+        "type": "script",
+        "duration_ms": 228.10000000009313,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Y4XCXGZ6FZ&gtm=45je6as1v9180100374za208zd9180100374xf1&_p=1793520050698&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=500032006.1793520052&frm=0&ngs=1&pscdl=noapi&rcb=15&sr=1440x1000&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945&sid=1793520052&sct=1&seg=0&dl=https%3A%2F%2Fhorvathtremblay.com%2F&dt=Home%20-%20Horvath%20%26%20Tremblay&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=11704",
+        "type": "fetch",
+        "duration_ms": 347.39999999990687,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-QM3DMPVSFQ&cx=c&gtm=4e6at0h2",
+        "type": "script",
+        "duration_ms": 224,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-QM3DMPVSFQ&gtm=45je6at0h2v9107712740za20ozd9180100374xf1&_p=1793520050698&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAI&are=1&cid=500032006.1793520052&frm=0&ngs=1&pscdl=noapi&rcb=4&sr=1440x1000&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123620777~123691370&sid=1793520052&sct=1&seg=0&dl=https%3A%2F%2Fhorvathtremblay.com%2F&dt=Home%20-%20Horvath%20%26%20Tremblay&en=page_view&_fv=1&_ss=1&tfd=12031",
+        "type": "fetch",
+        "duration_ms": 231.60000000009313,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://horvathtremblay.com/wp-content/uploads/fusion-icons/icomoon-1/fonts/icomoon.ttf?48cavl",
+        "type": "css",
+        "duration_ms": 4248.700000000186,
+        "transfer_bytes": 1472,
+        "decoded_bytes": 1172
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__en.js",
+        "type": "script",
+        "duration_ms": 572.2999999998137,
+        "transfer_bytes": 358893,
+        "decoded_bytes": 858461
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeAWswfAAAAAD8SIERdrf7HLiXoPUNir9oz4czm&co=aHR0cHM6Ly9ob3J2YXRodHJlbWJsYXkuY29tOjQ0Mw..&hl=en&v=NhfdZHzre166o-vFZrWsq3yu&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=synpwg6hab0e",
+        "type": "iframe",
+        "duration_ms": 537.8999999999069,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.youtube.com/iframe_api",
+        "type": "script",
+        "duration_ms": 341.39999999990687,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.youtube.com/s/player/11a45ffb/www-widgetapi.vflset/www-widgetapi.js",
+        "type": "script",
+        "duration_ms": 56.6999999997206,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google.com/recaptcha/api2/clr?k=6LeAWswfAAAAAD8SIERdrf7HLiXoPUNir9oz4czm",
+        "type": "fetch",
+        "duration_ms": 181.70000000018626,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      }
+    ],
+    "observations": {
+      "lcp_ms": 10812,
+      "layout_shifts": [
+        {
+          "time": 10979.099999999627,
+          "value": 0.00036561500831886574
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 11972,
+          "duration_ms": 61
+        },
+        {
+          "time": 18803.599999999627,
+          "duration_ms": 60
+        },
+        {
+          "time": 30072.599999999627,
+          "duration_ms": 85
+        }
+      ]
+    }
+  }
+}

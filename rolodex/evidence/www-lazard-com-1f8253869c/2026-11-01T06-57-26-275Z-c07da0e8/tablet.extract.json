@@ -1,0 +1,138 @@
+{
+  "url": "https://www.lazard.com/",
+  "base_url": "https://www.lazard.com/",
+  "title": "403 Forbidden",
+  "title_count": 1,
+  "lang": "",
+  "meta": {},
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "403 Forbidden",
+      "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "403 Forbidden",
+  "text_length": 13,
+  "iframes": [],
+  "script_sources": [],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "scroll_width": 768,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "403 Forbidden",
+        "rect": {
+          "x": 8,
+          "y": 8,
+          "width": 752,
+          "height": 994.5625
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Times New Roman\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "8px",
+          "margin-bottom": "8px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > center:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "403 Forbidden",
+        "rect": {
+          "x": 8,
+          "y": 8,
+          "width": 752,
+          "height": 37
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Times New Roman\"",
+          "font-size": "32px",
+          "font-weight": "700",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "21.44px",
+          "margin-bottom": "21.44px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": []
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 354.40000000596046,
+      "dom_content_loaded_ms": 377.30000001192093,
+      "load_ms": 378.09999999403954
+    },
+    "resources": [
+      {
+        "url": "https://www.lazard.com/favicon.ico",
+        "type": "other",
+        "duration_ms": 344.7000000178814,
+        "transfer_bytes": 820,
+        "decoded_bytes": 520
+      }
+    ],
+    "observations": {
+      "lcp_ms": 412,
+      "layout_shifts": [],
+      "long_tasks": []
+    }
+  }
+}

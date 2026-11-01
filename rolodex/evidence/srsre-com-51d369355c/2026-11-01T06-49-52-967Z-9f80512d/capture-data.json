@@ -1,0 +1,666 @@
+{
+  "schema_version": 1,
+  "capture_id": "2026-11-01T06-49-52-967Z-9f80512d",
+  "site_id": "srsre-com-51d369355c",
+  "requested_url": "https://srsre.com/",
+  "final_url": "https://srsre.com/",
+  "captured_at": "2026-11-01T06:50:14.797Z",
+  "environment": {
+    "browser": "151.0.7922.34",
+    "playwright": "1.62.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+    "locale": "en-US",
+    "timezone": "UTC",
+    "reduced_motion": "reduce",
+    "anonymous": true,
+    "device_emulation": "Viewport resizing only; no mobile user agent or touch emulation.",
+    "measurement": "Unthrottled local lab run."
+  },
+  "http": {
+    "status": 403,
+    "url": "https://srsre.com/",
+    "headers": {
+      "content-encoding": "gzip",
+      "content-type": "text/html; charset=UTF-8",
+      "server": "cloudflare",
+      "vary": "accept-encoding"
+    },
+    "redirects": [
+      {
+        "url": "https://srsre.com/",
+        "status": 307
+      },
+      {
+        "url": "https://srsre.com/",
+        "status": 403
+      }
+    ],
+    "charset": "UTF-8",
+    "body_sha256": "6626ce298f555e6117603da51da954ec67d922dfa080b0c92f96fe04a86fe2d4",
+    "body_bytes": 6157
+  },
+  "raw": {
+    "url": "https://srsre.com/",
+    "base_url": "https://srsre.com/",
+    "title": "Just a moment...",
+    "title_count": 1,
+    "lang": "en-US",
+    "meta": {
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "viewport": [
+        "width=device-width,initial-scale=1"
+      ]
+    },
+    "canonicals": [],
+    "headings": [],
+    "links": [],
+    "images": [],
+    "inputs": [],
+    "jsonld": [],
+    "microdata": [],
+    "rdfa": [],
+    "landmarks": {
+      "header": 0,
+      "nav": 0,
+      "main": 0,
+      "article": 0,
+      "section": 0,
+      "aside": 0,
+      "footer": 0
+    },
+    "text": "",
+    "text_length": 0,
+    "iframes": [],
+    "script_sources": [],
+    "stylesheets": [],
+    "hreflang": []
+  },
+  "views": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raw": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://srsre.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare",
+          "vary": "accept-encoding"
+        },
+        "redirects": [
+          {
+            "url": "https://srsre.com/",
+            "status": 307
+          },
+          {
+            "url": "https://srsre.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "6626ce298f555e6117603da51da954ec67d922dfa080b0c92f96fe04a86fe2d4",
+        "body_bytes": 6157
+      },
+      "dom": {
+        "url": "https://srsre.com/?__cf_chl_rt_tk=Md5S5S7piQ3bIOdda9ISIklmjpLD_Vwc9DKFVc749kI-1793515797-1.0.1.1-uQ_eR5VXEPgS.jNq.Stc_j63s3lCxGPjOXrgpQBrRNY",
+        "base_url": "https://srsre.com/?__cf_chl_rt_tk=Md5S5S7piQ3bIOdda9ISIklmjpLD_Vwc9DKFVc749kI-1793515797-1.0.1.1-uQ_eR5VXEPgS.jNq.Stc_j63s3lCxGPjOXrgpQBrRNY",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [
+          "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f6661b664447"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scroll_width": 1440,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '1.xxM4p8z.RcYUx196iYhNbaaaHJ",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 1000
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 136.3900000154972,
+            "dom_content_loaded_ms": 1548.7300000190735,
+            "load_ms": 0
+          },
+          "resources": [],
+          "observations": {
+            "lcp_ms": null,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "desktop.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "tablet",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "raw": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://srsre.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare",
+          "vary": "accept-encoding"
+        },
+        "redirects": [
+          {
+            "url": "https://srsre.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "c20ee74906eb0c4b1262d96b47b8e31275a7ce374d6a3d48a8748969cf13d0d6",
+        "body_bytes": 6157
+      },
+      "dom": {
+        "url": "https://srsre.com/?__cf_chl_rt_tk=w.5G1s3NKoFn6PE1fcsHXtNMczcB4xFIwCJBh9QxW_0-1793515801-1.0.1.1-TElpkAEz4tItOR61Usm2eebVoO7gMaNvKbkk5xfa_ng",
+        "base_url": "https://srsre.com/?__cf_chl_rt_tk=w.5G1s3NKoFn6PE1fcsHXtNMczcB4xFIwCJBh9QxW_0-1793515801-1.0.1.1-TElpkAEz4tItOR61Usm2eebVoO7gMaNvKbkk5xfa_ng",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [
+          "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f67e5ccd4447"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "scroll_width": 768,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'tuhSl1E86iPTidZucYSfbliQoZZH",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 1024
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 163.00499999523163,
+            "dom_content_loaded_ms": 256.6850000023842,
+            "load_ms": 0
+          },
+          "resources": [],
+          "observations": {
+            "lcp_ms": null,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "tablet.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raw": {
+        "url": "https://srsre.com/",
+        "base_url": "https://srsre.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://srsre.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare",
+          "vary": "accept-encoding"
+        },
+        "redirects": [
+          {
+            "url": "https://srsre.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "d1086336424babd4f3d3941341f4a61069f4ff96e850d4779caccd39bb30d834",
+        "body_bytes": 6157
+      },
+      "dom": {
+        "url": "https://srsre.com/?__cf_chl_rt_tk=yxRFV0cwuUqSyEblXPQwd.OwBsFyMeEucgdiQR6oG7c-1793515803-1.0.1.1-MzjXSFp8yCYqbaU1u4HKQck9DdcDL6FFiJbU6o9qjgY",
+        "base_url": "https://srsre.com/?__cf_chl_rt_tk=yxRFV0cwuUqSyEblXPQwd.OwBsFyMeEucgdiQR6oG7c-1793515803-1.0.1.1-MzjXSFp8yCYqbaU1u4HKQck9DdcDL6FFiJbU6o9qjgY",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [
+          "https://srsre.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f68a9e034447"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scroll_width": 390,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '0CKemtMMHq4d9wh1LDNbJTEM2uG_",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 844
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 3859.574999988079,
+            "dom_content_loaded_ms": 3932.3199999928474,
+            "load_ms": 0
+          },
+          "resources": [],
+          "observations": {
+            "lcp_ms": null,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "mobile.png",
+      "full_page": true,
+      "section_screenshots": []
+    }
+  ],
+  "controls": [
+    {
+      "kind": "robots",
+      "url": "https://srsre.com/robots.txt",
+      "final_url": "https://srsre.com/robots.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "vary": "accept-encoding",
+        "content-encoding": "gzip"
+      },
+      "path": "robots.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-zPsRzP0qqFgYcDeC4OnhFG&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"zPsRzP0qqFgYcDeC4OnhFG\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'fUy1CzHlke6Ve7Z1iRlc3aUOuCb7qelWOuSTm7Qs9As-1793515811-1.2.1.1-A_GOWhOxgtIarLJE9u.ZqZBzu2PVO1BrvZTnZzZOegN8uYDevPToBEuhVPDVIPVF',cITimeS: '1793515811',cN: 'zPsRzP0qqFgYcDeC4OnhFG',cRay: 'a538f6be3eedfb56',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=pQaSAZtg5pPU5bKmbCGBkfpNvUV.QBKuMAkEZeikN5o-1793515811-1.0.1.1-tOwB8D5L7ZD_m4FRlRf2YAG3rpwzfFk0xjaIo6vUkOQ\",cvId: '3',cZone: 'srsre.com',fa:\"/robots.txt?__cf_chl_f_tk=pQaSAZtg5pPU5bKmbCGBkfpNvUV.QBKuMAkEZeikN5o-1793515811-1.0.1.1-tOwB8D5L7ZD_m4FRlRf2YAG3rpwzfFk0xjaIo6vUkOQ\",md: 'SXHj4aDuEpR52C4uZVE2yzp9wgHnCRRqUHs1FJ_87Gw-1793515811-1.2.1.1-KeQcht8tcHRvl6XQq1IxDG8b7obprwTY1BtMYCCiIwfUfcwIx7ra9gEsNdJBv9AOIzwDasqe1rVr4lAUgAsuMBzvaoUrWLLrGawDUf9AYf23GOADfnePfIuUNO0zBAwIMRjzJRXlFgP8TKbKROsMm3f3s9xQsbJKQgXlhpsYsCMUGAp_3V35eHLiYkSFors3PUR2nArOgVXr8vBjTMR14NNrmKth1x3ywmHeHagz1_FDQk_FiAgnxrmW1i1d51f6T.5M90r4pJ9aJcOTsl4vFeH65E14ss2PRU9mlUFXxgblRqeP033e2j75nh0IOcu6a6lr3wGW51NGkVulFSGCrX3tzMOWpL.g59a2oPuXfyta.RUeZGg7KWAEH4i77HzoqECWJttbxBCluwNSVjpXOzOtdhoNRkt5E2ntKaS1Dm1WxfUp.xa8y5f4ijsAwL_lvcnXZVecnTj1HtMgNdENRDNBcbmVIJrnb_QkWMrS4442PxwuBlzELF5I6pToFSdQ1U7BqthB9MnsEBgRhaID1IE9k3qoPEVHU6HdiI44LKzp2OWg.__qg.7UIe1oQCOH6b0tvBlxwaTMoYmJanbL4CUb1U7kxDJOJrsSYWXvMk6OmHqq8Ju8vp2xVNtYyVUjJs57E2LetxXUgM39fR.NXhohijBLwr8fr.pc5YKfP_1HRFfO5_fOOHXjo9agrVK0J5.C1bHhIYpjvGCXmjrmTSEfTsqVrCzUZUJ4_H6jpFS9SCeDI6GOnPBZwhGFEBQpPtHVQK_AIRO4vjYJ9BUeFO0nQVRlwXt3JAnIoylXhzMZ0AbMFFq2UWNmM7ElY_naub9kCNaBpZ6SXltfWqek2hyxWA2aBW4SYQlg6fxJ3_3aRLW0TRR0AzZfWbmYVV850Og2Y5vdncirMIbWa_x7uKha995zhwoav5.aqlXWn1ihi4MVbsrjyz3Fgj6duaJ6b45NFm4favPBmgD0oabK67bDuTdQHCYk9NysvXipnNACayH6cpjA9Bya1JYOAdBaoJpMnLwmlWoyKCF_bFz143Qb1W1Dta0ymYirdZgrsNG2ntVJW3_7ea.GMEKBrhy3xF6LySbA7bXuzDbb.7D4MJo7_zb0YdC74IkIQk9pt0VbmFGBissGew1Cy3LUVmFnr9cgbR2cNFnkjDBPn9A83XRWDgVyYsV44FG4YMqfv7gbIvpRZszEUYok7fva_6xi9VLsiQMNikEloBCORzw5XzMIqCLb7oTYvc9xLE9g9O4',mdrd: 'B48hSVlEhJRkF.zM5AvalZsPrEtHVlUoQ0qqMNCEFF4-1793515811-1.2.1.1-F5bWfJfLvj3gnyBYROQ5VyCV2swKgLh3WaRtnnJry0koAbBVtugAfgnmak4u6pLK_3DLWJc0zx.KnjXonTRdjAyuqdHRPn14ynzv8IaATqxXOzEoV8Z0_h_N5KOtvsIXUl_p.Ny61qhxovxk4lgVyY5iu9TrOWVmjo5xOzw4.RDmGgPAUhJgUQaVTSLnyZPIOl_6Mrv0dNybnzsPznstXMql5NkdloYwF8WLST2v2JYWReiNUDBqipIBS7sNHYn3fyUGXVDaPJAEaHWpH2f0Z2lsezJlDr5RoajbfB5qF9VOvTY8DnuJjL7cMQYpMntuyvIeO21LYaO9pLgVY0HZZWmGHoIl.DaXysy.7_MGos7BQzdr.a7smfV8RKpxtJ3N',};var a = document.createElement('script');a.nonce = 'zPsRzP0qqFgYcDeC4OnhFG';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f6be3eedfb56';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=pQaSAZtg5pPU5bKmbCGBkfpNvUV.QBKuMAkEZeikN5o-1793515811-1.0.1.1-tOwB8D5L7ZD_m4FRlRf2YAG3rpwzfFk0xjaIo6vUkOQ\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://srsre.com/sitemap.xml",
+      "final_url": "https://srsre.com/sitemap.xml",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "vary": "accept-encoding",
+        "content-encoding": "gzip"
+      },
+      "path": "sitemap-1.xml",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-KnE39K6vBw70ct5JDeg4AR&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"KnE39K6vBw70ct5JDeg4AR\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'lPa_RDwBU6x0YMfi5OQrET9H3vkYMCzS5VEMTxOu1TQ-1793515814-1.2.1.1-Vs0SJzUmTyH2no7ZRmwQt20p.d.JLFVf8gqAmuEtvNZz5sid1CZM_W5ITXzxXG8M',cITimeS: '1793515814',cN: 'KnE39K6vBw70ct5JDeg4AR',cRay: 'a538f6d09da44475',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/sitemap.xml?__cf_chl_tk=c.GgRLXLk2heziCtkBKqWkSS.gYISo.XLBZmwIQ3PLQ-1793515814-1.0.1.1-xAob7sB_Js6RLAm2lpxwj1znBfa6zbkShUEH0JVzeN4\",cvId: '3',cZone: 'srsre.com',fa:\"/sitemap.xml?__cf_chl_f_tk=c.GgRLXLk2heziCtkBKqWkSS.gYISo.XLBZmwIQ3PLQ-1793515814-1.0.1.1-xAob7sB_Js6RLAm2lpxwj1znBfa6zbkShUEH0JVzeN4\",md: 'td7fPCBoMP0KeNb.61izpKrJeVoJ9SLizWLcNjAB2uo-1793515814-1.2.1.1-wDLcNxQd2qD4jjKzH5InZkiZdTnDOa085ahrxAhgCcO4eCx1.P4Yp2jW6Jj08wALLJB54vKGJ4XfatDrJ8.buV1bjV3A5xP1Cr7MMcNWoIQiKfjNG.mUkAQVR0i6uryfM6BJpRD__InbeE7OrNnGKsuZIRng.TgC9b7B5xPktWTQZRIlBF4KM5_ydDe1Gt6mlN6RfJwP14xBesNRndrJWUVotStW5h9mSuOrbvQj0eDnksTXYaEQAVKYXL1Ts6cXrv7RWPQTjnB.pHs_nhLSiMbg8SDFify0NJ7UQk3doksaOTfZI95MK38doD_L5zEX5X13hKX960CQwiGh9at7ttwwgUwmHB_UuRUmdMHUCh1yjxZzJOmUcJ0f5dCR7C.dvehhbzoPoyjAD.ste90_ds7tWMxL_7p04x7eRpkxcUPYn_UkOFzBbdNZAgX2JBlWoWMgkqv8O2dcaqgVUeZWzG4.jeLXOM4ugyJg9Fj1CPimz8Hm3SAABX2TvmH5Ho9XHYO8r8DCwemU89Cmac9zPWmYfaPNiXS7_hU5mpuulIBBY4DhTkPVMmTbJL66Ld5yNweJ.7OLQ2VBLYMd91LObUuhbO1LtmFdETsuZKmX9ouvOb_1jnBPLQSdO6cFJ9CvtVrf8q9BJYRJh7elcZNMZGNDA2pPDYCdjM_6Lm1QBSwcHlMkBvDEdeaEwZVB4zutKJFdkzKQTySbnJ.8K2BS5ioJsb5U4Br_NTPBuLqrt9uDqn7bFO9YCgkpa6tYgfuTgUT4FpYVrHpIwUTea9ZI90kEG1igGzNi7_7jDYXW0cml4ToRP7m9pBFPNqcrWnATXnu91cvD9Lq.vlfq5ZVsCHRv6Aja8B9lji9qXhxnIQ23ez_5Cd5Y1fEMYjvBpac2LWFYMR9Sqap2bzk1UCGNjLVUfHEuutkMvXmU1iyqiZ0wPNlsegCOlYKszDvu2RNcA8sZhMzM0L1SYAulRJFtmwRksvK09usnyfnT2CdABGnGaLC9g3lGt4maKi78ET0lPyN8zI.Chw.JfThXp1dFSR5LuryAvAy3L9fwsUOONfPFvjxYTHu52AUazT5D1l_aqiSzcAZMEQiV6YWLrKLoG60C4WH81CBo2w6MYthJY_jX202g9uUtLn4pbTtOQ2IlLFarW8jl3OyH1JE3zztpf7eeTFP.QxiRkCepPbQaR8gJeB3wjAK.W5rVja0qZWRR',mdrd: '.m.gjasDxDruPOnBzKN.rog3Y0yBlsaEODt9MZWRpVs-1793515814-1.2.1.1-YGpDzc8E3xaUQbmlvPbvBc78.Ekk1.6eulfFxZ9elftOO4GCMjIsrLFgb51CEOy.iuKPG4WLZqofmVfaEvhOuRkvP4b0WrmWMFlAdR5wGOY2Lw_VZvRAoPc_J_Sevhn1grYlxuVa3WjHOqxxz6hSUZEKshjyBP4sITRyisB1BxdDeb5SIrNrItHm.xG0fLqrZtMs_4O_deDuBFGMf4pUtSQDDAobFp0Vl94FGUq_qJzOgdckwWbvO42DpNqJZaPdRwZLr8b6YcubhA3WD3i87Kvr42C_QKMa74_k8jiy.iZ5v.ZPkN3Tgy5LjEzZV9gOE2WPJXjULzRDyw5_sfQe9fiD7O1Eu6Hwk.G2aJRRvYzjyE4nLz40cv36tJK6Jn57',};var a = document.createElement('script');a.nonce = 'KnE39K6vBw70ct5JDeg4AR';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f6d09da44475';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/sitemap.xml?__cf_chl_rt_tk=c.GgRLXLk2heziCtkBKqWkSS.gYISo.XLBZmwIQ3PLQ-1793515814-1.0.1.1-xAob7sB_Js6RLAm2lpxwj1znBfa6zbkShUEH0JVzeN4\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "llms",
+      "url": "https://srsre.com/llms.txt",
+      "final_url": "https://srsre.com/llms.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "vary": "accept-encoding",
+        "content-encoding": "gzip"
+      },
+      "path": "llms.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-IHddVypsCrjn4Yq0QfIjO1&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"IHddVypsCrjn4Yq0QfIjO1\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'zDNMM6lJsc6e9Oycn_QuQgIZsoydX2mvA61fqgCjgRI-1793515814-1.2.1.1-4lYO8RGchCBZ3Tyan5UkpvGqrTRbkSQD1aojLwAuE4Ss0ZNsKy5bx.jAxr0T5Lfr',cITimeS: '1793515814',cN: 'IHddVypsCrjn4Yq0QfIjO1',cRay: 'a538f6d23eb47e8a',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/llms.txt?__cf_chl_tk=iw826KbydCMqh4zPg54NhH7A1lgs7tJefhIMA9JAfOA-1793515814-1.0.1.1-U1EhhG5E8dO3.s9ZzI2VfBiEyEUSIbWIUGRakRnv82I\",cvId: '3',cZone: 'srsre.com',fa:\"/llms.txt?__cf_chl_f_tk=iw826KbydCMqh4zPg54NhH7A1lgs7tJefhIMA9JAfOA-1793515814-1.0.1.1-U1EhhG5E8dO3.s9ZzI2VfBiEyEUSIbWIUGRakRnv82I\",md: '6DHyb4DA8WSdas8oES4kkvd8vxyl5EWAD6PM0FXdl.o-1793515814-1.2.1.1-8FfD2hqK2BphyOeSKGXvmuzKH_RA_lYwL3CagY9ym0UQiok5NTMnd3tmamNGFHt_GQ6ZahXgDCjwKRxz9OYqYVewyqmsPZgaIUs2kTgQBDekqOYL1BEf1JgWJIEHmW03QTQyBGY4Cf0HZdnmDnKI.BB5bpuuqfkYmTf4pYGODCWkR5OL9msjneeahIR4DE3x00UDu62p_TVhHYUjGsGNmKj0LmSO7On69pQHhudIST6nRngTQ376yVuFZaIqTYoQGZWOLM4nkZWBeZp6IcMX17FyCq6MuKZjB1PUwueus8IPgCsey7qqrQE8U6.0HeWNvJ4iH57uB9oZrJO_O1BPgrJMlilZhqoupRhDG66HEWHMjBzz4QL7jKXJA1Lq.HplkIro.nmdYfTSetPBYva7v558rWflL50cDumLx_DexgKJekjL_ONqoTVIGhYE5.yeUSZQf25Qe1YVw3U8rw6KbzSahtF5mGbE47fqcz7yVQzVCFFc7OPrjkvCh1QBFZ9RBlpqzIGywCycIBwJaI8LSaAylbt956l.CJqeqPmQq0.KltPIE2B70VT4RdaiirTWykmxOhPIyDBY1H_ZE6k0qFOg.4KJWxnm5krUTAA3riUoTtJc7D0zd3YKuULKZlssvHuwxmrNLF1uAqxr1y0txLkYEQWXogVDgdUBsKj4R3SX8A41Brwf7bKWTbK02GKCIJD7h0SxNMcsLSx2kPQZkiTdooHthxGJomBIPbECg2vZTLEplgDUE04UrKtJ.hXpKG_HnvJWaLrz1yoUjxZvpiIHptiOC.dsb4XXkR5YhoX6m59oHHarv1G4O0TEoiMc2uKfsLhhPYjFgZu7Syde5CdNY0ujD5MQtLt5nbfdBu8BoZS1VVtGpwFaDj8.kwG7LapGAykVN69ijakoNqe7_9NwmMMN9wEWBBoKMnYov.l8OY0gpmVcV_rGymFJG7q5asfLeIa1R26kqbZQXZA5MzeeykxGkWMSHqp_ZkT6j689ky0mHWt8SGduMBcec0qG3ipMaj3d7rLwU8gUlRkUVU3iF_Mf8uWwmAwturKMYY3H6QmR2SlqdP1HRLMnWuVEjQKYlUCUvrxXUtn.VzXLa7GaYidy1lvavsXWPuerJIsxKxNsH1A3A2mmSNVBWnxeEMgBtCau4n3VCbhhRkcOk3fGrfwg2uMDvU8maiqByCPQZeWJ14Wht9tfHYjtSpj3.W4y3ToMEN6KHMPcvkrst5z10eZOixQR1doMStCh.5c',mdrd: '9ilKBaoOzQ.f4PTGuyNu7woLA_u.ktSOiKsdc8wzoHI-1793515814-1.2.1.1-51IFY3Zpx1Lan.bwkAb_5g9XPJ1UjhUxTpCXMwNPRPRkuc42JhJcEMtJAuWubFjDQM098AxMeN1q0J1TC61AvR2H4wESV75z47M2EHqaPRU3iYzBe3YRKNh2T1GvH6_kn4nhSMjpc0EtQR4bqx2kSxRsE.1eaXkpfAgKl4QV1PZdXHEXRMwSbW24mTBBJcDPw4.ght7PwZbdXo3tTmZII_f6KBMljjBDuc6dGHbN_HwdGE4jp6FNg49jhx9SuYARoWT.0pmS7TehqoX.zzFfEP8Dsfn3HNjXBeUkShtYpiSJsDIiP5WsW89k7hjrbxetzi8rAwWTrqeGW1W.iIkJhe3va7jb95fuqW9mpd.46jgOsfVjiJb3RxqLnJgakUw1',};var a = document.createElement('script');a.nonce = 'IHddVypsCrjn4Yq0QfIjO1';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538f6d23eb47e8a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/llms.txt?__cf_chl_rt_tk=iw826KbydCMqh4zPg54NhH7A1lgs7tJefhIMA9JAfOA-1793515814-1.0.1.1-U1EhhG5E8dO3.s9ZzI2VfBiEyEUSIbWIUGRakRnv82I\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true,
+      "markdown_links": []
+    }
+  ],
+  "link_checks": [],
+  "errors": [],
+  "coverage": {
+    "sitemap_files": 1,
+    "sitemap_skipped": [],
+    "internal_links_discovered": 0,
+    "internal_links_checked": 0,
+    "page_limit": 1,
+    "closed_shadow_dom": "not inspected",
+    "iframes": "inventoried, not traversed",
+    "readiness": "bounded font/selector/scroll wait; dynamic content may remain incomplete"
+  },
+  "technology_hints": []
+}

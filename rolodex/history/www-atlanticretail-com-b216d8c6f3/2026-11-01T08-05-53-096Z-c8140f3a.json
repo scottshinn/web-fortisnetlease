@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "www-atlanticretail-com-b216d8c6f3",
+  "origin": "https://www.atlanticretail.com",
+  "created_at": "2026-11-01T08:02:11.593Z",
+  "updated_at": "2026-11-01T08:02:11.594Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T08-01-50-775Z-bda76bbc",
+      "url": "https://atlanticretail.com/",
+      "captured_at": "2026-11-01T08:02:11.486Z",
+      "path": "evidence/www-atlanticretail-com-b216d8c6f3/2026-11-01T08-01-50-775Z-bda76bbc/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

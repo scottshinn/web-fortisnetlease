@@ -1,0 +1,18 @@
+{
+  "status": 403,
+  "url": "https://www.northmarq.com/",
+  "headers": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare"
+  },
+  "redirects": [
+    {
+      "url": "https://www.northmarq.com/",
+      "status": 403
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "2407d8a8ffe8a15efe28e9efaf7c3596d45b3a3be5704eec77c58f81e8cf29ed",
+  "body_bytes": 6229
+}

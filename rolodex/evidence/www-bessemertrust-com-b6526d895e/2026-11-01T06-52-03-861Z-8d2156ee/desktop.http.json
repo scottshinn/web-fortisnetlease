@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.bessemertrust.com/",
+  "headers": {
+    "cache-control": "public, max-age=21600",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "vary": "Cookie,Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.bessemertrust.com/",
+      "status": 200
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "f69472a3541f255c271bdea68e066fcdd8f35bb7c8e58e4bd429e8d9cc606168",
+  "body_bytes": 38604
+}

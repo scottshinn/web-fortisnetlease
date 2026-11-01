@@ -1,0 +1,81 @@
+{
+  "site": {
+    "name": "Northline Roofing",
+    "origin": "https://northline.example",
+    "language": "en-US",
+    "demoLabel": "Fictional demonstration — not a real roofing business",
+    "demoDescription": "This is a fictional demonstration. The phone number is a reserved example and does not reach a roofing business.",
+    "phoneDisplay": "(248) 555-0100",
+    "phoneHref": "tel:+12485550100",
+    "serviceAreas": ["Birmingham", "Troy"],
+    "state": "Michigan",
+    "services": ["Residential roof repair", "Roof inspection"],
+    "addressPolicy": "Service-area demonstration. No public office address.",
+    "index": false
+  },
+  "navigation": [
+    {"path":"/","label":"Home"},
+    {"path":"/services/roof-repair/","label":"Roof repair"},
+    {"path":"/contact/","label":"Contact"}
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "template": "home",
+      "label": "Home",
+      "title": "Northline Roofing | Fictional roofing demonstration",
+      "description": "A fictional Northline Roofing website demonstrating residential roof repair and roof inspection in Birmingham and Troy, Michigan.",
+      "eyebrow": "A closer look. A clear next step.",
+      "heading": "Roof repair starts with a closer look.",
+      "intro": "A concern overhead can leave you with questions. Start with what you have noticed, and a conversation about your roof.",
+      "servicesHeading": "Two ways to talk about your roof.",
+      "serviceCards": [
+        {"number":"01","title":"Residential roof repair","text":"Have a specific roof concern? Explore the repair page and the details to have on hand for a call.","path":"/services/roof-repair/","linkLabel":"Explore roof repair"},
+        {"number":"02","title":"Roof inspection","text":"Looking for a closer look at your roof? Roof inspection is also part of the Northline service offering.","path":"/contact/","linkLabel":"Ask about an inspection"}
+      ],
+      "areaHeading": "Close to home, in two communities.",
+      "areaText": "This demonstration presents a residential service-area business for Birmingham and Troy, Michigan. It does not represent a public office in either community."
+    },
+    {
+      "path": "/services/roof-repair/",
+      "template": "service",
+      "label": "Roof repair",
+      "title": "Residential roof repair | Northline Roofing demo",
+      "description": "Explore the fictional Northline Roofing residential roof-repair service for Birmingham and Troy, Michigan, and details to mention on a call.",
+      "eyebrow": "Residential roof repair",
+      "heading": "Give your roof concern a clear next step.",
+      "intro": "A new mark on a ceiling. A change you noticed from the yard. Start by describing the concern, where you see it, and when it began.",
+      "detailsHeading": "A few details make a useful starting point.",
+      "detailsIntro": "These prompts can help you organize your questions before a call. They are not an assessment of your roof or a promise of a particular repair.",
+      "details": [
+        {"title":"What have you noticed?","text":"Describe the visible change or concern in your own words. If you already have photographs, note what they show."},
+        {"title":"Where and when?","text":"Mention the part of the home involved and when you first noticed the issue. Include whether anything has changed since then."},
+        {"title":"What would you like to discuss?","text":"Let the conversation begin with your questions about residential roof repair or roof inspection."}
+      ],
+      "inspectionHeading": "Not sure where to begin?",
+      "inspectionText": "Roof inspection is the other service in this demonstration. Use the contact page to find the phone details and the service area in one place.",
+      "scopeNote": "Repair methods, materials, pricing and scheduling are not specified in this fictional example."
+    },
+    {
+      "path": "/contact/",
+      "template": "contact",
+      "label": "Contact",
+      "title": "Contact | Northline Roofing fictional demonstration",
+      "description": "Find the reserved example phone number and Birmingham and Troy, Michigan service-area information for the fictional Northline Roofing demonstration.",
+      "eyebrow": "Contact Northline",
+      "heading": "Let’s talk about your roof.",
+      "intro": "Residential roof repair and roof inspection, with the essential contact details in one place.",
+      "phoneHeading": "Start with a call.",
+      "phoneText": "The telephone link below demonstrates how a homeowner would get in touch.",
+      "areaHeading": "Service area",
+      "servicesHeading": "Services to discuss",
+      "noteHeading": "About this demonstration",
+      "noteText": "Northline Roofing is a fictional test client. There is no working enquiry form or real booking service on this website."
+    }
+  ],
+  "callout": {
+    "eyebrow": "A conversation is a starting point",
+    "heading": "Have a question about your roof?",
+    "text": "Find the telephone details and service area on our contact page."
+  }
+}

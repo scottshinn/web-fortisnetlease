@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/sales-leasebacks/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "18258",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/187476>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=187476>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/sales-leasebacks/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/sales-leasebacks/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "6277f4da00d28ee7c7d6caea944ba6bb0b80af23f27c334b42be423bd67f60ec",
+  "body_bytes": 74109
+}

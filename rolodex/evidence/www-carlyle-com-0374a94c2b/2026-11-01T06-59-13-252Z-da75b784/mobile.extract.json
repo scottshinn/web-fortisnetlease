@@ -1,0 +1,488 @@
+{
+  "url": "https://www.carlyle.com/",
+  "base_url": "https://www.carlyle.com/",
+  "title": "Attention Required! | Cloudflare",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "robots": [
+      "noindex, nofollow"
+    ],
+    "viewport": [
+      "width=device-width,initial-scale=1"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Sorry, you have been blocked",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "You are unable to access carlyle.com",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Why have I been blocked?",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "What can I do to resolve this?",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cloudflare.com/5xx-error-landing",
+      "url": "https://www.cloudflare.com/5xx-error-landing",
+      "text": "Cloudflare",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#brand_link",
+      "visible": true
+    }
+  ],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "Please enable cookies. Sorry, you have been blocked You are unable to access carlyle.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a539044bdc3f3f08 • Your IP: Click to reveal 2402:8100:22cf:5908:a845:ee85:50d5:cf42 • Performance & security by Cloudflare",
+  "text_length": 747,
+  "iframes": [],
+  "script_sources": [],
+  "stylesheets": [
+    "https://www.carlyle.com/cdn-cgi/styles/cf.errors.css"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll_width": 390,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "Please enable cookies. Sorry, you have been blocked You are unable to access carlyle.com Why have I been blocked? This website is using a security service to protect itself from on",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 1064.84375
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "\"Times New Roman\"",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "Sorry, you have been blocked",
+        "rect": {
+          "x": 19.5,
+          "y": 25,
+          "width": 351,
+          "height": 86.375
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "36px",
+          "font-weight": "300",
+          "line-height": "43.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "You are unable to access carlyle.com",
+        "rect": {
+          "x": 19.5,
+          "y": 111.375,
+          "width": 351,
+          "height": 78
+        },
+        "styles": {
+          "color": "rgb(89, 89, 89)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "30px",
+          "font-weight": "300",
+          "line-height": "39px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Why have I been blocked?",
+        "rect": {
+          "x": 19.5,
+          "y": 458.375,
+          "width": 351,
+          "height": 39
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "30px",
+          "font-weight": "400",
+          "line-height": "39px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could ",
+        "rect": {
+          "x": 19.5,
+          "y": 512.375,
+          "width": 351,
+          "height": 135
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "15px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "What can I do to resolve this?",
+        "rect": {
+          "x": 19.5,
+          "y": 692.375,
+          "width": 351,
+          "height": 78
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "30px",
+          "font-weight": "400",
+          "line-height": "39px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page",
+        "rect": {
+          "x": 19.5,
+          "y": 785.375,
+          "width": 351,
+          "height": 90
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "15px",
+          "font-weight": "400",
+          "line-height": "22.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "15px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Cloudflare Ray ID: a539044bdc3f3f08 • Your IP: Click to reveal 2402:8100:22cf:5908:a845:ee85:50d5:cf42 • Performance & security by Cloudflare",
+        "rect": {
+          "x": 19.5,
+          "y": 971.359375,
+          "width": 351,
+          "height": 68.5
+        },
+        "styles": {
+          "color": "rgb(64, 64, 64)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#cf-footer-ip-reveal",
+        "tag": "button",
+        "text": "Click to reveal",
+        "rect": {
+          "x": 65.71875,
+          "y": 995.859375,
+          "width": 80.078125,
+          "height": 19.5
+        },
+        "styles": {
+          "color": "rgb(0, 81, 195)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "#brand_link",
+        "tag": "a",
+        "text": "Cloudflare",
+        "rect": {
+          "x": 174.421875,
+          "y": 1021.359375,
+          "width": 58.984375,
+          "height": 17
+        },
+        "styles": {
+          "color": "rgb(0, 81, 195)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica Neue\", Arial, sans-serif",
+          "font-size": "13px",
+          "font-weight": "400",
+          "line-height": "19.5px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "selector": "#cf-footer-ip-reveal",
+        "tag": "button",
+        "role": null,
+        "name": "Click to reveal",
+        "width": 80.078125,
+        "height": 19.5,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#brand_link",
+        "tag": "a",
+        "role": null,
+        "name": "Cloudflare",
+        "width": 58.984375,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 76,
+      "dom_content_loaded_ms": 270,
+      "load_ms": 465.59999999403954
+    },
+    "resources": [
+      {
+        "url": "https://www.carlyle.com/cdn-cgi/styles/cf.errors.css",
+        "type": "link",
+        "duration_ms": 183.90000000596046,
+        "transfer_bytes": 4735,
+        "decoded_bytes": 24051
+      },
+      {
+        "url": "https://www.carlyle.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+        "type": "script",
+        "duration_ms": 1.300000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 12332
+      },
+      {
+        "url": "https://www.carlyle.com/cdn-cgi/images/browser-bar.png?1376755637",
+        "type": "css",
+        "duration_ms": 172,
+        "transfer_bytes": 1015,
+        "decoded_bytes": 715
+      },
+      {
+        "url": "https://www.carlyle.com/cdn-cgi/images/cf-no-screenshot-error.png",
+        "type": "css",
+        "duration_ms": 193.09999999403954,
+        "transfer_bytes": 3513,
+        "decoded_bytes": 3213
+      },
+      {
+        "url": "https://www.carlyle.com/favicon.ico",
+        "type": "other",
+        "duration_ms": 96.10000002384186,
+        "transfer_bytes": 2162,
+        "decoded_bytes": 4858
+      }
+    ],
+    "observations": {
+      "lcp_ms": 320,
+      "layout_shifts": [],
+      "long_tasks": []
+    }
+  }
+}

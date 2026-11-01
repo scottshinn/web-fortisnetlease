@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Extractor"
+  short_description: "Turn website references into tokens and patterns"
+  default_prompt: "Use $design-system-extractor to extract a reviewed design system and reusable sections from these references."

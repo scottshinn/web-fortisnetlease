@@ -1,0 +1,505 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://www.kkr.com/",
+  "findings": [
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "raw: 4 H1 elements",
+      "evidence": "raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "raw: skipped heading level",
+      "evidence": "raw.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: images without alt attributes",
+      "evidence": "raw.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "raw: images lack HTML dimensions",
+      "evidence": "raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet-raw: 4 H1 elements",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet-raw: skipped heading level",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: images without alt attributes",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet-raw: images lack HTML dimensions",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile-raw: 4 H1 elements",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile-raw: skipped heading level",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: images without alt attributes",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile-raw: images lack HTML dimensions",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: multiple title elements",
+      "evidence": "desktop.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "desktop: 4 H1 elements",
+      "evidence": "desktop.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "desktop: skipped heading level",
+      "evidence": "desktop.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: images without alt attributes",
+      "evidence": "desktop.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: images lack HTML dimensions",
+      "evidence": "desktop.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "desktop: observed LCP exceeds 2500 ms",
+      "evidence": "desktop.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: long tasks observed",
+      "evidence": "desktop.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: a script exceeds 500 KB decoded",
+      "evidence": "desktop.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: multiple title elements",
+      "evidence": "tablet.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet: 4 H1 elements",
+      "evidence": "tablet.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet: skipped heading level",
+      "evidence": "tablet.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: images without alt attributes",
+      "evidence": "tablet.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: images lack HTML dimensions",
+      "evidence": "tablet.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "horizontal-overflow",
+      "severity": "warning",
+      "category": "visual",
+      "message": "tablet: horizontal overflow",
+      "evidence": "tablet.extract.json",
+      "action": "Inspect the recorded overflowing selectors and fix unintended overflow."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "tablet: observed LCP exceeds 2500 ms",
+      "evidence": "tablet.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: a script exceeds 500 KB decoded",
+      "evidence": "tablet.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "title-duplicate",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: multiple title elements",
+      "evidence": "mobile.extract.json",
+      "action": "Emit one title."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile: 4 H1 elements",
+      "evidence": "mobile.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile: skipped heading level",
+      "evidence": "mobile.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: images without alt attributes",
+      "evidence": "mobile.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: images lack HTML dimensions",
+      "evidence": "mobile.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "mobile: observed LCP exceeds 2500 ms",
+      "evidence": "mobile.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: long tasks observed",
+      "evidence": "mobile.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: a script exceeds 500 KB decoded",
+      "evidence": "mobile.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "sitemap-unavailable",
+      "severity": "info",
+      "category": "crawl",
+      "message": "Sitemap unavailable: https://www.kkr.com/sitemap.xml",
+      "evidence": "controls.json",
+      "action": "Check the intended sitemap location; a missing default path is not proof that no sitemap exists."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 2638,
+      "rendered_text_length": 6961,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 2638,
+      "rendered_text_length": 6996,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.kkr.com/alert-in"
+      ]
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 2638,
+      "rendered_text_length": 6996,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://www.kkr.com/alert-in"
+      ]
+    }
+  ],
+  "crawler_policy": {
+    "status": "observed",
+    "parsed": {
+      "groups": [
+        {
+          "agents": [
+            "*"
+          ],
+          "rules": [
+            {
+              "directive": "allow",
+              "path": "/"
+            }
+          ]
+        }
+      ],
+      "sitemaps": [
+        "https://www.kkr.com/sitemap-index.xml"
+      ],
+      "other": []
+    },
+    "agents": [
+      {
+        "agent": "Googlebot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "Bingbot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "OAI-SearchBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "GPTBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "ChatGPT-User",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "Google-Extended",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "PerplexityBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      }
+    ]
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 25,
+    "info": 20,
+    "quality": "needs-review"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

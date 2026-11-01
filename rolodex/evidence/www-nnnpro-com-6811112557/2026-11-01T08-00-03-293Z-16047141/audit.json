@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://nnnpro.com/",
+  "findings": [
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "raw: 0 H1 elements",
+      "evidence": "raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: 0 main landmarks",
+      "evidence": "raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "raw: images lack HTML dimensions",
+      "evidence": "raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:url missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:image missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet-raw: 0 H1 elements",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: 0 main landmarks",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet-raw: images lack HTML dimensions",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:url missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:image missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile-raw: 0 H1 elements",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: 0 main landmarks",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile-raw: images lack HTML dimensions",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:url missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:image missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "desktop: 0 H1 elements",
+      "evidence": "desktop.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: 0 main landmarks",
+      "evidence": "desktop.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: images lack HTML dimensions",
+      "evidence": "desktop.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:url missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:image missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "button-name",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: buttons without detected names",
+      "evidence": "desktop.extract.json",
+      "action": "Check the accessible name before adding labels."
+    },
+    {
+      "code": "lab-lcp-risk",
+      "severity": "warning",
+      "category": "performance",
+      "message": "desktop: observed LCP exceeds 2500 ms",
+      "evidence": "desktop.extract.json",
+      "action": "Investigate the largest content element; measure under defined conditions and compare field data."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: long tasks observed",
+      "evidence": "desktop.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: a script exceeds 500 KB decoded",
+      "evidence": "desktop.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet: 5 H1 elements",
+      "evidence": "tablet.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet: skipped heading level",
+      "evidence": "tablet.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: 0 main landmarks",
+      "evidence": "tablet.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: images without alt attributes",
+      "evidence": "tablet.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: form controls without detected labels",
+      "evidence": "tablet.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: images lack HTML dimensions",
+      "evidence": "tablet.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:url missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:image missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "render-dependent-content",
+      "severity": "warning",
+      "category": "rendering",
+      "message": "tablet: important content appears only after JavaScript",
+      "evidence": "tablet.extract.json",
+      "action": "Deliver key headings, copy and navigation in the initial HTML where crawler access matters."
+    },
+    {
+      "code": "button-name",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: buttons without detected names",
+      "evidence": "tablet.extract.json",
+      "action": "Check the accessible name before adding labels."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: a script exceeds 500 KB decoded",
+      "evidence": "tablet.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile: 5 H1 elements",
+      "evidence": "mobile.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile: skipped heading level",
+      "evidence": "mobile.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: 0 main landmarks",
+      "evidence": "mobile.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "image-alt",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: images without alt attributes",
+      "evidence": "mobile.extract.json",
+      "action": "Use meaningful alt or empty alt for decorative images."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: form controls without detected labels",
+      "evidence": "mobile.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "image-dimensions",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: images lack HTML dimensions",
+      "evidence": "mobile.extract.json",
+      "action": "Check whether CSS aspect-ratio already reserves space before changing markup."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:url missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:image missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "render-dependent-content",
+      "severity": "warning",
+      "category": "rendering",
+      "message": "mobile: important content appears only after JavaScript",
+      "evidence": "mobile.extract.json",
+      "action": "Deliver key headings, copy and navigation in the initial HTML where crawler access matters."
+    },
+    {
+      "code": "button-name",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: buttons without detected names",
+      "evidence": "mobile.extract.json",
+      "action": "Check the accessible name before adding labels."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: long tasks observed",
+      "evidence": "mobile.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: a script exceeds 500 KB decoded",
+      "evidence": "mobile.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 122,
+      "rendered_text_length": 329,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://nnnpro.com/auth/login?returnTo=%2F",
+        "https://nnnpro.com/signup"
+      ]
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 122,
+      "rendered_text_length": 1936,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": true,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://nnnpro.com/auth/login?returnTo=%2F",
+        "https://nnnpro.com/signup",
+        "https://nnnpro.com/properties/006iL000006EYWEQA4",
+        "https://nnnpro.com/properties/006iL000006pumLQAQ",
+        "https://nnnpro.com/properties/006UN00000Z5EcTYAV",
+        "https://nnnpro.com/properties/006UN00000VjUWLYA3",
+        "https://nnnpro.com/properties/006iL000009EiQbQAK",
+        "https://nnnpro.com/properties/006iL00000FWh4PQAT",
+        "https://nnnpro.com/properties/006iL00000EQRR9QAP",
+        "https://nnnpro.com/properties/006iL00000BL4v7QAD",
+        "https://nnnpro.com/properties/006iL00000BL4TiQAL",
+        "https://nnnpro.com/properties?propertyTypes=Retail%7CAmusement+Park%2CRetail%7CAuto+Dealer%2CRetail%7CAutomotive%2CRetail%7CAutomotive+-+Collision+Services%2CRetail%7CAutomotive+-+Oil+Services%2CRetail%7CAutomotive+-+Parts%2FServices%2CRetail%7CAutomotive+-+Tire+Services%2CRetail%7CBank%2CRetail%7CBig+Box%2CRetail%7CCannabis%2CRetail%7CCar+Dealership%2CRetail%7CCar+Wash%2CRetail%7CChild+Care%2CRetail%7CConvenience+Store%2CRetail%7CDepartment+Store%2CRetail%7CDollar+Store%2CRetail%7CDrug+Store%2CRetail%7CEntertainment+Venue%2CRetail%7CEquipment%2CRetail%7CFlex%2CRetail%7CGas+Station%2CRetail%7CGas+Station%2FConvenience+Store%2CRetail%7CGeneral%2CRetail%7CGrocery%2CRetail%7CHealth+and+Fitness+Center%2CRetail%7CHome+Improvement%2CRetail%7CMedical%2CRetail%7CMedical+-+Rehabilitation+Center%2CRetail%7CMovie+Theater%2CRetail%7CMulti-Tenant%2CRetail%7CPet+Services%2CRetail%7CRestaurant+-+Casual+Dining%2CRetail%7CRestaurant+-+Fast+Casual%2CRetail%7CRestaurant+-+Quick+Service%2CRetail%7CVarious",
+        "https://nnnpro.com/properties?propertyTypes=Industrial%7CDistribution+Center%2CIndustrial%7CFlex%2CIndustrial%7CManufacturing%2CIndustrial%7CWarehouse",
+        "https://nnnpro.com/properties?propertyTypes=Office%7CDental%2COffice%7CFlex%2COffice%7CMedical%2COffice%7CVeterinarian",
+        "https://nnnpro.com/properties?propertyTypes=Land%7CRaw+Land",
+        "https://nnnpro.com/properties?propertyTypes=Specialty%7CChild+Care%2CSpecialty%7CEducation+-+Child+Care+%28Pre-K%29%2CSpecialty%7CFuneral+Home%2CSpecialty%7CVeterinarian"
+      ]
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 122,
+      "rendered_text_length": 1936,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": true,
+      "jsonld_changed": false,
+      "internal_links_added": [
+        "https://nnnpro.com/auth/login?returnTo=%2F",
+        "https://nnnpro.com/signup",
+        "https://nnnpro.com/properties/006iL000006EYWEQA4",
+        "https://nnnpro.com/properties/006iL000006pumLQAQ",
+        "https://nnnpro.com/properties/006UN00000Z5EcTYAV",
+        "https://nnnpro.com/properties/006UN00000VjUWLYA3",
+        "https://nnnpro.com/properties/006iL000009EiQbQAK",
+        "https://nnnpro.com/properties/006iL00000FWh4PQAT",
+        "https://nnnpro.com/properties/006iL00000EQRR9QAP",
+        "https://nnnpro.com/properties/006iL00000BL4v7QAD",
+        "https://nnnpro.com/properties/006iL00000BL4TiQAL",
+        "https://nnnpro.com/properties?propertyTypes=Retail%7CAmusement+Park%2CRetail%7CAuto+Dealer%2CRetail%7CAutomotive%2CRetail%7CAutomotive+-+Collision+Services%2CRetail%7CAutomotive+-+Oil+Services%2CRetail%7CAutomotive+-+Parts%2FServices%2CRetail%7CAutomotive+-+Tire+Services%2CRetail%7CBank%2CRetail%7CBig+Box%2CRetail%7CCannabis%2CRetail%7CCar+Dealership%2CRetail%7CCar+Wash%2CRetail%7CChild+Care%2CRetail%7CConvenience+Store%2CRetail%7CDepartment+Store%2CRetail%7CDollar+Store%2CRetail%7CDrug+Store%2CRetail%7CEntertainment+Venue%2CRetail%7CEquipment%2CRetail%7CFlex%2CRetail%7CGas+Station%2CRetail%7CGas+Station%2FConvenience+Store%2CRetail%7CGeneral%2CRetail%7CGrocery%2CRetail%7CHealth+and+Fitness+Center%2CRetail%7CHome+Improvement%2CRetail%7CMedical%2CRetail%7CMedical+-+Rehabilitation+Center%2CRetail%7CMovie+Theater%2CRetail%7CMulti-Tenant%2CRetail%7CPet+Services%2CRetail%7CRestaurant+-+Casual+Dining%2CRetail%7CRestaurant+-+Fast+Casual%2CRetail%7CRestaurant+-+Quick+Service%2CRetail%7CVarious",
+        "https://nnnpro.com/properties?propertyTypes=Industrial%7CDistribution+Center%2CIndustrial%7CFlex%2CIndustrial%7CManufacturing%2CIndustrial%7CWarehouse",
+        "https://nnnpro.com/properties?propertyTypes=Office%7CDental%2COffice%7CFlex%2COffice%7CMedical%2COffice%7CVeterinarian",
+        "https://nnnpro.com/properties?propertyTypes=Land%7CRaw+Land",
+        "https://nnnpro.com/properties?propertyTypes=Specialty%7CChild+Care%2CSpecialty%7CEducation+-+Child+Care+%28Pre-K%29%2CSpecialty%7CFuneral+Home%2CSpecialty%7CVeterinarian"
+      ]
+    }
+  ],
+  "crawler_policy": {
+    "status": "observed",
+    "parsed": {
+      "groups": [
+        {
+          "agents": [
+            "*"
+          ],
+          "rules": [
+            {
+              "directive": "allow",
+              "path": "/"
+            }
+          ]
+        }
+      ],
+      "sitemaps": [
+        "https://nnnpro.com/sitemap.xml"
+      ],
+      "other": []
+    },
+    "agents": [
+      {
+        "agent": "Googlebot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "Bingbot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "OAI-SearchBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "GPTBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "ChatGPT-User",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "Google-Extended",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "PerplexityBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      }
+    ]
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 24,
+    "info": 25,
+    "quality": "needs-review"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

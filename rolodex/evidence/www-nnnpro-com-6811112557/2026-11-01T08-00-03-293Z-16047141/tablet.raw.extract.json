@@ -1,0 +1,228 @@
+{
+  "url": "https://nnnpro.com/",
+  "base_url": "https://nnnpro.com/",
+  "title": "NNN Pro | Net Lease Marketplace",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "next-size-adjust": [
+      ""
+    ],
+    "description": [
+      "Explore single-tenant net lease properties, bonus-depreciable assets, and investment services on the NNN Pro marketplace. Built for pros, by pros."
+    ],
+    "og:title": [
+      "NNN Pro | Net Lease Marketplace"
+    ],
+    "og:description": [
+      "Explore single-tenant net lease properties, bonus-depreciable assets, and investment services on the NNN Pro marketplace."
+    ],
+    "og:site_name": [
+      "NNN Pro"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "twitter:card": [
+      "summary"
+    ],
+    "twitter:title": [
+      "NNN Pro | Net Lease Marketplace"
+    ],
+    "twitter:description": [
+      "Explore single-tenant net lease properties and bonus-depreciable assets on NNN Pro."
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://nnnpro.com",
+      "url": "https://nnnpro.com/"
+    }
+  ],
+  "headings": [],
+  "links": [
+    {
+      "href": "/",
+      "url": "https://nnnpro.com/",
+      "text": "NNN Pro",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/brokerage",
+      "url": "https://surmount.com/brokerage",
+      "text": "Services",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/properties",
+      "url": "https://nnnpro.com/properties",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/bonus-depreciation",
+      "url": "https://nnnpro.com/bonus-depreciation",
+      "text": "Bonus Depreciation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/team?tag=brokerage",
+      "url": "https://surmount.com/team?tag=brokerage",
+      "text": "Our Team",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/careers",
+      "url": "https://surmount.com/careers",
+      "text": "Careers",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/brokerage",
+      "url": "https://surmount.com/brokerage",
+      "text": "Services",
+      "rel": "",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/properties",
+      "url": "https://nnnpro.com/properties",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/bonus-depreciation",
+      "url": "https://nnnpro.com/bonus-depreciation",
+      "text": "Bonus Depreciation",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/team?tag=brokerage",
+      "url": "https://surmount.com/team?tag=brokerage",
+      "text": "Our Team",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/careers",
+      "url": "https://surmount.com/careers",
+      "text": "Careers",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(5)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://nnnpro.com/img/logo.png",
+      "alt": "NNN Pro",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://nnnpro.com/#website\",\"url\":\"https://nnnpro.com/\",\"name\":\"NNN Pro\",\"publisher\":{\"@id\":\"https://nnnpro.com/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://nnnpro.com/#organization\",\"name\":\"NNN Pro\",\"alternateName\":\"NNN Pro - The Net Lease Marketplace\",\"url\":\"https://nnnpro.com/\",\"logo\":\"https://nnnpro.com/img/logo.png\",\"description\":\"NNN Pro is a net lease marketplace for commercial real estate professionals.\",\"sameAs\":[\"https://www.linkedin.com/company/nnnpro\",\"https://www.instagram.com/officialnnnpro\"]}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://nnnpro.com/#website",
+            "url": "https://nnnpro.com/",
+            "name": "NNN Pro",
+            "publisher": {
+              "@id": "https://nnnpro.com/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://nnnpro.com/#organization",
+            "name": "NNN Pro",
+            "alternateName": "NNN Pro - The Net Lease Marketplace",
+            "url": "https://nnnpro.com/",
+            "logo": "https://nnnpro.com/img/logo.png",
+            "description": "NNN Pro is a net lease marketplace for commercial real estate professionals.",
+            "sameAs": [
+              "https://www.linkedin.com/company/nnnpro",
+              "https://www.instagram.com/officialnnnpro"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 0,
+    "article": 0,
+    "section": 1,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "ServicesPropertiesBonus DepreciationOur TeamCareersServicesPropertiesBonus DepreciationOur TeamCareersLoading...Loading...",
+  "text_length": 122,
+  "iframes": [],
+  "script_sources": [
+    "https://nnnpro.com/_next/static/chunks/d1a2607a-be07532d4ba09794.js",
+    "https://nnnpro.com/_next/static/chunks/250-4c89d4f4a8971875.js",
+    "https://nnnpro.com/_next/static/chunks/main-app-e4fbc3874cd59daa.js",
+    "https://nnnpro.com/_next/static/chunks/cd475ccb-e7d701d5e3c56aec.js",
+    "https://nnnpro.com/_next/static/chunks/531ba6ad-f74a6467b49d5a47.js",
+    "https://nnnpro.com/_next/static/chunks/255da9a5-dfa96160b48c33bd.js",
+    "https://nnnpro.com/_next/static/chunks/36-9fb4ee540fcbebd3.js",
+    "https://nnnpro.com/_next/static/chunks/517-e532c3a9942ec12f.js",
+    "https://nnnpro.com/_next/static/chunks/783-dcfdc50bce6bdb6b.js",
+    "https://nnnpro.com/_next/static/chunks/359-0c22ee8124826f73.js",
+    "https://nnnpro.com/_next/static/chunks/app/(main)/page-d24560d09222fe0c.js",
+    "https://nnnpro.com/_next/static/chunks/app/layout-20ffa3627d8e45c4.js",
+    "https://nnnpro.com/_next/static/chunks/app/(main)/layout-f704b69c47aefbc1.js",
+    "https://nnnpro.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "https://nnnpro.com/_next/static/chunks/webpack-4291c906203e4482.js"
+  ],
+  "stylesheets": [
+    "https://nnnpro.com/_next/static/css/a3de63df20098e7c.css",
+    "https://nnnpro.com/_next/static/css/715be398208dca58.css"
+  ],
+  "hreflang": []
+}

@@ -1,0 +1,5 @@
+{
+  "failed_at": "2026-11-01T06:53:11.484Z",
+  "requested_url": "https://calkain.com/",
+  "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+}

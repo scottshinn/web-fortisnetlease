@@ -1,0 +1,1070 @@
+{
+  "url": "https://atlanticretail.com/",
+  "base_url": "https://atlanticretail.com/",
+  "title": "Atlantic Retail - Retail Real Estate Brokerage",
+  "title_count": 4,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "theme-color": [
+      "#ffffff"
+    ],
+    "google-site-verification": [
+      "es2hx5s2bZMY3_A-1mtllTsVc-YatmfuOf_TvzoLf84"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "description": [
+      "Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done."
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:title": [
+      "Home"
+    ],
+    "og:description": [
+      "Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done."
+    ],
+    "og:url": [
+      "https://atlanticretail.com/"
+    ],
+    "og:site_name": [
+      "Atlantic Retail"
+    ],
+    "article:modified_time": [
+      "2026-07-24T15:51:01+00:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "generator": [
+      "Site Kit by Google 1.190.0"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://atlanticretail.com/",
+      "url": "https://atlanticretail.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Commercial Real Estate Brokerage | Tenant & Landlord Representation",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Maximize your returns",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Find the right tenant",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Develop your strategy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "What we do",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Tenant Representation",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Landlord Representation",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Portfolio Disposition",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "High Street & Urban",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Capital Markets",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Corporate Services",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Property Management",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "About Atlantic",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Where we are",
+      "selector": "div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#primary",
+      "url": "https://atlanticretail.com/#primary",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/portfolio-disposition/",
+      "url": "https://atlanticretail.com/services/portfolio-disposition/",
+      "text": "Portfolio Disposition",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/high-street-urban/",
+      "url": "https://atlanticretail.com/services/high-street-urban/",
+      "text": "High Street & Urban",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/corporate-services/",
+      "url": "https://atlanticretail.com/services/corporate-services/",
+      "text": "Corporate Services",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/property-management/",
+      "url": "https://atlanticretail.com/services/property-management/",
+      "text": "Property Management",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/tenant/",
+      "url": "https://atlanticretail.com/tenant/",
+      "text": "Tenants",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/buildout-listings/",
+      "url": "https://atlanticretail.com/buildout-listings/",
+      "text": "Leasing/Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.reverecre.com/atlantic-capital-partners",
+      "url": "https://www.reverecre.com/atlantic-capital-partners",
+      "text": "Investment",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com",
+      "url": "https://atlanticretail.com/",
+      "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondary-color { fill: #001f60; } .atlantic-logo-evenodd { fill-rule: evenodd; }",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/",
+      "url": "https://atlanticretail.com/about/",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/team/",
+      "url": "https://atlanticretail.com/about/team/",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/careers/",
+      "url": "https://atlanticretail.com/careers/",
+      "text": "Join Atlantic Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/contact/",
+      "url": "https://atlanticretail.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/portfolio-disposition/",
+      "url": "https://atlanticretail.com/services/portfolio-disposition/",
+      "text": "Portfolio Disposition",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/high-street-urban/",
+      "url": "https://atlanticretail.com/services/high-street-urban/",
+      "text": "High Street & Urban",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/corporate-services/",
+      "url": "https://atlanticretail.com/services/corporate-services/",
+      "text": "Corporate Services",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/property-management/",
+      "url": "https://atlanticretail.com/services/property-management/",
+      "text": "Property Management",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/tenant/",
+      "url": "https://atlanticretail.com/tenant/",
+      "text": "Tenants",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/buildout-listings/",
+      "url": "https://atlanticretail.com/buildout-listings/",
+      "text": "Leasing/Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.reverecre.com/atlantic-capital-partners",
+      "url": "https://www.reverecre.com/atlantic-capital-partners",
+      "text": "Investment",
+      "rel": "",
+      "internal": false,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/",
+      "url": "https://atlanticretail.com/about/",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/team/",
+      "url": "https://atlanticretail.com/about/team/",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/careers/",
+      "url": "https://atlanticretail.com/careers/",
+      "text": "Join Atlantic Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/contact/",
+      "url": "https://atlanticretail.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Learn more about Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Learn more about Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Learn more about Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/portfolio-disposition/",
+      "url": "https://atlanticretail.com/services/portfolio-disposition/",
+      "text": "Portfolio Disposition",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/high-street-urban/",
+      "url": "https://atlanticretail.com/services/high-street-urban/",
+      "text": "High Street & Urban",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/corporate-services/",
+      "url": "https://atlanticretail.com/services/corporate-services/",
+      "text": "Corporate Services",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/property-management/",
+      "url": "https://atlanticretail.com/services/property-management/",
+      "text": "Property Management",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/",
+      "url": "https://atlanticretail.com/about/",
+      "text": "About Atlantic",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8)",
+      "visible": true
+    },
+    {
+      "href": "/office/albany/",
+      "url": "https://atlanticretail.com/office/albany/",
+      "text": "Albany",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/office/atlanta/",
+      "url": "https://atlanticretail.com/office/atlanta/",
+      "text": "Atlanta",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/office/boston/",
+      "url": "https://atlanticretail.com/office/boston/",
+      "text": "Boston",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "/office/charlotte/",
+      "url": "https://atlanticretail.com/office/charlotte/",
+      "text": "Charlotte",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "/office/charleston/",
+      "url": "https://atlanticretail.com/office/charleston/",
+      "text": "Charleston",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "/office/los-angeles/",
+      "url": "https://atlanticretail.com/office/los-angeles/",
+      "text": "Los Angeles",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretailnyc.com",
+      "url": "https://atlanticretailnyc.com/",
+      "text": "New York City",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "/office/orlando/",
+      "url": "https://atlanticretail.com/office/orlando/",
+      "text": "Orlando",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(8)",
+      "visible": true
+    },
+    {
+      "href": "/office/pittsburgh/",
+      "url": "https://atlanticretail.com/office/pittsburgh/",
+      "text": "Pittsburgh",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(9)",
+      "visible": true
+    },
+    {
+      "href": "/office/west-palm-beach/",
+      "url": "https://atlanticretail.com/office/west-palm-beach/",
+      "text": "West Palm Beach",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(10)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com",
+      "url": "https://atlanticretail.com/",
+      "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondary-color { fill: #001f60; } .atlantic-logo-evenodd { fill-rule: evenodd; }",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/atlantic-retail-properties/",
+      "url": "https://www.linkedin.com/company/atlantic-retail-properties/",
+      "text": "LinkedIn logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/atlantic_retail/",
+      "url": "https://www.instagram.com/atlantic_retail/",
+      "text": "Instagram logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "http://realtyresources.org/",
+      "url": "http://realtyresources.org/",
+      "text": "Realty Resources Logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#realty-resources",
+      "visible": true
+    },
+    {
+      "href": "https://chainlinks.com/",
+      "url": "https://chainlinks.com/",
+      "text": "ChainLnks Retail Advisors Logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#chainlinks",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/albany",
+      "url": "https://atlanticretail.com/office/albany",
+      "text": "ALBANY",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/atlanta",
+      "url": "https://atlanticretail.com/office/atlanta",
+      "text": "ATLANTA",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/boston",
+      "url": "https://atlanticretail.com/office/boston",
+      "text": "BOSTON",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/charleston",
+      "url": "https://atlanticretail.com/office/charleston",
+      "text": "CHARLESTON",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/charlotte",
+      "url": "https://atlanticretail.com/office/charlotte",
+      "text": "CHARLOTTE",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/los-angeles",
+      "url": "https://atlanticretail.com/office/los-angeles",
+      "text": "LOS ANGELES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/new-york-city",
+      "url": "https://atlanticretail.com/office/new-york-city",
+      "text": "NEW YORK CITY",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/orlando",
+      "url": "https://atlanticretail.com/office/orlando",
+      "text": "ORLANDO",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(8)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/pittsburgh",
+      "url": "https://atlanticretail.com/office/pittsburgh",
+      "text": "PITTSBURGH",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(9)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/west-palm-beach",
+      "url": "https://atlanticretail.com/office/west-palm-beach",
+      "text": "WEST PALM BEACH",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(10)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Manage options",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Manage services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Manage {vendor_count} vendors",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://cookiedatabase.org/tcf/purposes/",
+      "url": "https://cookiedatabase.org/tcf/purposes/",
+      "text": "Read more about these purposes",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "View preferences",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "{title}",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "{title}",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "{title}",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://px.ads.linkedin.com/collect/?pid=1809754&fmt=gif",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "body:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://atlanticretail.com/wp-content/uploads/2024/12/Chainlinks-WHITE.png",
+      "alt": "ChainLnks Retail Advisors",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "header:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "s",
+      "type": "search",
+      "label": ""
+    },
+    {
+      "selector": "#search-mob-input",
+      "name": "s",
+      "type": "search",
+      "label": "Search"
+    },
+    {
+      "selector": "#cmplz-functional-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Functional"
+    },
+    {
+      "selector": "#cmplz-preferences-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Preferences"
+    },
+    {
+      "selector": "#cmplz-statistics-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Statistics"
+    },
+    {
+      "selector": "#cmplz-marketing-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Marketing"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/atlanticretail.com\\/\",\"url\":\"https:\\/\\/atlanticretail.com\\/\",\"name\":\"Atlantic Retail - Retail Real Estate Brokerage\",\"isPartOf\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#website\"},\"about\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#organization\"},\"datePublished\":\"2017-06-21T00:39:42+00:00\",\"dateModified\":\"2026-07-24T15:51:01+00:00\",\"description\":\"Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/atlanticretail.com\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#website\",\"url\":\"https:\\/\\/atlanticretail.com\\/\",\"name\":\"Atlantic Retail\",\"description\":\"A team of retail real estate professionals to help you get the right deals done\",\"publisher\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/atlanticretail.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"RealEstateAgent\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#organization\",\"name\":\"Atlantic Retail\",\"url\":\"https:\\/\\/atlanticretail.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/atlanticretail.com\\/wp-content\\/uploads\\/2026\\/06\\/atlantic-retail-logo-wordmark-696.png\",\"contentUrl\":\"https:\\/\\/atlanticretail.com\\/wp-content\\/uploads\\/2026\\/06\\/atlantic-retail-logo-wordmark-696.png\",\"width\":696,\"height\":696,\"caption\":\"Atlantic Retail\"},\"image\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.linkedin.com\\/company\\/atlantic-retail-properties\\/\",\"https:\\/\\/www.instagram.com\\/atlantic_retail\\/\"],\"telephone\":\"+1-617-239-3600\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"55 Huntington Avenue\",\"addressLocality\":\"Boston\",\"addressRegion\":\"MA\",\"postalCode\":\"02199\",\"addressCountry\":\"US\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":42.34731,\"longitude\":-71.08213}}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://atlanticretail.com/",
+            "url": "https://atlanticretail.com/",
+            "name": "Atlantic Retail - Retail Real Estate Brokerage",
+            "isPartOf": {
+              "@id": "https://atlanticretail.com/#website"
+            },
+            "about": {
+              "@id": "https://atlanticretail.com/#organization"
+            },
+            "datePublished": "2017-06-21T00:39:42+00:00",
+            "dateModified": "2026-07-24T15:51:01+00:00",
+            "description": "Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done.",
+            "breadcrumb": {
+              "@id": "https://atlanticretail.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://atlanticretail.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://atlanticretail.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://atlanticretail.com/#website",
+            "url": "https://atlanticretail.com/",
+            "name": "Atlantic Retail",
+            "description": "A team of retail real estate professionals to help you get the right deals done",
+            "publisher": {
+              "@id": "https://atlanticretail.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://atlanticretail.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "RealEstateAgent",
+            "@id": "https://atlanticretail.com/#organization",
+            "name": "Atlantic Retail",
+            "url": "https://atlanticretail.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://atlanticretail.com/#/schema/logo/image/",
+              "url": "https://atlanticretail.com/wp-content/uploads/2026/06/atlantic-retail-logo-wordmark-696.png",
+              "contentUrl": "https://atlanticretail.com/wp-content/uploads/2026/06/atlantic-retail-logo-wordmark-696.png",
+              "width": 696,
+              "height": 696,
+              "caption": "Atlantic Retail"
+            },
+            "image": {
+              "@id": "https://atlanticretail.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.linkedin.com/company/atlantic-retail-properties/",
+              "https://www.instagram.com/atlantic_retail/"
+            ],
+            "telephone": "+1-617-239-3600",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "55 Huntington Avenue",
+              "addressLocality": "Boston",
+              "addressRegion": "MA",
+              "postalCode": "02199",
+              "addressCountry": "US"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 42.34731,
+              "longitude": -71.08213
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 1,
+    "article": 0,
+    "section": 3,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Commercial Real Estate Brokerage | Tenant & Landlord Representation Capital Markets Maximize your returns Learn more about Capital Markets Landlord Representation Find the right tenant Learn more about Landlord Representation Tenant Representation Develop your strategy Learn more about Tenant Representation Atlantic Retail Services What we do Tenant Representation Landlord Representation Portfolio Disposition High Street & Urban Capital Markets Corporate Services Property Management About Atlantic Nationwide Coverage Where we are Albany Atlanta Boston Charlotte Charleston Los Angeles New York City Orlando Pittsburgh West Palm Beach",
+  "text_length": 639,
+  "iframes": [
+    {
+      "src": "https://www.googletagmanager.com/ns.html?id=GTM-M7SGP3JV",
+      "title": ""
+    }
+  ],
+  "script_sources": [
+    "https://atlanticretail.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://atlanticretail.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.2.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.2.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=d7e103405223e60d2719f4c330fd11cf",
+    "https://atlanticretail.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+    "https://atlanticretail.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "https://atlanticretail.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+    "https://atlanticretail.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=3.2.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=ddae8d403393f0e5eaeedeb511ce46e0",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f7ff0a7a4cbd950275384188b97da558",
+    "https://atlanticretail.com/wp-content/themes/ar/js/navigation.js?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/themes/ar/js/utm.js?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/themes/ar/js/init.js?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=7.1.4",
+    "https://atlanticretail.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1792605087",
+    "https://atlanticretail.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+  ],
+  "stylesheets": [
+    "https://atlanticretail.com/wp-content/themes/ar/style.css?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1792605087",
+    "https://atlanticretail.com/wp-content/uploads/complianz/css/banner-1-optout.css?ver=1792605094"
+  ],
+  "hreflang": []
+}

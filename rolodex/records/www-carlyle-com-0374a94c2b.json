@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "www-carlyle-com-0374a94c2b",
+  "origin": "https://www.carlyle.com",
+  "created_at": "2026-11-01T07:58:31.319Z",
+  "updated_at": "2026-11-01T08:05:54.285Z",
+  "classification": {
+    "industry": [
+      "commercial-real-estate"
+    ],
+    "style": [],
+    "technology": [
+      "bot-protection"
+    ],
+    "components": []
+  },
+  "design_notes": [
+    {
+      "text": "Capture on 2026-11-01 returned a bot-protection/blocked page (Cloudflare challenge, 403 or 'request is blocked') with both bundled Chromium and installed Chrome; no rendered design evidence. Recapture from a different network or review manually.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "rolodex capture 2026-11-01 desktop.png and raw.html"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T07-58-10-929Z-f1494f66",
+      "url": "https://www.carlyle.com/",
+      "captured_at": "2026-11-01T07:58:31.183Z",
+      "path": "evidence/www-carlyle-com-0374a94c2b/2026-11-01T07-58-10-929Z-f1494f66/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

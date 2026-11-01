@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/net-lease-news/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "13590",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/180539>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=180539>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/net-lease-news/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/net-lease-news/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "a53ecdfc4760bf18b2df518c0b6c0ea91f51cd9f482333d7f1ca8b60414dc917",
+  "body_bytes": 51332
+}

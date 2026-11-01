@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "www-fortisnetlease-com-ea105adb01",
+  "origin": "https://www.fortisnetlease.com",
+  "created_at": "2026-11-01T06:46:45.867Z",
+  "updated_at": "2026-11-01T06:54:22.639Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-45-46-351Z-7d6b7297",
+      "url": "https://fortisnetlease.com/",
+      "captured_at": "2026-11-01T06:46:45.658Z",
+      "path": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-45-46-351Z-7d6b7297/manifest.json",
+      "quality": "needs-review"
+    },
+    {
+      "id": "2026-11-01T06-53-19-726Z-5ac7ffce",
+      "url": "https://fortisnetlease.com/net-lease-properties/",
+      "captured_at": "2026-11-01T06:53:33.348Z",
+      "path": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-53-19-726Z-5ac7ffce/manifest.json",
+      "quality": "needs-review"
+    },
+    {
+      "id": "2026-11-01T06-53-34-020Z-8f711add",
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "captured_at": "2026-11-01T06:53:50.255Z",
+      "path": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-53-34-020Z-8f711add/manifest.json",
+      "quality": "needs-review"
+    },
+    {
+      "id": "2026-11-01T06-53-51-813Z-216b163a",
+      "url": "https://fortisnetlease.com/net-lease-advisors/",
+      "captured_at": "2026-11-01T06:54:08.354Z",
+      "path": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-53-51-813Z-216b163a/manifest.json",
+      "quality": "needs-review"
+    },
+    {
+      "id": "2026-11-01T06-54-09-343Z-47783123",
+      "url": "https://fortisnetlease.com/team/robert-bender/",
+      "captured_at": "2026-11-01T06:54:21.326Z",
+      "path": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-54-09-343Z-47783123/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

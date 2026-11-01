@@ -1,0 +1,798 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://fortisnetlease.com/what-is-a-net-lease/",
+  "findings": [
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "raw: 2 H1 elements",
+      "evidence": "raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "raw: skipped heading level",
+      "evidence": "raw.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: 0 main landmarks",
+      "evidence": "raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: form controls without detected labels",
+      "evidence": "raw.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "link-name",
+      "severity": "warning",
+      "category": "links",
+      "message": "raw: internal links have no detected name",
+      "evidence": "raw.extract.json",
+      "action": "Check accessible link names and describe the destination."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:image missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "raw: typed node needs property review",
+      "evidence": "raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet-raw: 2 H1 elements",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet-raw: skipped heading level",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: 0 main landmarks",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: form controls without detected labels",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "link-name",
+      "severity": "warning",
+      "category": "links",
+      "message": "tablet-raw: internal links have no detected name",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Check accessible link names and describe the destination."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:image missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet-raw: typed node needs property review",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile-raw: 2 H1 elements",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile-raw: skipped heading level",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: 0 main landmarks",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: form controls without detected labels",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "link-name",
+      "severity": "warning",
+      "category": "links",
+      "message": "mobile-raw: internal links have no detected name",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Check accessible link names and describe the destination."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:image missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile-raw: typed node needs property review",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "desktop: 2 H1 elements",
+      "evidence": "desktop.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "desktop: skipped heading level",
+      "evidence": "desktop.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: 0 main landmarks",
+      "evidence": "desktop.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: form controls without detected labels",
+      "evidence": "desktop.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "link-name",
+      "severity": "warning",
+      "category": "links",
+      "message": "desktop: internal links have no detected name",
+      "evidence": "desktop.extract.json",
+      "action": "Check accessible link names and describe the destination."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:image missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "desktop: typed node needs property review",
+      "evidence": "desktop.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: long tasks observed",
+      "evidence": "desktop.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: a script exceeds 500 KB decoded",
+      "evidence": "desktop.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet: 2 H1 elements",
+      "evidence": "tablet.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "tablet: skipped heading level",
+      "evidence": "tablet.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: 0 main landmarks",
+      "evidence": "tablet.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: form controls without detected labels",
+      "evidence": "tablet.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "link-name",
+      "severity": "warning",
+      "category": "links",
+      "message": "tablet: internal links have no detected name",
+      "evidence": "tablet.extract.json",
+      "action": "Check accessible link names and describe the destination."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:image missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "tablet: typed node needs property review",
+      "evidence": "tablet.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: a script exceeds 500 KB decoded",
+      "evidence": "tablet.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "h1-count",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile: 2 H1 elements",
+      "evidence": "mobile.extract.json",
+      "action": "Review the page outline; prefer a clear primary heading."
+    },
+    {
+      "code": "heading-skip",
+      "severity": "warning",
+      "category": "semantics",
+      "message": "mobile: skipped heading level",
+      "evidence": "mobile.extract.json",
+      "action": "Correct the semantic outline without using headings for size alone."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: 0 main landmarks",
+      "evidence": "mobile.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "input-label",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: form controls without detected labels",
+      "evidence": "mobile.extract.json",
+      "action": "Provide a programmatic name; verify the accessibility tree."
+    },
+    {
+      "code": "link-name",
+      "severity": "warning",
+      "category": "links",
+      "message": "mobile: internal links have no detected name",
+      "evidence": "mobile.extract.json",
+      "action": "Check accessible link names and describe the destination."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:image missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "schema-shape",
+      "severity": "info",
+      "category": "structured-data",
+      "message": "mobile: typed node needs property review",
+      "evidence": "mobile.extract.json",
+      "action": "Validate type-specific properties with the appropriate validator."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: long tasks observed",
+      "evidence": "mobile.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "large-script",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: a script exceeds 500 KB decoded",
+      "evidence": "mobile.extract.json",
+      "action": "Review JavaScript delivery and hydration costs."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 4810,
+      "rendered_text_length": 4810,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 4810,
+      "rendered_text_length": 4810,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 4810,
+      "rendered_text_length": 4810,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    }
+  ],
+  "crawler_policy": {
+    "status": "observed",
+    "parsed": {
+      "groups": [
+        {
+          "agents": [
+            "*"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/calendar/action:posterboard/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action:agenda/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action:oneday/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action:month/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action:week/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action:map/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action~posterboard/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action~agenda/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action~oneday/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action~month/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action~week/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/calendar/action~stream/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/events/action~posterboard/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/events/action~agenda/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/events/action~oneday/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/events/action~month/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/events/action~week/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/events/action~stream/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/intranet/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/intranet/intranet/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/intranet/intranet-files/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/intranet/*"
+            },
+            {
+              "directive": "disallow",
+              "path": "/*?*contacts="
+            },
+            {
+              "directive": "disallow",
+              "path": "/wp-content/uploads/"
+            },
+            {
+              "directive": "disallow",
+              "path": "/wp-content/plugins/"
+            }
+          ]
+        }
+      ],
+      "sitemaps": [],
+      "other": []
+    },
+    "agents": [
+      {
+        "agent": "Googlebot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "Bingbot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "OAI-SearchBot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "GPTBot",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "ChatGPT-User",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "Google-Extended",
+        "decision": "allow",
+        "matched_rule": null
+      },
+      {
+        "agent": "PerplexityBot",
+        "decision": "allow",
+        "matched_rule": null
+      }
+    ]
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 30,
+    "info": 43,
+    "quality": "needs-review"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

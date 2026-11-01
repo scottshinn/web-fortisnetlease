@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "www-nnnpro-com-6811112557",
+  "origin": "https://www.nnnpro.com",
+  "created_at": "2026-11-01T08:00:23.855Z",
+  "updated_at": "2026-11-01T08:05:53.675Z",
+  "classification": {
+    "industry": [
+      "commercial-real-estate",
+      "investment-sales",
+      "net-lease"
+    ],
+    "style": [
+      "dark",
+      "modern-sans"
+    ],
+    "technology": [],
+    "components": [
+      "account-login",
+      "bonus-depreciation-page",
+      "cookie-modal"
+    ]
+  },
+  "design_notes": [
+    {
+      "text": "Nav promotes a tax topic page ('Bonus Depreciation') alongside Properties and Our Team, plus an account icon - topical investor-education pages and gated buyer accounts as lead capture. Body did not render beyond the cookie modal in capture.",
+      "basis": "observed",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source": "evidence/www-nnnpro-com-6811112557/2026-11-01T08-00-03-293Z-16047141/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T08-00-03-293Z-16047141",
+      "url": "https://nnnpro.com/",
+      "captured_at": "2026-11-01T08:00:23.767Z",
+      "path": "evidence/www-nnnpro-com-6811112557/2026-11-01T08-00-03-293Z-16047141/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

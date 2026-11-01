@@ -1,0 +1,10 @@
+{
+  "/": "index.html",
+  "/services/roof-repair/": "services/roof-repair/index.html",
+  "/contact/": "contact/index.html",
+  "/assets/styles.css": "assets/styles.css",
+  "/assets/main.js": "assets/main.js",
+  "/assets/favicon.svg": "assets/favicon.svg",
+  "/robots.txt": "robots.txt",
+  "/sitemap.xml": "sitemap.xml"
+}

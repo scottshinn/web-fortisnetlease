@@ -1,0 +1,18 @@
+{
+  "status": 403,
+  "url": "https://www.blackstone.com/",
+  "headers": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare"
+  },
+  "redirects": [
+    {
+      "url": "https://www.blackstone.com/",
+      "status": 403
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "91376e02429044716116354bc321ac14d82088ab93ca955c5ead1ec39cadfb33",
+  "body_bytes": 6166
+}

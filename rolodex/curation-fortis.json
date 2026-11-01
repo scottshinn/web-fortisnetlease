@@ -1,0 +1,34 @@
+{
+  "classification": {
+    "industry": ["commercial-real-estate", "net-lease-brokerage"],
+    "style": ["dark", "high-contrast", "corporate", "expressive"],
+    "technology": ["wordpress", "yoast-seo", "flywheel-hosting", "buildout-embed", "materialize-css", "jquery", "google-analytics", "recaptcha"],
+    "components": ["full-bleed-video-hero", "stat-counter-band", "listing-iframe-embed", "agent-grid", "testimonial-list", "featured-closings-carousel", "lead-form-with-sms-consent", "mailing-list-form"]
+  },
+  "design_notes": [
+    {
+      "text": "Current listings are not WordPress content: /net-lease-properties/ renders an empty #buildout div filled by BuildOut.embed (plugin inventory, token 8c286e4a...). 77 for-sale listings on 2026-11-01. 78 older WP 'property' pages remain published and crawlable.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [{ "source": "https://fortisnetlease.com/net-lease-properties/" }, { "source": "harvest/pages/net-lease-properties.html" }]
+    },
+    {
+      "text": "Self-hosted commercial fonts: Futura PT (body/headings), Tungsten condensed (numerals), DearJoe 4 script accents; primary accent #43AFEB on near-black #1D1F27.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [{ "source": "evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-45-46-351Z-7d6b7297/desktop.extract.json", "viewport": "desktop" }]
+    },
+    {
+      "text": "Stats claims are inconsistent across pages ($9+B vs $9.3B vs 'Five billion'; 4,000+ vs 4,500 transactions) and footer copyright is stale (2024); owner must confirm before reuse.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [{ "source": "https://fortisnetlease.com/real-estate-acquisition-disposition/" }, { "source": "https://fortisnetlease.com/team/robert-bender/" }]
+    },
+    {
+      "text": "Duplicate URLs serve identical pages (about-us = real-estate-acquisition-disposition, our-agents = net-lease-advisors, testimonials = real-estate-testimonials, properties = net-lease-properties, recently-closed = real-estate-investment-sales, list-with-us = net-lease-real-estate, careers = commercial-real-estate-careers, home = /home/).",
+      "basis": "observed",
+      "confidence": "medium",
+      "evidence": [{ "source": "harvest/urls.csv" }]
+    }
+  ]
+}

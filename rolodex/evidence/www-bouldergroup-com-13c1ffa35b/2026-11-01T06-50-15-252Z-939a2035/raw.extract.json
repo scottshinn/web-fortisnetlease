@@ -1,0 +1,469 @@
+{
+  "url": "https://www.bouldergroup.com/",
+  "base_url": "https://www.bouldergroup.com/",
+  "title": "The Boulder Group | Single Tenant Net Lease Advisory Firm | Boulder Group",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "keywords": [
+      "The Boulder Group, Boulder Net Lease, Boulder Group, net lease"
+    ],
+    "description": [
+      "The Boulder Group is a national net lease commercial real estate firm that provides brokerage services in the Net leased property sector."
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "google-site-verification": [
+      "rDf4IQxGe7tDN-sAhocVi0KOTPmOuDbJYuBScwbRj6g"
+    ]
+  },
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "About Us",
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.linkedin.com/company/the-boulder-group",
+      "url": "https://www.linkedin.com/company/the-boulder-group",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://x.com/thebouldergroup",
+      "url": "https://x.com/thebouldergroup",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/bouldergroup/",
+      "url": "https://www.instagram.com/bouldergroup/",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCdHnxrT36nU6Hwt7wv9U-5A",
+      "url": "https://www.youtube.com/channel/UCdHnxrT36nU6Hwt7wv9U-5A",
+      "text": "",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bouldergroup.com/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/NNN-Properties-For-Sale.html",
+      "url": "https://www.bouldergroup.com/NNN-Properties-For-Sale.html",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/research.html",
+      "url": "https://www.bouldergroup.com/research.html",
+      "text": "Research",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.bouldergroup.com/about",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services",
+      "url": "https://www.bouldergroup.com/services",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news",
+      "url": "https://www.bouldergroup.com/news",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact.html",
+      "url": "https://www.bouldergroup.com/contact.html",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bouldergroup.com/",
+      "text": "Home",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/NNN-Properties-For-Sale.html",
+      "url": "https://www.bouldergroup.com/NNN-Properties-For-Sale.html",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/research.html",
+      "url": "https://www.bouldergroup.com/research.html",
+      "text": "Research",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about",
+      "url": "https://www.bouldergroup.com/about",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services",
+      "url": "https://www.bouldergroup.com/services",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news",
+      "url": "https://www.bouldergroup.com/news",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact.html",
+      "url": "https://www.bouldergroup.com/contact.html",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy.html",
+      "url": "https://www.bouldergroup.com/privacy.html",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/blog",
+      "url": "https://www.bouldergroup.com/blog",
+      "text": "Blog",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/faq",
+      "url": "https://www.bouldergroup.com/faq",
+      "text": "FAQS",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.facebook.com/tr?id=791387727605625&ev=PixelInitialized",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "body:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/img/boulder-group.jpg",
+      "alt": "Boulder Group",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/mcdonalds.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/walmart.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/chase.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/cvs.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/AAP.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/wags%20new.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/Davita.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/FedEx.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/Olive%20Garden.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/DG.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bouldergroup.com/media/CHILIS.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+      "broken": false
+    },
+    {
+      "src": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072733700/?value=0&guid=ON&script=0",
+      "alt": "",
+      "width": "1",
+      "height": "1",
+      "loading": null,
+      "selector": "body:nth-of-type(1) > noscript:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#email",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(7)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    },
+    {
+      "selector": "#email",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    },
+    {
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > form:nth-of-type(1) > input:nth-of-type(7)",
+      "name": null,
+      "type": "submit",
+      "label": ""
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ProfessionalService\",\n  \"@id\": \"https://www.bouldergroup.com/#organization\",\n  \"name\": \"The Boulder Group\",\n  \"alternateName\": \"Boulder Group\",\n  \"url\": \"https://www.bouldergroup.com/\",\n  \"logo\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.bouldergroup.com/img/boulder-group.jpg\"\n  },\n  \"description\": \"The Boulder Group is a boutique commercial real estate advisory firm specializing exclusively in single-tenant net lease (NNN) properties. Founded in 1997, the firm has completed over $11 billion in transactions and ranks among the top national advisors on CoStar.\",\n  \"foundingDate\": \"1997\",\n  \"founder\": {\n    \"@id\": \"https://www.bouldergroup.com/team/randy-blankstein#person\"\n  },\n  \"employee\": [\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://www.bouldergroup.com/team/randy-blankstein#person\",\n      \"name\": \"Randy Blankstein\",\n      \"url\": \"https://www.bouldergroup.com/team/randy-blankstein\"\n    },\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://www.bouldergroup.com/team/jimmy-goodman#person\",\n      \"name\": \"Jimmy Goodman\",\n      \"url\": \"https://www.bouldergroup.com/team/jimmy-goodman\"\n    },\n    {\n      \"@type\": \"Person\",\n      \"@id\": \"https://www.bouldergroup.com/team/john-feeney#person\",\n      \"name\": \"John Feeney\",\n      \"url\": \"https://www.bouldergroup.com/team/john-feeney\"\n    }\n  ],\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"addressLocality\": \"Wilmette\",\n    \"addressRegion\": \"IL\",\n    \"addressCountry\": \"US\"\n  },\n  \"telephone\": \"+1-847-562-8500\",\n  \"email\": \"info@bouldergroup.com\",\n  \"knowsAbout\": [\n    \"Single-Tenant Net Lease Properties\",\n    \"NNN Properties\",\n    \"Triple Net Lease Investments\",\n    \"1031 Exchange Properties\",\n    \"Cap Rate Research\",\n    \"Commercial Real Estate Brokerage\"\n  ],\n  \"sameAs\": [\n    \"https://www.linkedin.com/company/the-boulder-group\"\n  ]\n}\n",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "@id": "https://www.bouldergroup.com/#organization",
+        "name": "The Boulder Group",
+        "alternateName": "Boulder Group",
+        "url": "https://www.bouldergroup.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.bouldergroup.com/img/boulder-group.jpg"
+        },
+        "description": "The Boulder Group is a boutique commercial real estate advisory firm specializing exclusively in single-tenant net lease (NNN) properties. Founded in 1997, the firm has completed over $11 billion in transactions and ranks among the top national advisors on CoStar.",
+        "foundingDate": "1997",
+        "founder": {
+          "@id": "https://www.bouldergroup.com/team/randy-blankstein#person"
+        },
+        "employee": [
+          {
+            "@type": "Person",
+            "@id": "https://www.bouldergroup.com/team/randy-blankstein#person",
+            "name": "Randy Blankstein",
+            "url": "https://www.bouldergroup.com/team/randy-blankstein"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.bouldergroup.com/team/jimmy-goodman#person",
+            "name": "Jimmy Goodman",
+            "url": "https://www.bouldergroup.com/team/jimmy-goodman"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.bouldergroup.com/team/john-feeney#person",
+            "name": "John Feeney",
+            "url": "https://www.bouldergroup.com/team/john-feeney"
+          }
+        ],
+        "areaServed": {
+          "@type": "Country",
+          "name": "United States"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Wilmette",
+          "addressRegion": "IL",
+          "addressCountry": "US"
+        },
+        "telephone": "+1-847-562-8500",
+        "email": "info@bouldergroup.com",
+        "knowsAbout": [
+          "Single-Tenant Net Lease Properties",
+          "NNN Properties",
+          "Triple Net Lease Investments",
+          "1031 Exchange Properties",
+          "Cap Rate Research",
+          "Commercial Real Estate Brokerage"
+        ],
+        "sameAs": [
+          "https://www.linkedin.com/company/the-boulder-group"
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 0,
+    "main": 1,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "About Us The Boulder Group is a boutique investment real estate service firm specializing in single tenant net lease properties. The firm provides a full range of brokerage, advisory, and financing services nationwide to a substantial and diversified client base, which includes high net worth individuals, developers, REITs, partnerships and institutional investment funds. Founded in 1997, the firm has arranged the acquisition and disposition of over $11 billion of single tenant net lease real estate transactions. From 2015-2025, the firm was ranked in the top 10 companies in the nation for single tenant retail transactions by both CoStar and MSCI Real Capital Analytics. The Boulder Group is headquartered in suburban Chicago and has an office in Denver.",
+  "text_length": 762,
+  "iframes": [],
+  "script_sources": [
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+    "https://www.bouldergroup.com/js/scripts.backstretch.js",
+    "https://www.bouldergroup.com/js/scripts-2.js",
+    "https://www.googleadservices.com/pagead/conversion.js",
+    "https://img1.wsimg.com/traffic-assets/js/tccl.min.js"
+  ],
+  "stylesheets": [
+    "https://www.bouldergroup.com/css/styles.css?v=1789732481"
+  ],
+  "hreflang": []
+}

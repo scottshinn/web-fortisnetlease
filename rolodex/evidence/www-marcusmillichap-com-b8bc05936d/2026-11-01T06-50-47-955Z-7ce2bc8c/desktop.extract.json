@@ -1,0 +1,130 @@
+{
+  "url": "https://www.marcusmillichap.com/",
+  "base_url": "https://www.marcusmillichap.com/",
+  "title": "Service unavailable",
+  "title_count": 1,
+  "lang": "",
+  "meta": {},
+  "canonicals": [],
+  "headings": [
+    {
+      "level": 2,
+      "text": "The request is blocked.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "The request is blocked. 20261101T065049Z-r1d697fd88bpsxp9hC1MAAkeqn00000005sg000000000xgs",
+  "text_length": 89,
+  "iframes": [],
+  "script_sources": [],
+  "stylesheets": [],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "scroll_width": 1440,
+    "overflowing": [],
+    "css_variables": {},
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "The request is blocked. 20261101T065049Z-r1d697fd88bpsxp9hC1MAAkeqn00000005sg000000000xgs",
+        "rect": {
+          "x": 40,
+          "y": 34,
+          "width": 1392,
+          "height": 76
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Arial",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "8px",
+          "margin-bottom": "8px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "The request is blocked.",
+        "rect": {
+          "x": 40,
+          "y": 34,
+          "width": 1392,
+          "height": 23
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Arial",
+          "font-size": "20px",
+          "font-weight": "400",
+          "line-height": "normal",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "34px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [],
+    "controls": []
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 77.5,
+      "dom_content_loaded_ms": 517.3000000119209,
+      "load_ms": 518.5
+    },
+    "resources": [],
+    "observations": {
+      "lcp_ms": 560,
+      "layout_shifts": [],
+      "long_tasks": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://horvathtremblay.com/",
+  "headers": {
+    "cache-control": "max-age=600, must-revalidate",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://horvathtremblay.com/wp-json/>; rel=\"https://api.w.org/\", <https://horvathtremblay.com/wp-json/wp/v2/pages/12801>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://horvathtremblay.com/>; rel=shortlink",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding, Accept-Encoding,Cookie",
+    "x-powered-by": "WP Engine"
+  },
+  "redirects": [
+    {
+      "url": "https://www.horvathtremblay.com/",
+      "status": 301
+    },
+    {
+      "url": "https://horvathtremblay.com/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "6e8f4310558e91ef769023b2b1ad9914c6a295d0efc7a5bee5507c81c8d66858",
+  "body_bytes": 1305410
+}

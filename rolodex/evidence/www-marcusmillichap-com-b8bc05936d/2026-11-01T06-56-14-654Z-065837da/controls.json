@@ -1,0 +1,45 @@
+[
+  {
+    "kind": "robots",
+    "url": "https://www.marcusmillichap.com/robots.txt",
+    "final_url": "https://www.marcusmillichap.com/robots.txt",
+    "status": 403,
+    "headers": {
+      "content-type": "text/html",
+      "content-length": "1484",
+      "cache-control": "no-store"
+    },
+    "path": "robots.txt",
+    "text": "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>\n<html xmlns='http://www.w3.org/1999/xhtml'>\n\n<head>\n    <meta content='text/html; charset=utf-8' http-equiv='content-type' />\n    <style type='text/css'>\n        body {\n            font-family: Arial;\n            margin-left: 40px;\n        }\n\n        img {\n            border: 0 none;\n        }\n\n        #content {\n            margin-left: auto;\n            margin-right: auto\n        }\n\n        #message h1 {\n            font-size: 24px;\n            font-weight: normal;\n            color: #000000;\n            margin: 34px 0px 0px 0px\n        }\n\n        #message h2 {\n            font-size: 20px;\n            font-weight: normal;\n            color: #000000;\n            margin: 34px 0px 0px 0px\n        }\n\n        #message p {\n            font-size: 16px;\n            color: #000000;\n            margin: 8px 0px 0px 0px\n        }\n\n        #message hr {\n            margin: 15px 0px\n        }\n\n        #errorref {\n            font-size: 11px;\n            color: #737373;\n            margin-top: 41px\n        }\n    </style>\n    <title>Service unavailable</title>\n</head>\n\n<body>\n    <div id='content'>\n        <div id='message'>\n            <h2>The request is blocked.</h2>\n        </div>\n        <div id='errorref'>\n            <span>20261101T065634Z-154f598c959hdjpshC1BOMmfhw00000004qg000000009qm7            </span>\n        </div>\n    </div>\n</body>\n</html>\n",
+    "looks_html": true
+  },
+  {
+    "kind": "sitemap",
+    "url": "https://www.marcusmillichap.com/sitemap.xml",
+    "final_url": "https://www.marcusmillichap.com/sitemap.xml",
+    "status": 403,
+    "headers": {
+      "content-type": "text/html",
+      "content-length": "1484",
+      "cache-control": "no-store"
+    },
+    "path": "sitemap-1.xml",
+    "text": "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>\n<html xmlns='http://www.w3.org/1999/xhtml'>\n\n<head>\n    <meta content='text/html; charset=utf-8' http-equiv='content-type' />\n    <style type='text/css'>\n        body {\n            font-family: Arial;\n            margin-left: 40px;\n        }\n\n        img {\n            border: 0 none;\n        }\n\n        #content {\n            margin-left: auto;\n            margin-right: auto\n        }\n\n        #message h1 {\n            font-size: 24px;\n            font-weight: normal;\n            color: #000000;\n            margin: 34px 0px 0px 0px\n        }\n\n        #message h2 {\n            font-size: 20px;\n            font-weight: normal;\n            color: #000000;\n            margin: 34px 0px 0px 0px\n        }\n\n        #message p {\n            font-size: 16px;\n            color: #000000;\n            margin: 8px 0px 0px 0px\n        }\n\n        #message hr {\n            margin: 15px 0px\n        }\n\n        #errorref {\n            font-size: 11px;\n            color: #737373;\n            margin-top: 41px\n        }\n    </style>\n    <title>Service unavailable</title>\n</head>\n\n<body>\n    <div id='content'>\n        <div id='message'>\n            <h2>The request is blocked.</h2>\n        </div>\n        <div id='errorref'>\n            <span>20261101T065634Z-154f598c959hcmj7hC1BOMncug00000004ug0000000045hz            </span>\n        </div>\n    </div>\n</body>\n</html>\n",
+    "looks_html": true
+  },
+  {
+    "kind": "llms",
+    "url": "https://www.marcusmillichap.com/llms.txt",
+    "final_url": "https://www.marcusmillichap.com/llms.txt",
+    "status": 403,
+    "headers": {
+      "content-type": "text/html",
+      "content-length": "1484",
+      "cache-control": "no-store"
+    },
+    "path": "llms.txt",
+    "text": "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>\n<html xmlns='http://www.w3.org/1999/xhtml'>\n\n<head>\n    <meta content='text/html; charset=utf-8' http-equiv='content-type' />\n    <style type='text/css'>\n        body {\n            font-family: Arial;\n            margin-left: 40px;\n        }\n\n        img {\n            border: 0 none;\n        }\n\n        #content {\n            margin-left: auto;\n            margin-right: auto\n        }\n\n        #message h1 {\n            font-size: 24px;\n            font-weight: normal;\n            color: #000000;\n            margin: 34px 0px 0px 0px\n        }\n\n        #message h2 {\n            font-size: 20px;\n            font-weight: normal;\n            color: #000000;\n            margin: 34px 0px 0px 0px\n        }\n\n        #message p {\n            font-size: 16px;\n            color: #000000;\n            margin: 8px 0px 0px 0px\n        }\n\n        #message hr {\n            margin: 15px 0px\n        }\n\n        #errorref {\n            font-size: 11px;\n            color: #737373;\n            margin-top: 41px\n        }\n    </style>\n    <title>Service unavailable</title>\n</head>\n\n<body>\n    <div id='content'>\n        <div id='message'>\n            <h2>The request is blocked.</h2>\n        </div>\n        <div id='errorref'>\n            <span>20261101T065635Z-154f598c959bzq97hC1BOM3m2c0000000cw0000000004crf            </span>\n        </div>\n    </div>\n</body>\n</html>\n",
+    "looks_html": true,
+    "markdown_links": []
+  }
+]

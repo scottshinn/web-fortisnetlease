@@ -1,0 +1,34 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "32737",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/42831>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=42831>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/recently-closed/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/recently-closed/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/real-estate-investment-sales",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/real-estate-investment-sales/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "17bbd43fc0cbfaba25027c97569bd2837f467ba6847ff67219cc0c9c0679e926",
+  "body_bytes": 370494
+}

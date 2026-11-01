@@ -1,0 +1,948 @@
+{
+  "schema_version": 1,
+  "capture_id": "2026-11-01T06-52-47-413Z-d9a246ec",
+  "site_id": "www-crexi-com-01745a43cd",
+  "requested_url": "https://www.crexi.com/",
+  "final_url": "https://www.crexi.com/",
+  "captured_at": "2026-11-01T06:52:56.766Z",
+  "environment": {
+    "browser": "151.0.7922.34",
+    "playwright": "1.62.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
+    "locale": "en-US",
+    "timezone": "UTC",
+    "reduced_motion": "reduce",
+    "anonymous": true,
+    "device_emulation": "Viewport resizing only; no mobile user agent or touch emulation.",
+    "measurement": "Unthrottled local lab run."
+  },
+  "http": {
+    "status": 403,
+    "url": "https://www.crexi.com/",
+    "headers": {
+      "content-encoding": "gzip",
+      "content-type": "text/html; charset=UTF-8",
+      "server": "cloudflare"
+    },
+    "redirects": [
+      {
+        "url": "https://www.crexi.com/",
+        "status": 307
+      },
+      {
+        "url": "https://www.crexi.com/",
+        "status": 403
+      }
+    ],
+    "charset": "UTF-8",
+    "body_sha256": "c9b6dd3047150b5ce59822131d48ecf7bcbffc6bb57127a76fe1b243d681d44e",
+    "body_bytes": 6289
+  },
+  "raw": {
+    "url": "https://www.crexi.com/",
+    "base_url": "https://www.crexi.com/",
+    "title": "Just a moment...",
+    "title_count": 1,
+    "lang": "en-US",
+    "meta": {
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "viewport": [
+        "width=device-width,initial-scale=1"
+      ]
+    },
+    "canonicals": [],
+    "headings": [],
+    "links": [],
+    "images": [],
+    "inputs": [],
+    "jsonld": [],
+    "microdata": [],
+    "rdfa": [],
+    "landmarks": {
+      "header": 0,
+      "nav": 0,
+      "main": 0,
+      "article": 0,
+      "section": 0,
+      "aside": 0,
+      "footer": 0
+    },
+    "text": "",
+    "text_length": 0,
+    "iframes": [],
+    "script_sources": [],
+    "stylesheets": [],
+    "hreflang": []
+  },
+  "views": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raw": {
+        "url": "https://www.crexi.com/",
+        "base_url": "https://www.crexi.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.crexi.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.crexi.com/",
+            "status": 307
+          },
+          {
+            "url": "https://www.crexi.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "c9b6dd3047150b5ce59822131d48ecf7bcbffc6bb57127a76fe1b243d681d44e",
+        "body_bytes": 6289
+      },
+      "dom": {
+        "url": "https://www.crexi.com/",
+        "base_url": "https://www.crexi.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-us",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [
+          {
+            "level": 1,
+            "text": "www.crexi.com",
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Performing security verification",
+            "selector": "#izjb4",
+            "visible": true
+          },
+          {
+            "level": 2,
+            "text": "Verification successful. Waiting for www.crexi.com to respond",
+            "selector": "#HUrAm0",
+            "visible": false
+          }
+        ],
+        "links": [
+          {
+            "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+            "url": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+            "text": "Cloudflare",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true
+          },
+          {
+            "href": "https://www.cloudflare.com/privacypolicy/",
+            "url": "https://www.cloudflare.com/privacypolicy/",
+            "text": "Privacy",
+            "rel": "noopener noreferrer",
+            "internal": false,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.crexi.com/favicon.ico",
+            "alt": "Icon for www.crexi.com",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "broken": false
+          }
+        ],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "www.crexi.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for www.crexi.com to respondRay ID: a538fa9328e1ac93Performance and Security by CloudflarePrivacy",
+        "text_length": 315,
+        "iframes": [],
+        "script_sources": [
+          "https://www.crexi.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fa9328e1ac93",
+          "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "scroll_width": 1440,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "www.crexi.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 1000
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "tag": "h1",
+              "text": "www.crexi.com",
+              "rect": {
+                "x": 328,
+                "y": 128,
+                "width": 271.375,
+                "height": 50
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "40px",
+                "font-weight": "600",
+                "line-height": "50px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#izjb4",
+              "tag": "h2",
+              "text": "Performing security verification",
+              "rect": {
+                "x": 272,
+                "y": 186,
+                "width": 896,
+                "height": 30
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "24px",
+                "font-weight": "600",
+                "line-height": "30px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "8px",
+                "margin-bottom": "8px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "#rrKi4",
+              "tag": "p",
+              "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+              "rect": {
+                "x": 272,
+                "y": 224,
+                "width": 896,
+                "height": 48
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "24px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "32px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Cloudflare",
+              "rect": {
+                "x": 742.578125,
+                "y": 966,
+                "width": 54.453125,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "inline-block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "text": "Privacy",
+              "rect": {
+                "x": 815.03125,
+                "y": 966,
+                "width": 37.015625,
+                "height": 18
+              },
+              "styles": {
+                "color": "rgb(0, 0, 238)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "12px",
+                "font-weight": "400",
+                "line-height": "18px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "block",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": [
+            {
+              "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Cloudflare, opens in a new tab",
+              "width": 54.453125,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            },
+            {
+              "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "tag": "a",
+              "role": null,
+              "name": "Privacy, opens in a new tab",
+              "width": 37.015625,
+              "height": 18,
+              "tabindex": null,
+              "expanded": null
+            }
+          ]
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 133.21000000834465,
+            "dom_content_loaded_ms": 587.7600000202656,
+            "load_ms": 2011.2700000107288
+          },
+          "resources": [
+            {
+              "url": "https://www.crexi.com/cdn-cgi/speculation",
+              "type": "other",
+              "duration_ms": 198.24500000476837,
+              "transfer_bytes": 451,
+              "decoded_bytes": 151
+            },
+            {
+              "url": "https://www.crexi.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fa9328e1ac93",
+              "type": "script",
+              "duration_ms": 852.0549999773502,
+              "transfer_bytes": 185670,
+              "decoded_bytes": 585504
+            },
+            {
+              "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+              "type": "script",
+              "duration_ms": 475.0849999785423,
+              "transfer_bytes": 28340,
+              "decoded_bytes": 86732
+            },
+            {
+              "url": "https://www.crexi.com/favicon.ico",
+              "type": "img",
+              "duration_ms": 105.81499999761581,
+              "transfer_bytes": 948,
+              "decoded_bytes": 16958
+            }
+          ],
+          "observations": {
+            "lcp_ms": 1668.7100000083447,
+            "layout_shifts": [],
+            "long_tasks": [
+              {
+                "time": 1443.4750000238419,
+                "duration_ms": 65
+              },
+              {
+                "time": 1509.2300000190735,
+                "duration_ms": 124
+              }
+            ]
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "desktop.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "tablet",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "raw": {
+        "url": "https://www.crexi.com/",
+        "base_url": "https://www.crexi.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.crexi.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.crexi.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "ce55457ff1607431bcb4e1922e7156fc5bfd4e0fa3e2502c4d56af8bb9c7238d",
+        "body_bytes": 6289
+      },
+      "dom": {
+        "url": "https://www.crexi.com/?__cf_chl_rt_tk=txqBelI0CiSAZWOTFn4NOsH8Z9qxhBwNbct.qBJAbz4-1793515970-1.0.1.1-Bciis8UsCJCL.BR1VjXVJ2FyWIuqPjFChDatmdyjSNM",
+        "base_url": "https://www.crexi.com/?__cf_chl_rt_tk=txqBelI0CiSAZWOTFn4NOsH8Z9qxhBwNbct.qBJAbz4-1793515970-1.0.1.1-Bciis8UsCJCL.BR1VjXVJ2FyWIuqPjFChDatmdyjSNM",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [
+          "https://www.crexi.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fa9f6a0c7efe"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "scroll_width": 768,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'Am3ITB3X_8aVIDwh2tU8XpcRg2PU",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 768,
+                "height": 1024
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 367.40000000596046,
+            "dom_content_loaded_ms": 541.2000000178814,
+            "load_ms": 0
+          },
+          "resources": [
+            {
+              "url": "https://www.crexi.com/cdn-cgi/speculation",
+              "type": "other",
+              "duration_ms": 238.00499999523163,
+              "transfer_bytes": 451,
+              "decoded_bytes": 151
+            }
+          ],
+          "observations": {
+            "lcp_ms": null,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "tablet.png",
+      "full_page": true,
+      "section_screenshots": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raw": {
+        "url": "https://www.crexi.com/",
+        "base_url": "https://www.crexi.com/",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [],
+        "stylesheets": [],
+        "hreflang": []
+      },
+      "http": {
+        "status": 403,
+        "url": "https://www.crexi.com/",
+        "headers": {
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=UTF-8",
+          "server": "cloudflare"
+        },
+        "redirects": [
+          {
+            "url": "https://www.crexi.com/",
+            "status": 403
+          }
+        ],
+        "charset": "UTF-8",
+        "body_sha256": "ed91ebf8b34842938d1378be0cc93fe60b97cffec773ac38217fedc7821c9ce5",
+        "body_bytes": 6289
+      },
+      "dom": {
+        "url": "https://www.crexi.com/?__cf_chl_rt_tk=wjQG5CQijdlaTXx9uIKQs.23yalnY2CYn3ThXTnQppc-1793515972-1.0.1.1-YJMdI7uDAKGivnY_gH9IFK3MDdxefwDEYMOdixtDzKI",
+        "base_url": "https://www.crexi.com/?__cf_chl_rt_tk=wjQG5CQijdlaTXx9uIKQs.23yalnY2CYn3ThXTnQppc-1793515972-1.0.1.1-YJMdI7uDAKGivnY_gH9IFK3MDdxefwDEYMOdixtDzKI",
+        "title": "Just a moment...",
+        "title_count": 1,
+        "lang": "en-US",
+        "meta": {
+          "robots": [
+            "noindex,nofollow"
+          ],
+          "viewport": [
+            "width=device-width,initial-scale=1"
+          ]
+        },
+        "canonicals": [],
+        "headings": [],
+        "links": [],
+        "images": [],
+        "inputs": [],
+        "jsonld": [],
+        "microdata": [],
+        "rdfa": [],
+        "landmarks": {
+          "header": 0,
+          "nav": 0,
+          "main": 0,
+          "article": 0,
+          "section": 0,
+          "aside": 0,
+          "footer": 0
+        },
+        "text": "",
+        "text_length": 0,
+        "iframes": [],
+        "script_sources": [
+          "https://www.crexi.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a538faadbd467efe"
+        ],
+        "stylesheets": [],
+        "hreflang": [],
+        "visual": {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "scroll_width": 390,
+          "overflowing": [],
+          "css_variables": {},
+          "samples": [
+            {
+              "selector": "body:nth-of-type(1)",
+              "tag": "body",
+              "text": "<div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'I4CnlQNdr6DQaqLKlS2VtI9U5JE3",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 844
+              },
+              "styles": {
+                "color": "rgb(49, 49, 49)",
+                "background-color": "rgba(0, 0, 0, 0)",
+                "font-family": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "font-size": "16px",
+                "font-weight": "400",
+                "line-height": "18.4px",
+                "letter-spacing": "normal",
+                "padding-top": "0px",
+                "padding-right": "0px",
+                "padding-bottom": "0px",
+                "padding-left": "0px",
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "gap": "normal",
+                "border-radius": "0px",
+                "box-shadow": "none",
+                "max-width": "none",
+                "display": "flex",
+                "grid-template-columns": "none",
+                "transition-duration": "0s"
+              }
+            }
+          ],
+          "sections": [],
+          "controls": []
+        },
+        "performance": {
+          "navigation": {
+            "ttfb_ms": 114.83499997854233,
+            "dom_content_loaded_ms": 360.7000000178814,
+            "load_ms": 0
+          },
+          "resources": [
+            {
+              "url": "https://www.crexi.com/cdn-cgi/speculation",
+              "type": "other",
+              "duration_ms": 118.23499998450279,
+              "transfer_bytes": 451,
+              "decoded_bytes": 151
+            }
+          ],
+          "observations": {
+            "lcp_ms": null,
+            "layout_shifts": [],
+            "long_tasks": []
+          }
+        }
+      },
+      "readiness": {
+        "selector": null,
+        "selector_matched": null,
+        "fonts_ready": true,
+        "scroll_steps": 1,
+        "settle_ms": 1500
+      },
+      "screenshot": "mobile.png",
+      "full_page": true,
+      "section_screenshots": []
+    }
+  ],
+  "controls": [
+    {
+      "kind": "robots",
+      "url": "https://www.crexi.com/robots.txt",
+      "final_url": "https://www.crexi.com/robots.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "gzip"
+      },
+      "path": "robots.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-9XW8cuNy2nv8R33u5jGNI5&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"9XW8cuNy2nv8R33u5jGNI5\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'NGSOezLYxKOAXuMWXFsda5Uq30jf8WHYVnbCC7d5yG8-1793515975-1.2.1.1-soqV4dHQvc0ew8xIcernDBdQVS_x93NWBmEGtqtK66NyCWvz1RpiWMJQ3kZC6hV6',cITimeS: '1793515975',cN: '9XW8cuNy2nv8R33u5jGNI5',cRay: 'a538fabf8e6d60b0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=iC04aY3AhtJnT8uMc97yU5a6576xoLbJYmVi6G2TLV4-1793515975-1.0.1.1-nceYvx573ZEF5cPd4Zq4sDZQ58lMY_a2ethxtUtF0do\",cvId: '3',cZone: 'www.crexi.com',fa:\"/robots.txt?__cf_chl_f_tk=iC04aY3AhtJnT8uMc97yU5a6576xoLbJYmVi6G2TLV4-1793515975-1.0.1.1-nceYvx573ZEF5cPd4Zq4sDZQ58lMY_a2ethxtUtF0do\",md: 'KuT51PVgs2hUkiqz_CUb6UnrhM.sZQR5GuXBpwikrpg-1793515975-1.2.1.1-yNaI.iWAe.lmlvyVPFG602bvGLX4S.MJzxl3i7uY17gG3p5PeqMyGafWniuHJtK2oEbrystH7dcHzfrYYtrcip.Iv.jUZB6xy9jfkw5oTgA1LfrueaahKuc0CiWKLQuW.WCeNBTI4iVEX8BNXDKILHvjWI9TOJA335Ml_cya9kNbVXV7fAZUTSdo6mKQj5F4Pi.uchgadt6uolfA1pjqAU4sX1NEjTdf4bU16255ZOQTKrQU1mDbOmw0DY3HdFTPhY9WreanB3TzHJAVtzKc1Aq8Dgi1Mgwys3iqDhd5otfNpB.8i086DctjzzRG52KG8V0q5XZBZIIlbdoetia4v8Mog2Kj_W994d2IXf6OEQ.8WzjCRHUcR9HBtJ10WhSdMuzSYT1I4n28jY0SjmWHircAjCcZ5xs0dAzS305uMnNivU6dFjvx6SuMLhKKZvHk7zcWOP0ov88xPe_k4ebw2p6_Kge8EiA2qLvK637LAk0tU38nPUL6njHp0Qhk4CodNi5g5Nq2jUGfiLrxdf1oy9hvT7s50wGBwbYosfUlTshTrLFJVM_X6yl0nXW1j9_QzSvVVelw_SyLwE.8bOmVTCbRaV8CBzAvzwlNG5enZ8Hql3aXr_D1QCVdALUzqL.smPHqwPl0qa1QhcUnJS1SvLN_FXn9MlPKeuuxCUTmx6bu_5mpGDmxZuwkraRUNmq8gVWGv1WFze7_.68jP6K94mahjEc3Kz7rQJhSGg6bokX0TVZV7ewHuiho7Xw4GFYGkdz5plWMw.gCIq4n.3KKX0wKTgLmdjZrsJfgJmd_dOfYT_I2knrAmDaKc4_VKRJvpwCgMb9.Bkqw9Tf_SfGi9QtBKD6ghLC1lGPLuu8PdZXEO47xOjV6.ZE0TqzS0nyQFF0hGIHGQARSXd2xO.yvhm1ncJ0tiE7WVx9xA540NQb5cCIksz_N9RrVPZYNyhnJywdONYXsG3I5FUGQacSIBBoL_I9PFRGboP25Bm3eiu8UN7QbHCV2zD6U1N.RPNfkT49G6246JsNs5U85o_I8tngZB0NfaQmv2CXLfU_ga0KRBbStGJgS42mDfhZKY5svkHXecXisUtSXV4MvqI53r9e5ZGsk0Xysme.2kyLzYDmLnM8WcJq5qeSyMvuQxwmc8KozTC7sQlu49yo.xrR3ME2ZnyNfOaCQxV7QdthelcoOw8jjh0kDORJVvEgX9Vdroez_cajNKG66aACFL80jV.M8wj3NPjKaOPe.nPcxmXkL4Nvvm8mYwW_0KNvyBHRTco8h259x8WLcVykNM5s_p1NNQonCaC0qAk9tyVh0kJBu0kNfm5gj5tpTfKxdFb6L4wKfcoJQ0Hp_Xqrt3G.7Xg',mdrd: 'EYXW.dcZzG5_l00sQTJH_Tuoa_EtLcjIJIGLGf1P9iA-1793515975-1.2.1.1-KmHrzUqrf30OnO2KjsUT0.VX_HPpyVwltbbB.9N2CybKiRV3e6SsWuKd8Wkm1vmD5sjsjegj0vQYvXUMxbGmIn1NV_2TSzjJO8vVygmEfETGt3oQVmSoiDRNCRjfiE8wrOkyqz2s29E67iAtjpXMr.DNVkGJTEazknulHj9Oclama_t6WnHl7DAhymUp0GHsecWgI3.EsbJGLEg2ooucJ8W.psEHG.J1ugH.1CI.6wca46n4BS4kBaI0GXcAaUL3U73qzq4sOaAkMQF1yryJqaLIRFmcn6Z5tJqo2gjYftE8WkJgSKk7ARVvacCVtCbmv3QaIlX_eGJRDPfVXjFXkh4BYWS67FNy3e9UyNaOlBNzijUK.vA6AaGFridfwK9h',};var a = document.createElement('script');a.nonce = '9XW8cuNy2nv8R33u5jGNI5';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fabf8e6d60b0';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=iC04aY3AhtJnT8uMc97yU5a6576xoLbJYmVi6G2TLV4-1793515975-1.0.1.1-nceYvx573ZEF5cPd4Zq4sDZQ58lMY_a2ethxtUtF0do\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "sitemap",
+      "url": "https://www.crexi.com/sitemap.xml",
+      "final_url": "https://www.crexi.com/sitemap.xml",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "gzip"
+      },
+      "path": "sitemap-1.xml",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-ZSx6STVufhJiSOwu8peGJE&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"ZSx6STVufhJiSOwu8peGJE\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'HpWkYtXHwwFP66bhABqGJ.7W1GRS6GYBY_Gg_ZzU8p8-1793515975-1.2.1.1-hxrWbC3xorgicxYG0S_6WXTEB9ss_4O7UwDIh6RlY1axsBYektCsxeJ38x2bqHiA',cITimeS: '1793515975',cN: 'ZSx6STVufhJiSOwu8peGJE',cRay: 'a538fac159d425d6',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/sitemap.xml?__cf_chl_tk=iwocPriVGUrmGS4bqZ7Hh1oAP2d4rPXY4QZVvqde9kA-1793515975-1.0.1.1-_xRTj_X1xz6XJFe5j_D10ndgFUhunGCkZk93n_Ekrtc\",cvId: '3',cZone: 'www.crexi.com',fa:\"/sitemap.xml?__cf_chl_f_tk=iwocPriVGUrmGS4bqZ7Hh1oAP2d4rPXY4QZVvqde9kA-1793515975-1.0.1.1-_xRTj_X1xz6XJFe5j_D10ndgFUhunGCkZk93n_Ekrtc\",md: '6piQDtmlFC7dtCTka.9drSApRMaNZrNoIzrO_RmrrZ8-1793515975-1.2.1.1-nIz4Tyn6C9f1RIk1MDq88Ixg1sDFjlRnqb3nzaKGj.cjKMVQ_hk0rVHs1wlNfnDePOD15kUk9uNDWiFyqLLp31bXRznsvs8qI2TG0e17aDEhpELyCBOElvcyN4VzzxFxcjvWYp3fwpSDkWPvLkemwvXl.MzlvcvAjwvgg829xPQhcKpz6hju68kBCoPdNpLDFfiMYebwD22BydBmjNqTEi80T7rEqadnUnVFNfTCReq.wnyLgetsRyYfW5G1zWMmxiaX9srAMcmUjvuMZjWUvkClamWvDjVnJCoBUXKpa712ib8EQmBHRcA584gSBBsPJcVr87kYjl_Aso2bAGydV8GAlT_Qbx92tZjSr9eZcGyW4Njv4i9PCK2hESPudZLCkjEutt0.CbvmEcS13Odf8BEmr4ebJBnbs0TVF.E42dW5iELHyj7kNAfrPJcMXLGTKNxhHHnSDLoxqoCvUhPwKNmZRj3eBWBBFKGl3QfEt5NJgGOZsb5JxRa3eCsO7CPaQzJm053eiFJrw8J3H_w82444EXOcBB2ycH6VBEfJmX1miuI3d0Sw8o_weLLRvnx8HYRPmtm6V2VSShjonbw7rUxusQyY4i.NQmQ4vWMwKylnNlGotkbMmNqExHmzuu.4zh2OVRvUG7iDuoni_qaFts.Zpvux1Cb8iJFmi0sNwkKlq0tQ7lo9QznSEMdN.yYZDcSV7fE_VgihyNbqqwunYKrD0qjWk2kCNDfkrWytt3kNqDALm4ygdqpIg32PkliRYIX1AsMg58ar1PyvDu1UqdM0J.0RHDOBE2MpFIMjW7Tl9cvRMp3qA3kYC32vVAdHl_JtxeK2YxXcV..cqVfqze_8MlCkXPMmQJZf15UjyVFnahss4WqY6TIZ3k9asba.5p_vTrY.XaU2AOYx6tV_6Bdz6xOe8ZTbNGi7pNh_wnbFFsBtptcIAIQ8dBfbUNQ3TbDkQyMqLwjAtKHnlpf6PTfu2Op1BXPiJePQgmVu_dcs2f_RKfy61FQcWR9sau.f2MCMzOTG10ZI8druA2xnOCpDugm1LTso.ZZO7NJtiukQkE13v6QOn.ihqd2SMwB0wNu5p1pPSGCIByBdzy9UfXZV6dIqKT5zHVHK2vxa8bcR2OwSm3Dfek2XYQghl6fgJBPjkQ1jLqVYEszfotxGfIidBPoRVDgyb7OFJaISGfafwX43LFJ_9bqLCPeLl5TV98CJR3jLCpTutIGbBFZ_UNWgD4igS24KgE4cF3fK_71MwIsKaFOuXIPurKQk0eb4_Wudgi0nu0OE1xoRHRpQGZoXNgq7D6EP14Hh4Cia6RtC1Bhfd5.godqaRoogy__xtQ0txulpbfbqph4e2SN8uuf6rdxakmpkX0WVGb3F0LigxTXabZVHNor9.PPhuNkE',mdrd: 'A7_06MREtY4ty0uaQOydoAk3gqe0eBReIEd7RYpxKVg-1793515975-1.2.1.1-WVbsOO17adk43evGhOAWmhf6gvB0QeONhl_lazq7ouXWxjDLY4IyWvDwC2kXmeQh4lYMj0WHNwoa6RMj5zGeyMpjjAOssIgX..RXrYenNS0sUfhOXf_zu1rpmOrhd4AkAHAiSUdUUagn9gZaOOTCEw_SsM7ypwIeqexup4vl6DAf1K4tVKsuZzduW2RSridbuHUBPZyMKInzs_5glea.EmMaRDTDfMUingkLeZ0sNrpOv7v2T5pn6c4LOQ3TX6u_xkC36WrXAkYUD44ZDl4W2wmFjiMt7ZeqP4UkmrA9QLFs6pWG_jrgbyzRIoKNK8Cmf72GZ73hCpmvVbxFsEN47XiG56OWS0KAa6udb4ufDK51aVNy_hyC3_bpwyuaIuV7',};var a = document.createElement('script');a.nonce = 'ZSx6STVufhJiSOwu8peGJE';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fac159d425d6';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/sitemap.xml?__cf_chl_rt_tk=iwocPriVGUrmGS4bqZ7Hh1oAP2d4rPXY4QZVvqde9kA-1793515975-1.0.1.1-_xRTj_X1xz6XJFe5j_D10ndgFUhunGCkZk93n_Ekrtc\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true
+    },
+    {
+      "kind": "llms",
+      "url": "https://www.crexi.com/llms.txt",
+      "final_url": "https://www.crexi.com/llms.txt",
+      "status": 403,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "content-encoding": "gzip"
+      },
+      "path": "llms.txt",
+      "text": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-FvErNIT1GRBLpH2OSgo1L5&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"FvErNIT1GRBLpH2OSgo1L5\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'AuBuWGiMbwllNZsRc.U4wQSNRQEDTxE2ar5MwJVcMrQ-1793515976-1.2.1.1-KPpuOmGaCEtJ7hQ.y5KklP2oU_cUyAX1kC6l1sncuCyZDY5DLZ3Hc2y_z5oAuCbO',cITimeS: '1793515976',cN: 'FvErNIT1GRBLpH2OSgo1L5',cRay: 'a538fac6aa141f33',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/llms.txt?__cf_chl_tk=Ax4A6bg4viL7Fipw8Jn14cc0MLTl0jdrTNqpgTyBzYw-1793515976-1.0.1.1-pfS6kk9QdyGPi.0bmLJBp1LX6ZvBouzKnul2eqR.bIQ\",cvId: '3',cZone: 'www.crexi.com',fa:\"/llms.txt?__cf_chl_f_tk=Ax4A6bg4viL7Fipw8Jn14cc0MLTl0jdrTNqpgTyBzYw-1793515976-1.0.1.1-pfS6kk9QdyGPi.0bmLJBp1LX6ZvBouzKnul2eqR.bIQ\",md: 'xRbt0jHma2Y7urpgFuoCGF8lJseZ.poPb.trl8WgMCY-1793515976-1.2.1.1-iPYWq9DO5pAR8OICVkfVyPUOsXzKcdMuyJA.ZlcIQRsuBl0mapPtT2oWvU6Iu_pVvYKSlOSwLkJ4xFP8kMewS4LnzI6UupdaWaxmMp7LpjafDyiB2XPi2BHnj14mS4MspF5W2fFVx1wVj9hGiNk0Rl1pk1AxaOvoWqEBjClPLYQ_.FinXI5zQMjTUmo.Ihqv4VRCAIDTEe__9iT7vJi5JkhUFdTcalmHJDCHvm1gW2pwsAnYQz1CZGzE5UC3AhPpKdV_yJtjz9iwLLXVmGx0otJvWtDpzaveKWBWIU_UDC7Wo4VZW1c_14NrvYwV3n4tpQiKwHQC010AEokdezNuvAf0m21yAtTq9kBIjEvxbqDBr5YeszOmDMrutWR57Yl13tM6gwigAMqan9.OOwO6j.RqBYeq7wr73vvjTXSeAHVnEuIWGE9Q3y.muHj8pI9vGqs70YANwsRs6Gh_x1QwJ5gB8Ikiu9pc4GKFHXnGrrqPmWSx4tqBEHBQnb7HwLRGmq4TA9BPiYNNVmOpoj.85Lye7NHQKY1pDbFKY7feGTInQqCy5KKbTO0MUPfU0GmtPHtdaaLUj5vUO1LVkccTH8rqf1yHKK.qZ82zx39gyIkejjc8vxvGtFlQ90q_pj.L0fp7cOtJcAroWIt5foumEx1Wd_14O771S7eFZL0qSKrgetYiIU_oaHKVzMoVMyYtkfFQ_jTYP_w7hng1.yL2DaFrJhljayvGwAOQULuc8m3aF.lyOq1thAZxpSgiIhZsgaaYQQXs7umZr3aGpa22SktXO4RPKz0XfspEmocE_8UyujovaskB11lWte5LLgZRxC8ICEx4137aDdI4DctnR4kiaRRB.zta8VT83VXSCM666tcNsoxzxf3a9z_mj84FjXd4U_hJfaD13DGlMms4nTrq_pZ17enSp6iq.vpUDHjauIpWVlmrrEwDZ1dcu0aZW99oxXskzWftQMX7DmfLCm85bRrOKuQOsLuMahY2Z3DcylZB9TVqXwrma0tQzomKEK_EsG4F1bHqclUF51ChTVbN5M5N_E5jv44IE4noYwfvqvNhuVcdRjYkTPDAeN0_ERJnoXUmngJ3EH0fQTCMFgWrsPTbXbwm3T8cvL48DIfKAs63cspm7zOW2hdu4AdzCCE3R3Lla4Fp8.mokKczePNSRLyBvi2lKJhG87zWcr_CsL4g65MH0.5yN2K02l2UkBk_nMjkfk4DgVAv6of3nvj8vMNrUNmkugua1z3M90XmpeK94aQLUEt44lTVeExrPSZiq3IQ4BKNhtlB2hoRy4oJh.f1UfYp_ynLAvmNWJmEI.buVnB.TVkeVCLSHE6u8fF8AYsU5KsPdugzDQZ4enpi8s61kbv6oGeGK65kqfzHnGpNA1s4hQT_chX6xcAx',mdrd: 'PuoTSEiRmJ.lTzFtt3Gp7CGxijmB5LDWKHxhs3sXQjY-1793515976-1.2.1.1-jtMxqmlGjEVQTtxpOYgwRJwXlnwiuX8lzgUPbGkTAMOpb_soSyuILcJS2aeZRYjcThHiu.x2EztZANHtC1KGBN7dPv73fUoXy82v1LKFGGo3n37JWqwfrPsiDkEQw.NApXsQD9ywgZC0tTqpF8_iDEgIYrMs603ESXzFHmIfxMY7SBaSGaWLPCQKXQzyxw8CyNrn.IpkZRYUwRXMdHtQcZFYuPfrIDYlDm5UydGilqRlWizZ9zIPDYdUtOAGIExyoAG_z3kqzHNZxomsFUnqwjjlSj7vCHyp9Tlf9UPryNfhN_fO6vWuuPaPyvjiMu0sZNA5o3XaF4Jym5_E3vYPFb2pGgfEy_Fv_xj_e0T4rw9o84G.RHXecqwWxRNMeh.8',};var a = document.createElement('script');a.nonce = 'FvErNIT1GRBLpH2OSgo1L5';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a538fac6aa141f33';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/llms.txt?__cf_chl_rt_tk=Ax4A6bg4viL7Fipw8Jn14cc0MLTl0jdrTNqpgTyBzYw-1793515976-1.0.1.1-pfS6kk9QdyGPi.0bmLJBp1LX6ZvBouzKnul2eqR.bIQ\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+      "looks_html": true,
+      "markdown_links": []
+    }
+  ],
+  "link_checks": [],
+  "errors": [],
+  "coverage": {
+    "sitemap_files": 1,
+    "sitemap_skipped": [],
+    "internal_links_discovered": 0,
+    "internal_links_checked": 0,
+    "page_limit": 1,
+    "closed_shadow_dom": "not inspected",
+    "iframes": "inventoried, not traversed",
+    "readiness": "bounded font/selector/scroll wait; dynamic content may remain incomplete"
+  },
+  "technology_hints": []
+}

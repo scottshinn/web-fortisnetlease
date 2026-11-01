@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "www-crexi-com-01745a43cd",
+  "origin": "https://www.crexi.com",
+  "created_at": "2026-11-01T06:52:56.959Z",
+  "updated_at": "2026-11-01T06:52:56.961Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-52-47-413Z-d9a246ec",
+      "url": "https://www.crexi.com/",
+      "captured_at": "2026-11-01T06:52:56.766Z",
+      "path": "evidence/www-crexi-com-01745a43cd/2026-11-01T06-52-47-413Z-d9a246ec/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "www-evercore-com-176229fa21",
+  "origin": "https://www.evercore.com",
+  "created_at": "2026-11-01T08:03:48.401Z",
+  "updated_at": "2026-11-01T08:05:53.349Z",
+  "classification": {
+    "industry": [
+      "financial-advisory",
+      "investment-banking"
+    ],
+    "style": [
+      "navy",
+      "premium",
+      "serif-wordmark",
+      "split-panels"
+    ],
+    "technology": [],
+    "components": [
+      "featured-transactions-carousel",
+      "insights-mosaic",
+      "split-stat-panel",
+      "values-list"
+    ]
+  },
+  "design_notes": [
+    {
+      "text": "50/50 split panels: copy on white, condensed oversized stats on deep navy with fine line texture. Calm and authoritative.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "'Featured Transactions' carousel: client logo, deal description, role and value - a model for a 'Recently Closed' tombstone (tenant logo, city/state, price, cap rate, rep side).",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Avoid: insight mosaic tiles rendered with low-contrast text over empty grey at capture.",
+      "basis": "observed",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T08-02-37-027Z-42c80417",
+      "url": "https://www.evercore.com/",
+      "captured_at": "2026-11-01T08:03:48.285Z",
+      "path": "evidence/www-evercore-com-176229fa21/2026-11-01T08-02-37-027Z-42c80417/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

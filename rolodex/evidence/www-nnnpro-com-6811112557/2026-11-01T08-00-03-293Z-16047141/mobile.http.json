@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "url": "https://nnnpro.com/",
+  "headers": {
+    "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "link": "</_next/static/media/05cffc9398c6102f-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/2ce5d399bdf857cc-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/5a1c382f4bc57f59-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/60770f030ae8d03d-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/867bce6efedfde96-s.p.ttf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/ttf\", </_next/static/media/9bfae2027d487aa4-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/a1698dd734563b87-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/c2f136c5d35066af-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/e04eb81b850baa46-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/e733cf371e499a20-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/ecda6e8319221c8c-s.p.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </img/logo.png>; rel=preload; as=\"image\"",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-powered-by": "Next.js"
+  },
+  "redirects": [
+    {
+      "url": "https://www.nnnpro.com/",
+      "status": 308
+    },
+    {
+      "url": "https://nnnpro.com/",
+      "status": 200
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "410ab97001b187428ed25fb6d56c1c36c3b5ecc2c019874f00996082a68e2a14",
+  "body_bytes": 21662
+}

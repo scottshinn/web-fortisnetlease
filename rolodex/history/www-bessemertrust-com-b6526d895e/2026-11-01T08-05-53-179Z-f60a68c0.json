@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "www-bessemertrust-com-b6526d895e",
+  "origin": "https://www.bessemertrust.com",
+  "created_at": "2026-11-01T06:52:36.954Z",
+  "updated_at": "2026-11-01T06:52:36.955Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-52-03-861Z-8d2156ee",
+      "url": "https://www.bessemertrust.com/",
+      "captured_at": "2026-11-01T06:52:36.862Z",
+      "path": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

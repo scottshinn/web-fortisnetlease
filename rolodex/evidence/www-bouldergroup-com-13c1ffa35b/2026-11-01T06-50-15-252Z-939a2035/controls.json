@@ -1,0 +1,48 @@
+[
+  {
+    "kind": "robots",
+    "url": "https://www.bouldergroup.com/robots.txt",
+    "final_url": "https://www.bouldergroup.com/robots.txt",
+    "status": 404,
+    "headers": {
+      "content-type": "text/html; charset=UTF-8",
+      "vary": "Accept-Encoding",
+      "server": "Sucuri/Cloudproxy",
+      "content-encoding": "br"
+    },
+    "path": "robots.txt",
+    "text": "404",
+    "looks_html": false
+  },
+  {
+    "kind": "sitemap",
+    "url": "https://www.bouldergroup.com/sitemap.xml",
+    "final_url": "https://www.bouldergroup.com/sitemap.xml",
+    "status": 404,
+    "headers": {
+      "content-type": "text/html; charset=UTF-8",
+      "vary": "Accept-Encoding",
+      "server": "Sucuri/Cloudproxy",
+      "content-encoding": "br"
+    },
+    "path": "sitemap-1.xml",
+    "text": "404",
+    "looks_html": false
+  },
+  {
+    "kind": "llms",
+    "url": "https://www.bouldergroup.com/llms.txt",
+    "final_url": "https://www.bouldergroup.com/llms.txt",
+    "status": 404,
+    "headers": {
+      "content-type": "text/html; charset=UTF-8",
+      "vary": "Accept-Encoding",
+      "server": "Sucuri/Cloudproxy",
+      "content-encoding": "br"
+    },
+    "path": "llms.txt",
+    "text": "404",
+    "looks_html": false,
+    "markdown_links": []
+  }
+]

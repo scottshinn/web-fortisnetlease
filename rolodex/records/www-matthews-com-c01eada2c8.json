@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "www-matthews-com-c01eada2c8",
+  "origin": "https://www.matthews.com",
+  "created_at": "2026-11-01T06:53:56.809Z",
+  "updated_at": "2026-11-01T08:05:53.593Z",
+  "classification": {
+    "industry": [
+      "commercial-real-estate",
+      "investment-sales",
+      "net-lease"
+    ],
+    "style": [
+      "bold-sans",
+      "dark",
+      "tech-forward"
+    ],
+    "technology": [],
+    "components": [
+      "market-ticker",
+      "newsletter-footer",
+      "podcast-feature",
+      "property-search-cta",
+      "research-feed",
+      "service-cards",
+      "stats-band"
+    ]
+  },
+  "design_notes": [
+    {
+      "text": "Dark navy full-bleed theme; hero has single 'Find Your Next Investment' dropdown CTA plus a live rates ticker (SOFR, 5yr/10yr Treasury) directly under the hero - a strong credibility/utility device for net lease investors.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "'National Reach. Local Expertise.' one-line proof stat (30+ offices | $88.37B in transactions) instead of a busy stat grid.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Market Intel block: one large featured report + three dated thumbnail rows; market reports per metro+asset type (e.g. 'Inland Empire Retail Q3') are a scalable SEO page type.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Avoid: large empty dark voids between sections and gimmicky outlined-letter hero type; reads tech-startup rather than trusted advisor.",
+      "basis": "inferred",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-49-26-972Z-78e3b570/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T06-53-42-455Z-38a78fe8",
+      "url": "https://www.matthews.com/properties",
+      "captured_at": "2026-11-01T06:53:56.608Z",
+      "path": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-53-42-455Z-38a78fe8/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

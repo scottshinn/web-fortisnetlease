@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "www-lazard-com-1f8253869c",
+  "origin": "https://www.lazard.com",
+  "created_at": "2026-11-01T06:52:47.244Z",
+  "updated_at": "2026-11-01T06:57:49.399Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-52-37-124Z-e330630a",
+      "url": "https://www.lazard.com/",
+      "captured_at": "2026-11-01T06:52:47.150Z",
+      "path": "evidence/www-lazard-com-1f8253869c/2026-11-01T06-52-37-124Z-e330630a/manifest.json",
+      "quality": "high-risk"
+    },
+    {
+      "id": "2026-11-01T06-57-26-275Z-c07da0e8",
+      "url": "https://www.lazard.com/",
+      "captured_at": "2026-11-01T06:57:49.066Z",
+      "path": "evidence/www-lazard-com-1f8253869c/2026-11-01T06-57-26-275Z-c07da0e8/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

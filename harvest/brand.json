@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source": "https://fortisnetlease.com (live, 2026-11-01)",
+    "method": "Computed styles from rolodex capture (rolodex.mjs extract -> draft-measured design system, home capture 2026-11-01T06-45-46-351Z-7d6b7297) cross-checked against theme CSS frequency (wp-content/themes/fortis-net-lease/css/style.css?ver=1.398).",
+    "evidence": "rolodex/evidence/www-fortisnetlease-com-ea105adb01/2026-11-01T06-45-46-351Z-7d6b7297/desktop.extract.json"
+  },
+  "logos": [
+    { "file": "harvest/images/brand/logo.png", "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/logo.png", "size": "690x136", "use": "header logo (CSS background on #logo a; site name text hidden)" },
+    { "file": "harvest/images/brand/fortis_home_logo.png", "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/fortis_home_logo.png", "size": "385x62", "use": "home header variant" },
+    { "file": "harvest/images/brand/footer_logo.png", "url": "https://fortisnetlease.com/wp-content/themes/fortis-net-lease/images/footer_logo.png", "size": "314x144", "use": "footer" },
+    { "file": "harvest/images/wp/themes_fortis-net-lease_images_favicon.png", "use": "favicon / app icons (apple-icon-*, android-icon also in harvest/images/wp)" }
+  ],
+  "colors": {
+    "computed": [
+      { "hex": "#43AFEB", "rgb": "rgb(67,175,235)", "role": "primary accent: links, buttons, highlight backgrounds", "evidence": "computed color + background-color; 15 uses in style.css" },
+      { "hex": "#1D1F27", "rgb": "rgb(29,31,39)", "role": "dark section / header background", "evidence": "computed background-color" },
+      { "hex": "#262323", "rgb": "rgb(38,35,35)", "role": "body text on light", "evidence": "computed color" },
+      { "hex": "#777C8D", "rgb": "rgb(119,124,141)", "role": "muted/secondary text", "evidence": "computed color" },
+      { "hex": "#FFFFFF", "role": "text on dark, light backgrounds", "evidence": "computed" },
+      { "hex": "#000000", "role": "base text/body", "evidence": "computed" },
+      { "value": "rgba(43,51,63,0.7)", "role": "image overlay", "evidence": "computed background-color" },
+      { "hex": "#6672B0", "role": "inset underline accent (box-shadow 0 -8px inset)", "evidence": "computed box-shadow" }
+    ],
+    "theme_css_frequent": ["#0E1631 (navy, 12)", "#525D8A (slate blue, 10)", "#F3F3F3 (light grey bg, 8)", "#768BDF (6)", "#003058 (deep navy, 6)", "#37CFEF (5)", "#249ACB / #2499CA (5 each)", "#30466E (inline in page CSS)"]
+  },
+  "fonts": {
+    "computed_primary": "\"Futura PT\", sans-serif",
+    "faces_self_hosted": [
+      { "family": "Futura PT", "weights": { "300": "futura-pt-light.woff", "400": "futura-pt-book.woff", "600": "futura-pt-medium.woff", "700": "futura-pt-bold.woff" }, "role": "body + headings" },
+      { "family": "Tungstencond", "weights": { "200": "tungstencond-xlight.woff", "600": "Tungsten-Medium.woff" }, "role": "condensed display numerals/headlines" },
+      { "family": "DearJoefour", "weights": { "400": "dearjoefour.woff" }, "role": "script accent words (e.g. 'maximizing', 'Grit & Gumption')" },
+      { "family": "Gotham", "role": "declared once in CSS; no @font-face found (falls back)" }
+    ],
+    "fallback_observed": "Arial, Helvetica, sans-serif (form/other elements)",
+    "icon_font": "Google Material Icons",
+    "licensing_note": "Futura PT, Tungsten, DearJoe 4 are commercial fonts self-hosted under /wp-content/themes/fortis-net-lease/font/. Not downloaded; rebuild needs its own licences or substitutes."
+  },
+  "type_scale_px": [14, 15, 18, 30, 48],
+  "letter_spacing_px": [1, 2, 4, 5, 10],
+  "radius_px": [9],
+  "motion": { "transitions": ["0.3s", "0.4s"], "library": "animate.css fadeIn on scroll" },
+  "tagline_trademark": "Your net lease company™"
+}

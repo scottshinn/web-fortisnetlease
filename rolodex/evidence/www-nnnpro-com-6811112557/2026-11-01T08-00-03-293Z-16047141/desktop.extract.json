@@ -1,0 +1,1380 @@
+{
+  "url": "https://nnnpro.com/",
+  "base_url": "https://nnnpro.com/",
+  "title": "NNN Pro | Net Lease Marketplace",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "next-size-adjust": [
+      ""
+    ],
+    "description": [
+      "Explore single-tenant net lease properties, bonus-depreciable assets, and investment services on the NNN Pro marketplace. Built for pros, by pros."
+    ],
+    "og:title": [
+      "NNN Pro | Net Lease Marketplace"
+    ],
+    "og:description": [
+      "Explore single-tenant net lease properties, bonus-depreciable assets, and investment services on the NNN Pro marketplace."
+    ],
+    "og:site_name": [
+      "NNN Pro"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "twitter:card": [
+      "summary"
+    ],
+    "twitter:title": [
+      "NNN Pro | Net Lease Marketplace"
+    ],
+    "twitter:description": [
+      "Explore single-tenant net lease properties and bonus-depreciable assets on NNN Pro."
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://nnnpro.com",
+      "url": "https://nnnpro.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "text": "Manage Cookie Preferences",
+      "selector": "#consent-banner-title",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "url": "https://nnnpro.com/",
+      "text": "NNN Pro",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/brokerage",
+      "url": "https://surmount.com/brokerage",
+      "text": "Services",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/properties",
+      "url": "https://nnnpro.com/properties",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/bonus-depreciation",
+      "url": "https://nnnpro.com/bonus-depreciation",
+      "text": "Bonus Depreciation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/team?tag=brokerage",
+      "url": "https://surmount.com/team?tag=brokerage",
+      "text": "Our Team",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/careers",
+      "url": "https://surmount.com/careers",
+      "text": "Careers",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "https://surmount.com/brokerage",
+      "url": "https://surmount.com/brokerage",
+      "text": "Services",
+      "rel": "",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/properties",
+      "url": "https://nnnpro.com/properties",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "href": "/bonus-depreciation",
+      "url": "https://nnnpro.com/bonus-depreciation",
+      "text": "Bonus Depreciation",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": false
+    },
+    {
+      "href": "https://surmount.com/team?tag=brokerage",
+      "url": "https://surmount.com/team?tag=brokerage",
+      "text": "Our Team",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(4)",
+      "visible": false
+    },
+    {
+      "href": "https://surmount.com/careers",
+      "url": "https://surmount.com/careers",
+      "text": "Careers",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(5)",
+      "visible": false
+    },
+    {
+      "href": "/auth/login?returnTo=%2F",
+      "url": "https://nnnpro.com/auth/login?returnTo=%2F",
+      "text": "Login",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/signup",
+      "url": "https://nnnpro.com/signup",
+      "text": "Sign Up",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": false
+    },
+    {
+      "href": "https://surmount.com/documents/privacy",
+      "url": "https://surmount.com/documents/privacy",
+      "text": "Privacy Policy",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://nnnpro.com/img/logo.png",
+      "alt": "NNN Pro",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://nnnpro.com/#website\",\"url\":\"https://nnnpro.com/\",\"name\":\"NNN Pro\",\"publisher\":{\"@id\":\"https://nnnpro.com/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https://nnnpro.com/#organization\",\"name\":\"NNN Pro\",\"alternateName\":\"NNN Pro - The Net Lease Marketplace\",\"url\":\"https://nnnpro.com/\",\"logo\":\"https://nnnpro.com/img/logo.png\",\"description\":\"NNN Pro is a net lease marketplace for commercial real estate professionals.\",\"sameAs\":[\"https://www.linkedin.com/company/nnnpro\",\"https://www.instagram.com/officialnnnpro\"]}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://nnnpro.com/#website",
+            "url": "https://nnnpro.com/",
+            "name": "NNN Pro",
+            "publisher": {
+              "@id": "https://nnnpro.com/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://nnnpro.com/#organization",
+            "name": "NNN Pro",
+            "alternateName": "NNN Pro - The Net Lease Marketplace",
+            "url": "https://nnnpro.com/",
+            "logo": "https://nnnpro.com/img/logo.png",
+            "description": "NNN Pro is a net lease marketplace for commercial real estate professionals.",
+            "sameAs": [
+              "https://www.linkedin.com/company/nnnpro",
+              "https://www.instagram.com/officialnnnpro"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 0,
+    "article": 0,
+    "section": 1,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "ServicesPropertiesBonus DepreciationOur TeamCareersServicesPropertiesBonus DepreciationOur TeamCareersLoginSign UpLoading...Manage Cookie PreferencesChoose which non-essential tools can run on this site. Your selection applies for 365 days and can be updated anytime. See our Privacy Policy.Reject AllAccept AllCustomize Settings",
+  "text_length": 329,
+  "iframes": [],
+  "script_sources": [
+    "https://nnnpro.com/_next/static/chunks/d1a2607a-be07532d4ba09794.js",
+    "https://nnnpro.com/_next/static/chunks/250-4c89d4f4a8971875.js",
+    "https://nnnpro.com/_next/static/chunks/main-app-e4fbc3874cd59daa.js",
+    "https://nnnpro.com/_next/static/chunks/cd475ccb-e7d701d5e3c56aec.js",
+    "https://nnnpro.com/_next/static/chunks/531ba6ad-f74a6467b49d5a47.js",
+    "https://nnnpro.com/_next/static/chunks/255da9a5-dfa96160b48c33bd.js",
+    "https://nnnpro.com/_next/static/chunks/517-e532c3a9942ec12f.js",
+    "https://nnnpro.com/_next/static/chunks/783-dcfdc50bce6bdb6b.js",
+    "https://nnnpro.com/_next/static/chunks/359-0c22ee8124826f73.js",
+    "https://nnnpro.com/_next/static/chunks/app/(main)/page-d24560d09222fe0c.js",
+    "https://nnnpro.com/_next/static/chunks/app/layout-20ffa3627d8e45c4.js",
+    "https://nnnpro.com/_next/static/chunks/app/(main)/layout-f704b69c47aefbc1.js",
+    "https://nnnpro.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "https://nnnpro.com/_next/static/chunks/webpack-4291c906203e4482.js"
+  ],
+  "stylesheets": [
+    "https://nnnpro.com/_next/static/css/a3de63df20098e7c.css",
+    "https://nnnpro.com/_next/static/css/715be398208dca58.css"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "scroll_width": 1440,
+    "overflowing": [],
+    "css_variables": {
+      "--container-md": "28rem",
+      "--tw-inset-shadow-alpha": "100%",
+      "--toastify-color-warning": "#f1c40f",
+      "--tw-ring-shadow": "0 0 #0000",
+      "--text-2xl": "1.5rem",
+      "--color-brandc-400": "#ffc906",
+      "--toastify-spinner-color": "#616161",
+      "--tw-drop-shadow-alpha": "100%",
+      "--text-7xl": "4.5rem",
+      "--toastify-z-index": "9999",
+      "--text-lg": "1.125rem",
+      "--color-red-900": "oklch(39.6% .141 25.723)",
+      "--color-neutral-500": "oklch(55.6% 0 none)",
+      "--color-blue-700": "oklch(48.8% .243 264.376)",
+      "--color-yellow-800": "oklch(47.6% .114 61.907)",
+      "--color-primary-900": "#0a1b23",
+      "--color-neutral-300": "oklch(87% 0 none)",
+      "--tw-outline-style": "solid",
+      "--ease-in": "cubic-bezier(.4,0,1,1)",
+      "--text-5xl--line-height": "1",
+      "--color-green-100": "oklch(96.2% .044 156.743)",
+      "--tw-inset-ring-shadow": "0 0 #0000",
+      "--text-base--line-height": "calc(1.5 / 1)",
+      "--color-primary-400": "#0a1b23",
+      "--color-red-200": "oklch(88.5% .062 18.334)",
+      "--color-neutral-200": "oklch(92.2% 0 none)",
+      "--toastify-text-color-warning": "#fff",
+      "--toastify-toast-padding": "14px",
+      "--color-gray-300": "oklch(87.2% .01 258.338)",
+      "--color-yellow-400": "oklch(85.2% .199 91.936)",
+      "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+      "--toastify-toast-max-height": "800px",
+      "--color-primary-500": "#0a1b23",
+      "--toastify-color-progress-error": "hsl(6,78%,57%)",
+      "--color-gray-500": "oklch(55.1% .027 264.364)",
+      "--toastify-text-color-light": "#757575",
+      "--toastify-toast-shadow": "0px 4px 12px rgba(0,0,0,0.1)",
+      "--color-branda-100": "#bfe6de",
+      "--color-green-500": "oklch(72.3% .219 149.579)",
+      "--color-brandb-400": "#007199",
+      "--toastify-color-progress-success": "#07bc0c",
+      "--color-brandb-900": "#0a1b23",
+      "--color-primary-700": "#0a1b23",
+      "--font-family-primary": "\"Satoshi\",sans-serif",
+      "--color-gray-50": "oklch(98.5% .002 247.839)",
+      "--tw-inset-shadow": "0 0 #0000",
+      "--tw-ring-offset-color": "#fff",
+      "--text-lg--line-height": "calc(1.75 / 1.125)",
+      "--color-red-400": "oklch(70.4% .191 22.216)",
+      "--tw-gradient-from": "rgba(0, 0, 0, 0)",
+      "--toastify-toast-bottom": "max(16px,0px)",
+      "--breakpoint-2xl": "96rem",
+      "--color-white": "#fff",
+      "--toastify-color-progress-dark": "#bb86fc",
+      "--toastify-container-width": "fit-content",
+      "--color-gray-400": "oklch(70.7% .022 261.325)",
+      "--toastify-toast-min-height": "64px",
+      "--tw-shadow-alpha": "100%",
+      "--tw-gradient-to": "rgba(0, 0, 0, 0)",
+      "--color-blue-400": "oklch(70.7% .165 254.624)",
+      "--color-brandb-100": "#bfdce6",
+      "--radius-sm": ".25rem",
+      "--toastify-color-progress-warning": "#f1c40f",
+      "--color-brandb": "#143647",
+      "--toastify-color-light": "#fff",
+      "--font-sans": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+      "--toastify-toast-width": "320px",
+      "--tw-scale-z": "1",
+      "--font-weight-bold": "700",
+      "--color-brandd-400": "#e56823",
+      "--color-gray-100": "oklch(96.7% .003 264.542)",
+      "--color-red-800": "oklch(44.4% .177 26.899)",
+      "--color-red-500": "oklch(63.7% .237 25.331)",
+      "--color-core1": "#002929",
+      "--color-brandb-600": "#143647",
+      "--tw-ring-offset-width": "0px",
+      "--toastify-text-color-dark": "#fff",
+      "--tw-gradient-via-position": "50%",
+      "--color-core2": "#004748",
+      "--text-6xl": "3.75rem",
+      "--default-font-family": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+      "--text-xs--line-height": "calc(1 / .75)",
+      "--tw-space-x-reverse": "0",
+      "--container-lg": "32rem",
+      "--color-neutral-700": "oklch(37.1% 0 none)",
+      "--tw-gradient-to-position": "100%",
+      "--toastify-icon-color-error": "hsl(6,78%,57%)",
+      "--color-neutral-50": "oklch(98.5% 0 none)",
+      "--default-transition-duration": ".15s",
+      "--toastify-toast-right": "max(16px,0px)",
+      "--radius-2xl": "1rem",
+      "--radius-md": ".375rem",
+      "--color-blue-800": "oklch(42.4% .199 265.638)",
+      "--text-7xl--line-height": "1",
+      "--text-xl": "1.25rem",
+      "--radius-lg": ".5rem",
+      "--toastify-icon-color-warning": "#f1c40f",
+      "--toastify-spinner-color-empty-area": "#e0e0e0",
+      "--tw-gradient-from-position": "0px",
+      "--color-yellow-100": "oklch(97.3% .071 103.193)",
+      "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+      "--tw-ring-offset-shadow": "0 0 #0000",
+      "--color-neutral-100": "oklch(97% 0 none)",
+      "--color-blue-100": "oklch(93.2% .032 255.585)",
+      "--color-core4": "#e74220",
+      "--color-green-600": "oklch(62.7% .194 149.214)",
+      "--color-gray-800": "oklch(27.8% .033 256.848)",
+      "--leading-relaxed": "1.625",
+      "--toastify-toast-offset": "16px",
+      "--toastify-text-color-error": "#fff",
+      "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+      "--toastify-color-info": "#3498db",
+      "--color-green-50": "oklch(98.2% .018 155.826)",
+      "--color-red-300": "oklch(80.8% .114 19.571)",
+      "--font-satoshi": "\"Satoshi\",sans-serif",
+      "--color-primary-600": "#0a1b23",
+      "--toastify-toast-top": "max(16px,0px)",
+      "--text-2xl--line-height": "calc(2 / 1.5)",
+      "--spacing": ".25rem",
+      "--tw-translate-z": "0",
+      "--color-yellow-700": "oklch(55.4% .135 66.442)",
+      "--tw-gradient-via": "rgba(0, 0, 0, 0)",
+      "--font-magnetik": "\"Magnetik\",serif",
+      "--tw-scale-y": "1",
+      "--toastify-color-transparent": "rgba(255,255,255,0.7)",
+      "--text-xl--line-height": "calc(1.75 / 1.25)",
+      "--color-green-800": "oklch(44.8% .119 151.328)",
+      "--font-weight-semibold": "600",
+      "--toastify-font-family": "sans-serif",
+      "--color-red-700": "oklch(50.5% .213 27.518)",
+      "--container-3xl": "48rem",
+      "--text-sm": ".875rem",
+      "--color-core6": "#031514",
+      "--tw-translate-y": "0",
+      "--color-green-400": "oklch(79.2% .209 151.711)",
+      "--ease-out": "cubic-bezier(0,0,.2,1)",
+      "--color-primary-100": "#0a1b23",
+      "--toastify-color-progress-info": "#3498db",
+      "--color-gray-900": "oklch(21% .034 264.665)",
+      "--toastify-color-dark": "#121212",
+      "--animate-spin": "spin 1s linear infinite",
+      "--color-yellow-50": "oklch(98.7% .026 102.212)",
+      "--container-4xl": "56rem",
+      "--toastify-icon-color-success": "#07bc0c",
+      "--color-gray-700": "oklch(37.3% .034 259.733)",
+      "--leading-tight": "1.25",
+      "--color-gray-600": "oklch(44.6% .03 256.802)",
+      "--toastify-toast-bd-radius": "6px",
+      "--font-weight-extrabold": "800",
+      "--color-blue-600": "oklch(54.6% .245 262.881)",
+      "--text-4xl": "2.25rem",
+      "--toastify-text-color-success": "#fff",
+      "--tw-divide-y-reverse": "0",
+      "--toastify-color-progress-bgo": "0.2",
+      "--tw-border-style": "solid",
+      "--color-branda-400": "#009a79",
+      "--toastify-color-success": "#07bc0c",
+      "--color-red-600": "oklch(57.7% .245 27.325)",
+      "--container-2xl": "42rem",
+      "--color-red-50": "oklch(97.1% .013 17.38)",
+      "--tw-shadow": "0 0 #0000",
+      "--text-sm--line-height": "calc(1.25 / .875)",
+      "--tw-translate-x": "0",
+      "--color-primary": "#031514",
+      "--color-blue-50": "oklch(97% .014 254.604)",
+      "--color-gray-200": "oklch(92.8% .006 264.531)",
+      "--text-3xl--line-height": "calc(2.25 / 1.875)",
+      "--text-5xl": "3rem",
+      "--color-primary-200": "#0a1b23",
+      "--text-3xl": "1.875rem",
+      "--toastify-color-progress-light": "linear-gradient(90deg,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55)",
+      "--color-black": "#000",
+      "--toastify-color-error": "hsl(6,78%,57%)",
+      "--text-xs": ".75rem",
+      "--font-weight-medium": "500",
+      "--font-weight-normal": "400",
+      "--tw-scale-x": "1",
+      "--color-green-700": "oklch(52.7% .154 150.069)",
+      "--font-weight-thin": "100",
+      "--toastify-toast-background": "#fff",
+      "--color-core3": "#077668",
+      "--toastify-toast-left": "max(16px,0px)",
+      "--radius-xl": ".75rem",
+      "--toastify-icon-color-info": "#3498db",
+      "--tw-space-y-reverse": "0",
+      "--text-6xl--line-height": "1",
+      "--text-4xl--line-height": "calc(2.5 / 2.25)",
+      "--toastify-text-color-info": "#fff",
+      "--text-base": "1rem",
+      "--font-family-header": "\"Magnetik\",serif",
+      "--default-mono-font-family": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://nnnpro.com/#website\",\"url\":\"https://nnnpro.com/\",\"name\":\"NNN Pro\",\"publisher\":{\"@id\":\"https://nnnpro.co",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 1000
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1)",
+        "tag": "header",
+        "text": "ServicesPropertiesBonus DepreciationOur TeamCareersServicesPropertiesBonus DepreciationOur TeamCareersLoginSign Up",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 64
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(20, 54, 71)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 32,
+          "y": 22,
+          "width": 125,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Services",
+        "rect": {
+          "x": 189,
+          "y": 20,
+          "width": 58.125,
+          "height": 24
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal 8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "Properties",
+        "rect": {
+          "x": 279.125,
+          "y": 20,
+          "width": 71.34375,
+          "height": 24
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal 8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "Bonus Depreciation",
+        "rect": {
+          "x": 382.46875,
+          "y": 20,
+          "width": 137.15625,
+          "height": 24
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal 8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "text": "Our Team",
+        "rect": {
+          "x": 551.625,
+          "y": 20,
+          "width": 68.703125,
+          "height": 24
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal 8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "text": "Careers",
+        "rect": {
+          "x": 652.328125,
+          "y": 20,
+          "width": 54.4375,
+          "height": 24
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal 8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.15s"
+        }
+      },
+      {
+        "selector": "#headlessui-popover-button-_R_1n9cnlb_",
+        "tag": "button",
+        "text": "",
+        "rect": {
+          "x": 1380,
+          "y": 18,
+          "width": 28,
+          "height": 28
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "14px",
+          "font-weight": "600",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal 4px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > section:nth-of-type(1)",
+        "tag": "section",
+        "text": "",
+        "rect": {
+          "x": 0,
+          "y": 1000,
+          "width": 1440,
+          "height": 0
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#consent-banner-title",
+        "tag": "h2",
+        "text": "Manage Cookie Preferences",
+        "rect": {
+          "x": 368,
+          "y": 421,
+          "width": 704,
+          "height": 28
+        },
+        "styles": {
+          "color": "oklch(0.21 0.034 264.665)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "20px",
+          "font-weight": "600",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#consent-banner-description",
+        "tag": "p",
+        "text": "Choose which non-essential tools can run on this site. Your selection applies for 365 days and can be updated anytime. See our Privacy Policy.",
+        "rect": {
+          "x": 368,
+          "y": 461,
+          "width": 704,
+          "height": 48
+        },
+        "styles": {
+          "color": "oklch(0.373 0.034 259.733)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "12px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 476.921875,
+          "y": 488,
+          "width": 88.671875,
+          "height": 17
+        },
+        "styles": {
+          "color": "oklch(0.546 0.245 262.881)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "14px",
+          "font-weight": "600",
+          "line-height": "24px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "Reject All",
+        "rect": {
+          "x": 368,
+          "y": 541,
+          "width": 93.703125,
+          "height": 38
+        },
+        "styles": {
+          "color": "oklch(0.21 0.034 264.665)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "14px",
+          "font-weight": "600",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "8px",
+          "padding-right": "16px",
+          "padding-bottom": "8px",
+          "padding-left": "16px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "6px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+        "tag": "button",
+        "text": "Accept All",
+        "rect": {
+          "x": 473.703125,
+          "y": 541,
+          "width": 97.046875,
+          "height": 38
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "oklch(0.21 0.034 264.665)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "14px",
+          "font-weight": "600",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "8px",
+          "padding-right": "16px",
+          "padding-bottom": "8px",
+          "padding-left": "16px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "6px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "Customize Settings",
+        "rect": {
+          "x": 949.4375,
+          "y": 550,
+          "width": 122.5625,
+          "height": 20
+        },
+        "styles": {
+          "color": "oklch(0.546 0.245 262.881)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Satoshi, sans-serif",
+          "font-size": "14px",
+          "font-weight": "600",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1)",
+        "tag": "header",
+        "heading": "",
+        "text_excerpt": "ServicesPropertiesBonus DepreciationOur TeamCareersServicesPropertiesBonus DepreciationOur TeamCareersLoginSign Up",
+        "children": 2,
+        "rect": {
+          "y": 0,
+          "height": 64
+        },
+        "layout": "block"
+      }
+    ],
+    "controls": [
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "NNN Pro",
+        "width": 125,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Services",
+        "width": 58.125,
+        "height": 24,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "Properties",
+        "width": 71.34375,
+        "height": 24,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "role": null,
+        "name": "Bonus Depreciation",
+        "width": 137.15625,
+        "height": 24,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "role": null,
+        "name": "Our Team",
+        "width": 68.703125,
+        "height": 24,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "role": null,
+        "name": "Careers",
+        "width": 54.4375,
+        "height": 24,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#headlessui-popover-button-_R_1n9cnlb_",
+        "tag": "button",
+        "role": null,
+        "name": "",
+        "width": 28,
+        "height": 28,
+        "tabindex": null,
+        "expanded": "false"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Policy",
+        "width": 88.671875,
+        "height": 17,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Reject All",
+        "width": 93.703125,
+        "height": 38,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+        "tag": "button",
+        "role": null,
+        "name": "Accept All",
+        "width": 97.046875,
+        "height": 38,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Customize Settings",
+        "width": 122.5625,
+        "height": 20,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 249.60000000009313,
+      "dom_content_loaded_ms": 4693.100000000093,
+      "load_ms": 7201.200000000186
+    },
+    "resources": [
+      {
+        "url": "https://nnnpro.com/_next/static/media/05cffc9398c6102f-s.p.otf",
+        "type": "link",
+        "duration_ms": 2880.7000000001863,
+        "transfer_bytes": 52788,
+        "decoded_bytes": 90536
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/2ce5d399bdf857cc-s.p.otf",
+        "type": "link",
+        "duration_ms": 1294.6000000000931,
+        "transfer_bytes": 55694,
+        "decoded_bytes": 93452
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/5a1c382f4bc57f59-s.p.otf",
+        "type": "link",
+        "duration_ms": 2880.5,
+        "transfer_bytes": 52130,
+        "decoded_bytes": 88596
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/60770f030ae8d03d-s.p.otf",
+        "type": "link",
+        "duration_ms": 984.5,
+        "transfer_bytes": 11815,
+        "decoded_bytes": 24824
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/867bce6efedfde96-s.p.ttf",
+        "type": "link",
+        "duration_ms": 3354,
+        "transfer_bytes": 56147,
+        "decoded_bytes": 127420
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/9bfae2027d487aa4-s.p.otf",
+        "type": "link",
+        "duration_ms": 2879.5,
+        "transfer_bytes": 51532,
+        "decoded_bytes": 88632
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/a1698dd734563b87-s.p.otf",
+        "type": "link",
+        "duration_ms": 3354,
+        "transfer_bytes": 54186,
+        "decoded_bytes": 91360
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/c2f136c5d35066af-s.p.otf",
+        "type": "link",
+        "duration_ms": 1550.3999999999069,
+        "transfer_bytes": 54622,
+        "decoded_bytes": 92708
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/e733cf371e499a20-s.p.otf",
+        "type": "link",
+        "duration_ms": 3353.1999999997206,
+        "transfer_bytes": 56751,
+        "decoded_bytes": 94728
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/ecda6e8319221c8c-s.p.otf",
+        "type": "link",
+        "duration_ms": 3355.1999999997206,
+        "transfer_bytes": 56215,
+        "decoded_bytes": 93808
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/media/e04eb81b850baa46-s.p.otf",
+        "type": "link",
+        "duration_ms": 3613.6999999997206,
+        "transfer_bytes": 51944,
+        "decoded_bytes": 88928
+      },
+      {
+        "url": "https://nnnpro.com/img/logo.png",
+        "type": "link",
+        "duration_ms": 1003.7999999998137,
+        "transfer_bytes": 1419,
+        "decoded_bytes": 1119
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/css/a3de63df20098e7c.css",
+        "type": "link",
+        "duration_ms": 2069.600000000093,
+        "transfer_bytes": 11636,
+        "decoded_bytes": 60690
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/css/715be398208dca58.css",
+        "type": "link",
+        "duration_ms": 2327.600000000093,
+        "transfer_bytes": 2943,
+        "decoded_bytes": 14081
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/webpack-4291c906203e4482.js",
+        "type": "link",
+        "duration_ms": 2578.399999999907,
+        "transfer_bytes": 1990,
+        "decoded_bytes": 3353
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/d1a2607a-be07532d4ba09794.js",
+        "type": "script",
+        "duration_ms": 3353.3000000002794,
+        "transfer_bytes": 63183,
+        "decoded_bytes": 199869
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/main-app-e4fbc3874cd59daa.js",
+        "type": "script",
+        "duration_ms": 1002.6000000000931,
+        "transfer_bytes": 826,
+        "decoded_bytes": 526
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/cd475ccb-e7d701d5e3c56aec.js",
+        "type": "script",
+        "duration_ms": 2846.2000000001863,
+        "transfer_bytes": 24497,
+        "decoded_bytes": 99965
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/250-4c89d4f4a8971875.js",
+        "type": "script",
+        "duration_ms": 3373.2999999998137,
+        "transfer_bytes": 61796,
+        "decoded_bytes": 222874
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/531ba6ad-f74a6467b49d5a47.js",
+        "type": "script",
+        "duration_ms": 2069.600000000093,
+        "transfer_bytes": 2173,
+        "decoded_bytes": 3898
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/255da9a5-dfa96160b48c33bd.js",
+        "type": "script",
+        "duration_ms": 2846.600000000093,
+        "transfer_bytes": 2878,
+        "decoded_bytes": 6000
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/517-e532c3a9942ec12f.js",
+        "type": "script",
+        "duration_ms": 2846.6999999997206,
+        "transfer_bytes": 5555,
+        "decoded_bytes": 17776
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/783-dcfdc50bce6bdb6b.js",
+        "type": "script",
+        "duration_ms": 3353.5,
+        "transfer_bytes": 54719,
+        "decoded_bytes": 195936
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/36-9fb4ee540fcbebd3.js",
+        "type": "script",
+        "duration_ms": 4717.799999999814,
+        "transfer_bytes": 392983,
+        "decoded_bytes": 1394021
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/359-0c22ee8124826f73.js",
+        "type": "script",
+        "duration_ms": 2876.899999999907,
+        "transfer_bytes": 10729,
+        "decoded_bytes": 37937
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/app/(main)/layout-f704b69c47aefbc1.js",
+        "type": "script",
+        "duration_ms": 2294.100000000093,
+        "transfer_bytes": 827,
+        "decoded_bytes": 1324
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/app/(main)/page-d24560d09222fe0c.js",
+        "type": "script",
+        "duration_ms": 2320.3000000002794,
+        "transfer_bytes": 2715,
+        "decoded_bytes": 6639
+      },
+      {
+        "url": "https://nnnpro.com/_next/static/chunks/app/layout-20ffa3627d8e45c4.js",
+        "type": "script",
+        "duration_ms": 2877,
+        "transfer_bytes": 1194,
+        "decoded_bytes": 3790
+      },
+      {
+        "url": "https://nnnpro.com/auth/profile",
+        "type": "fetch",
+        "duration_ms": 250,
+        "transfer_bytes": 300,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://nnnpro.com/bonus-depreciation?_rsc=5CB68i4pnAekjehf",
+        "type": "fetch",
+        "duration_ms": 258.79999999981374,
+        "transfer_bytes": 472,
+        "decoded_bytes": 221
+      },
+      {
+        "url": "https://nnnpro.com/?_rsc=tXyZJ52UQVBCVsD3",
+        "type": "fetch",
+        "duration_ms": 259.10000000009313,
+        "transfer_bytes": 1148,
+        "decoded_bytes": 1821
+      },
+      {
+        "url": "https://nnnpro.com/properties?_rsc=5CB68i4pnAekjehf",
+        "type": "fetch",
+        "duration_ms": 287.70000000018626,
+        "transfer_bytes": 466,
+        "decoded_bytes": 213
+      },
+      {
+        "url": "https://nnnpro.com/bonus-depreciation?_rsc=tXyZJ52UQVBCVsD3",
+        "type": "fetch",
+        "duration_ms": 302.70000000018626,
+        "transfer_bytes": 1195,
+        "decoded_bytes": 1854
+      },
+      {
+        "url": "https://nnnpro.com/properties?_rsc=tXyZJ52UQVBCVsD3",
+        "type": "fetch",
+        "duration_ms": 288.5,
+        "transfer_bytes": 1127,
+        "decoded_bytes": 1792
+      }
+    ],
+    "observations": {
+      "lcp_ms": 7252,
+      "layout_shifts": [
+        {
+          "time": 5699.5,
+          "value": 0.00003600766782407407
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 7053.600000000093,
+          "duration_ms": 140
+        }
+      ]
+    }
+  }
+}

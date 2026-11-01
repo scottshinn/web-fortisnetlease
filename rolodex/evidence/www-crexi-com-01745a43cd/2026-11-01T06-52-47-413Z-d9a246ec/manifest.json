@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-01T06-52-47-413Z-d9a246ec",
+  "site_id": "www-crexi-com-01745a43cd",
+  "requested_url": "https://www.crexi.com/",
+  "final_url": "https://www.crexi.com/",
+  "captured_at": "2026-11-01T06:52:56.766Z",
+  "artifacts": [
+    {
+      "path": "audit.json",
+      "sha256": "9a80c9fb3d38ea41662ba984e78efaa34873f60836af61b29b2197cde01e6826",
+      "bytes": 18168
+    },
+    {
+      "path": "audit.md",
+      "sha256": "f1cf742304d71b28304b308dc7d4bcd61003dd955ae84cdcbc70957b22782a65",
+      "bytes": 10714
+    },
+    {
+      "path": "capture-data.json",
+      "sha256": "5bb334d26b139fe576f2da8cc78a6dd3712f68e0867db090b569527757688212",
+      "bytes": 49158
+    },
+    {
+      "path": "controls.json",
+      "sha256": "6f0cabacbcd6969efeb91b0e55c508d5dfa7afd794a61e139130052462cddb18",
+      "bytes": 18828
+    },
+    {
+      "path": "desktop.extract.json",
+      "sha256": "504665d09ad48f52158aa4f08794f9d1a498193e1e18db964b46f12659466723",
+      "bytes": 12697
+    },
+    {
+      "path": "desktop.http.json",
+      "sha256": "a307c069b95ba047157114724cddd378a5821d610193ba1cabb7b3f0f6734cf9",
+      "bytes": 476
+    },
+    {
+      "path": "desktop.png",
+      "sha256": "74abe395ad84cb567971ba45a269bc4df01e3bd12c5b3d378e9d3a4b49cd794d",
+      "bytes": 22439
+    },
+    {
+      "path": "desktop.raw.body",
+      "sha256": "c9b6dd3047150b5ce59822131d48ecf7bcbffc6bb57127a76fe1b243d681d44e",
+      "bytes": 6289
+    },
+    {
+      "path": "desktop.raw.extract.json",
+      "sha256": "bd4ed89abb9a0b76b0adb913a0c755244d0735d660e3555212435fbb03a732f2",
+      "bytes": 664
+    },
+    {
+      "path": "desktop.raw.html",
+      "sha256": "c9b6dd3047150b5ce59822131d48ecf7bcbffc6bb57127a76fe1b243d681d44e",
+      "bytes": 6289
+    },
+    {
+      "path": "desktop.rendered.html",
+      "sha256": "2625c8f79fe0ae973716236fda7f41c266dc04086e8226bafa98ae86f74667ba",
+      "bytes": 28841
+    },
+    {
+      "path": "http.json",
+      "sha256": "a307c069b95ba047157114724cddd378a5821d610193ba1cabb7b3f0f6734cf9",
+      "bytes": 476
+    },
+    {
+      "path": "link-checks.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "6c7549ffad677b8fd05462ef13db6c0ecd01df4adc38ac458e99291aaf8050b2",
+      "bytes": 5864
+    },
+    {
+      "path": "mobile.extract.json",
+      "sha256": "f37d464e2ab5604febee4347283ae116b6573461b3b5ee632100c3445fef436d",
+      "bytes": 3043
+    },
+    {
+      "path": "mobile.http.json",
+      "sha256": "22ff203a832cf5d8c387154997a74b72d4eeeca656465489133b061fd94799a8",
+      "bytes": 404
+    },
+    {
+      "path": "mobile.png",
+      "sha256": "fb32313e11bc8ffbd5310a1660e630b64cedb4622f8462a5eae2d5464ac8279e",
+      "bytes": 2740
+    },
+    {
+      "path": "mobile.raw.body",
+      "sha256": "ed91ebf8b34842938d1378be0cc93fe60b97cffec773ac38217fedc7821c9ce5",
+      "bytes": 6289
+    },
+    {
+      "path": "mobile.raw.extract.json",
+      "sha256": "bd4ed89abb9a0b76b0adb913a0c755244d0735d660e3555212435fbb03a732f2",
+      "bytes": 664
+    },
+    {
+      "path": "mobile.raw.html",
+      "sha256": "ed91ebf8b34842938d1378be0cc93fe60b97cffec773ac38217fedc7821c9ce5",
+      "bytes": 6289
+    },
+    {
+      "path": "mobile.rendered.html",
+      "sha256": "3be3d1b822e76db6b4233fcf955e7d55472117414a2adafcc5b349a9441b39db",
+      "bytes": 6287
+    },
+    {
+      "path": "raw.extract.json",
+      "sha256": "bd4ed89abb9a0b76b0adb913a0c755244d0735d660e3555212435fbb03a732f2",
+      "bytes": 664
+    },
+    {
+      "path": "raw.html",
+      "sha256": "c9b6dd3047150b5ce59822131d48ecf7bcbffc6bb57127a76fe1b243d681d44e",
+      "bytes": 6289
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "3b2327e571fb568224b123b30f140f3414c956ae597bea4e8fb64dfc4ba31387",
+      "bytes": 5828
+    },
+    {
+      "path": "sitemap-1.xml",
+      "sha256": "2f85828b395c8e99ce1863728193aa060abf5022d0dfe9e97577b2d31c105869",
+      "bytes": 5873
+    },
+    {
+      "path": "tablet.extract.json",
+      "sha256": "cc36fd117bdc79bf22fb6e3bb69b84324f81f0116e3ab9a621ea22507a68959f",
+      "bytes": 3045
+    },
+    {
+      "path": "tablet.http.json",
+      "sha256": "d570af5e87b0ad4c63bf68732506c41bc6eaef9a8b729eab85c523bf6b45241a",
+      "bytes": 404
+    },
+    {
+      "path": "tablet.png",
+      "sha256": "883278c81840dc21cde6b7bb0f70bcb0e9a97c7b05ffa3a1dc4681980e6c3fbd",
+      "bytes": 4465
+    },
+    {
+      "path": "tablet.raw.body",
+      "sha256": "ce55457ff1607431bcb4e1922e7156fc5bfd4e0fa3e2502c4d56af8bb9c7238d",
+      "bytes": 6289
+    },
+    {
+      "path": "tablet.raw.extract.json",
+      "sha256": "bd4ed89abb9a0b76b0adb913a0c755244d0735d660e3555212435fbb03a732f2",
+      "bytes": 664
+    },
+    {
+      "path": "tablet.raw.html",
+      "sha256": "ce55457ff1607431bcb4e1922e7156fc5bfd4e0fa3e2502c4d56af8bb9c7238d",
+      "bytes": 6289
+    },
+    {
+      "path": "tablet.rendered.html",
+      "sha256": "d8b002015cf8ee1e95008c08930595303d96ee87f57a5c11d760e90cf9a6fa40",
+      "bytes": 6287
+    }
+  ]
+}

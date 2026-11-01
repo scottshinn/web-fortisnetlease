@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "srsre-com-51d369355c",
+  "origin": "https://srsre.com",
+  "created_at": "2026-11-01T06:50:14.958Z",
+  "updated_at": "2026-11-01T06:50:14.959Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-49-52-967Z-9f80512d",
+      "url": "https://srsre.com/",
+      "captured_at": "2026-11-01T06:50:14.797Z",
+      "path": "evidence/srsre-com-51d369355c/2026-11-01T06-49-52-967Z-9f80512d/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

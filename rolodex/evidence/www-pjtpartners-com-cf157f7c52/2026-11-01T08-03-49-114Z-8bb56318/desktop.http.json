@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "url": "https://www.pjtpartners.com/",
+  "headers": {
+    "cache-control": "public, max-age=0, must-revalidate",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Vercel",
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "x-powered-by": "Next.js"
+  },
+  "redirects": [
+    {
+      "url": "https://www.pjtpartners.com/",
+      "status": 200
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "1e8b3fec73c554f3e499b2793783bbade4cb1a9c3649dc248e0a63475fefc0d1",
+  "body_bytes": 82989
+}

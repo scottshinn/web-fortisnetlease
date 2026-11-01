@@ -1,0 +1,52 @@
+{
+  "url": "https://www.matthews.com/properties",
+  "base_url": "https://www.matthews.com/properties",
+  "title": "Matthews",
+  "title_count": 2,
+  "lang": "",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "robots": [
+      "noindex"
+    ],
+    "next-size-adjust": [
+      ""
+    ],
+    "description": [
+      "Real Estate Listings and Property Management",
+      "Real Estate Listings and Property Management"
+    ]
+  },
+  "canonicals": [],
+  "headings": [],
+  "links": [],
+  "images": [],
+  "inputs": [],
+  "jsonld": [],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 0,
+    "nav": 0,
+    "main": 0,
+    "article": 0,
+    "section": 0,
+    "aside": 0,
+    "footer": 0
+  },
+  "text": "",
+  "text_length": 0,
+  "iframes": [],
+  "script_sources": [
+    "https://www.matthews.com/_next/static/chunks/4fb392a0-7fad7700a4fb890a.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/7297-1f9b46da7d59623b.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/main-app-38e902df88fb3925.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/app/global-error-baf475a8185ca9df.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/webpack-ab43bc9d266fbe52.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR"
+  ],
+  "stylesheets": [],
+  "hreflang": []
+}

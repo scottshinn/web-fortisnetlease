@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "www-bouldergroup-com-13c1ffa35b",
+  "origin": "https://www.bouldergroup.com",
+  "created_at": "2026-11-01T06:50:35.398Z",
+  "updated_at": "2026-11-01T08:05:53.265Z",
+  "classification": {
+    "industry": [
+      "commercial-real-estate",
+      "investment-sales",
+      "net-lease"
+    ],
+    "style": [
+      "corporate",
+      "dated",
+      "light"
+    ],
+    "technology": [],
+    "components": [
+      "full-bleed-hero",
+      "header-email-capture",
+      "property-alerts",
+      "research-reports-signup"
+    ]
+  },
+  "design_notes": [
+    {
+      "text": "Two persistent header email captures: 'Property Alerts' and 'Research Reports'. Excellent lead-capture intent for buyer listing alerts; borrow the idea, not the cramped form styling.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Track record stated as prose ($11B+ STNL since 1997, top-10 CoStar/MSCI RCA 2015-2025); third-party rankings are strong trust proof that should be surfaced as a stat band.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Avoid: 3D-rendered tenant hero, all-caps light-grey type, no listings or stats above the fold. Boulder is known for quarterly net lease cap rate research - a page type worth matching.",
+      "basis": "inferred",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source": "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T06-50-15-252Z-939a2035",
+      "url": "https://www.bouldergroup.com/",
+      "captured_at": "2026-11-01T06:50:35.256Z",
+      "path": "evidence/www-bouldergroup-com-13c1ffa35b/2026-11-01T06-50-15-252Z-939a2035/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

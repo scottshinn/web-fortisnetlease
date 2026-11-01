@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "srsre-com-51d369355c",
+  "origin": "https://srsre.com",
+  "created_at": "2026-11-01T06:50:14.958Z",
+  "updated_at": "2026-11-01T08:05:53.819Z",
+  "classification": {
+    "industry": [
+      "commercial-real-estate"
+    ],
+    "style": [],
+    "technology": [
+      "bot-protection"
+    ],
+    "components": []
+  },
+  "design_notes": [
+    {
+      "text": "Capture on 2026-11-01 returned a bot-protection/blocked page (Cloudflare challenge, 403 or 'request is blocked') with both bundled Chromium and installed Chrome; no rendered design evidence. Recapture from a different network or review manually.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "rolodex capture 2026-11-01 desktop.png and raw.html"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T06-49-52-967Z-9f80512d",
+      "url": "https://srsre.com/",
+      "captured_at": "2026-11-01T06:50:14.797Z",
+      "path": "evidence/srsre-com-51d369355c/2026-11-01T06-49-52-967Z-9f80512d/manifest.json",
+      "quality": "high-risk"
+    },
+    {
+      "id": "2026-11-01T06-54-47-810Z-da48704d",
+      "url": "https://srsre.com/",
+      "captured_at": "2026-11-01T06:55:11.438Z",
+      "path": "evidence/srsre-com-51d369355c/2026-11-01T06-54-47-810Z-da48704d/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

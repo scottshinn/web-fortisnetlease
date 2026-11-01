@@ -1,0 +1,21 @@
+{
+  "status": 404,
+  "url": "https://www.matthews.com/properties",
+  "headers": {
+    "cache-control": "public, max-age=0, must-revalidate",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Vercel",
+    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "x-powered-by": "Next.js"
+  },
+  "redirects": [
+    {
+      "url": "https://www.matthews.com/properties",
+      "status": 404
+    }
+  ],
+  "charset": "utf-8",
+  "body_sha256": "be670c14cc6a497b57b0491dd1c3498d8fb1a392a80a5614b6de384dcd0994a2",
+  "body_bytes": 42461
+}

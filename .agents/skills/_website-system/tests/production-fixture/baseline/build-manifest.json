@@ -1,0 +1,16 @@
+{
+  "algorithm": "sha256",
+  "digest": "f5615b029ea58efcfbb38cc35ec775ede023f67691007134163c70d929e17dc8",
+  "files": {
+    "404.html": "2aa5211dee5ec358b77df5b66bd6e231f692bedc9c93fb57a98e055f6308362c",
+    "assets/favicon.svg": "841e8356da0055a32e87542e31f0ba4b4aec0981bd1134ea9aba67b5c831f6b2",
+    "assets/main.js": "8e07649f3bcab88a341bfbd7b352670cd9eb5985ee074ab39f203b218ef1978f",
+    "assets/styles.css": "877bedb0da059cf69379ede497d9ee7e1c7b1fb805d06debaf20a74feac67b6d",
+    "contact/index.html": "3ec0e1777f040305509c1f66c7097bab24dd0312543a11634c646a390f19e220",
+    "index.html": "b3bd4123b1c30a1aa9c3312cb907dd86cb0ed34bc54ec2ab06715caba78b6ac4",
+    "robots.txt": "cbcdc6486645397e991e0a51311cecff4dc3a2d2fc4f85a135b8e20c557f19fe",
+    "routes.json": "d11d74bb048de654a175001f8aa9133f5c9a501d5a88d71c5231a3c91b0814db",
+    "services/roof-repair/index.html": "fe8bc6d4d8c5328470418ef2dd5d3bb2d6c9fb7dff43b575bbb53db3b7adfee3",
+    "sitemap.xml": "3a9976f0ed80dc22748bf9809f3dcb7b34c125d8d34fdf70209c0a11b6ccf8aa"
+  }
+}

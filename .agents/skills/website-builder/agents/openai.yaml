@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Builder"
+  short_description: "Coordinate complete new-client website production"
+  default_prompt: "Use $website-builder to build this client website from the supplied brief, content and design references, then obtain independent technical and visual QA."

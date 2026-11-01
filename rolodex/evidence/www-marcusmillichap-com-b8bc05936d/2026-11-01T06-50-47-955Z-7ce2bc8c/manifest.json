@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-01T06-50-47-955Z-7ce2bc8c",
+  "site_id": "www-marcusmillichap-com-b8bc05936d",
+  "requested_url": "https://www.marcusmillichap.com/",
+  "final_url": "https://www.marcusmillichap.com/",
+  "captured_at": "2026-11-01T06:50:56.726Z",
+  "artifacts": [
+    {
+      "path": "audit.json",
+      "sha256": "cd94c8d1924de059e5ee5be5e62de75b5b6452e5e7996353e6c07dd91c28ef61",
+      "bytes": 17024
+    },
+    {
+      "path": "audit.md",
+      "sha256": "6a71dbe4d1d2fb535c2e7747f0cf1165a47391e4edadd023afda4ab5f0469189",
+      "bytes": 9790
+    },
+    {
+      "path": "capture-data.json",
+      "sha256": "478630a976201c884dabee8a249e83bd568e4d42c4f4ffc5e94ee32ddf4d07e3",
+      "bytes": 26969
+    },
+    {
+      "path": "controls.json",
+      "sha256": "16cf83e0eb09b082c171d59be07c21ac3b67790c849aae33d7b6e628830bc928",
+      "bytes": 5751
+    },
+    {
+      "path": "desktop.extract.json",
+      "sha256": "7454729305adc4d7d38a958f8537598b8c078fed1baa9ce9ac836081bc5c3d13",
+      "bytes": 3389
+    },
+    {
+      "path": "desktop.http.json",
+      "sha256": "e11d7f3507626971ea72a837241c5b53dc9215fe1fea80618412c6b3a1d08f6a",
+      "bytes": 412
+    },
+    {
+      "path": "desktop.png",
+      "sha256": "50fdd38ac597f33449a25b8e3f75e6493b175442a78eda3cebfe8938eafa50b9",
+      "bytes": 11845
+    },
+    {
+      "path": "desktop.raw.body",
+      "sha256": "257b8c37ba9301fe27659d28fe6231e534ca376ea485ebc18d2aecbc8c5ddf7a",
+      "bytes": 1484
+    },
+    {
+      "path": "desktop.raw.extract.json",
+      "sha256": "a44738be94f4ed4bf6295c2826549bff252fe993ef4c4f8088c8a8cb3e701257",
+      "bytes": 853
+    },
+    {
+      "path": "desktop.raw.html",
+      "sha256": "257b8c37ba9301fe27659d28fe6231e534ca376ea485ebc18d2aecbc8c5ddf7a",
+      "bytes": 1484
+    },
+    {
+      "path": "desktop.rendered.html",
+      "sha256": "e95b1d4b78a437ecefed769b9f15f1d0b74e37189143e386541328195f28583c",
+      "bytes": 1479
+    },
+    {
+      "path": "http.json",
+      "sha256": "e11d7f3507626971ea72a837241c5b53dc9215fe1fea80618412c6b3a1d08f6a",
+      "bytes": 412
+    },
+    {
+      "path": "link-checks.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "a7fe869bc0fb14372f53d5db3a1c6dc4e3f086a1fc4c8740941c0efe38013be9",
+      "bytes": 1484
+    },
+    {
+      "path": "mobile.extract.json",
+      "sha256": "a798eb729400a13467fbb4f25363a91db64cd01109473c2320546ad1ed96a5e5",
+      "bytes": 3411
+    },
+    {
+      "path": "mobile.http.json",
+      "sha256": "4ebf341b0ad9bbf5674eb4972a08620e751a249cdb132788024c36097019f9c8",
+      "bytes": 412
+    },
+    {
+      "path": "mobile.png",
+      "sha256": "68e921f24cb074af593dd4ec04cdc9b7dd7a32e81fd8183e5d24247c0187063e",
+      "bytes": 8129
+    },
+    {
+      "path": "mobile.raw.body",
+      "sha256": "a32ab8b57d22c561cd8ff5d12b2b5ff33cfcf2750259c117ee8089a83765f540",
+      "bytes": 1484
+    },
+    {
+      "path": "mobile.raw.extract.json",
+      "sha256": "04eae7e6fe4a581fc5faac2f78e8743de5132c8e2b53092cb250b7235ed4668f",
+      "bytes": 853
+    },
+    {
+      "path": "mobile.raw.html",
+      "sha256": "a32ab8b57d22c561cd8ff5d12b2b5ff33cfcf2750259c117ee8089a83765f540",
+      "bytes": 1484
+    },
+    {
+      "path": "mobile.rendered.html",
+      "sha256": "b1eabda64addbb34bb3f0d52b5be2015be96ef1107312c013c08e0b299157f35",
+      "bytes": 1479
+    },
+    {
+      "path": "raw.extract.json",
+      "sha256": "a44738be94f4ed4bf6295c2826549bff252fe993ef4c4f8088c8a8cb3e701257",
+      "bytes": 853
+    },
+    {
+      "path": "raw.html",
+      "sha256": "257b8c37ba9301fe27659d28fe6231e534ca376ea485ebc18d2aecbc8c5ddf7a",
+      "bytes": 1484
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "aa7ee700c4b78193dd3c21dd6c45d78afdd3f2aac2a13b8e2b530e7b5bf6bfb6",
+      "bytes": 1484
+    },
+    {
+      "path": "sitemap-1.xml",
+      "sha256": "64e1af66cb6cd85947ffb8e76059616d072903cc15e2c22dff5ef28796a87066",
+      "bytes": 1484
+    },
+    {
+      "path": "tablet.extract.json",
+      "sha256": "385148493f33d66d186103cf9a3e7a61ac10f67d36132f19acfd186711d637eb",
+      "bytes": 3407
+    },
+    {
+      "path": "tablet.http.json",
+      "sha256": "f6b0718970ef03ff6c248145d3980257169c88b96b536be6c566cc021e799004",
+      "bytes": 412
+    },
+    {
+      "path": "tablet.png",
+      "sha256": "29289b023ee151b0d879a1ed1e57b1c722334e6a48b01bbb3628e4bc0aee63f3",
+      "bytes": 9630
+    },
+    {
+      "path": "tablet.raw.body",
+      "sha256": "86da1ef674c68ded1ca85e2a842bd769778b213da88c5a9166ab5638ce6f8fb2",
+      "bytes": 1484
+    },
+    {
+      "path": "tablet.raw.extract.json",
+      "sha256": "4b7f26b49ef72fd2fb767c0daed920e8b57cce515d723b3b764556e14d2fc7b4",
+      "bytes": 853
+    },
+    {
+      "path": "tablet.raw.html",
+      "sha256": "86da1ef674c68ded1ca85e2a842bd769778b213da88c5a9166ab5638ce6f8fb2",
+      "bytes": 1484
+    },
+    {
+      "path": "tablet.rendered.html",
+      "sha256": "2e95860c01fb66c369e211e64ec7f994e5a0d072e4e649029ab20dfd76270779",
+      "bytes": 1479
+    }
+  ]
+}

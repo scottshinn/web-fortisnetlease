@@ -1,0 +1,936 @@
+{
+  "schema_version": 1,
+  "kind": "technical-audit",
+  "url": "https://www.hanleyinvestmentgroup.com/",
+  "findings": [
+    {
+      "code": "http-error",
+      "severity": "error",
+      "category": "crawl",
+      "message": "Document returns 403",
+      "evidence": "http.json",
+      "action": "Serve the intended status and content."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "raw: description missing",
+      "evidence": "raw.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "raw: 0 canonicals",
+      "evidence": "raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "raw: indexing restriction present",
+      "evidence": "raw.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "raw: 0 main landmarks",
+      "evidence": "raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:title missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:type missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:url missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "raw: og:image missing",
+      "evidence": "raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet-raw: description missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet-raw: 0 canonicals",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "tablet-raw: indexing restriction present",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet-raw: 0 main landmarks",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:title missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:type missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:url missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet-raw: og:image missing",
+      "evidence": "tablet.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile-raw: description missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile-raw: 0 canonicals",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "mobile-raw: indexing restriction present",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile-raw: 0 main landmarks",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:title missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:type missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:url missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile-raw: og:image missing",
+      "evidence": "mobile.raw.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: description missing",
+      "evidence": "desktop.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "desktop: 0 canonicals",
+      "evidence": "desktop.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "desktop: indexing restriction present",
+      "evidence": "desktop.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "desktop: 0 main landmarks",
+      "evidence": "desktop.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:title missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:type missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:url missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "desktop: og:image missing",
+      "evidence": "desktop.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "desktop: long tasks observed",
+      "evidence": "desktop.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: description missing",
+      "evidence": "tablet.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "tablet: 0 canonicals",
+      "evidence": "tablet.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "tablet: indexing restriction present",
+      "evidence": "tablet.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "tablet: 0 main landmarks",
+      "evidence": "tablet.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:title missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:type missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:url missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "tablet: og:image missing",
+      "evidence": "tablet.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "tablet: long tasks observed",
+      "evidence": "tablet.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "description-missing",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: description missing",
+      "evidence": "mobile.extract.json",
+      "action": "Add an accurate page summary."
+    },
+    {
+      "code": "canonical-count",
+      "severity": "warning",
+      "category": "metadata",
+      "message": "mobile: 0 canonicals",
+      "evidence": "mobile.extract.json",
+      "action": "Use one canonical for this indexable HTML page."
+    },
+    {
+      "code": "meta-noindex",
+      "severity": "warning",
+      "category": "indexing",
+      "message": "mobile: indexing restriction present",
+      "evidence": "mobile.extract.json",
+      "action": "Compare against intended indexing policy; retain intentional exclusions."
+    },
+    {
+      "code": "main-count",
+      "severity": "warning",
+      "category": "accessibility",
+      "message": "mobile: 0 main landmarks",
+      "evidence": "mobile.extract.json",
+      "action": "Expose one active main content landmark."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:title missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:type missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:url missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "og-missing",
+      "severity": "info",
+      "category": "social",
+      "message": "mobile: og:image missing",
+      "evidence": "mobile.extract.json",
+      "action": "Complete social sharing metadata if the page is shareable."
+    },
+    {
+      "code": "long-task-risk",
+      "severity": "info",
+      "category": "performance",
+      "message": "mobile: long tasks observed",
+      "evidence": "mobile.extract.json",
+      "action": "Profile main-thread work and test real interactions."
+    },
+    {
+      "code": "crawler-restriction",
+      "severity": "info",
+      "category": "agents",
+      "message": "GPTBot: disallow rule matches this URL",
+      "evidence": "controls.json",
+      "action": "Compare this rule with the owner’s intended policy; do not automatically enable crawlers."
+    },
+    {
+      "code": "crawler-restriction",
+      "severity": "info",
+      "category": "agents",
+      "message": "Google-Extended: disallow rule matches this URL",
+      "evidence": "controls.json",
+      "action": "Compare this rule with the owner’s intended policy; do not automatically enable crawlers."
+    },
+    {
+      "code": "sitemap-unavailable",
+      "severity": "info",
+      "category": "crawl",
+      "message": "Sitemap unavailable: https://www.hanleyinvestmentgroup.com/sitemap.xml",
+      "evidence": "controls.json",
+      "action": "Check the intended sitemap location; a missing default path is not proof that no sitemap exists."
+    },
+    {
+      "code": "llms-inventory",
+      "severity": "info",
+      "category": "agents",
+      "message": "llms.txt: absent or unavailable",
+      "evidence": "controls.json",
+      "action": "Treat this as optional agent-facing documentation; review content and links, not as an indexing control."
+    }
+  ],
+  "comparisons": [
+    {
+      "view": "desktop",
+      "raw_text_length": 761,
+      "rendered_text_length": 761,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": []
+    },
+    {
+      "view": "tablet",
+      "raw_text_length": 761,
+      "rendered_text_length": 761,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [],
+      "viewport_raw_differs": true
+    },
+    {
+      "view": "mobile",
+      "raw_text_length": 761,
+      "rendered_text_length": 761,
+      "title_changed": false,
+      "canonical_changed": false,
+      "h1_changed": false,
+      "jsonld_changed": false,
+      "internal_links_added": [],
+      "viewport_raw_differs": true
+    }
+  ],
+  "crawler_policy": {
+    "status": "observed",
+    "parsed": {
+      "groups": [
+        {
+          "agents": [
+            "*"
+          ],
+          "rules": [
+            {
+              "directive": "allow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "amazonbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "applebot-extended"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "bytespider"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "ccbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "claudebot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "diffbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "google-extended"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "gptbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "omgili"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "anthropic-ai"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "claude-web"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "cohere-ai"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "mistralai-training"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "meta-externalagent"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "googleother"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "baiduspider"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "petalbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "awariosmartbot",
+            "awariorssbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "google-cloudvertexbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "qualifiedbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "cotoyogi"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "icc-crawler"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "atlassian-bot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "fishbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "borderxbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "navubot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "semrushbot-swa"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "wardbot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "magpie-crawler"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "kimibot"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        },
+        {
+          "agents": [
+            "citibotsitecrawler"
+          ],
+          "rules": [
+            {
+              "directive": "disallow",
+              "path": "/"
+            }
+          ]
+        }
+      ],
+      "sitemaps": [],
+      "other": [
+        {
+          "directive": "content-signal",
+          "value": "search=yes,ai-train=no,use=reference"
+        }
+      ]
+    },
+    "agents": [
+      {
+        "agent": "Googlebot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "Bingbot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "OAI-SearchBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "GPTBot",
+        "decision": "disallow",
+        "matched_rule": {
+          "directive": "disallow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "ChatGPT-User",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "Google-Extended",
+        "decision": "disallow",
+        "matched_rule": {
+          "directive": "disallow",
+          "path": "/"
+        }
+      },
+      {
+        "agent": "PerplexityBot",
+        "decision": "allow",
+        "matched_rule": {
+          "directive": "allow",
+          "path": "/"
+        }
+      }
+    ]
+  },
+  "summary": {
+    "errors": 1,
+    "warnings": 24,
+    "info": 31,
+    "quality": "high-risk"
+  },
+  "coverage": {
+    "scope": "Captured URLs and explicitly bounded internal link checks only.",
+    "schema": "JSON syntax and shallow shape checks; not full Schema.org validation or rich-result eligibility.",
+    "accessibility": "Heuristic DOM checks; not WCAG conformance.",
+    "performance": "Unthrottled local laboratory observations; not field Core Web Vitals. No INP measurement.",
+    "rendering": "Initial HTML vs rendered DOM comparison cannot distinguish SSR from SSG or prove indexability.",
+    "manual_remaining": [
+      "Schema.org vocabulary and type-specific requirements",
+      "Structured data matches visible, verified facts",
+      "Canonical target and HTTP Link header consistency",
+      "Soft 404 and index-intent decisions",
+      "Agent-specific directives and crawler access",
+      "Keyboard, screen reader, contrast, zoom and interaction states",
+      "Field CWV and representative interaction performance"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Site Researcher"
+  short_description: "Capture websites into a searchable design rolodex"
+  default_prompt: "Use $site-researcher to inspect this URL and save its technical and design evidence to the repository rolodex."

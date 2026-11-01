@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "www-northmarq-com-d8ae6964c3",
+  "origin": "https://www.northmarq.com",
+  "created_at": "2026-11-01T06:50:47.579Z",
+  "updated_at": "2026-11-01T06:55:41.118Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-50-35-870Z-19ae6470",
+      "url": "https://www.northmarq.com/",
+      "captured_at": "2026-11-01T06:50:47.412Z",
+      "path": "evidence/www-northmarq-com-d8ae6964c3/2026-11-01T06-50-35-870Z-19ae6470/manifest.json",
+      "quality": "high-risk"
+    },
+    {
+      "id": "2026-11-01T06-55-12-677Z-ae75e7fb",
+      "url": "https://www.northmarq.com/",
+      "captured_at": "2026-11-01T06:55:40.710Z",
+      "path": "evidence/www-northmarq-com-d8ae6964c3/2026-11-01T06-55-12-677Z-ae75e7fb/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

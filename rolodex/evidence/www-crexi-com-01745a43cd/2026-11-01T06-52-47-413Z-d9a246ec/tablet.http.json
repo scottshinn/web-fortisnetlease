@@ -1,0 +1,18 @@
+{
+  "status": 403,
+  "url": "https://www.crexi.com/",
+  "headers": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare"
+  },
+  "redirects": [
+    {
+      "url": "https://www.crexi.com/",
+      "status": 403
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "ce55457ff1607431bcb4e1922e7156fc5bfd4e0fa3e2502c4d56af8bb9c7238d",
+  "body_bytes": 6289
+}

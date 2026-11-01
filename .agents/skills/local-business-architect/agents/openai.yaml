@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Business Architect"
+  short_description: "Plan truthful service and location page structures"
+  default_prompt: "Use $local-business-architect to plan a website architecture from these verified business facts."

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "www-matthews-com-c01eada2c8",
+  "origin": "https://www.matthews.com",
+  "created_at": "2026-11-01T06:53:56.809Z",
+  "updated_at": "2026-11-01T06:53:56.810Z",
+  "classification": {
+    "industry": [],
+    "style": [],
+    "technology": [],
+    "components": []
+  },
+  "design_notes": [],
+  "captures": [
+    {
+      "id": "2026-11-01T06-53-42-455Z-38a78fe8",
+      "url": "https://www.matthews.com/properties",
+      "captured_at": "2026-11-01T06:53:56.608Z",
+      "path": "evidence/www-matthews-com-c01eada2c8/2026-11-01T06-53-42-455Z-38a78fe8/manifest.json",
+      "quality": "high-risk"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "high-risk"
+}

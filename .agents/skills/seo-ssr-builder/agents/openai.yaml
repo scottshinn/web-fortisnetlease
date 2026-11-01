@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO and SSR Builder"
+  short_description: "Build crawlable sites from reviewed design systems"
+  default_prompt: "Use $seo-ssr-builder to build this website with initial HTML content and the supplied design system."

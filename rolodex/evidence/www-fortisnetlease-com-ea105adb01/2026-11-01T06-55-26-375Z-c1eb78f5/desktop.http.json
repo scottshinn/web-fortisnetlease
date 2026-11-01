@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "13322",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/42826>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=42826>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/careers/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/careers/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/commercial-real-estate-careers/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "6fa1b0f34ae4f9b55f59a42ce17f0d85ab276565fe3c7a94143a6ac83b369f4d",
+  "body_bytes": 50096
+}

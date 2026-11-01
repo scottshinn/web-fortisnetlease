@@ -1,0 +1,4973 @@
+{
+  "url": "https://atlanticretail.com/",
+  "base_url": "https://atlanticretail.com/",
+  "title": "Atlantic Retail - Retail Real Estate Brokerage",
+  "title_count": 4,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "theme-color": [
+      "#ffffff"
+    ],
+    "google-site-verification": [
+      "es2hx5s2bZMY3_A-1mtllTsVc-YatmfuOf_TvzoLf84"
+    ],
+    "robots": [
+      "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    ],
+    "description": [
+      "Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done."
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:title": [
+      "Home"
+    ],
+    "og:description": [
+      "Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done."
+    ],
+    "og:url": [
+      "https://atlanticretail.com/"
+    ],
+    "og:site_name": [
+      "Atlantic Retail"
+    ],
+    "article:modified_time": [
+      "2026-07-24T15:51:01+00:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "generator": [
+      "Site Kit by Google 1.190.0"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://atlanticretail.com/",
+      "url": "https://atlanticretail.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Commercial Real Estate Brokerage | Tenant & Landlord Representation",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Maximize your returns",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Find the right tenant",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Develop your strategy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "What we do",
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Tenant Representation",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Landlord Representation",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Portfolio Disposition",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "High Street & Urban",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Capital Markets",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Corporate Services",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Property Management",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "About Atlantic",
+      "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Where we are",
+      "selector": "div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "https://atlanticretail.com/opt-out-preferences/#cmplz-manage-consent-container",
+      "url": "https://atlanticretail.com/opt-out-preferences/#cmplz-manage-consent-container",
+      "text": "Manage options",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/opt-out-preferences/#cmplz-cookies-overview",
+      "url": "https://atlanticretail.com/opt-out-preferences/#cmplz-cookies-overview",
+      "text": "Manage services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/opt-out-preferences/#cmplz-tcf-wrapper",
+      "url": "https://atlanticretail.com/opt-out-preferences/#cmplz-tcf-wrapper",
+      "text": "Manage {vendor_count} vendors",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://cookiedatabase.org/tcf/purposes/",
+      "url": "https://cookiedatabase.org/tcf/purposes/",
+      "text": "Read more about these purposes",
+      "rel": "noopener noreferrer nofollow",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/opt-out-preferences/#cmplz-manage-consent-container",
+      "url": "https://atlanticretail.com/opt-out-preferences/#cmplz-manage-consent-container",
+      "text": "View preferences",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/opt-out-preferences/",
+      "url": "https://atlanticretail.com/opt-out-preferences/",
+      "text": "Opt-out preferences",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/privacy-statement-us/",
+      "url": "https://atlanticretail.com/privacy-statement-us/",
+      "text": "Privacy Statement",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "{title}",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#primary",
+      "url": "https://atlanticretail.com/#primary",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/portfolio-disposition/",
+      "url": "https://atlanticretail.com/services/portfolio-disposition/",
+      "text": "Portfolio Disposition",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/high-street-urban/",
+      "url": "https://atlanticretail.com/services/high-street-urban/",
+      "text": "High Street & Urban",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/corporate-services/",
+      "url": "https://atlanticretail.com/services/corporate-services/",
+      "text": "Corporate Services",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/services/property-management/",
+      "url": "https://atlanticretail.com/services/property-management/",
+      "text": "Property Management",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/tenant/",
+      "url": "https://atlanticretail.com/tenant/",
+      "text": "Tenants",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/buildout-listings/",
+      "url": "https://atlanticretail.com/buildout-listings/",
+      "text": "Leasing/Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://www.reverecre.com/atlantic-capital-partners",
+      "url": "https://www.reverecre.com/atlantic-capital-partners",
+      "text": "Investment",
+      "rel": "",
+      "internal": false,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com",
+      "url": "https://atlanticretail.com/",
+      "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondary-color { fill: #001f60; } .atlantic-logo-evenodd { fill-rule: evenodd; }",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/",
+      "url": "https://atlanticretail.com/about/",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/about/team/",
+      "url": "https://atlanticretail.com/about/team/",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/careers/",
+      "url": "https://atlanticretail.com/careers/",
+      "text": "Join Atlantic Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://atlanticretail.com/contact/",
+      "url": "https://atlanticretail.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/portfolio-disposition/",
+      "url": "https://atlanticretail.com/services/portfolio-disposition/",
+      "text": "Portfolio Disposition",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/high-street-urban/",
+      "url": "https://atlanticretail.com/services/high-street-urban/",
+      "text": "High Street & Urban",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/corporate-services/",
+      "url": "https://atlanticretail.com/services/corporate-services/",
+      "text": "Corporate Services",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/property-management/",
+      "url": "https://atlanticretail.com/services/property-management/",
+      "text": "Property Management",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/tenant/",
+      "url": "https://atlanticretail.com/tenant/",
+      "text": "Tenants",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Listings",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/buildout-listings/",
+      "url": "https://atlanticretail.com/buildout-listings/",
+      "text": "Leasing/Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.reverecre.com/atlantic-capital-partners",
+      "url": "https://www.reverecre.com/atlantic-capital-partners",
+      "text": "Investment",
+      "rel": "",
+      "internal": false,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/",
+      "url": "https://atlanticretail.com/about/",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/team/",
+      "url": "https://atlanticretail.com/about/team/",
+      "text": "Team",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/careers/",
+      "url": "https://atlanticretail.com/careers/",
+      "text": "Join Atlantic Retail",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/contact/",
+      "url": "https://atlanticretail.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Learn more about Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Learn more about Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Learn more about Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/tenant-representation/",
+      "url": "https://atlanticretail.com/services/tenant-representation/",
+      "text": "Tenant Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/landlord-representation/",
+      "url": "https://atlanticretail.com/services/landlord-representation/",
+      "text": "Landlord Representation",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/portfolio-disposition/",
+      "url": "https://atlanticretail.com/services/portfolio-disposition/",
+      "text": "Portfolio Disposition",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/high-street-urban/",
+      "url": "https://atlanticretail.com/services/high-street-urban/",
+      "text": "High Street & Urban",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/capital-markets/",
+      "url": "https://atlanticretail.com/services/capital-markets/",
+      "text": "Capital Markets",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/corporate-services/",
+      "url": "https://atlanticretail.com/services/corporate-services/",
+      "text": "Corporate Services",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/services/property-management/",
+      "url": "https://atlanticretail.com/services/property-management/",
+      "text": "Property Management",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/about/",
+      "url": "https://atlanticretail.com/about/",
+      "text": "About Atlantic",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8)",
+      "visible": true
+    },
+    {
+      "href": "/office/albany/",
+      "url": "https://atlanticretail.com/office/albany/",
+      "text": "Albany",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/office/atlanta/",
+      "url": "https://atlanticretail.com/office/atlanta/",
+      "text": "Atlanta",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/office/boston/",
+      "url": "https://atlanticretail.com/office/boston/",
+      "text": "Boston",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "/office/charlotte/",
+      "url": "https://atlanticretail.com/office/charlotte/",
+      "text": "Charlotte",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "/office/charleston/",
+      "url": "https://atlanticretail.com/office/charleston/",
+      "text": "Charleston",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "/office/los-angeles/",
+      "url": "https://atlanticretail.com/office/los-angeles/",
+      "text": "Los Angeles",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretailnyc.com",
+      "url": "https://atlanticretailnyc.com/",
+      "text": "New York City",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "/office/orlando/",
+      "url": "https://atlanticretail.com/office/orlando/",
+      "text": "Orlando",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(8)",
+      "visible": true
+    },
+    {
+      "href": "/office/pittsburgh/",
+      "url": "https://atlanticretail.com/office/pittsburgh/",
+      "text": "Pittsburgh",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(9)",
+      "visible": true
+    },
+    {
+      "href": "/office/west-palm-beach/",
+      "url": "https://atlanticretail.com/office/west-palm-beach/",
+      "text": "West Palm Beach",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(10)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com",
+      "url": "https://atlanticretail.com/",
+      "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondary-color { fill: #001f60; } .atlantic-logo-evenodd { fill-rule: evenodd; }",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/atlantic-retail-properties/",
+      "url": "https://www.linkedin.com/company/atlantic-retail-properties/",
+      "text": "LinkedIn logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/atlantic_retail/",
+      "url": "https://www.instagram.com/atlantic_retail/",
+      "text": "Instagram logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "http://realtyresources.org/",
+      "url": "http://realtyresources.org/",
+      "text": "Realty Resources Logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#realty-resources",
+      "visible": true
+    },
+    {
+      "href": "https://chainlinks.com/",
+      "url": "https://chainlinks.com/",
+      "text": "ChainLnks Retail Advisors Logo",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "#chainlinks",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/albany",
+      "url": "https://atlanticretail.com/office/albany",
+      "text": "ALBANY",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/atlanta",
+      "url": "https://atlanticretail.com/office/atlanta",
+      "text": "ATLANTA",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/boston",
+      "url": "https://atlanticretail.com/office/boston",
+      "text": "BOSTON",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/charleston",
+      "url": "https://atlanticretail.com/office/charleston",
+      "text": "CHARLESTON",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/charlotte",
+      "url": "https://atlanticretail.com/office/charlotte",
+      "text": "CHARLOTTE",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(5)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/los-angeles",
+      "url": "https://atlanticretail.com/office/los-angeles",
+      "text": "LOS ANGELES",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(6)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/new-york-city",
+      "url": "https://atlanticretail.com/office/new-york-city",
+      "text": "NEW YORK CITY",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(7)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/orlando",
+      "url": "https://atlanticretail.com/office/orlando",
+      "text": "ORLANDO",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(8)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/pittsburgh",
+      "url": "https://atlanticretail.com/office/pittsburgh",
+      "text": "PITTSBURGH",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(9)",
+      "visible": true
+    },
+    {
+      "href": "https://atlanticretail.com/office/west-palm-beach",
+      "url": "https://atlanticretail.com/office/west-palm-beach",
+      "text": "WEST PALM BEACH",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(10)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://atlanticretail.com/#",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://atlanticretail.com/wp-content/uploads/2024/12/Chainlinks-WHITE.png",
+      "alt": "ChainLnks Retail Advisors",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#cmplz-functional-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Functional"
+    },
+    {
+      "selector": "#cmplz-preferences-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Preferences"
+    },
+    {
+      "selector": "#cmplz-statistics-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Statistics"
+    },
+    {
+      "selector": "#cmplz-marketing-optout",
+      "name": null,
+      "type": "checkbox",
+      "label": "Marketing"
+    },
+    {
+      "selector": "header:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "s",
+      "type": "search",
+      "label": ""
+    },
+    {
+      "selector": "#search-mob-input",
+      "name": "s",
+      "type": "search",
+      "label": "Search"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/atlanticretail.com\\/\",\"url\":\"https:\\/\\/atlanticretail.com\\/\",\"name\":\"Atlantic Retail - Retail Real Estate Brokerage\",\"isPartOf\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#website\"},\"about\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#organization\"},\"datePublished\":\"2017-06-21T00:39:42+00:00\",\"dateModified\":\"2026-07-24T15:51:01+00:00\",\"description\":\"Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/atlanticretail.com\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#website\",\"url\":\"https:\\/\\/atlanticretail.com\\/\",\"name\":\"Atlantic Retail\",\"description\":\"A team of retail real estate professionals to help you get the right deals done\",\"publisher\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/atlanticretail.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"RealEstateAgent\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#organization\",\"name\":\"Atlantic Retail\",\"url\":\"https:\\/\\/atlanticretail.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/atlanticretail.com\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/atlanticretail.com\\/wp-content\\/uploads\\/2026\\/06\\/atlantic-retail-logo-wordmark-696.png\",\"contentUrl\":\"https:\\/\\/atlanticretail.com\\/wp-content\\/uploads\\/2026\\/06\\/atlantic-retail-logo-wordmark-696.png\",\"width\":696,\"height\":696,\"caption\":\"Atlantic Retail\"},\"image\":{\"@id\":\"https:\\/\\/atlanticretail.com\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.linkedin.com\\/company\\/atlantic-retail-properties\\/\",\"https:\\/\\/www.instagram.com\\/atlantic_retail\\/\"],\"telephone\":\"+1-617-239-3600\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"55 Huntington Avenue\",\"addressLocality\":\"Boston\",\"addressRegion\":\"MA\",\"postalCode\":\"02199\",\"addressCountry\":\"US\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":42.34731,\"longitude\":-71.08213}}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://atlanticretail.com/",
+            "url": "https://atlanticretail.com/",
+            "name": "Atlantic Retail - Retail Real Estate Brokerage",
+            "isPartOf": {
+              "@id": "https://atlanticretail.com/#website"
+            },
+            "about": {
+              "@id": "https://atlanticretail.com/#organization"
+            },
+            "datePublished": "2017-06-21T00:39:42+00:00",
+            "dateModified": "2026-07-24T15:51:01+00:00",
+            "description": "Everyone has the data; we know what to do with it. Trust our team for better intelligence, bolder judgment, and getting the right deals done.",
+            "breadcrumb": {
+              "@id": "https://atlanticretail.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://atlanticretail.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://atlanticretail.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://atlanticretail.com/#website",
+            "url": "https://atlanticretail.com/",
+            "name": "Atlantic Retail",
+            "description": "A team of retail real estate professionals to help you get the right deals done",
+            "publisher": {
+              "@id": "https://atlanticretail.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://atlanticretail.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "RealEstateAgent",
+            "@id": "https://atlanticretail.com/#organization",
+            "name": "Atlantic Retail",
+            "url": "https://atlanticretail.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://atlanticretail.com/#/schema/logo/image/",
+              "url": "https://atlanticretail.com/wp-content/uploads/2026/06/atlantic-retail-logo-wordmark-696.png",
+              "contentUrl": "https://atlanticretail.com/wp-content/uploads/2026/06/atlantic-retail-logo-wordmark-696.png",
+              "width": 696,
+              "height": 696,
+              "caption": "Atlantic Retail"
+            },
+            "image": {
+              "@id": "https://atlanticretail.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.linkedin.com/company/atlantic-retail-properties/",
+              "https://www.instagram.com/atlantic_retail/"
+            ],
+            "telephone": "+1-617-239-3600",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "55 Huntington Avenue",
+              "addressLocality": "Boston",
+              "addressRegion": "MA",
+              "postalCode": "02199",
+              "addressCountry": "US"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 42.34731,
+              "longitude": -71.08213
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 1,
+    "article": 0,
+    "section": 3,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Commercial Real Estate Brokerage | Tenant & Landlord Representation Capital Markets Maximize your returns Learn more about Capital Markets Landlord Representation Find the right tenant Learn more about Landlord Representation Tenant Representation Develop your strategy Learn more about Tenant Representation Atlantic Retail Services What we do Tenant Representation Landlord Representation Portfolio Disposition High Street & Urban Capital Markets Corporate Services Property Management About Atlantic Nationwide Coverage Where we are Albany Atlanta Boston Charlotte Charleston Los Angeles New York City Orlando Pittsburgh West Palm Beach",
+  "text_length": 639,
+  "iframes": [
+    {
+      "src": "https://atlanticretail.com/",
+      "title": ""
+    }
+  ],
+  "script_sources": [
+    "https://www.googletagmanager.com/gtm.js?id=GTM-M7SGP3JV",
+    "https://www.googletagmanager.com/gtag/js?id=G-EDSGQ8W29G&cx=c&gtm=4e6at0h2",
+    "https://diffuser-cdn.app-us1.com/diffuser/diffuser.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-M7SGP3JV",
+    "https://atlanticretail.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://atlanticretail.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.2.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.2.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=d7e103405223e60d2719f4c330fd11cf",
+    "https://prism.app-us1.com/?a=799142791&u=https%3A%2F%2Fatlanticretail.com%2F&t=5c362ee1-c182-483f-a36f-7ae6f39e557b",
+    "https://trackcmp.net/t_prism_sitemessages.php?trackid=799142791&prismid=5c362ee1-c182-483f-a36f-7ae6f39e557b&url=https%3A%2F%2Fatlanticretail.com%2F",
+    "https://static.hotjar.com/c/hotjar-916345.js?sv=6",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17992520532/?random=1793520123008&cv=11&fst=1793520123008&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&rcb=1&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=635599429.1793520115&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "https://prism.app-us1.com/?a=799142791&u=https%3A%2F%2Fatlanticretail.com%2F&t=5c362ee1-c182-483f-a36f-7ae6f39e557b",
+    "https://atlanticretail.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+    "https://atlanticretail.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "https://atlanticretail.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+    "https://atlanticretail.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=3.2.1",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=ddae8d403393f0e5eaeedeb511ce46e0",
+    "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f7ff0a7a4cbd950275384188b97da558",
+    "https://atlanticretail.com/wp-content/themes/ar/js/navigation.js?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/themes/ar/js/utm.js?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/themes/ar/js/init.js?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=7.1.4",
+    "https://atlanticretail.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1792605087",
+    "https://atlanticretail.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+  ],
+  "stylesheets": [
+    "https://atlanticretail.com/wp-content/themes/ar/style.css?ver=1.6.47",
+    "https://atlanticretail.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1792605087",
+    "https://atlanticretail.com/wp-content/uploads/complianz/css/banner-1-optout.css?ver=1792605094"
+  ],
+  "hreflang": [],
+  "visual": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll_width": 390,
+    "overflowing": [],
+    "css_variables": {
+      "--cmplz_title_font_size": "15px",
+      "--cmplz-manage-consent-height": "50px",
+      "--cmplz_category_header_title_font_size": "14px",
+      "--cmplz_button_settings_border_color": "#f2f2f2",
+      "--cmplz_button_font_size": "15px",
+      "--cmplz_button_accept_background_color": "#1E73BE",
+      "--cmplz_category_header_always_active_color": "green",
+      "--cmplz_link_font_size": "12px",
+      "--cmplz_slider_inactive_color": "#F56E28",
+      "--cmplz_banner_background_color": "#ffffff",
+      "--cmplz-manage-consent-offset": "-35px",
+      "--cmplz_text_font_size": "12px",
+      "--cmplz_button_accept_border_color": "#1E73BE",
+      "--cmplz_banner_margin": "10px",
+      "--cmplz_text_color": "#222222",
+      "--cmplz_banner_border_width": "0px 0px 0px 0px",
+      "--cmplz_button_border_radius": "6px 6px 6px 6px",
+      "--cmplz_button_deny_text_color": "#222222",
+      "--cmplz_banner_border_radius": "12px 12px 12px 12px",
+      "--cmplz_button_deny_border_color": "#f2f2f2",
+      "--cmplz_button_settings_text_color": "#333333",
+      "--cmplz_hyperlink_color": "#1E73BE",
+      "--cmplz_button_accept_text_color": "#ffffff",
+      "--cmplz_banner_border_color": "#f2f2f2",
+      "--cmplz_slider_bullet_color": "#ffffff",
+      "--cmplz_category_header_active_font_size": "12px",
+      "--cmplz_banner_width": "526px",
+      "--cmplz_button_settings_background_color": "#f9f9f9",
+      "--cmplz_slider_active_color": "#1e73be",
+      "--cmplz_button_deny_background_color": "#f9f9f9",
+      "--cmplz_categories-height": "216px",
+      "--cmplz_text_line_height": "calc(12px * 1.5)",
+      "--cmplz_category_body_font_size": "12px"
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to proces",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "Accept",
+        "rect": {
+          "x": 20,
+          "y": 753.796875,
+          "width": 350,
+          "height": 45
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(30, 115, 190)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "15px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "10px",
+          "padding-bottom": "10px",
+          "padding-left": "10px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "6px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Opt-out preferences",
+        "rect": {
+          "x": 68.875,
+          "y": 811.796875,
+          "width": 122.296875,
+          "height": 15
+        },
+        "styles": {
+          "color": "rgb(30, 115, 190)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Statement",
+        "rect": {
+          "x": 201.171875,
+          "y": 811.796875,
+          "width": 109.953125,
+          "height": 15
+        },
+        "styles": {
+          "color": "rgb(30, 115, 190)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "12px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Skip to content",
+        "rect": {
+          "x": -1,
+          "y": -1,
+          "width": 1,
+          "height": 1
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "-1px",
+          "margin-bottom": "-1px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#masthead",
+        "tag": "header",
+        "text": "Services Tenant RepresentationLandlord RepresentationPortfolio DispositionHigh Street & UrbanCapital MarketsCorporate ServicesProperty Management Tenants Listings Leasing/SalesInve",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 62.5
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "rgba(0, 0, 0, 0.3) 0px 26px 34px -32px",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondar",
+        "rect": {
+          "x": 42.53499984741211,
+          "y": 8,
+          "width": 150,
+          "height": 45.5
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "600",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > nav:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "Main Menu",
+        "rect": {
+          "x": 354,
+          "y": 26.25,
+          "width": 20,
+          "height": 15
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "0px",
+          "font-weight": "500",
+          "line-height": "0px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "6px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Services",
+        "rect": {
+          "x": 32,
+          "y": 61.5,
+          "width": 108.46875,
+          "height": 49.203125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "19.2px",
+          "letter-spacing": "1px",
+          "padding-top": "15px",
+          "padding-right": "20px",
+          "padding-bottom": "15px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Tenant Representation",
+        "rect": {
+          "x": 32,
+          "y": 110.703125,
+          "width": 183.25,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Landlord Representation",
+        "rect": {
+          "x": 32,
+          "y": 147.703125,
+          "width": 199.625,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Portfolio Disposition",
+        "rect": {
+          "x": 32,
+          "y": 184.703125,
+          "width": 162.453125,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "High Street & Urban",
+        "rect": {
+          "x": 32,
+          "y": 221.703125,
+          "width": 160.765625,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Capital Markets",
+        "rect": {
+          "x": 32,
+          "y": 258.703125,
+          "width": 124,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Corporate Services",
+        "rect": {
+          "x": 32,
+          "y": 295.703125,
+          "width": 148.921875,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Property Management",
+        "rect": {
+          "x": 32,
+          "y": 332.703125,
+          "width": 182.890625,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Tenants",
+        "rect": {
+          "x": 32,
+          "y": 110.703125,
+          "width": 104,
+          "height": 49.203125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "19.2px",
+          "letter-spacing": "1px",
+          "padding-top": "15px",
+          "padding-right": "20px",
+          "padding-bottom": "15px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Listings",
+        "rect": {
+          "x": 32,
+          "y": 159.90625,
+          "width": 101.875,
+          "height": 49.203125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "19.2px",
+          "letter-spacing": "1px",
+          "padding-top": "15px",
+          "padding-right": "20px",
+          "padding-bottom": "15px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Leasing/Sales",
+        "rect": {
+          "x": 32,
+          "y": 209.109375,
+          "width": 108.15625,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Investment",
+        "rect": {
+          "x": 32,
+          "y": 246.109375,
+          "width": 91.84375,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "About",
+        "rect": {
+          "x": 32,
+          "y": 209.109375,
+          "width": 84.109375,
+          "height": 49.203125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "19.2px",
+          "letter-spacing": "1px",
+          "padding-top": "15px",
+          "padding-right": "20px",
+          "padding-bottom": "15px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Team",
+        "rect": {
+          "x": 32,
+          "y": 258.3125,
+          "width": 44.15625,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Join Atlantic Retail",
+        "rect": {
+          "x": 32,
+          "y": 295.3125,
+          "width": 149.265625,
+          "height": 32
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "28px",
+          "letter-spacing": "normal",
+          "padding-top": "2px",
+          "padding-right": "0px",
+          "padding-bottom": "2px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Contact",
+        "rect": {
+          "x": 32,
+          "y": 258.3125,
+          "width": 105.203125,
+          "height": 49.203125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "500",
+          "line-height": "19.2px",
+          "letter-spacing": "1px",
+          "padding-top": "15px",
+          "padding-right": "20px",
+          "padding-bottom": "15px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1)",
+        "tag": "main",
+        "text": "Commercial Real Estate Brokerage | Tenant & Landlord Representation Capital Markets Maximize your returns Learn more about Capital Markets Landlord Representation Find the right te",
+        "rect": {
+          "x": 0,
+          "y": 62.5,
+          "width": 390,
+          "height": 2208.203125
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "Commercial Real Estate Brokerage | Tenant & Landlord Representation",
+        "rect": {
+          "x": -1,
+          "y": 61.5,
+          "width": 1,
+          "height": 1
+        },
+        "styles": {
+          "color": "rgb(0, 93, 171)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Lora, Georgia, serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "-1px",
+          "margin-bottom": "-1px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#hero",
+        "tag": "section",
+        "text": "Capital Markets Maximize your returns Learn more about Capital Markets Landlord Representation Find the right tenant Learn more about Landlord Representation Tenant Representation ",
+        "rect": {
+          "x": 0,
+          "y": 62.5,
+          "width": 390,
+          "height": 717.390625
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Maximize your returns",
+        "rect": {
+          "x": 16,
+          "y": 555.09375,
+          "width": 360,
+          "height": 96
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Lora, Georgia, serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "30.4px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "370px",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Learn more about Capital Markets",
+        "rect": {
+          "x": 16,
+          "y": 669.484375,
+          "width": 143.09375,
+          "height": 42
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "9px",
+          "padding-right": "18px",
+          "padding-bottom": "9px",
+          "padding-left": "18px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "370px",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Find the right tenant",
+        "rect": {
+          "x": -44,
+          "y": 555.09375,
+          "width": 370,
+          "height": 96
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Lora, Georgia, serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "30.4px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "370px",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Learn more about Landlord Representation",
+        "rect": {
+          "x": -44,
+          "y": 669.484375,
+          "width": 143.09375,
+          "height": 42
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "9px",
+          "padding-right": "18px",
+          "padding-bottom": "9px",
+          "padding-left": "18px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "370px",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Develop your strategy",
+        "rect": {
+          "x": -44,
+          "y": 555.09375,
+          "width": 370,
+          "height": 96
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Lora, Georgia, serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "30.4px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "370px",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Learn more about Tenant Representation",
+        "rect": {
+          "x": -44,
+          "y": 669.484375,
+          "width": 143.09375,
+          "height": 42
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "18px",
+          "font-weight": "500",
+          "line-height": "18px",
+          "letter-spacing": "normal",
+          "padding-top": "9px",
+          "padding-right": "18px",
+          "padding-bottom": "9px",
+          "padding-left": "18px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "370px",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "rect": {
+          "x": 80,
+          "y": 751.890625,
+          "width": 70,
+          "height": 4
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "0px",
+          "font-weight": "500",
+          "line-height": "0px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "rect": {
+          "x": 160,
+          "y": 751.890625,
+          "width": 70,
+          "height": 4
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "0px",
+          "font-weight": "500",
+          "line-height": "0px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "4px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > button:nth-of-type(1)",
+        "tag": "button",
+        "text": "",
+        "rect": {
+          "x": 240,
+          "y": 751.890625,
+          "width": 70,
+          "height": 4
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "0px",
+          "font-weight": "500",
+          "line-height": "0px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "4px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2)",
+        "tag": "section",
+        "text": "Atlantic Retail Services What we do Tenant Representation Landlord Representation Portfolio Disposition High Street & Urban Capital Markets Corporate Services Property Management A",
+        "rect": {
+          "x": 0,
+          "y": 779.890625,
+          "width": 390,
+          "height": 999.203125
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "64px",
+          "padding-right": "16px",
+          "padding-bottom": "64px",
+          "padding-left": "16px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "What we do",
+        "rect": {
+          "x": 16,
+          "y": 864.09375,
+          "width": 358,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Lora, Georgia, serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "16px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Tenant Representation",
+        "rect": {
+          "x": 16,
+          "y": 979.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "Tenant Representation",
+        "rect": {
+          "x": 25,
+          "y": 1088.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "Landlord Representation",
+        "rect": {
+          "x": 214.53125,
+          "y": 979.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "Landlord Representation",
+        "rect": {
+          "x": 223.53125,
+          "y": 1088.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "Portfolio Disposition",
+        "rect": {
+          "x": 16,
+          "y": 1169.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "Portfolio Disposition",
+        "rect": {
+          "x": 25,
+          "y": 1278.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+        "tag": "a",
+        "text": "High Street & Urban",
+        "rect": {
+          "x": 214.53125,
+          "y": 1169.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "High Street & Urban",
+        "rect": {
+          "x": 223.53125,
+          "y": 1278.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5)",
+        "tag": "a",
+        "text": "Capital Markets",
+        "rect": {
+          "x": 16,
+          "y": 1359.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "Capital Markets",
+        "rect": {
+          "x": 25,
+          "y": 1468.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6)",
+        "tag": "a",
+        "text": "Corporate Services",
+        "rect": {
+          "x": 214.53125,
+          "y": 1359.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "Corporate Services",
+        "rect": {
+          "x": 223.53125,
+          "y": 1468.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7)",
+        "tag": "a",
+        "text": "Property Management",
+        "rect": {
+          "x": 16,
+          "y": 1549.09375,
+          "width": 174.53125,
+          "height": 166
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "Property Management",
+        "rect": {
+          "x": 25,
+          "y": 1658.09375,
+          "width": 156.53125,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8)",
+        "tag": "a",
+        "text": "About Atlantic",
+        "rect": {
+          "x": 214.53125,
+          "y": 1549.09375,
+          "width": 174.53125,
+          "height": 146
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "16px",
+          "padding-right": "8px",
+          "padding-bottom": "16px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "16px",
+          "border-radius": "8px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8) > h3:nth-of-type(1)",
+        "tag": "h3",
+        "text": "About Atlantic",
+        "rect": {
+          "x": 228.0625,
+          "y": 1658.09375,
+          "width": 147.453125,
+          "height": 20
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "20px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3)",
+        "tag": "section",
+        "text": "Nationwide Coverage Where we are Albany Atlanta Boston Charlotte Charleston Los Angeles New York City Orlando Pittsburgh West Palm Beach",
+        "rect": {
+          "x": 0,
+          "y": 1779.09375,
+          "width": 390,
+          "height": 491.609375
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "64px",
+          "padding-right": "16px",
+          "padding-bottom": "64px",
+          "padding-left": "16px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Where we are",
+        "rect": {
+          "x": 39.78125,
+          "y": 1863.296875,
+          "width": 310.421875,
+          "height": 48
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Lora, Georgia, serif",
+          "font-size": "48px",
+          "font-weight": "400",
+          "line-height": "48px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "16px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Albany",
+        "rect": {
+          "x": 273.92218017578125,
+          "y": 2066.142333984375,
+          "width": 42.804168701171875,
+          "height": 22.507568359375
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "Atlanta",
+        "rect": {
+          "x": 220.49696350097656,
+          "y": 2149.880859375,
+          "width": 39.15715026855469,
+          "height": 41.2685546875
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "Boston",
+        "rect": {
+          "x": 330.2906188964844,
+          "y": 2076.827392578125,
+          "width": 43.635955810546875,
+          "height": 13.933837890625
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(4)",
+        "tag": "a",
+        "text": "Charlotte",
+        "rect": {
+          "x": 277.95306396484375,
+          "y": 2138.6201171875,
+          "width": 54.448974609375,
+          "height": 10.844970703125
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(5)",
+        "tag": "a",
+        "text": "Charleston",
+        "rect": {
+          "x": 277.95306396484375,
+          "y": 2151.864501953125,
+          "width": 59.247650146484375,
+          "height": 12.31640625
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(6)",
+        "tag": "a",
+        "text": "Los Angeles",
+        "rect": {
+          "x": 16.00946617126465,
+          "y": 2138.826416015625,
+          "width": 52.27355194091797,
+          "height": 8.17529296875
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(7)",
+        "tag": "a",
+        "text": "New York City",
+        "rect": {
+          "x": 314.4869689941406,
+          "y": 2096.647705078125,
+          "width": 59.842529296875,
+          "height": 14.075927734375
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(8)",
+        "tag": "a",
+        "text": "Orlando",
+        "rect": {
+          "x": 272.2586364746094,
+          "y": 2174.33642578125,
+          "width": 39.28515625,
+          "height": 8.239501953125
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(9)",
+        "tag": "a",
+        "text": "Pittsburgh",
+        "rect": {
+          "x": 284.8631591796875,
+          "y": 2102.342041015625,
+          "width": 58.808441162109375,
+          "height": 26.168701171875
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(10)",
+        "tag": "a",
+        "text": "West Palm Beach",
+        "rect": {
+          "x": 279.1047668457031,
+          "y": 2185.21337890625,
+          "width": 68.97293090820312,
+          "height": 8.239501953125
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0.3s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondar",
+        "rect": {
+          "x": 0,
+          "y": 2270.703125,
+          "width": 390,
+          "height": 383.15625
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(0, 31, 96)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "32px",
+          "padding-right": "16px",
+          "padding-bottom": "32px",
+          "padding-left": "16px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondar",
+        "rect": {
+          "x": 16,
+          "y": 2341.4375,
+          "width": 200,
+          "height": 19
+        },
+        "styles": {
+          "color": "rgb(65, 105, 225)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 16,
+          "y": 2392.640625,
+          "width": 30,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 62,
+          "y": 2392.640625,
+          "width": 30,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#realty-resources",
+        "tag": "a",
+        "text": "Realty Resources Logo",
+        "rect": {
+          "x": 108,
+          "y": 2392.640625,
+          "width": 150,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#chainlinks",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 274,
+          "y": 2392.640625,
+          "width": 100,
+          "height": 30
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "8px",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "100px",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "ALBANY | ATLANTA | BOSTON | CHARLESTON | CHARLOTTE | LOS ANGELES | NEW YORK CITY | ORLANDO | PITTSBURGH | WEST PALM BEACH",
+        "rect": {
+          "x": 16,
+          "y": 2467.640625,
+          "width": 358,
+          "height": 96.015625
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "19.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "12px",
+          "margin-bottom": "12px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "ALBANY",
+        "rect": {
+          "x": 16,
+          "y": 2467.640625,
+          "width": 75.609375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "ATLANTA",
+        "rect": {
+          "x": 103.0625,
+          "y": 2467.640625,
+          "width": 81.890625,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "text": "BOSTON",
+        "rect": {
+          "x": 196.40625,
+          "y": 2467.640625,
+          "width": 78.125,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "text": "CHARLESTON",
+        "rect": {
+          "x": 16,
+          "y": 2486.84375,
+          "width": 115.234375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "text": "CHARLOTTE",
+        "rect": {
+          "x": 142.6875,
+          "y": 2486.84375,
+          "width": 103.484375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(6)",
+        "tag": "a",
+        "text": "LOS ANGELES",
+        "rect": {
+          "x": 16,
+          "y": 2506.046875,
+          "width": 116.546875,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(7)",
+        "tag": "a",
+        "text": "NEW YORK CITY",
+        "rect": {
+          "x": 144,
+          "y": 2506.046875,
+          "width": 132.046875,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(8)",
+        "tag": "a",
+        "text": "ORLANDO",
+        "rect": {
+          "x": 16,
+          "y": 2525.25,
+          "width": 91.203125,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(9)",
+        "tag": "a",
+        "text": "PITTSBURGH",
+        "rect": {
+          "x": 118.65625,
+          "y": 2525.25,
+          "width": 109.484375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(10)",
+        "tag": "a",
+        "text": "WEST PALM BEACH",
+        "rect": {
+          "x": 16,
+          "y": 2544.453125,
+          "width": 158.09375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "500",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "© 2026 ATLANTIC RETAIL | Privacy Policy",
+        "rect": {
+          "x": 16,
+          "y": 2575.65625,
+          "width": 358,
+          "height": 18.203125
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "12px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "12px",
+          "margin-bottom": "12px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 202.40625,
+          "y": 2575.65625,
+          "width": 134.375,
+          "height": 18
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Montserrat, Arial, sans-serif",
+          "font-size": "14px",
+          "font-weight": "400",
+          "line-height": "18.2px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "8px",
+          "padding-bottom": "0px",
+          "padding-left": "8px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "selector": "#masthead",
+        "tag": "header",
+        "heading": "",
+        "text_excerpt": "Services Tenant RepresentationLandlord RepresentationPortfolio DispositionHigh Street & UrbanCapital MarketsCorporate ServicesProperty Management Tenants Listings Leasing/SalesInvestment Atlantic Retail Logo Atlantic Ret",
+        "children": 2,
+        "rect": {
+          "y": 0,
+          "height": 62.5
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "heading": "",
+        "text_excerpt": "Commercial Real Estate Brokerage | Tenant & Landlord Representation",
+        "children": 0,
+        "rect": {
+          "y": 61.5,
+          "height": 1
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "heading": "Maximize your returns",
+        "text_excerpt": "Capital Markets Maximize your returns Learn more about Capital Markets Landlord Representation Find the right tenant Learn more about Landlord Representation Tenant Representation Develop your strategy Learn more about T",
+        "children": 3,
+        "rect": {
+          "y": 62.5,
+          "height": 2208.203125
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "heading": "",
+        "text_excerpt": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondary-color { fill: #001f60; } .atlantic-log",
+        "children": 2,
+        "rect": {
+          "y": 2270.703125,
+          "height": 383.15625
+        },
+        "layout": "block"
+      }
+    ],
+    "controls": [
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+        "tag": "div",
+        "role": "button",
+        "name": "Close dialog",
+        "width": 20,
+        "height": 20,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Accept",
+        "width": 350,
+        "height": 45,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Opt-out preferences",
+        "width": 122.296875,
+        "height": 15,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Statement",
+        "width": 109.953125,
+        "height": 15,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Skip to content",
+        "width": 1,
+        "height": 1,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "link",
+        "name": "Atlantic Retail Logo",
+        "width": 150,
+        "height": 45.5,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1) > nav:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Main Menu",
+        "width": 20,
+        "height": 15,
+        "tabindex": null,
+        "expanded": "false"
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Services",
+        "width": 108.46875,
+        "height": 49.203125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Tenant Representation",
+        "width": 183.25,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Landlord Representation",
+        "width": 199.625,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Portfolio Disposition",
+        "width": 162.453125,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "High Street & Urban",
+        "width": 160.765625,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Capital Markets",
+        "width": 124,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Corporate Services",
+        "width": 148.921875,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Property Management",
+        "width": 182.890625,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Tenants",
+        "width": 104,
+        "height": 49.203125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Listings",
+        "width": 101.875,
+        "height": 49.203125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Leasing/Sales",
+        "width": 108.15625,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Investment",
+        "width": 91.84375,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "About",
+        "width": 84.109375,
+        "height": 49.203125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Team",
+        "width": 44.15625,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Join Atlantic Retail",
+        "width": 149.265625,
+        "height": 32,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Contact",
+        "width": 105.203125,
+        "height": 49.203125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#search-mob-input",
+        "tag": "input",
+        "role": null,
+        "name": "",
+        "width": 370,
+        "height": 41.203125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Learn more about Capital Markets",
+        "width": 143.09375,
+        "height": 42,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Learn more about Landlord Representation",
+        "width": 143.09375,
+        "height": 42,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Learn more about Tenant Representation",
+        "width": 143.09375,
+        "height": 42,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Slide 1",
+        "width": 70,
+        "height": 4,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Slide 2",
+        "width": 70,
+        "height": 4,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > button:nth-of-type(1)",
+        "tag": "button",
+        "role": null,
+        "name": "Slide 3",
+        "width": 70,
+        "height": 4,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Tenant Representation",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "Landlord Representation",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "tag": "a",
+        "role": null,
+        "name": "Portfolio Disposition",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+        "tag": "a",
+        "role": null,
+        "name": "High Street & Urban",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5)",
+        "tag": "a",
+        "role": null,
+        "name": "Capital Markets",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(6)",
+        "tag": "a",
+        "role": null,
+        "name": "Corporate Services",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(7)",
+        "tag": "a",
+        "role": null,
+        "name": "Property Management",
+        "width": 174.53125,
+        "height": 166,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(8)",
+        "tag": "a",
+        "role": null,
+        "name": "About Atlantic",
+        "width": 174.53125,
+        "height": 146,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Albany",
+        "width": 42.804168701171875,
+        "height": 22.507568359375,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "Atlanta",
+        "width": 39.15715026855469,
+        "height": 41.2685546875,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(3)",
+        "tag": "a",
+        "role": null,
+        "name": "Boston",
+        "width": 43.635955810546875,
+        "height": 13.933837890625,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(4)",
+        "tag": "a",
+        "role": null,
+        "name": "Charlotte",
+        "width": 54.448974609375,
+        "height": 10.844970703125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(5)",
+        "tag": "a",
+        "role": null,
+        "name": "Charleston",
+        "width": 59.247650146484375,
+        "height": 12.31640625,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(6)",
+        "tag": "a",
+        "role": null,
+        "name": "Los Angeles",
+        "width": 52.27355194091797,
+        "height": 8.17529296875,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(7)",
+        "tag": "a",
+        "role": null,
+        "name": "New York City",
+        "width": 59.842529296875,
+        "height": 14.075927734375,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(8)",
+        "tag": "a",
+        "role": null,
+        "name": "Orlando",
+        "width": 39.28515625,
+        "height": 8.239501953125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(9)",
+        "tag": "a",
+        "role": null,
+        "name": "Pittsburgh",
+        "width": 58.808441162109375,
+        "height": 26.168701171875,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > svg:nth-of-type(1) > g:nth-of-type(1) > g:nth-of-type(2) > a:nth-of-type(10)",
+        "tag": "a",
+        "role": null,
+        "name": "West Palm Beach",
+        "width": 68.97293090820312,
+        "height": 8.239501953125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Atlantic Retail Logo Atlantic Retail Properties company logo featuring wave design elements and company name .atlantic-logo-primary-color { fill: #0055b8; } .atlantic-logo-secondary-color { fill: #001f60; } .atlantic-logo-evenodd { fill-rule: evenodd; }",
+        "width": 200,
+        "height": 19,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "LinkedIn logo",
+        "width": 30,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "Instagram logo",
+        "width": 30,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#realty-resources",
+        "tag": "a",
+        "role": null,
+        "name": "Realty Resources logo",
+        "width": 150,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#chainlinks",
+        "tag": "a",
+        "role": null,
+        "name": "ChainLnks Retail Advisors Logo",
+        "width": 100,
+        "height": 30,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "ALBANY",
+        "width": 75.609375,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "ATLANTA",
+        "width": 81.890625,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "role": null,
+        "name": "BOSTON",
+        "width": 78.125,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "role": null,
+        "name": "CHARLESTON",
+        "width": 115.234375,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "role": null,
+        "name": "CHARLOTTE",
+        "width": 103.484375,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(6)",
+        "tag": "a",
+        "role": null,
+        "name": "LOS ANGELES",
+        "width": 116.546875,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(7)",
+        "tag": "a",
+        "role": null,
+        "name": "NEW YORK CITY",
+        "width": 132.046875,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(8)",
+        "tag": "a",
+        "role": null,
+        "name": "ORLANDO",
+        "width": 91.203125,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(9)",
+        "tag": "a",
+        "role": null,
+        "name": "PITTSBURGH",
+        "width": 109.484375,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > a:nth-of-type(10)",
+        "tag": "a",
+        "role": null,
+        "name": "WEST PALM BEACH",
+        "width": 158.09375,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Policy",
+        "width": 134.375,
+        "height": 18,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 66.6999999997206,
+      "dom_content_loaded_ms": 203.29999999981374,
+      "load_ms": 1193.5999999996275
+    },
+    "resources": [
+      {
+        "url": "https://atlanticretail.com/wp-content/themes/ar/style.css?ver=1.6.47",
+        "type": "link",
+        "duration_ms": 1.3000000002793968,
+        "transfer_bytes": 0,
+        "decoded_bytes": 149178
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1792605087",
+        "type": "link",
+        "duration_ms": 1.7999999998137355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2782
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/uploads/complianz/css/banner-1-optout.css?ver=1792605094",
+        "type": "link",
+        "duration_ms": 1.8999999999068677,
+        "transfer_bytes": 0,
+        "decoded_bytes": 17794
+      },
+      {
+        "url": "https://atlanticretail.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "type": "script",
+        "duration_ms": 2.7999999998137355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 13577
+      },
+      {
+        "url": "https://atlanticretail.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "type": "script",
+        "duration_ms": 2.8999999999068677,
+        "transfer_bytes": 0,
+        "decoded_bytes": 87553
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.2.1",
+        "type": "script",
+        "duration_ms": 26,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1823
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.2.1",
+        "type": "script",
+        "duration_ms": 26.199999999720603,
+        "transfer_bytes": 0,
+        "decoded_bytes": 42279
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/uploads/2024/12/Chainlinks-WHITE.png.webp",
+        "type": "img",
+        "duration_ms": 2.8000000002793968,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2226
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=d7e103405223e60d2719f4c330fd11cf",
+        "type": "script",
+        "duration_ms": 26.90000000037253,
+        "transfer_bytes": 0,
+        "decoded_bytes": 60885
+      },
+      {
+        "url": "https://atlanticretail.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+        "type": "script",
+        "duration_ms": 2.7000000001862645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 881
+      },
+      {
+        "url": "https://atlanticretail.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "type": "script",
+        "duration_ms": 4.600000000093132,
+        "transfer_bytes": 0,
+        "decoded_bytes": 5107
+      },
+      {
+        "url": "https://atlanticretail.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "type": "script",
+        "duration_ms": 8.600000000093132,
+        "transfer_bytes": 0,
+        "decoded_bytes": 5791
+      },
+      {
+        "url": "https://atlanticretail.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d",
+        "type": "script",
+        "duration_ms": 9.399999999906868,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2616
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=3.2.1",
+        "type": "script",
+        "duration_ms": 27.700000000186265,
+        "transfer_bytes": 0,
+        "decoded_bytes": 4639
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=ddae8d403393f0e5eaeedeb511ce46e0",
+        "type": "script",
+        "duration_ms": 28.899999999906868,
+        "transfer_bytes": 0,
+        "decoded_bytes": 79896
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/themes/ar/js/navigation.js?ver=1.6.47",
+        "type": "script",
+        "duration_ms": 22.100000000093132,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2981
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/themes/ar/js/utm.js?ver=1.6.47",
+        "type": "script",
+        "duration_ms": 23.299999999813735,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1481
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/themes/ar/js/init.js?ver=1.6.47",
+        "type": "script",
+        "duration_ms": 23.699999999720603,
+        "transfer_bytes": 0,
+        "decoded_bytes": 18751
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=7.1.4",
+        "type": "script",
+        "duration_ms": 24.299999999813735,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1403
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f7ff0a7a4cbd950275384188b97da558",
+        "type": "script",
+        "duration_ms": 28.899999999906868,
+        "transfer_bytes": 0,
+        "decoded_bytes": 90016
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+        "type": "script",
+        "duration_ms": 28.399999999906868,
+        "transfer_bytes": 0,
+        "decoded_bytes": 8892
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1792605087",
+        "type": "script",
+        "duration_ms": 28.299999999813735,
+        "transfer_bytes": 0,
+        "decoded_bytes": 46224
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M7SGP3JV",
+        "type": "script",
+        "duration_ms": 24.899999999906868,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+        "type": "script",
+        "duration_ms": 7.7999999998137355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://atlanticretail.com/ui/svg/sprites.svg#sprite-menu",
+        "type": "other",
+        "duration_ms": 7.100000000093132,
+        "transfer_bytes": 0,
+        "decoded_bytes": 6335
+      },
+      {
+        "url": "https://diffuser-cdn.app-us1.com/diffuser/diffuser.js",
+        "type": "script",
+        "duration_ms": 69.1999999997206,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/uploads/2025/12/Teaser-with-cars-copy-2-1536x908.jpg",
+        "type": "css",
+        "duration_ms": 0.8999999999068677,
+        "transfer_bytes": 0,
+        "decoded_bytes": 454442
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/themes/ar/sass/base/fonts/Montserrat/Montserrat-VariableFont_wght.ttf",
+        "type": "css",
+        "duration_ms": 1,
+        "transfer_bytes": 0,
+        "decoded_bytes": 688600
+      },
+      {
+        "url": "https://atlanticretail.com/wp-content/themes/ar/sass/base/fonts/Lora/Lora-VariableFont_wght.ttf",
+        "type": "css",
+        "duration_ms": 1.2999999998137355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 210884
+      },
+      {
+        "url": "https://atlanticretail.com/wp-json/complianz/v1/banner?lang=en&locale=en_US&token=hwuoi",
+        "type": "xmlhttprequest",
+        "duration_ms": 728.3999999999069,
+        "transfer_bytes": 383,
+        "decoded_bytes": 103
+      },
+      {
+        "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1809754&time=1793520122313&li_adsId=ebeb64a6-fe10-49e4-82c3-64efd6d66117&pageLoadId=2757560c-f2a6-490f-844c-5ad482d4e108&url=https%3A%2F%2Fatlanticretail.com%2F",
+        "type": "img",
+        "duration_ms": 628.2999999998137,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-EDSGQ8W29G&cx=c&gtm=4e6at0h2",
+        "type": "script",
+        "duration_ms": 2.1000000000931323,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://prism.app-us1.com/?a=799142791&u=https%3A%2F%2Fatlanticretail.com%2F&t=5c362ee1-c182-483f-a36f-7ae6f39e557b",
+        "type": "script",
+        "duration_ms": 519.3000000002794,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-EDSGQ8W29G&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xf1&_p=1793520122173&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&ecid=1235204164&_eu=AAAAAGAC&are=1&cid=1055710559.1793520122&ec_mode=a&frm=0&pscdl=denied&rcb=1&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121246026~121246034~123636746~123691370~123814185&sid=1793520122&sct=1&seg=0&dl=https%3A%2F%2Fatlanticretail.com%2F&dt=Atlantic%20Retail%20-%20Retail%20Real%20Estate%20Brokerage&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=403",
+        "type": "fetch",
+        "duration_ms": 106.39999999990687,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=1&frm=0&apvc=1&tid=AW-17992520532&en=page_view&dl=https%3A%2F%2Fatlanticretail.com%2F&scrsrc=www.googletagmanager.com&rnd=937868738.1793520122&navt=n&npa=1&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121246026~121246034~123636746~123691370~123814185&tft=1793520122508&tfd=415&tids=AW-17992520532&fmt=8",
+        "type": "fetch",
+        "duration_ms": 109.20000000018626,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-EDSGQ8W29G&gtm=45je6at0h2v9246569362z89246552625za20gzb9246552625zd9246552625xf1&_p=1793520122173&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&ecid=1235204164&_eu=AAAAAGAC&are=1&cid=1055710559.1793520122&frm=0&pscdl=denied&rcb=1&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121246026~121246034~123636746~123691370~123814185&sid=1793520122&sct=1&seg=0&dl=https%3A%2F%2Fatlanticretail.com%2F&dt=Atlantic%20Retail%20-%20Retail%20Real%20Estate%20Brokerage&en=GA4%20Home%20Page%20View&_et=11&tfd=542",
+        "type": "fetch",
+        "duration_ms": 101.29999999981374,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://trackcmp.net/t_prism_sitemessages.php?trackid=799142791&prismid=5c362ee1-c182-483f-a36f-7ae6f39e557b&url=https%3A%2F%2Fatlanticretail.com%2F",
+        "type": "script",
+        "duration_ms": 309.10000000009313,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+        "type": "fetch",
+        "duration_ms": 327.60000000009313,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://static.hotjar.com/c/hotjar-916345.js?sv=6",
+        "type": "script",
+        "duration_ms": 0.7000000001862645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17992520532/?random=1793520123008&cv=11&fst=1793520123008&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&rcb=1&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=635599429.1793520115&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "type": "script",
+        "duration_ms": 136.5,
+        "transfer_bytes": 3396,
+        "decoded_bytes": 7949
+      },
+      {
+        "url": "https://www.google.com/rmkt/collect/17992520532/?random=1793520123008&cv=11&fst=1793520123008&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&rcb=1&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=635599429.1793520115&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "type": "fetch",
+        "duration_ms": 130.20000000018626,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-EDSGQ8W29G&gtm=45je6at0h2v9246569362za20gzb9246552625zd9246552625xf1&_p=1793520122173&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&ecid=1235204164&_eu=AEAAAGAC&ae=a&are=1&cid=1055710559.1793520122&frm=0&pscdl=denied&rcb=1&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=3&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121246026~121246034~123636746~123691370~123814185&sid=1793520122&sct=1&seg=0&dl=https%3A%2F%2Fatlanticretail.com%2F&dt=Atlantic%20Retail%20-%20Retail%20Real%20Estate%20Brokerage&en=scroll&epn.percent_scrolled=90&_et=128&tfd=929",
+        "type": "fetch",
+        "duration_ms": 109.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-EDSGQ8W29G&gtm=45je6at0h2v9246569362za20gzb9246552625zd9246552625xf1&_p=1793520122173&_gaz=1&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1402292109&_eu=AAAAAGQC&are=1&cid=882010303.1793520115&frm=0&gcut=3&pscdl=noapi&rcb=1&sr=390x844&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en-us&gaf=2&_s=4&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&sid=1793520114&sct=1&seg=0&dl=https%3A%2F%2Fatlanticretail.com%2F&dt=Atlantic%20Retail%20-%20Retail%20Real%20Estate%20Brokerage&en=user_engagement&ep.ga_temp_client_id=1055710559.1793520122&ep.ga_temp_ecid=1235204164&_et=384&tfd=929",
+        "type": "fetch",
+        "duration_ms": 114.20000000018626,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-EDSGQ8W29G&cid=882010303.1793520115&gtm=45je6at0h2v9246569362za20gzb9246552625zd9246552625xf1&rcb=1&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185",
+        "type": "beacon",
+        "duration_ms": 113.20000000018626,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=635599429.1793520115&dt=Atlantic%20Retail%20-%20Retail%20Real%20Estate%20Brokerage&tid=AW-17992520532&en=consent_update&dl=https%3A%2F%2Fatlanticretail.com%2F&scrsrc=www.googletagmanager.com&rnd=937868738.1793520122&navt=n&npa=0&gcu=1&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&tft=1793520123032&tfd=939&tids=AW-17992520532&fmt=8",
+        "type": "fetch",
+        "duration_ms": 115.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-EDSGQ8W29G&cid=882010303.1793520115&gtm=45je6at0h2v9246569362za20gzb9246552625zd9246552625xf1&rcb=1&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&z=1011781357",
+        "type": "img",
+        "duration_ms": 116.09999999962747,
+        "transfer_bytes": 342,
+        "decoded_bytes": 42
+      },
+      {
+        "url": "https://www.google.com/pagead/1p-user-list/17992520532/?random=1793520123008&cv=11&fst=1793520000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&rcb=1&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=635599429.1793520115&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-QEAQM4h3DcMUWUbQY95T_EtL4MDnVTPpMORce3_pZ9HbcETtu_7zJuLQAIIo_5gcbX8Lfu0YX1sJ5qozAMtsmn0qqjwN4UactVS2pmQKXzCg71E_oB0fqD-MvbFiXxtaNJmDKEsGa1dxFdGmjHfQvkJJiY_KKXvb86Hap_klj9sVUSX_IpPz07A7Gm2BsHz3amc4hY2AuldAaG80QaayDVpLYTyLTKNw1YgRa3cSmHDcNr0ttRmNyamHjPrZ8m7lKQDjNk3PAilQhWFL8lZ4skjrbccqq6ZaiWQ1DHZTI279P7IJl2vMg0mnauLOFNC9s6IGt4AwtPOnRU&random=1084438206&rmt_tld=0&ipr=y",
+        "type": "img",
+        "duration_ms": 132,
+        "transfer_bytes": 342,
+        "decoded_bytes": 42
+      },
+      {
+        "url": "https://www.google.co.in/pagead/1p-user-list/17992520532/?random=1793520123008&cv=11&fst=1793520000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6at0h2v9246569362za20ozb9246552625zd9246552625xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~117227716~118897920~118897930~120213116~120385422~120412527~120420414~120469145~120469153~121191154~121246026~121246034~123636746~123691370~123814185&rcb=1&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=635599429.1793520115&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-QEAQM4h3DcMUWUbQY95T_EtL4MDnVTPpMORce3_pZ9HbcETtu_7zJuLQAIIo_5gcbX8Lfu0YX1sJ5qozAMtsmn0qqjwN4UactVS2pmQKXzCg71E_oB0fqD-MvbFiXxtaNJmDKEsGa1dxFdGmjHfQvkJJiY_KKXvb86Hap_klj9sVUSX_IpPz07A7Gm2BsHz3amc4hY2AuldAaG80QaayDVpLYTyLTKNw1YgRa3cSmHDcNr0ttRmNyamHjPrZ8m7lKQDjNk3PAilQhWFL8lZ4skjrbccqq6ZaiWQ1DHZTI279P7IJl2vMg0mnauLOFNC9s6IGt4AwtPOnRU&random=1084438206&rmt_tld=1&ipr=y",
+        "type": "img",
+        "duration_ms": 123.1999999997206,
+        "transfer_bytes": 342,
+        "decoded_bytes": 42
+      }
+    ],
+    "observations": {
+      "lcp_ms": 236,
+      "layout_shifts": [
+        {
+          "time": 204.1999999997206,
+          "value": 0.00043540386299982894
+        }
+      ],
+      "long_tasks": [
+        {
+          "time": 320.39999999990687,
+          "duration_ms": 95
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "url": "https://www.matthews.com/",
+  "base_url": "https://www.matthews.com/",
+  "title": "Matthews™ | CRE Investment Sales, Financing & Leasing",
+  "title_count": 1,
+  "lang": "en",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1"
+    ],
+    "next-size-adjust": [
+      ""
+    ],
+    "description": [
+      "Matthews™ is a national commercial real estate firm with $69B in transactions. Find investment sales, debt financing, leasing, and 1031 exchange services."
+    ],
+    "og:title": [
+      "Home Page"
+    ],
+    "og:description": [
+      "Matthews™ is a national commercial real estate firm with $69B in transactions. Find investment sales, debt financing, leasing, and 1031 exchange services."
+    ],
+    "og:url": [
+      "https://www.matthews.com"
+    ],
+    "og:image": [
+      "https://www.matthews.com/assets/images/og-default.jpg"
+    ],
+    "og:image:width": [
+      "1200"
+    ],
+    "og:image:height": [
+      "630"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "twitter:title": [
+      "Matthews™ | CRE Investment Sales, Financing & Leasing"
+    ],
+    "twitter:description": [
+      "Matthews™ is a national commercial real estate firm with $69B in transactions. Find investment sales, debt financing, leasing, and 1031 exchange services."
+    ],
+    "twitter:image": [
+      "https://www.matthews.com/assets/images/og-default.jpg"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://www.matthews.com",
+      "url": "https://www.matthews.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "text": "Navigation Menu",
+      "selector": "#radix-«Rr7bH1»",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Relationship driven. Technology powered",
+      "selector": "main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 1,
+      "text": "CREREVOLUTIONIZED",
+      "selector": "main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "National Reach. Local Expertise.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Tailored Strategies to Drive Success",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Financing Solutions to Drive Results",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Certainty and Speed Through Auctions",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Optimizing Occupancy and Tenant Success",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Market Intel",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Raleigh/Durham, NC Multifamily Market Report Q3 2026",
+      "selector": "main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Inland Empire, CA Industrial Market Report Q3 2026",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Inland Empire, CA Multifamily Market Report Q3 2026",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Inland Empire, CA Retail Market Report Q3 2026",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "TheMATTHEWS MENTALITYpodcast",
+      "selector": "div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Properties",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Financing",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Services",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Insights",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Company",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Careers",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Contact",
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(7) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "url": "https://www.matthews.com/",
+      "text": "Matthews Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/debt-structured-finance",
+      "url": "https://www.matthews.com/services/debt-structured-finance",
+      "text": "Financing",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://careers.matthews.com/home",
+      "url": "https://careers.matthews.com/home",
+      "text": "Careers",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/investment-sales",
+      "url": "https://www.matthews.com/services/investment-sales",
+      "text": "Maximize Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/debt-structured-finance",
+      "url": "https://www.matthews.com/services/debt-structured-finance",
+      "text": "Find Debt Financing",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services",
+      "url": "https://www.matthews.com/services",
+      "text": "Unlock Auction Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/leasing",
+      "url": "https://www.matthews.com/services/leasing",
+      "text": "Explore Leasing Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/raleigh-durham-nc-multifamily-market-report-q3-2026",
+      "url": "https://www.matthews.com/insights/raleigh-durham-nc-multifamily-market-report-q3-2026",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/inland-empire-industrial-q3-2026",
+      "url": "https://www.matthews.com/insights/inland-empire-industrial-q3-2026",
+      "text": "Inland Empire, CA Industrial Market Report Q3 2026 image",
+      "rel": "",
+      "internal": true,
+      "selector": "section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/inland-empire-industrial-q3-2026",
+      "url": "https://www.matthews.com/insights/inland-empire-industrial-q3-2026",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/inland-empire-multifamily-q3-2026",
+      "url": "https://www.matthews.com/insights/inland-empire-multifamily-q3-2026",
+      "text": "Inland Empire, CA Multifamily Market Report Q3 2026 image",
+      "rel": "",
+      "internal": true,
+      "selector": "section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/inland-empire-multifamily-q3-2026",
+      "url": "https://www.matthews.com/insights/inland-empire-multifamily-q3-2026",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/inland-empire-retail-q3-2026",
+      "url": "https://www.matthews.com/insights/inland-empire-retail-q3-2026",
+      "text": "Inland Empire, CA Retail Market Report Q3 2026 image",
+      "rel": "",
+      "internal": true,
+      "selector": "section:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/inland-empire-retail-q3-2026",
+      "url": "https://www.matthews.com/insights/inland-empire-retail-q3-2026",
+      "text": "Read More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.thematthewsmentalitypodcast.com/",
+      "url": "https://www.thematthewsmentalitypodcast.com/",
+      "text": "Listen In",
+      "rel": "",
+      "internal": false,
+      "selector": "main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.matthews.com/",
+      "text": "Matthews Logo",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/listings",
+      "url": "https://www.matthews.com/listings",
+      "text": "Properties",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/listings",
+      "url": "https://www.matthews.com/listings",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/listings?transaction=leasing",
+      "url": "https://www.matthews.com/listings?transaction=leasing",
+      "text": "Leasing",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/debt-structured-finance",
+      "url": "https://www.matthews.com/services/debt-structured-finance",
+      "text": "Financing",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services",
+      "url": "https://www.matthews.com/services",
+      "text": "Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services",
+      "url": "https://www.matthews.com/services",
+      "text": "All Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/investment-sales",
+      "url": "https://www.matthews.com/services/investment-sales",
+      "text": "Investment Sales",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.matthews.com/services/ma-advisory/",
+      "url": "https://www.matthews.com/services/ma-advisory/",
+      "text": "M&A Advisory",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/debt-structured-finance",
+      "url": "https://www.matthews.com/services/debt-structured-finance",
+      "text": "Debt & Structured Finance",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/equity",
+      "url": "https://www.matthews.com/services/equity",
+      "text": "Equity",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/leasing",
+      "url": "https://www.matthews.com/services/leasing",
+      "text": "Leasing",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/auctions",
+      "url": "https://www.matthews.com/services/auctions",
+      "text": "Auction Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/services/1031-exchange-program",
+      "url": "https://www.matthews.com/services/1031-exchange-program",
+      "text": "1031 Exchange Program",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.matthews.com/insights",
+      "text": "Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.matthews.com/insights",
+      "text": "Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights/publication",
+      "url": "https://www.matthews.com/insights/publication",
+      "text": "Matthews Publication",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.thematthewsmentalitypodcast.com/",
+      "url": "https://www.thematthewsmentalitypodcast.com/",
+      "text": "Matthews Mentality Podcast",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://matthewsreisresearch.substack.com/",
+      "url": "https://matthewsreisresearch.substack.com/",
+      "text": "The Matthews Market Pulse",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us",
+      "url": "https://www.matthews.com/about-us",
+      "text": "Company",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us",
+      "url": "https://www.matthews.com/about-us",
+      "text": "About Matthews",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us/executive-leadership",
+      "url": "https://www.matthews.com/about-us/executive-leadership",
+      "text": "Executive Leadership",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us/our-agents",
+      "url": "https://www.matthews.com/about-us/our-agents",
+      "text": "Our Agents",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us/client-success",
+      "url": "https://www.matthews.com/about-us/client-success",
+      "text": "Client Success",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us/charities",
+      "url": "https://www.matthews.com/about-us/charities",
+      "text": "Giving Back",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/about-us/in-the-news",
+      "url": "https://www.matthews.com/about-us/in-the-news",
+      "text": "In the News",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://careers.matthews.com/home",
+      "url": "https://careers.matthews.com/home",
+      "text": "Careers",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.matthews.com/contact",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.matthews.com/contact",
+      "text": "Office Locations",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/license-information-online-disclosures",
+      "url": "https://www.matthews.com/license-information-online-disclosures",
+      "text": "License Information & Online Disclosures",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/texas-disclosure",
+      "url": "https://www.matthews.com/texas-disclosure",
+      "text": "Texas Real Estate Commission Info About Brokerage Services",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/privacy-policy",
+      "url": "https://www.matthews.com/privacy-policy",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "tel:866-889-0550",
+      "url": "tel:866-889-0550",
+      "text": "866-889-0550",
+      "rel": "",
+      "internal": false,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > address:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "mailto:contact@matthews.com",
+      "url": "mailto:contact@matthews.com",
+      "text": "contact@matthews.com",
+      "rel": "",
+      "internal": false,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > address:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/sitemap-html",
+      "url": "https://www.matthews.com/sitemap-html",
+      "text": "Sitemap",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.instagram.com/matthews_cre/",
+      "url": "https://www.instagram.com/matthews_cre/",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.youtube.com/c/TheMatthewsRetailGroupElSegundo",
+      "url": "https://www.youtube.com/c/TheMatthewsRetailGroupElSegundo",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "https://www.facebook.com/pages/Matthews-Retail-Group/409979412484603",
+      "url": "https://www.facebook.com/pages/Matthews-Retail-Group/409979412484603",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+      "visible": true
+    },
+    {
+      "href": "https://x.com/Matthews_CRE",
+      "url": "https://x.com/Matthews_CRE",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(4)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/4821421",
+      "url": "https://www.linkedin.com/company/4821421",
+      "text": "",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(5)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cms.matthews.com/wp-content/uploads/2025/08/brand-logo.svg",
+      "alt": "Matthews Logo",
+      "width": "167",
+      "height": "14",
+      "loading": null,
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.matthews.com/_next/image?url=https%3A%2F%2Fcms.matthews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FInland-Empire-CA-Industrial-Skyline-1.jpg&w=384&q=75",
+      "alt": "Inland Empire, CA Industrial Market Report Q3 2026 image",
+      "width": "187.5",
+      "height": "160",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.matthews.com/_next/image?url=https%3A%2F%2Fcms.matthews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FSan-Bernardino-CA-Skyline-Final.jpg&w=384&q=75",
+      "alt": "Inland Empire, CA Multifamily Market Report Q3 2026 image",
+      "width": "187.5",
+      "height": "160",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.matthews.com/_next/image?url=https%3A%2F%2Fcms.matthews.com%2Fwp-content%2Fuploads%2F2026%2F10%2FInland-Empire-CA-Skyline-1.jpg&w=384&q=75",
+      "alt": "Inland Empire, CA Retail Market Report Q3 2026 image",
+      "width": "187.5",
+      "height": "160",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.matthews.com/_next/image?url=https%3A%2F%2Fcms.matthews.com%2Fwp-content%2Fuploads%2F2025%2F08%2Fimage-8.jpg&w=1920&q=75",
+      "alt": "",
+      "width": "668",
+      "height": "546",
+      "loading": "lazy",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cms.matthews.com/wp-content/uploads/2025/08/brand-logo.svg",
+      "alt": "Matthews Logo",
+      "width": "167",
+      "height": "14",
+      "loading": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "name": "email",
+      "type": "email",
+      "label": ""
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@type\":[\"RealEstateAgent\",\"Organization\"],\"@id\":\"https://www.matthews.com/#organization\",\"name\":\"Matthews Real Estate Investment Services\",\"alternateName\":\"Matthews™\",\"url\":\"https://www.matthews.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://cms.matthews.com/wp-content/uploads/2025/08/brand-logo.svg\",\"width\":200,\"height\":40},\"image\":\"https://cms.matthews.com/wp-content/uploads/2025/08/brand-logo.svg\",\"description\":\"The largest privately held commercial real estate firm in the nation, providing investment sales, debt and structured finance, equity, leasing, and auction services across 30+ offices nationwide.\",\"foundingDate\":\"2015\",\"founder\":{\"@type\":\"Person\",\"name\":\"Kyle Matthews\",\"jobTitle\":\"Founder, Chairman & CEO\",\"url\":\"https://www.matthews.com/agents/kyle-matthews\"},\"telephone\":\"+1-866-889-0550\",\"email\":\"contact@matthews.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"1600 West End Ave., Suite 1500\",\"addressLocality\":\"Nashville\",\"addressRegion\":\"TN\",\"postalCode\":\"37203\",\"addressCountry\":\"US\"},\"areaServed\":{\"@type\":\"Country\",\"name\":\"United States\"},\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":1000},\"knowsAbout\":[\"Commercial Real Estate\",\"Investment Sales\",\"Net Lease\",\"Multifamily\",\"Retail\",\"Industrial\",\"Self-Storage\",\"Healthcare Real Estate\",\"Debt & Structured Finance\",\"1031 Exchange\",\"Commercial Real Estate Leasing\"],\"sameAs\":[\"https://www.linkedin.com/company/4821421\",\"https://www.instagram.com/matthews_cre/\",\"https://www.facebook.com/pages/Matthews-Retail-Group/409979412484603\",\"https://x.com/Matthews_REIS\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"telephone\":\"+1-866-889-0550\",\"email\":\"contact@matthews.com\",\"contactType\":\"customer service\",\"availableLanguage\":\"English\",\"url\":\"https://www.matthews.com/contact\"},\"makesOffer\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Investment Sales\",\"url\":\"https://www.matthews.com/services/investment-sales\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Debt & Structured Finance\",\"url\":\"https://www.matthews.com/services/debt-structured-finance\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Equity\",\"url\":\"https://www.matthews.com/services/equity\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Leasing\",\"url\":\"https://www.matthews.com/services/leasing\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Auction Services\",\"url\":\"https://www.matthews.com/services/auctions\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"1031 Exchange Program\",\"url\":\"https://www.matthews.com/services/1031-exchange-program\"}}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@type": [
+          "RealEstateAgent",
+          "Organization"
+        ],
+        "@id": "https://www.matthews.com/#organization",
+        "name": "Matthews Real Estate Investment Services",
+        "alternateName": "Matthews™",
+        "url": "https://www.matthews.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cms.matthews.com/wp-content/uploads/2025/08/brand-logo.svg",
+          "width": 200,
+          "height": 40
+        },
+        "image": "https://cms.matthews.com/wp-content/uploads/2025/08/brand-logo.svg",
+        "description": "The largest privately held commercial real estate firm in the nation, providing investment sales, debt and structured finance, equity, leasing, and auction services across 30+ offices nationwide.",
+        "foundingDate": "2015",
+        "founder": {
+          "@type": "Person",
+          "name": "Kyle Matthews",
+          "jobTitle": "Founder, Chairman & CEO",
+          "url": "https://www.matthews.com/agents/kyle-matthews"
+        },
+        "telephone": "+1-866-889-0550",
+        "email": "contact@matthews.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1600 West End Ave., Suite 1500",
+          "addressLocality": "Nashville",
+          "addressRegion": "TN",
+          "postalCode": "37203",
+          "addressCountry": "US"
+        },
+        "areaServed": {
+          "@type": "Country",
+          "name": "United States"
+        },
+        "numberOfEmployees": {
+          "@type": "QuantitativeValue",
+          "minValue": 1000
+        },
+        "knowsAbout": [
+          "Commercial Real Estate",
+          "Investment Sales",
+          "Net Lease",
+          "Multifamily",
+          "Retail",
+          "Industrial",
+          "Self-Storage",
+          "Healthcare Real Estate",
+          "Debt & Structured Finance",
+          "1031 Exchange",
+          "Commercial Real Estate Leasing"
+        ],
+        "sameAs": [
+          "https://www.linkedin.com/company/4821421",
+          "https://www.instagram.com/matthews_cre/",
+          "https://www.facebook.com/pages/Matthews-Retail-Group/409979412484603",
+          "https://x.com/Matthews_REIS"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-866-889-0550",
+          "email": "contact@matthews.com",
+          "contactType": "customer service",
+          "availableLanguage": "English",
+          "url": "https://www.matthews.com/contact"
+        },
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Investment Sales",
+              "url": "https://www.matthews.com/services/investment-sales"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Debt & Structured Finance",
+              "url": "https://www.matthews.com/services/debt-structured-finance"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Equity",
+              "url": "https://www.matthews.com/services/equity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Leasing",
+              "url": "https://www.matthews.com/services/leasing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Auction Services",
+              "url": "https://www.matthews.com/services/auctions"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "1031 Exchange Program",
+              "url": "https://www.matthews.com/services/1031-exchange-program"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 2,
+    "main": 1,
+    "article": 0,
+    "section": 3,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Your browser does not support the video tag.Relationship driven. Technology powered CREREVOLUTIONIZEDFind Your Next InvestmentToday's RatesInvalid datePrime Rate7.000%SOFR Overnight3.940%5 YR TR4.699%10 YR TR4.917%National Reach. Local Expertise.30+ Offices | $88.37B in TransactionsINVESTMENT SALESTailored Strategies to Drive SuccessLeading the Nation in Commercial Real Estate Investment SalesMaximize Investment SalesDEBT FINANCINGFinancing Solutions to Drive ResultsCustomized Debt Financing Solutions for Commercial Real Estate InvestmentsFind Debt FinancingAUCTION SERVICESCertainty and Speed Through AuctionsAccelerated Disposition Through Expert Auction ServicesUnlock Auction ServicesLEASINGOptimizing Occupancy and Tenant SuccessStrategic Leasing Solutions to Maximize Asset PerformanceExplore Leasing ServicesMarket Intel30 Oct 2026Raleigh/Durham, NC Multifamily Market Report Q3 2026Read More30 Oct 2026Inland Empire, CA Industrial Market Report Q3 2026Read More30 Oct 2026Inland Empire, CA Multifamily Market Report Q3 2026Read More30 Oct 2026Inland Empire, CA Retail Market Report Q3 2026Read MoreTheMATTHEWS MENTALITYpodcastMindsets, motivations, and strategies behind the most successful individualsHosted by Kyle MatthewsListen In",
+  "text_length": 1248,
+  "iframes": [],
+  "script_sources": [
+    "https://www.matthews.com/_next/static/chunks/4fb392a0-7fad7700a4fb890a.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/7297-1f9b46da7d59623b.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/main-app-38e902df88fb3925.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/app/global-error-baf475a8185ca9df.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/4629-1c0aa8991dbe6905.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/6033-c724cf8fe0bdd4ab.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/6463-8e136c6adf5ff961.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/2765-4b5bc727535b2390.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/3451-0d87515a9c6842d0.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/3046-7a2d199c917d18be.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/6715-755f5eab7bafc432.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/6735-b18d9db1d6f23bc4.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/3573-3d4320b04304aa6a.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/4754-5a15cb1b656bb95a.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/7808-30959a8fd4b1e993.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/app/layout-6d64388675b12885.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/app/error-27dac5dc2b4f59c0.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/4382-de413cfc1e2cfa0b.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/6282-4f4637927a4e79e4.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/5367-b8b1f4407ccbd969.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/4870-6ca4cb6cde9f4069.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/1774-8606132be77e9458.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/9637-ccb40ee754756014.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/app/%5B%5B...slug%5D%5D/page-bcd9eaa38dc422ac.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://js.hs-scripts.com/7461780.js",
+    "https://cdn-cookieyes.com/client_data/7d36d37883192bc0c4233521/script.js",
+    "https://www.matthews.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/chunks/webpack-ab43bc9d266fbe52.js?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR"
+  ],
+  "stylesheets": [
+    "https://www.matthews.com/_next/static/css/7d6e0c5734391579.css?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/css/408a91af3e663575.css?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/css/7d849d9c579d48cb.css?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://www.matthews.com/_next/static/css/094c308365445f8e.css?dpl=dpl_AD6sqT6oYZNGmvmNBTLPFXTHfgwR",
+    "https://use.typekit.net/nwb2bhj.css"
+  ],
+  "hreflang": []
+}

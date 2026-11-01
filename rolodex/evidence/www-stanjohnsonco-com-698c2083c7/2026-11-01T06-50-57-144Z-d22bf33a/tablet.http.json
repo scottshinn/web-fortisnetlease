@@ -1,0 +1,22 @@
+{
+  "status": 403,
+  "url": "https://www.northmarq.com/",
+  "headers": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare"
+  },
+  "redirects": [
+    {
+      "url": "https://www.stanjohnsonco.com/",
+      "status": 301
+    },
+    {
+      "url": "https://www.northmarq.com/",
+      "status": 403
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "1078e8bb5b5aa065e40a2a41682a2f5efae1c972e201c05dde27679b76d28ba6",
+  "body_bytes": 6186
+}

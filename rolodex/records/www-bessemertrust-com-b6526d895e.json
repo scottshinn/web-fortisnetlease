@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "www-bessemertrust-com-b6526d895e",
+  "origin": "https://www.bessemertrust.com",
+  "created_at": "2026-11-01T06:52:36.954Z",
+  "updated_at": "2026-11-01T08:05:53.180Z",
+  "classification": {
+    "industry": [
+      "financial-services",
+      "wealth-management"
+    ],
+    "style": [
+      "deep-green",
+      "heritage",
+      "premium",
+      "serif"
+    ],
+    "technology": [],
+    "components": [
+      "architectural-photo-hero",
+      "featured-insight-card",
+      "search-first-header",
+      "side-nav-panel"
+    ]
+  },
+  "design_notes": [
+    {
+      "text": "Heritage serif type (with italic accent line) on deep green + real architectural photography; 'How can we help you?' search in the header. Strongest 'old money, trustworthy' cue in the set.",
+      "basis": "observed",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    },
+    {
+      "text": "Avoid: permanent left nav panel eating 23% width; cookie dialog covering the hero headline.",
+      "basis": "observed",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/desktop.png",
+          "viewport": "desktop"
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "id": "2026-11-01T06-52-03-861Z-8d2156ee",
+      "url": "https://www.bessemertrust.com/",
+      "captured_at": "2026-11-01T06:52:36.862Z",
+      "path": "evidence/www-bessemertrust-com-b6526d895e/2026-11-01T06-52-03-861Z-8d2156ee/manifest.json",
+      "quality": "needs-review"
+    }
+  ],
+  "design_systems": [],
+  "seo_quality": "needs-review"
+}

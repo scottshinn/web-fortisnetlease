@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-01T06-54-09-343Z-47783123",
+  "site_id": "www-fortisnetlease-com-ea105adb01",
+  "requested_url": "https://www.fortisnetlease.com/team/robert-bender/",
+  "final_url": "https://fortisnetlease.com/team/robert-bender/",
+  "captured_at": "2026-11-01T06:54:21.326Z",
+  "artifacts": [
+    {
+      "path": "audit.json",
+      "sha256": "313d8d8f9082b4de1d673e5d743b72fb8a895e40940df83d2e117b5ac5303456",
+      "bytes": 24606
+    },
+    {
+      "path": "audit.md",
+      "sha256": "89e9683ca43bfd0d52a7665a7ee2a6cc1758f8e86008f9ade4ce2846a4a3ac65",
+      "bytes": 12520
+    },
+    {
+      "path": "capture-data.json",
+      "sha256": "c81296dd1ebf8ba66a4f77dadb518d18588b11bfb0c1ccab8e3964dd19f9d985",
+      "bytes": 1460106
+    },
+    {
+      "path": "controls.json",
+      "sha256": "6312644f52e5a18666dc45b7d64e813c7f9869da85ba861544db9816c9b05ebb",
+      "bytes": 1035712
+    },
+    {
+      "path": "desktop.extract.json",
+      "sha256": "ced0988d40e873be3249015c37d90c64ca5d885b7de465325687cd2eadb4c915",
+      "bytes": 75933
+    },
+    {
+      "path": "desktop.http.json",
+      "sha256": "1e99e368555c309c23001f5cf2784cc112d2b0ad25dc9c9ce8076424701b7634",
+      "bytes": 814
+    },
+    {
+      "path": "desktop.png",
+      "sha256": "89fafb8f455840ded3696371dd17f393c7fc9b748ff809d791b40ee91acbacfb",
+      "bytes": 328599
+    },
+    {
+      "path": "desktop.raw.body",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "desktop.raw.extract.json",
+      "sha256": "a6e5d1ae3504b021890e062bb57c04c83547b8391e9d56dc50d3411b01795459",
+      "bytes": 25485
+    },
+    {
+      "path": "desktop.raw.html",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "desktop.rendered.html",
+      "sha256": "6f501c5b4e71da2326ff4719a6f02e6b26841ce3c651c68f8251eff6f904990c",
+      "bytes": 534621
+    },
+    {
+      "path": "http.json",
+      "sha256": "1e99e368555c309c23001f5cf2784cc112d2b0ad25dc9c9ce8076424701b7634",
+      "bytes": 814
+    },
+    {
+      "path": "link-checks.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "8f754ae9decbee94b78ec39b0a506c496932e0349cd9b0d9f6f20296fb5ea7c7",
+      "bytes": 54459
+    },
+    {
+      "path": "mobile.extract.json",
+      "sha256": "a58bf958c39e82ef965359820688b7b8bb226ab41a5494c3a795acce73326b08",
+      "bytes": 89519
+    },
+    {
+      "path": "mobile.http.json",
+      "sha256": "1e99e368555c309c23001f5cf2784cc112d2b0ad25dc9c9ce8076424701b7634",
+      "bytes": 814
+    },
+    {
+      "path": "mobile.png",
+      "sha256": "1fa2d11f099a5537ee4942e0f756730e3c3a942816808da591ce2f7f09dec77a",
+      "bytes": 174423
+    },
+    {
+      "path": "mobile.raw.body",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "mobile.raw.extract.json",
+      "sha256": "a6e5d1ae3504b021890e062bb57c04c83547b8391e9d56dc50d3411b01795459",
+      "bytes": 25485
+    },
+    {
+      "path": "mobile.raw.html",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "mobile.rendered.html",
+      "sha256": "0b11c420e98ea5820bccd27fc3fdc2acb13b1771fdc3be88ba6038d1f8702ed8",
+      "bytes": 535753
+    },
+    {
+      "path": "raw.extract.json",
+      "sha256": "a6e5d1ae3504b021890e062bb57c04c83547b8391e9d56dc50d3411b01795459",
+      "bytes": 25485
+    },
+    {
+      "path": "raw.html",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "a18b750c5ca0a916ced084047288a425198f5abf034ba9ccd5639303732953e1",
+      "bytes": 861
+    },
+    {
+      "path": "sitemap-1.xml",
+      "sha256": "7fd9f5dbcef15421d8edaef831df62c620e29932d4c0161b3b8b02fcf7ea0dde",
+      "bytes": 1468
+    },
+    {
+      "path": "sitemap-2.xml",
+      "sha256": "03a1b39807f0cc815ad6bf1152843e7abc381f1bfdb1e2e74643c5792e866396",
+      "bytes": 2639
+    },
+    {
+      "path": "sitemap-3.xml",
+      "sha256": "72339c71d88e7394726690de2d9c25544ff87b541fd78239c240eb863c849453",
+      "bytes": 131064
+    },
+    {
+      "path": "sitemap-4.xml",
+      "sha256": "f9e471355f1b6c2abd9a622111ede086d5ad444be6ee164aff1877a768023fa3",
+      "bytes": 133073
+    },
+    {
+      "path": "sitemap-5.xml",
+      "sha256": "33baf7e69c7eb71f58fd6c10bf1dfe03a7395d539d1bd86bfa932be7a5e75a2c",
+      "bytes": 133006
+    },
+    {
+      "path": "sitemap-6.xml",
+      "sha256": "42e46490d007e2a8831e5f87816066bb31ad7bc8bd9a6a01e874c1db373f4ac1",
+      "bytes": 124762
+    },
+    {
+      "path": "sitemap-7.xml",
+      "sha256": "2dd88df9d3a5b4574fc070db9defb3637d8b593d9531e6b074779a38fe2cc766",
+      "bytes": 87347
+    },
+    {
+      "path": "sitemap-8.xml",
+      "sha256": "b8af2fa5a76d215eb1a80185d5f5f7c31b106336ef9292b9dbac6bde54965a62",
+      "bytes": 2370
+    },
+    {
+      "path": "tablet.extract.json",
+      "sha256": "135ef8b2acb8f9d170bf595a84cbeb1a6fffcea4ad5e4dd20d808cebde890394",
+      "bytes": 88920
+    },
+    {
+      "path": "tablet.http.json",
+      "sha256": "1e99e368555c309c23001f5cf2784cc112d2b0ad25dc9c9ce8076424701b7634",
+      "bytes": 814
+    },
+    {
+      "path": "tablet.png",
+      "sha256": "13aa9aa51c70c2f823bcd0cddf2f2cb99201c53f092d13ee10323bec826dcc45",
+      "bytes": 233882
+    },
+    {
+      "path": "tablet.raw.body",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "tablet.raw.extract.json",
+      "sha256": "a6e5d1ae3504b021890e062bb57c04c83547b8391e9d56dc50d3411b01795459",
+      "bytes": 25485
+    },
+    {
+      "path": "tablet.raw.html",
+      "sha256": "bab4cebf63ce5925f28defbcdb7c4de026f5344f6884cc966b5988a5e55ae053",
+      "bytes": 48972
+    },
+    {
+      "path": "tablet.rendered.html",
+      "sha256": "b2035c59588576aae027a7c568560b70d764394e4dbde636b63bee5cf3193a70",
+      "bytes": 534661
+    }
+  ]
+}

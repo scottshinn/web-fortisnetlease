@@ -1,0 +1,15 @@
+# Roof inspection addition — scoped change contract
+
+Requested outcome: add `/services/roof-inspection/` using the existing service template, structured content and design, and link the homepage inspection card to it. Primary navigation remains Home / Roof repair / Contact.
+
+Supplied new facts: a roof inspection reviews visible roof condition, helps the homeowner understand observed concerns, and identifies questions to discuss before deciding on repair. Available in Birmingham and Troy, Michigan. These facts describe the fictional service; they do not establish certifications, reports, outcomes, prices, warranties or emergency availability.
+
+Baseline: the parent preserved the complete initial source and generated output at `../../baseline/`. Initial artifact SHA-256 is `f5615b029ea58efcfbb38cc35ec775ede023f67691007134163c70d929e17dc8`. All three established URLs were served successfully from `http://127.0.0.1:60047` immediately before editing. Initial technical acceptance is recorded in `../../qa-technical/report.md`; independent visual evidence is under `../../qa-visual/`. Original developer raw/rendered captures and desktop/tablet/mobile screenshots remain under `../../developer-evidence/`. These baseline directories are read-only for this change.
+
+Affected implementation: a new service content record and homepage card destination/label in `src/content.json`; the shared service template's telephone placement becomes a content field so the new route has its own placement while the repair placement stays unchanged; the architecture and route notes gain the new route. Build/server logic already discovers routes from structured content and generates metadata, page/breadcrumb schema, redirects and sitemap policy from that source.
+
+Preserved invariants: the design tokens, typography, CSS, brand, old route paths/statuses, primary navigation, phone destination, `lead_call` event name and `data-event`/`data-placement` contract, existing placement values, schema graph conventions, Node-only dependencies, local-server/deployment assumptions and demo noindex policy. The old repair and contact HTML must remain byte-identical to the baseline, including their metadata, links and schema. No existing page requires a content exception.
+
+Acceptance checks: a direct 200 response for the new route with complete initial content, unique metadata, canonical origin `https://northline.example`, the existing WebPage/WebSite/BreadcrumbList conventions, and a homepage link; normal slash/index redirects; new local `inspection-hero` click placement; responsive/keyboard checks; baseline comparisons for old pages, primary navigation and shared assets. Confirm the demo sitemap remains empty and a separate temporary build with intentionally enabled indexing includes all four canonical routes. The delivered source stays noindex.
+
+Design authority: `../design.md` remains unchanged; this request adds one consumer of its existing service layout. No new references, components, styles or public deployment are needed. Independent reviewers will assess the revised artifact; builder checks do not provide acceptance.

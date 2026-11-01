@@ -1,0 +1,2637 @@
+{
+  "url": "https://www.bessemertrust.com/",
+  "base_url": "https://www.bessemertrust.com/",
+  "title": "Private Wealth Management & Investment Advisory | Bessemer Trust",
+  "title_count": 4,
+  "lang": "en",
+  "meta": {
+    "description": [
+      "Bessemer Trust offers personalized wealth planning, investment management, and family office services for high-net-worth individuals and families."
+    ],
+    "robots": [
+      "noarchive"
+    ],
+    "rights": [
+      "©2026 Bessemer Trust. All rights reserved."
+    ],
+    "og:site_name": [
+      "Bessemer Trust"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:url": [
+      "https://www.bessemertrust.com/"
+    ],
+    "og:title": [
+      "Private Wealth Management & Investment Advisory | Bessemer Trust"
+    ],
+    "og:description": [
+      "Bessemer Trust offers personalized wealth planning, investment management, and family office services for high-net-worth individuals and families."
+    ],
+    "og:image": [
+      "https://www.bessemertrust.com/themes/custom/bessemer/share-image.png"
+    ],
+    "og:image:url": [
+      "https://www.bessemertrust.com/themes/custom/bessemer/share-image.png"
+    ],
+    "twitter:card": [
+      "summary"
+    ],
+    "twitter:description": [
+      "Bessemer Trust offers personalized wealth planning, investment management, and family office services for high-net-worth individuals and families."
+    ],
+    "twitter:title": [
+      "Private Wealth Management & Investment Advisory | Bessemer Trust"
+    ],
+    "twitter:image": [
+      "https://www.bessemertrust.com/themes/custom/bessemer/share-image.png"
+    ],
+    "google-site-verification": [
+      "L9bPeBFajeo86Tui_gv6XuksFQzNVs6cv50Fjt1WUI4"
+    ],
+    "mobileoptimized": [
+      "width"
+    ],
+    "handheldfriendly": [
+      "true"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "viewport": [
+      "width=device-width, initial-scale=1.0"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://www.bessemertrust.com/",
+      "url": "https://www.bessemertrust.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Home Page",
+      "selector": "div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Q4 2026 Quarterly Investment Perspective",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "We care about your privacy",
+      "selector": "#onetrust-policy-title",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Privacy Preference Center",
+      "selector": "#ot-pc-title",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences",
+      "selector": "#ot-category-title",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "Strictly Necessary Cookies",
+      "selector": "#ot-header-id-C0001",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "Performance Cookies",
+      "selector": "#ot-header-id-C0002",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "Functional Cookies",
+      "selector": "#ot-header-id-C0003",
+      "visible": false
+    },
+    {
+      "level": 4,
+      "text": "Targeting Cookies",
+      "selector": "#ot-header-id-C0004",
+      "visible": false
+    },
+    {
+      "level": 3,
+      "text": "Cookie List",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": false
+    }
+  ],
+  "links": [
+    {
+      "href": "#main-content",
+      "url": "https://www.bessemertrust.com/#main-content",
+      "text": "Skip to main content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bessemertrust.com/",
+      "text": "Bessemer Trust",
+      "rel": "home",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.bessemertrust.com/#",
+      "text": "Searchclose",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.bessemertrust.com/#",
+      "text": "menuclose",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(2)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.bessemertrust.com/contact",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://client.bessemer.com",
+      "url": "https://client.bessemer.com/",
+      "text": "Client login",
+      "rel": "noopener",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "The Bessemer experience",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/the-bessemer-experience/relationships-that-last",
+      "url": "https://www.bessemertrust.com/the-bessemer-experience/relationships-that-last",
+      "text": "Relationships that last",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/bessemer-experience/always-on-your-side",
+      "url": "https://www.bessemertrust.com/bessemer-experience/always-on-your-side",
+      "text": "Always on your side",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/bessemer-experience/deep-family-office-expertise",
+      "url": "https://www.bessemertrust.com/bessemer-experience/deep-family-office-expertise",
+      "text": "Deep family office expertise",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "What we do for you",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-we-do-for-you/managing-your-financial-life",
+      "url": "https://www.bessemertrust.com/what-we-do-for-you/managing-your-financial-life",
+      "text": "Managing your financial life",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/what-we-do-you/wealth-planning",
+      "url": "https://www.bessemertrust.com/what-we-do-you/wealth-planning",
+      "text": "Wealth planning",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/what-we-do-you/investment-management",
+      "url": "https://www.bessemertrust.com/what-we-do-you/investment-management",
+      "text": "Investment management",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/what-we-do-you/family-office-services",
+      "url": "https://www.bessemertrust.com/what-we-do-you/family-office-services",
+      "text": "Family office services",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "What makes us different",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/what-makes-us-different/peace-of-mind",
+      "url": "https://www.bessemertrust.com/what-makes-us-different/peace-of-mind",
+      "text": "Peace of mind",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/what-makes-us-different/key-facts",
+      "url": "https://www.bessemertrust.com/what-makes-us-different/key-facts",
+      "text": "Key facts",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/what-makes-us-different/our-leaders",
+      "url": "https://www.bessemertrust.com/what-makes-us-different/our-leaders",
+      "text": "Our leaders",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "Insights & Education",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/insights",
+      "url": "https://www.bessemertrust.com/insights",
+      "text": "Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/financial-education",
+      "url": "https://www.bessemertrust.com/financial-education",
+      "text": "Financial Education",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/our-offices",
+      "url": "https://www.bessemertrust.com/our-offices",
+      "text": "Our offices",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/contact",
+      "url": "https://www.bessemertrust.com/contact",
+      "text": "Contact Us",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/careers-at-bessemer",
+      "url": "https://www.bessemertrust.com/careers-at-bessemer",
+      "text": "Careers at Bessemer",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "",
+      "url": "https://www.bessemertrust.com/",
+      "text": "For professional partners",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/for-professional-partners/serving-clients-together",
+      "url": "https://www.bessemertrust.com/for-professional-partners/serving-clients-together",
+      "text": "Serving clients together",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "/for-professional-partners/advisor-insights",
+      "url": "https://www.bessemertrust.com/for-professional-partners/advisor-insights",
+      "text": "Insights for professional partners",
+      "rel": "",
+      "internal": true,
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://client.bessemer.com",
+      "url": "https://client.bessemer.com/",
+      "text": "Client Login",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/the-rising-price-of-debt-can-the-economy-adjust-to-higher-for-longer",
+      "url": "https://www.bessemertrust.com/the-rising-price-of-debt-can-the-economy-adjust-to-higher-for-longer",
+      "text": "Q4 2026 Quarterly Investment Perspective",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/notices",
+      "url": "https://www.bessemertrust.com/notices",
+      "text": "Privacy Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/terms",
+      "url": "https://www.bessemertrust.com/terms",
+      "text": "Terms",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/accessibility",
+      "url": "https://www.bessemertrust.com/accessibility",
+      "text": "Accessibility",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.fdic.gov",
+      "url": "https://www.fdic.gov/",
+      "text": "Member FDICOpens a new window",
+      "rel": "noopener",
+      "internal": false,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/pillar-3-disclosure",
+      "url": "https://www.bessemertrust.com/pillar-3-disclosure",
+      "text": "Pillar 3 Disclosure",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/",
+      "url": "https://www.bessemertrust.com/",
+      "text": "Cookie Preferences",
+      "rel": "",
+      "internal": true,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.bessemertrust.com/notices",
+      "url": "https://www.bessemertrust.com/notices",
+      "text": "More information",
+      "rel": "noopener noreferrer",
+      "internal": true,
+      "selector": "div:nth-of-type(6) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    },
+    {
+      "href": "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "url": "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "text": "Powered by OneTrust Opens in a new Tab",
+      "rel": "noopener noreferrer",
+      "internal": false,
+      "selector": "div:nth-of-type(6) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": false
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.bessemertrust.com/themes/custom/bessemer/logo.svg",
+      "alt": "Bessemer Trust",
+      "width": "290",
+      "height": "150",
+      "loading": null,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.bessemertrust.com/sites/default/files/styles/d08/public/2025-01/BessemerTrust-Homepage-Lobby-NYC_2025.jpg?itok=rUxUnzFc",
+      "alt": "Bessemer Employee Standing in the Lobby of NYC Office",
+      "width": "800",
+      "height": "600",
+      "loading": "eager",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/d225a46a-3504-4cd4-9a86-a48150e27397/0191eb71-225f-7639-9e27-96d72db0ed85/a692e730-a840-4dc7-8da9-194a71ec4f29/bessemer-logo-onetrust.png",
+      "alt": "Company Logo",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(6) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust",
+      "width": null,
+      "height": null,
+      "loading": null,
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#edit-search",
+      "name": "search",
+      "type": "text",
+      "label": "Search this site"
+    },
+    {
+      "selector": "#edit-submit-acquia-search",
+      "name": null,
+      "type": "submit",
+      "label": "Submit"
+    },
+    {
+      "selector": "#ot-group-id-C0002",
+      "name": "ot-group-id-C0002",
+      "type": "checkbox",
+      "label": "Performance Cookies"
+    },
+    {
+      "selector": "#ot-group-id-C0003",
+      "name": "ot-group-id-C0003",
+      "type": "checkbox",
+      "label": "Functional Cookies"
+    },
+    {
+      "selector": "#ot-group-id-C0004",
+      "name": "ot-group-id-C0004",
+      "type": "checkbox",
+      "label": "Targeting Cookies"
+    },
+    {
+      "selector": "#vendor-search-handler",
+      "name": "vendor-search-handler",
+      "type": "text",
+      "label": "Cookie list search"
+    },
+    {
+      "selector": "#chkbox-id",
+      "name": null,
+      "type": "checkbox",
+      "label": "checkbox label"
+    },
+    {
+      "selector": "#select-all-hosts-groups-handler",
+      "name": null,
+      "type": "checkbox",
+      "label": "checkbox label"
+    },
+    {
+      "selector": "#select-all-vendor-groups-handler",
+      "name": null,
+      "type": "checkbox",
+      "label": "checkbox label"
+    },
+    {
+      "selector": "#select-all-vendor-leg-handler",
+      "name": null,
+      "type": "checkbox",
+      "label": "checkbox label"
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\n    \"@context\": \"https://schema.org\",\n    \"@graph\": [\n        {\n            \"@type\": \"WebSite\",\n            \"name\": \"Bessemer Trust\",\n            \"url\": \"https://www.bessemertrust.com/\",\n            \"publisher\": {\n                \"@type\": \"Organization\",\n                \"name\": \"Bessemer Trust\",\n                \"url\": \"https://www.bessemertrust.com/\",\n                \"logo\": {\n                    \"@type\": \"ImageObject\",\n                    \"url\": \"https://www.bessemertrust.com/themes/custom/bessemer/logo.svg\"\n                },\n                \"address\": {\n                    \"@type\": \"PostalAddress\",\n                    \"streetAddress\": \"1271 Avenue of the Americas\",\n                    \"addressLocality\": \"New York\",\n                    \"addressRegion\": \"NY\",\n                    \"postalCode\": \"10020\",\n                    \"addressCountry\": \"USA\"\n                }\n            }\n        }\n    ]\n}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "name": "Bessemer Trust",
+            "url": "https://www.bessemertrust.com/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Bessemer Trust",
+              "url": "https://www.bessemertrust.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.bessemertrust.com/themes/custom/bessemer/logo.svg"
+              },
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1271 Avenue of the Americas",
+                "addressLocality": "New York",
+                "addressRegion": "NY",
+                "postalCode": "10020",
+                "addressCountry": "USA"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [
+    {
+      "type": "http://schema.org/WebPage",
+      "id": null,
+      "selector": ""
+    }
+  ],
+  "rdfa": [
+    {
+      "type": "foaf:Image",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)"
+    }
+  ],
+  "landmarks": {
+    "header": 1,
+    "nav": 3,
+    "main": 1,
+    "article": 0,
+    "section": 6,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Enhancing private wealthfor generations Home Page Enhancing private wealth for generations hide 50 INVESTMENT MANAGEMENT Q4 2026 Quarterly Investment Perspective",
+  "text_length": 161,
+  "iframes": [
+    {
+      "src": "https://www.bessemertrust.com/",
+      "title": "onetrust-text-resize"
+    }
+  ],
+  "script_sources": [
+    "https://www.googletagmanager.com/gtag/js?id=G-9QZW0E2MHN&cx=c&gtm=4e6as1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TPXD7T2",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://cdn.cookielaw.org/scripttemplates/202609.2.0/otBannerSdk.js",
+    "https://www.bessemertrust.com/sites/default/files/js/js_bl_waeWs4sGpM7AoOdkLE_0x2SfPGiaYiX0bdjE3mqg.js?scope=footer&delta=0&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+    "https://www.bessemertrust.com/core/assets/vendor/jquery/jquery.min.js?v=4.0.0",
+    "https://www.bessemertrust.com/sites/default/files/js/js_vZawIsnfBO-eO-CW1BOYLuzst1qOjWQhQAX7-XOLDlg.js?scope=footer&delta=2&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+    "https://www.bessemertrust.com/modules/custom/bessemer_onetrust/assets/js/bessemer_onetrust.js?tnqkuj",
+    "https://www.bessemertrust.com/sites/default/files/js/js_RjwAFMglLOt5fjnuk9MlRed4au3kdgtkZRkimrc6FPw.js?scope=footer&delta=4&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg"
+  ],
+  "stylesheets": [
+    "https://www.bessemertrust.com/sites/default/files/css/css__m7LYBB9J9ObxLIwq3k1bhIcXCb_MyvWbwwWzlcCRqM.css?delta=0&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_JweQMrZthtbRgfBchtqAEssVlq9C_3mEaWFeWloW1S8.css?delta=1&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_VY4NpFJiWgOeBbLoEtANTopF3Hc4Lk4Snfvof04kOGQ.css?delta=2&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_EzlMqm-eMYUQTqIDi4-KaeFM2IlFW2Mn_gf05UL_dUs.css?delta=3&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+    "https://www.bessemertrust.com/sites/default/files/css/css_urzMnXjLPchTVHbkHgKnIJvZ-RtD6I7v6vld-5GaeHI.css?delta=4&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz"
+  ],
+  "hreflang": [
+    {
+      "lang": "en",
+      "url": "https://www.bessemertrust.com/"
+    }
+  ],
+  "visual": {
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "scroll_width": 768,
+    "overflowing": [
+      "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)"
+    ],
+    "css_variables": {
+      "--details-spread-box-shadow-radius": "2px",
+      "--input--hover-border-color": "#232429",
+      "--color-link-active": "#002e9a",
+      "--details-box-shadow": "0 2px 0.25rem rgb(0,0,0,0.1)",
+      "--progress-bar-transition": "width 0.5s ease-out",
+      "--input--disabled-fg-color": "#55565b",
+      "--input--focus-border-color": "#003ecc",
+      "--jui-dropdown-border-color": "rgb(216,217,224,0.8)",
+      "--color-absolutezero-active": "#002e9a",
+      "--jui-dialog-title-color": "#fff",
+      "--input-line-height": "1.5rem",
+      "--vertical-tabs-menu-separator-color": "#d3d4d9",
+      "--button-fg-color": "#232429",
+      "--color-red-900": "#2c0707",
+      "--details-summary-focus-border-size": "0.1875rem",
+      "--space-m": "1rem",
+      "--progress-track-bg-color": "#d3d4d9",
+      "--color-red-050": "#fce9e9",
+      "--color-blue-700": "#002e9a",
+      "--input-padding-vertical": "calc(0.75rem - 1px)",
+      "--color-divider": "rgb(142,146,156,0.5)",
+      "--color-bg": "#fff",
+      "--color-lightninggreen": "#26a769",
+      "--button--disabled-fg-color": "#919297",
+      "--input-border-radius-size": "0.125rem",
+      "--focus-outline": "2px dotted transparent",
+      "--space-xl": "3rem",
+      "--input--disabled-color": "rgb(84,85,96,0.6)",
+      "--color-red-200": "#f1a7a7",
+      "--input--disabled-border-color": "#bababf",
+      "--color-blue-300": "#6694ff",
+      "--jui-dropdown-fg-color": "#55565b",
+      "--button-bg-color--danger": "#dc2323",
+      "--progress-bar-small-size": "calc(0.5rem - (2 * 1px))",
+      "--layout-region-edit-extended-width": "min(68rem,100%)",
+      "--color-gray-300": "#c1c2c7",
+      "--font-family-serif": "\"Times New Roman\",times,serif",
+      "--input-padding-vertical--small": "calc(0.5rem - (1px * 2))",
+      "--f-button-svg-stroke-width": "1.5",
+      "--color-red-020": "#fdf5f5",
+      "--color-gray-500": "#919297",
+      "--jui-dialog--focus-outline": "2px dotted transparent",
+      "--input-font-size": "1rem",
+      "--button--active-bg-color--danger": "#b01c1c",
+      "--vertical-tabs-menu-item--bottom-margin": "calc(0.5rem * -1)",
+      "--jui-dropdown--active-bg-color": "#003ecc",
+      "--color-maximumred": "#dc2323",
+      "--vertical-tabs-menu-item-shadow-extraspace": "0.5rem",
+      "--vertical-tabs-pane-width": "calc(100% - 20em)",
+      "--color-red-400": "#e34f4f",
+      "--color-white": "#fff",
+      "--color-gray-400": "#adaeb3",
+      "--button--disabled-bg-color--primary": "#d3d4d9",
+      "--progress-bar-label-color": "#232429",
+      "--color-blue-400": "#3371ff",
+      "--font-size-base": "1rem",
+      "--f-button-svg-height": "20px",
+      "--vertical-tabs-menu-item--right-margin": "calc(1px * -1)",
+      "--jui-dialog-off-canvas-z-index": "501",
+      "--details-summary-shadow-color": "#26a769",
+      "--color-gray-100": "#dedfe4",
+      "--color-red-800": "#580e0e",
+      "--jui-dropdown-bg-color": "#fff",
+      "--color-red-500": "#dc2323",
+      "--jui-dialog-border-radius": "0.25rem",
+      "--color-gray-050-o-40": "rgb(243,244,249,0.4)",
+      "--f-button-color": "#374151",
+      "--color-red": "#dc2323",
+      "--details-border-size": "1px",
+      "--input--extrasmall-line-height": "calc(1rem + 0.2rem)",
+      "--base-border-radius": "2px",
+      "--breadcrumb-height": "1.25rem",
+      "--outline-size": "2px",
+      "--f-spinner-width": "36px",
+      "--focus-box-shadow": "0 0 0 2px #fff,0 0 0 calc(0.1875rem + 2px) #26a769",
+      "--button--disabled-bg-color": "#ebebed",
+      "--progress-bar-description-font-size": "0.79rem",
+      "--color-blue": "#003ecc",
+      "--color-sunglow-shaded": "#977405",
+      "--color-maximumred-hover": "#c61f1f",
+      "--jui-dialog-title-font-size": "1.424rem",
+      "--color-maximumred-active": "#b01c1c",
+      "--font-size-xs": "0.79rem",
+      "--font-size-description": "0.79rem",
+      "--details-desktop-wrapper-padding-start": "calc(1rem + 0.75rem + 0.5rem)",
+      "--input-bg-color": "#fff",
+      "--details-accordion-border-size-radius": "2px",
+      "--font-size-h6": "1.125rem",
+      "--color-sunglow": "#ffd23f",
+      "--input-padding-horizontal": "calc(1rem - 1px)",
+      "--details-line-height": "1.295rem",
+      "--color-bgred-active": "#fce9e9",
+      "--color-blue-800": "#001f66",
+      "--f-button-svg-fill": "none",
+      "--f-button-border": "0",
+      "--font-size-label": "0.889rem",
+      "--details-bg-color-transition-duration": "0.12s",
+      "--ajax-progress-margin-horizontal": "0.75rem",
+      "--f-button-hover-bg": "#e0e0e0",
+      "--input-line-height--small": "1.3125rem",
+      "--vertical-tabs-border-color": "#dedfe4",
+      "--button-fg-color--danger": "#fff",
+      "--vertical-tabs-menu-link--active-border-size": "0.25rem",
+      "--color-blue-100": "#ccdbff",
+      "--f-spinner-stroke": "2.75",
+      "--jui-dialog-close-button-size": "",
+      "--input-fg-color--placeholder": "#75767b",
+      "--input-fg-color--description": "#55565b",
+      "--button--disabled-fg-color--primary": "#828388",
+      "--f-button-svg-disabled-opacity": "0.65",
+      "--f-spinner-color-2": "rgba(17,24,28,0.8)",
+      "--color-blue-050": "#e5edff",
+      "--input--disabled-border-opacity": "0.5",
+      "--f-button-svg-width": "20px",
+      "--button--focus-bg-color--primary": "#003ecc",
+      "--color-bgblue-active": "#e5edff",
+      "--color-gray-800": "#55565b",
+      "--space-l": "1.5rem",
+      "--focus-border-size": "0.1875rem",
+      "--input--extrasmall-padding-vertical": "calc(0.15rem - 1px)",
+      "--font-size-s": "0.889rem",
+      "--jui-dialog-off-canvas-close-button-reserved-space": "",
+      "--f-button-border-radius": "0",
+      "--details-border-color": "#dedfe4",
+      "--color-red-550": "#c61f1f",
+      "--color-text-light": "#919297",
+      "--vertical-tabs-menu-link-focus-border-size": "0.1875rem",
+      "--button-fg-color--primary": "#fff",
+      "--shadow-z3": "0 0.875rem 1.875rem rgb(0,0,0,0.1)",
+      "--color-gray-050": "#f3f4f9",
+      "--color-absolutezero": "#003ecc",
+      "--color-red-300": "#ea7b7b",
+      "--jui-dialog-title-bg-color": "#232429",
+      "--button--hover-bg-color--danger": "#c61f1f",
+      "--font-size-h2": "1.802rem",
+      "--details-box-shadow-transition-duration": "0.2s",
+      "--input--extrasmall-font-size": "0.889rem",
+      "--f-button-bg": "#f8f8f8",
+      "--jui-dropdown--active-fg-color": "#fff",
+      "--font-size-xxs": "0.702rem",
+      "--f-button-height": "40px",
+      "--font-size-h3": "1.602rem",
+      "--color-bgred-hover": "#fdf5f5",
+      "--dropbutton-widget-z-index": "100",
+      "--color-gray-025": "#f9faff",
+      "--input--error-border-size": "2px",
+      "--color-focus": "#26a769",
+      "--input-font-size--small": "0.79rem",
+      "--layout-region-edit-width": "min(60rem,100%)",
+      "--f-spinner-color-1": "rgba(0,0,0,0.1)",
+      "--jui-dropdown-shadow-color": "rgb(34,35,48,0.1)",
+      "--color-blue-070": "#dbe6ff",
+      "--button-border-radius-size": "2px",
+      "--speed-transition": "0.2s",
+      "--button--active-bg-color": "#adaeb3",
+      "--line-height-heading": "1.3",
+      "--font-size-h1": "2.027rem",
+      "--details-transform-transition-duration": "0.12s",
+      "--button-bg-color--primary": "#003ecc",
+      "--input--required-mark-size": "0.4375rem",
+      "--jui-dialog-box-shadow": "",
+      "--color-red-700": "#841515",
+      "--input-fg-color": "#232429",
+      "--color-bgblue-hover": "#f5f8ff",
+      "--vertical-tabs-border": "1px solid #dedfe4",
+      "--button--hover-bg-color": "#c1c2c7",
+      "--color-absolutezero-hover": "#0036b1",
+      "--input-padding-horizontal--small": "calc(1rem - 1px)",
+      "--input--extrasmall-padding-horizontal": "calc(0.5rem - 1px)",
+      "--font-size-h4": "1.424rem",
+      "--input--label-spacing": "1.6875rem",
+      "--button--focus-border-color": "#6694ff",
+      "--color-gray-900": "#393a3f",
+      "--color-blue-500": "#004eff",
+      "--color-blue-900": "#000f33",
+      "--button--active-bg-color--primary": "#002e9a",
+      "--input-border-color": "#919297",
+      "--vertical-tabs-menu-width": "20em",
+      "--color-gray": "#232429",
+      "--line-height-form-label": "calc(18rem / 16)",
+      "--f-button-svg-filter": "none",
+      "--vertical-tabs-menu-item--left-margin": "calc(0.5rem * -1)",
+      "--color-gray-700": "#75767b",
+      "--button-bg-color": "#d3d4d9",
+      "--vertical-tabs-menu-item--top-margin": "calc(0.5rem * -2)",
+      "--color-gray-600": "#828388",
+      "--space-xs": "0.5rem",
+      "--font-size-xl": "2.25rem",
+      "--f-spinner-height": "36px",
+      "--jui-dialog-close-button-reserved-space": "",
+      "--font-size-h5": "1.266rem",
+      "--color-blue-600": "#003ecc",
+      "--color-red-100": "#f8d3d3",
+      "--vertical-tabs-menu-link--active-border-color": "#003ecc",
+      "--vertical-tabs-border-size": "1px",
+      "--transition": "all 0.2s ease-out",
+      "--color-text": "#232429",
+      "--line-height": "1.5",
+      "--button--hover-bg-color--primary": "#0036b1",
+      "--space-s": "0.75rem",
+      "--jui-dialog-z-index": "1260",
+      "--color-red-600": "#b01c1c",
+      "--progress-track-border-color": "#919297",
+      "--color-blue-200": "#99b8ff",
+      "--vertical-tabs-menu-separator-size": "1px",
+      "--progress-bar-spacing-size": "0.5rem",
+      "--color-gray-200": "#d3d4d9",
+      "--progress-bar-border-size": "1px",
+      "--progress-bar-small-size-radius": "0.5rem",
+      "--input--error-border-color": "#dc2323",
+      "--font-family": "BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+      "--details-border-size-radius": "2px",
+      "--f-button-active-bg": "#d0d0d0",
+      "--f-button-transform": "none",
+      "--vertical-tabs-margin-vertical": "0.75rem",
+      "--input--disabled-bg-color": "#f2f2f3",
+      "--vertical-tabs-border-radius": "2px",
+      "--color-gray-200-o-80": "rgb(212,212,218,0.8)",
+      "--vertical-tabs-shadow": "0 2px 0.25rem rgb(0,0,0,0.1)",
+      "--color-red-070": "#fae0e0",
+      "--jui-dialog-close-button-border-radius": "50%",
+      "--vertical-tabs-menu--z-index": "0",
+      "--color-fg": "#232429",
+      "--progress-bar-description-color": "#55565b",
+      "--jui-dialog--focus-box-shadow": "0 0 0 0.1875rem #26a769",
+      "--color-blue-650": "#0036b1",
+      "--color-blue-020": "#f5f8ff",
+      "--focus-border-offset-size": "2px",
+      "--input-border-size": "1px",
+      "--app-height": "1024px",
+      "--color-link-hover": "#0036b1",
+      "--f-button-transition": "all 0.15s ease",
+      "--color-link": "#003ecc",
+      "--input--error-color": "#dc2323",
+      "--f-button-shadow": "none",
+      "--f-button-width": "40px"
+    },
+    "samples": [
+      {
+        "selector": "body:nth-of-type(1)",
+        "tag": "body",
+        "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-TPXD7T2\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Skip to main content Searchclose menuclo",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 0
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "22.8571px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.35s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Skip to main content",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "styles": {
+          "color": "rgb(0, 101, 64)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "22.8571px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1)",
+        "tag": "header",
+        "text": "Searchclose menuclose Contact Us Client login",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 70
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgb(255, 255, 255)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "22.8571px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "15px",
+          "padding-bottom": "0px",
+          "padding-left": "15px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "",
+        "rect": {
+          "x": 15,
+          "y": 13.84375,
+          "width": 80,
+          "height": 41.3125
+        },
+        "styles": {
+          "color": "rgb(119, 119, 119)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "50px",
+          "font-weight": "400",
+          "line-height": "22px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "tag": "p",
+        "text": "Searchclose menuclose",
+        "rect": {
+          "x": 642.546875,
+          "y": 12.5,
+          "width": 110.453125,
+          "height": 44
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "16px",
+          "font-weight": "100",
+          "line-height": "26px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Searchclose",
+        "rect": {
+          "x": 654.546875,
+          "y": 12.5,
+          "width": 41,
+          "height": 38
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "16px",
+          "font-weight": "100",
+          "line-height": "26px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "text": "menuclose",
+        "rect": {
+          "x": 712,
+          "y": 12.5,
+          "width": 41,
+          "height": 38
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "16px",
+          "font-weight": "100",
+          "line-height": "26px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0.25s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "The Bessemer experience",
+        "rect": {
+          "x": -753,
+          "y": 90,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "What we do for you",
+        "rect": {
+          "x": -753,
+          "y": 153.875,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "What makes us different",
+        "rect": {
+          "x": -753,
+          "y": 217.75,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Insights & Education",
+        "rect": {
+          "x": -753,
+          "y": 281.625,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Our offices",
+        "rect": {
+          "x": -753,
+          "y": 345.5,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Contact Us",
+        "rect": {
+          "x": -753,
+          "y": 409.375,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Careers at Bessemer",
+        "rect": {
+          "x": -753,
+          "y": 770.375,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "For professional partners",
+        "rect": {
+          "x": -753,
+          "y": 834.25,
+          "width": 738,
+          "height": 50
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Client Login",
+        "rect": {
+          "x": -753,
+          "y": 898.125,
+          "width": 738,
+          "height": 52
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay",
+          "font-size": "25px",
+          "font-weight": "100",
+          "line-height": "30px",
+          "letter-spacing": "normal",
+          "padding-top": "10px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "5px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#main-content",
+        "tag": "main",
+        "text": "Enhancing private wealthfor generations Home Page Enhancing private wealth for generations hide 50 body.page--front .homepage-carousel--item .homepage-carousel--item_header {line-h",
+        "rect": {
+          "x": 0,
+          "y": 71,
+          "width": 768,
+          "height": 913
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "22.8571px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "71px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > section:nth-of-type(1)",
+        "tag": "section",
+        "text": "Enhancing private wealthfor generations",
+        "rect": {
+          "x": 0,
+          "y": 71,
+          "width": 768,
+          "height": 913
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgb(0, 0, 0)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "22.8571px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "tag": "h1",
+        "text": "Home Page",
+        "rect": {
+          "x": 61.4375,
+          "y": 1024,
+          "width": 645.125,
+          "height": 38.390625
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "MillerDisplay, Helvetica, Arial, sans-serif",
+          "font-size": "32px",
+          "font-weight": "100",
+          "line-height": "38.4px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "40px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "tag": "h2",
+        "text": "Q4 2026 Quarterly Investment Perspective",
+        "rect": {
+          "x": 522.5625,
+          "y": 161,
+          "width": 174.4375,
+          "height": 76.421875
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Georgia, \"Times New Roman\", Times, serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "22.1429px",
+          "letter-spacing": "normal",
+          "padding-top": "5px",
+          "padding-right": "0px",
+          "padding-bottom": "5px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Q4 2026 Quarterly Investment Perspective",
+        "rect": {
+          "x": 522.5625,
+          "y": 166,
+          "width": 166.765625,
+          "height": 66.28125
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Georgia, \"Times New Roman\", Times, serif",
+          "font-size": "20px",
+          "font-weight": "500",
+          "line-height": "22.1429px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "text": "© 2026 Bessemer Trust. All rights reserved. Privacy Policy Terms Accessibility Member FDICOpens a new window Pillar 3 Disclosure Cookie Preferences .view--financial-education.view-",
+        "rect": {
+          "x": 0,
+          "y": 984,
+          "width": 768,
+          "height": 40
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgb(225, 198, 153)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "400",
+          "line-height": "22.8571px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "flex",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Privacy Policy",
+        "rect": {
+          "x": 277.234375,
+          "y": 991.5,
+          "width": 98.625,
+          "height": 13
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "13px",
+          "font-weight": "200",
+          "line-height": "13px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "7px",
+          "padding-bottom": "0px",
+          "padding-left": "7px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Terms",
+        "rect": {
+          "x": 376.859375,
+          "y": 991.5,
+          "width": 51.515625,
+          "height": 13
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "13px",
+          "font-weight": "200",
+          "line-height": "13px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "7px",
+          "padding-bottom": "0px",
+          "padding-left": "7px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Accessibility",
+        "rect": {
+          "x": 429.375,
+          "y": 991.5,
+          "width": 90.59375,
+          "height": 13
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "13px",
+          "font-weight": "200",
+          "line-height": "13px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "7px",
+          "padding-bottom": "0px",
+          "padding-left": "7px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Member FDICOpens a new window",
+        "rect": {
+          "x": 520.96875,
+          "y": 991.5,
+          "width": 98.515625,
+          "height": 13
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "13px",
+          "font-weight": "200",
+          "line-height": "13px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "7px",
+          "padding-bottom": "0px",
+          "padding-left": "7px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Pillar 3 Disclosure",
+        "rect": {
+          "x": 620.484375,
+          "y": 991.5,
+          "width": 123.828125,
+          "height": 13
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "13px",
+          "font-weight": "200",
+          "line-height": "13px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "7px",
+          "padding-bottom": "0px",
+          "padding-left": "7px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "text": "Cookie Preferences",
+        "rect": {
+          "x": 0,
+          "y": 1004.5,
+          "width": 131.5,
+          "height": 13
+        },
+        "styles": {
+          "color": "rgb(53, 53, 53)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers",
+          "font-size": "13px",
+          "font-weight": "200",
+          "line-height": "13px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "7px",
+          "padding-bottom": "0px",
+          "padding-left": "7px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#onetrust-policy-title",
+        "tag": "h2",
+        "text": "We care about your privacy",
+        "rect": {
+          "x": 20,
+          "y": 753.84375,
+          "width": 178.234375,
+          "height": 26
+        },
+        "styles": {
+          "color": "rgb(0, 0, 0)",
+          "background-color": "rgba(0, 0, 0, 0)",
+          "font-family": "Univers, Helvetica, Arial, sans-serif",
+          "font-size": "16px",
+          "font-weight": "600",
+          "line-height": "16px",
+          "letter-spacing": "normal",
+          "padding-top": "0px",
+          "padding-right": "0px",
+          "padding-bottom": "10px",
+          "padding-left": "0px",
+          "margin-top": "0px",
+          "margin-bottom": "0px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#onetrust-accept-btn-handler",
+        "tag": "button",
+        "text": "Accept All Cookies",
+        "rect": {
+          "x": 20,
+          "y": 906,
+          "width": 460,
+          "height": 44
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(0, 101, 64)",
+          "font-family": "\"Univers Com\", Helvetica, Arial, sans-serif",
+          "font-size": "13.008px",
+          "font-weight": "600",
+          "line-height": "18px",
+          "letter-spacing": "0.13008px",
+          "padding-top": "12px",
+          "padding-right": "10px",
+          "padding-bottom": "12px",
+          "padding-left": "10px",
+          "margin-top": "0px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#onetrust-reject-all-handler",
+        "tag": "button",
+        "text": "Reject All",
+        "rect": {
+          "x": 20,
+          "y": 965,
+          "width": 460,
+          "height": 44
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(0, 101, 64)",
+          "font-family": "\"Univers Com\", Helvetica, Arial, sans-serif",
+          "font-size": "13.008px",
+          "font-weight": "600",
+          "line-height": "18px",
+          "letter-spacing": "0.13008px",
+          "padding-top": "12px",
+          "padding-right": "10px",
+          "padding-bottom": "12px",
+          "padding-left": "10px",
+          "margin-top": "0px",
+          "margin-bottom": "15px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      },
+      {
+        "selector": "#onetrust-pc-btn-handler",
+        "tag": "button",
+        "text": "Cookies Settings",
+        "rect": {
+          "x": 20,
+          "y": 852,
+          "width": 460,
+          "height": 44
+        },
+        "styles": {
+          "color": "rgb(255, 255, 255)",
+          "background-color": "rgb(0, 101, 64)",
+          "font-family": "\"Univers Com\", Helvetica, Arial, sans-serif",
+          "font-size": "13.008px",
+          "font-weight": "600",
+          "line-height": "18px",
+          "letter-spacing": "0.13008px",
+          "padding-top": "12px",
+          "padding-right": "10px",
+          "padding-bottom": "12px",
+          "padding-left": "10px",
+          "margin-top": "0px",
+          "margin-bottom": "10px",
+          "gap": "normal",
+          "border-radius": "0px",
+          "box-shadow": "none",
+          "max-width": "none",
+          "display": "inline-block",
+          "grid-template-columns": "none",
+          "transition-duration": "0s"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > header:nth-of-type(1)",
+        "tag": "header",
+        "heading": "",
+        "text_excerpt": "Searchclose menuclose Contact Us Client login",
+        "children": 2,
+        "rect": {
+          "y": 0,
+          "height": 70
+        },
+        "layout": "flex"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > section:nth-of-type(1)",
+        "tag": "section",
+        "heading": "",
+        "text_excerpt": "Enhancing private wealthfor generations",
+        "children": 1,
+        "rect": {
+          "y": 71,
+          "height": 913
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(2)",
+        "tag": "div",
+        "heading": "Home Page",
+        "text_excerpt": "Home Page Enhancing private wealth for generations hide 50 body.page--front .homepage-carousel--item .homepage-carousel--item_header {line-height:1.1} @media (min-width: 992px){ body.page--front .homepage-carousel--item ",
+        "children": 2,
+        "rect": {
+          "y": 1024,
+          "height": 180.765625
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(3)",
+        "tag": "div",
+        "heading": "Q4 2026 Quarterly Investment Perspective",
+        "text_excerpt": "INVESTMENT MANAGEMENT Q4 2026 Quarterly Investment Perspective",
+        "children": 1,
+        "rect": {
+          "y": 101,
+          "height": 171.421875
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(4)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "",
+        "children": 1,
+        "rect": {
+          "y": 1204.765625,
+          "height": 0
+        },
+        "layout": "block"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > main:nth-of-type(1) > div:nth-of-type(5)",
+        "tag": "div",
+        "heading": "",
+        "text_excerpt": "",
+        "children": 3,
+        "rect": {
+          "y": 972,
+          "height": 0
+        },
+        "layout": "flex"
+      },
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > footer:nth-of-type(1)",
+        "tag": "footer",
+        "heading": "",
+        "text_excerpt": "© 2026 Bessemer Trust. All rights reserved. Privacy Policy Terms Accessibility Member FDICOpens a new window Pillar 3 Disclosure Cookie Preferences .view--financial-education.view--financial-education--block-1 .financial",
+        "children": 1,
+        "rect": {
+          "y": 984,
+          "height": 40
+        },
+        "layout": "flex"
+      }
+    ],
+    "controls": [
+      {
+        "selector": "body:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Skip to main content",
+        "width": 1,
+        "height": 1,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(2) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Bessemer Trust",
+        "width": 80,
+        "height": 41.3125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Searchclose",
+        "width": 41,
+        "height": 38,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "role": null,
+        "name": "menuclose",
+        "width": 41,
+        "height": 38,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "The Bessemer experience",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": "false"
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "What we do for you",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": "false"
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "What makes us different",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": "false"
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "Insights & Education",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": "false"
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "Our offices",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "Contact Us",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "Careers at Bessemer",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "For professional partners",
+        "width": 738,
+        "height": 50,
+        "tabindex": "0",
+        "expanded": "false"
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": "button",
+        "name": "Client Login",
+        "width": 738,
+        "height": 52,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "role": null,
+        "name": "Enhancing private wealth for generations hide 50",
+        "width": 645.125,
+        "height": 91.375,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h2:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Q4 2026 Quarterly Investment Perspective",
+        "width": 166.765625,
+        "height": 66.28125,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Privacy Policy",
+        "width": 98.625,
+        "height": 13,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Terms",
+        "width": 51.515625,
+        "height": 13,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Accessibility",
+        "width": 90.59375,
+        "height": 13,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Member FDICOpens a new window",
+        "width": 98.515625,
+        "height": 13,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Pillar 3 Disclosure",
+        "width": 123.828125,
+        "height": 13,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+        "tag": "a",
+        "role": null,
+        "name": "Cookie Preferences",
+        "width": 131.5,
+        "height": 13,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#onetrust-banner-sdk",
+        "tag": "div",
+        "role": null,
+        "name": "We care about your privacy",
+        "width": 500,
+        "height": 292.15625,
+        "tabindex": "0",
+        "expanded": null
+      },
+      {
+        "selector": "#onetrust-accept-btn-handler",
+        "tag": "button",
+        "role": null,
+        "name": "Accept All Cookies",
+        "width": 460,
+        "height": 44,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#onetrust-reject-all-handler",
+        "tag": "button",
+        "role": null,
+        "name": "Reject All",
+        "width": 460,
+        "height": 44,
+        "tabindex": null,
+        "expanded": null
+      },
+      {
+        "selector": "#onetrust-pc-btn-handler",
+        "tag": "button",
+        "role": null,
+        "name": "Cookies Settings, Opens the preference center dialog",
+        "width": 460,
+        "height": 44,
+        "tabindex": null,
+        "expanded": null
+      }
+    ]
+  },
+  "performance": {
+    "navigation": {
+      "ttfb_ms": 282.09999999403954,
+      "dom_content_loaded_ms": 2600.199999988079,
+      "load_ms": 0
+    },
+    "resources": [
+      {
+        "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+        "type": "script",
+        "duration_ms": 2.199999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/css/css__m7LYBB9J9ObxLIwq3k1bhIcXCb_MyvWbwwWzlcCRqM.css?delta=0&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+        "type": "link",
+        "duration_ms": 3.100000023841858,
+        "transfer_bytes": 0,
+        "decoded_bytes": 51599
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/css/css_JweQMrZthtbRgfBchtqAEssVlq9C_3mEaWFeWloW1S8.css?delta=1&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+        "type": "link",
+        "duration_ms": 3.199999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 25598
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/css/css_EzlMqm-eMYUQTqIDi4-KaeFM2IlFW2Mn_gf05UL_dUs.css?delta=3&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+        "type": "link",
+        "duration_ms": 4.4000000059604645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 572609
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/css/css_urzMnXjLPchTVHbkHgKnIJvZ-RtD6I7v6vld-5GaeHI.css?delta=4&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+        "type": "link",
+        "duration_ms": 4.799999982118607,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1777
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/logo.svg",
+        "type": "img",
+        "duration_ms": 5.0999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 5497
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TPXD7T2",
+        "type": "script",
+        "duration_ms": 9.700000017881393,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/consent/0191eb5d-9524-78ce-b4f0-e7538f323361/0191eb5d-9524-78ce-b4f0-e7538f323361.json",
+        "type": "xmlhttprequest",
+        "duration_ms": 0.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/css/css_VY4NpFJiWgOeBbLoEtANTopF3Hc4Lk4Snfvof04kOGQ.css?delta=2&language=en&theme=bessemer&include=eJyNUdluBDEI-6F08kkRSZgJXRJojtnj65tZbY9VW6kvCNtgyQCtYXdUXjF0qTa0tiTJqLChU6xNCjDdoJMUAz9n3-h3Vt1Z1cHoSWpz02IrGUt3QfTqVroYj3MtY7UeGn4i50V66xXUKVTYZpOa3b2-BOHp9I_BiCsM7sYz3K6WBSKVzdzXvVzsh4yXzlRONtahwMsDmm9mD-WLWUbR4ZlawmgaQg3JgdKRUoJkZexo_-BNYwone6_LPNETzkBlWQfzmWJPT1JPM63ZoR5nchkjgZ2eeX5jJzzPyEddssTB-A4CG7Xz",
+        "type": "link",
+        "duration_ms": 1.199999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 4218
+      },
+      {
+        "url": "https://fast.fonts.net/t/1.css?apiType=css&projectid=cebf9abe-97e4-46e8-9413-1e4e17837a93",
+        "type": "css",
+        "duration_ms": 519.9000000059605,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "type": "xmlhttprequest",
+        "duration_ms": 110.40000000596046,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-9QZW0E2MHN&cx=c&gtm=4e6as1",
+        "type": "script",
+        "duration_ms": 2.300000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/scripttemplates/202609.2.0/otBannerSdk.js",
+        "type": "script",
+        "duration_ms": 2.699999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=13&frm=0&apvc=1&tid=AW-601191165&en=page_view&dl=https%3A%2F%2Fwww.bessemertrust.com%2F&scrsrc=www.googletagmanager.com&rnd=196842357.1793515946&navt=n&npa=1&ep.content_group=Other&ep.microsites_by_capability=Other&_tu=CA&gtm=45je6as1v870098223za20ozb810933723zd810933723xecxf1&gcs=G101&gcd=13q3v3q3q5l1&dma_cps=-&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120420416~120469145~120469153~121246026~121246034~123636746~123691370~123814945&tft=1793515945742&tfd=642&tids=AW-601191165&fmt=8",
+        "type": "fetch",
+        "duration_ms": 464.69999998807907,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/consent/0191eb5d-9524-78ce-b4f0-e7538f323361/01a17e83-7cfb-796a-858a-d71f852b2491/en.json",
+        "type": "fetch",
+        "duration_ms": 1,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/scripttemplates/202609.2.0/assets/otFloatingFlat.json",
+        "type": "fetch",
+        "duration_ms": 0.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/scripttemplates/202609.2.0/assets/v2/otPcCenter.json",
+        "type": "fetch",
+        "duration_ms": 1.2999999821186066,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/scripttemplates/202609.2.0/assets/otCommonStyles.css",
+        "type": "fetch",
+        "duration_ms": 1.2000000178813934,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/76a5d975-d4e5-4102-b03a-42204e303098.woff2",
+        "type": "css",
+        "duration_ms": 0.7999999821186066,
+        "transfer_bytes": 0,
+        "decoded_bytes": 22072
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/4c3360e9-d022-446a-8571-1decf6bc06c3.woff2",
+        "type": "css",
+        "duration_ms": 1.4000000059604645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 28332
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/9cb3cad6-404f-44d4-9e85-945513337c77.woff2",
+        "type": "css",
+        "duration_ms": 0.5999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 29012
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/js/js_bl_waeWs4sGpM7AoOdkLE_0x2SfPGiaYiX0bdjE3mqg.js?scope=footer&delta=0&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+        "type": "script",
+        "duration_ms": 3.0999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1387
+      },
+      {
+        "url": "https://www.bessemertrust.com/core/assets/vendor/jquery/jquery.min.js?v=4.0.0",
+        "type": "script",
+        "duration_ms": 4.4000000059604645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 78748
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/js/js_vZawIsnfBO-eO-CW1BOYLuzst1qOjWQhQAX7-XOLDlg.js?scope=footer&delta=2&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+        "type": "script",
+        "duration_ms": 8.400000005960464,
+        "transfer_bytes": 0,
+        "decoded_bytes": 655625
+      },
+      {
+        "url": "https://www.bessemertrust.com/modules/custom/bessemer_onetrust/assets/js/bessemer_onetrust.js?tnqkuj",
+        "type": "script",
+        "duration_ms": 3.9000000059604645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2874
+      },
+      {
+        "url": "https://www.bessemertrust.com/sites/default/files/js/js_RjwAFMglLOt5fjnuk9MlRed4au3kdgtkZRkimrc6FPw.js?scope=footer&delta=4&language=en&theme=bessemer&include=eJx1kVFywzAIRC_kRkfSIBnbxFhoADdJT1_Fdeo0mf4w7NNqBCswQ49UzphdNJztlKGA3qJlpeodvJ1fyJwgLis7xU_qUaIr5Bm1S9jcC2pIYHgovDpqAf5gKrMdfJIFK4wYBwRfFfuYoBTUwxJHlgQcBhEv4minUWWtMbHkuT0O8fxkpmI0Tm7hQT4e5PBIQdfVPLyRw2MImqfworvE8HULW937zC0epvvdTbNAv7dV-DYQ80OqLHTPZFMKw95dMNUuC4smuYYeB2ix_oK2UYsMw4vuFHq6hv2HfqaLUCnC6pJlqYyO4R_etYHzHLZ6QjAq4x-07fAMFlkNLxMifwNQF9vg",
+        "type": "script",
+        "duration_ms": 3.899999976158142,
+        "transfer_bytes": 0,
+        "decoded_bytes": 25447
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/images/bess-texture-tile_green.jpg",
+        "type": "css",
+        "duration_ms": 3.9000000059604645,
+        "transfer_bytes": 0,
+        "decoded_bytes": 1132
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/images/icon/ic_chevron_right_white_24px.svg",
+        "type": "css",
+        "duration_ms": 3.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 196
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/images/bess-texture-tile_gray.jpg",
+        "type": "css",
+        "duration_ms": 3.0999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 3480
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/images/icon/ic_chevron_right_grey_24px.svg",
+        "type": "css",
+        "duration_ms": 2.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 199
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/images/icon/promo-chevron-right.svg",
+        "type": "css",
+        "duration_ms": 2.699999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 269
+      },
+      {
+        "url": "https://cdn.cookielaw.org/logos/static/opt_in_out_icon.png",
+        "type": "css",
+        "duration_ms": 2.199999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/aebb34cf-eea7-487d-83a6-0296e2b405e9-3.woff",
+        "type": "css",
+        "duration_ms": 1.800000011920929,
+        "transfer_bytes": 0,
+        "decoded_bytes": 33121
+      },
+      {
+        "url": "https://www.bessemertrust.com/libraries/slick-carousel/slick/ajax-loader.gif",
+        "type": "css",
+        "duration_ms": 0.699999988079071,
+        "transfer_bytes": 0,
+        "decoded_bytes": 2822
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/bc9a41fc-460c-406c-9e95-b99937e11429.woff2",
+        "type": "css",
+        "duration_ms": 0.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 29336
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/8acd73c5-13c0-4d80-a058-56dec919199a.woff2",
+        "type": "css",
+        "duration_ms": 0.5999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 21944
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/bc6e04aa-2676-4236-aa9d-692797253214.woff2",
+        "type": "css",
+        "duration_ms": 1,
+        "transfer_bytes": 0,
+        "decoded_bytes": 30140
+      },
+      {
+        "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "type": "fetch",
+        "duration_ms": 0.5,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/logos/d225a46a-3504-4cd4-9a86-a48150e27397/0191eb71-225f-7639-9e27-96d72db0ed85/a692e730-a840-4dc7-8da9-194a71ec4f29/bessemer-logo-onetrust.png",
+        "type": "img",
+        "duration_ms": 0.5999999940395355,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "type": "img",
+        "duration_ms": 1,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "",
+        "type": "css",
+        "duration_ms": 0,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "",
+        "type": "css",
+        "duration_ms": 0,
+        "transfer_bytes": 0,
+        "decoded_bytes": 0
+      },
+      {
+        "url": "https://www.bessemertrust.com/themes/custom/bessemer/dist/fonts/90d85cff-6e4c-4b6b-9a59-21916afdb880-3.woff",
+        "type": "css",
+        "duration_ms": 0.7000000178813934,
+        "transfer_bytes": 0,
+        "decoded_bytes": 35178
+      }
+    ],
+    "observations": {
+      "lcp_ms": 3892,
+      "layout_shifts": [],
+      "long_tasks": [
+        {
+          "time": 382.19999998807907,
+          "duration_ms": 63
+        },
+        {
+          "time": 514.7999999821186,
+          "duration_ms": 129
+        },
+        {
+          "time": 2528.2999999821186,
+          "duration_ms": 72
+        }
+      ]
+    }
+  }
+}

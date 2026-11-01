@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/real-estate-testimonials/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "15939",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/pages/42833>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=42833>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/testimonials/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/testimonials/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/real-estate-testimonials/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "d1ea20d9ebd3495a7c08c255cde1335959033175d97427ba34f2fecf8c3ad2b5",
+  "body_bytes": 64363
+}

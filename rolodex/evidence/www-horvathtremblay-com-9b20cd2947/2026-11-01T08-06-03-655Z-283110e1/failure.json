@@ -1,0 +1,5 @@
+{
+  "failed_at": "2026-11-01T08:06:34.070Z",
+  "requested_url": "https://www.horvathtremblay.com/",
+  "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.horvathtremblay.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

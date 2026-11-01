@@ -1,0 +1,2017 @@
+{
+  "url": "https://www.generalatlantic.com/",
+  "base_url": "https://www.generalatlantic.com/",
+  "title": "General Atlantic | Powering Visionary Growth",
+  "title_count": 1,
+  "lang": "en-US",
+  "meta": {
+    "viewport": [
+      "width=device-width, initial-scale=1, viewport-fit=cover"
+    ],
+    "description": [
+      "General Atlantic is a global investment leader — the dedicated partner for entrepreneurs and investors building long-term value."
+    ],
+    "robots": [
+      "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    ],
+    "og:locale": [
+      "en_US"
+    ],
+    "og:type": [
+      "website"
+    ],
+    "og:title": [
+      "General Atlantic | Powering Visionary Growth"
+    ],
+    "og:description": [
+      "General Atlantic is a global investment leader — the dedicated partner for entrepreneurs and investors building long-term value."
+    ],
+    "og:url": [
+      "https://www.generalatlantic.com/"
+    ],
+    "og:site_name": [
+      "General Atlantic"
+    ],
+    "og:updated_time": [
+      "2026-10-21T16:02:17-04:00"
+    ],
+    "og:image": [
+      "https://www.generalatlantic.com/wp-content/uploads/2024/12/ga_socialshare.jpg"
+    ],
+    "og:image:secure_url": [
+      "https://www.generalatlantic.com/wp-content/uploads/2024/12/ga_socialshare.jpg"
+    ],
+    "og:image:width": [
+      "1200"
+    ],
+    "og:image:height": [
+      "630"
+    ],
+    "og:image:alt": [
+      "general atlantic"
+    ],
+    "og:image:type": [
+      "image/jpeg"
+    ],
+    "article:published_time": [
+      "2024-07-08T01:05:34-04:00"
+    ],
+    "article:modified_time": [
+      "2026-10-21T16:02:17-04:00"
+    ],
+    "twitter:card": [
+      "summary_large_image"
+    ],
+    "twitter:title": [
+      "General Atlantic | Powering Visionary Growth"
+    ],
+    "twitter:description": [
+      "General Atlantic is a global investment leader — the dedicated partner for entrepreneurs and investors building long-term value."
+    ],
+    "twitter:image": [
+      "https://www.generalatlantic.com/wp-content/uploads/2024/12/ga_socialshare.jpg"
+    ],
+    "msapplication-tileimage": [
+      "https://www.generalatlantic.com/wp-content/uploads/2024/07/favicon.png"
+    ]
+  },
+  "canonicals": [
+    {
+      "href": "https://www.generalatlantic.com/",
+      "url": "https://www.generalatlantic.com/"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Powering Visionary Growth.",
+      "selector": "main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "We were founded on the belief that entrepreneurs can be incredible agents of transformational change.",
+      "selector": "main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "One global platform fueling innovation across strategies",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(3) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Partnerships with Depth",
+      "selector": "main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "News and Insights",
+      "selector": "div:nth-of-type(1) > main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "General Atlantic and NFL’s 32 Equity Announce Global Strategic Partnership",
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "KKR to Acquire Gen II Fund Services for More Than $5 Billion from Hg and General Atlantic",
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Melis Kahya Akar recognized in Private Equity News’ Twenty Trailblazing Women 2026 List",
+      "selector": "ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "OUR GLOBAL REACH",
+      "selector": "div:nth-of-type(1) > main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "New York",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Stamford",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Miami",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "San Francisco",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Austin",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Mexico City",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "São Paulo",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "London",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Amsterdam",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Munich",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Johannesburg",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Tel Aviv",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Riyadh",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(13) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Dubai",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(14) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Abu Dhabi",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(15) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Mumbai",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(16) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Shanghai",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(17) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Hong Kong",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(18) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Singapore",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(19) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Tokyo",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(20) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 3,
+      "text": "Seoul",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(21) > h3:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "level": 2,
+      "text": "Subscribe and stay up to date with the latest news.",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "href": "#content",
+      "url": "https://www.generalatlantic.com/#content",
+      "text": "Skip to content",
+      "rel": "",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/",
+      "url": "https://www.generalatlantic.com/",
+      "text": "General Atlantic",
+      "rel": "home",
+      "internal": true,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-story/",
+      "url": "https://www.generalatlantic.com/our-story/",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-culture/",
+      "url": "https://www.generalatlantic.com/our-culture/",
+      "text": "Our Culture",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/careers/",
+      "url": "https://www.generalatlantic.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-team/?group=executive-committee",
+      "url": "https://www.generalatlantic.com/our-team/?group=executive-committee",
+      "text": "Executive Committee",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-team/?group=investment-team",
+      "url": "https://www.generalatlantic.com/our-team/?group=investment-team",
+      "text": "Investment Team",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-team/?group=capital-solutions",
+      "url": "https://www.generalatlantic.com/our-team/?group=capital-solutions",
+      "text": "Capital Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-team/?group=value-creation",
+      "url": "https://www.generalatlantic.com/our-team/?group=value-creation",
+      "text": "Value Creation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-team/?group=portfolio-management",
+      "url": "https://www.generalatlantic.com/our-team/?group=portfolio-management",
+      "text": "Portfolio Management",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/our-team/?group=business-operations",
+      "url": "https://www.generalatlantic.com/our-team/?group=business-operations",
+      "text": "Business Operations",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-team/",
+      "url": "https://www.generalatlantic.com/our-team/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Strategies",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Our Approach",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-approach/",
+      "url": "https://www.generalatlantic.com/our-approach/",
+      "text": "Overview",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/capital-solutions/",
+      "url": "https://www.generalatlantic.com/capital-solutions/",
+      "text": "Capital Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/value-creation/",
+      "url": "https://www.generalatlantic.com/value-creation/",
+      "text": "Value Creation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Investment Strategies",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/growth-equity/",
+      "url": "https://www.generalatlantic.com/growth-equity/",
+      "text": "Growth Equity",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/credit/",
+      "url": "https://www.generalatlantic.com/credit/",
+      "text": "Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/energy-transition/",
+      "url": "https://www.generalatlantic.com/energy-transition/",
+      "text": "Energy Transition",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/infrastructure/",
+      "url": "https://www.generalatlantic.com/infrastructure/",
+      "text": "Infrastructure",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Investments",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Sectors",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Technology",
+      "url": "https://www.generalatlantic.com/investments/?type=Technology",
+      "text": "Technology",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Healthcare",
+      "url": "https://www.generalatlantic.com/investments/?type=Healthcare",
+      "text": "Healthcare",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Financial+Services",
+      "url": "https://www.generalatlantic.com/investments/?type=Financial+Services",
+      "text": "Financial Services",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Consumer",
+      "url": "https://www.generalatlantic.com/investments/?type=Consumer",
+      "text": "Consumer",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Life+Sciences",
+      "url": "https://www.generalatlantic.com/investments/?type=Life+Sciences",
+      "text": "Life Sciences",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=energy-transition",
+      "url": "https://www.generalatlantic.com/investments/?type=energy-transition",
+      "text": "Energy Transition",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Sustainable+Infrastructure",
+      "url": "https://www.generalatlantic.com/investments/?type=Sustainable+Infrastructure",
+      "text": "Infrastructure",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/",
+      "url": "https://www.generalatlantic.com/investments/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Region",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?region=United+States",
+      "url": "https://www.generalatlantic.com/investments/?region=United+States",
+      "text": "United States",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?region=EMEA",
+      "url": "https://www.generalatlantic.com/investments/?region=EMEA",
+      "text": "EMEA",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?region=India",
+      "url": "https://www.generalatlantic.com/investments/?region=India",
+      "text": "India",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?region=Southeast+Asia",
+      "url": "https://www.generalatlantic.com/investments/?region=Southeast+Asia",
+      "text": "Southeast Asia",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?region=Latin+America",
+      "url": "https://www.generalatlantic.com/investments/?region=Latin+America",
+      "text": "Latin America",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?region=China",
+      "url": "https://www.generalatlantic.com/investments/?region=China",
+      "text": "China",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/",
+      "url": "https://www.generalatlantic.com/investments/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Responsibility",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Hidden Label",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/sustainability/",
+      "url": "https://www.generalatlantic.com/sustainability/",
+      "text": "Sustainability",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/foundation/",
+      "url": "https://www.generalatlantic.com/foundation/",
+      "text": "General Atlantic Foundation",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "News & Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "News",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/?type=press-release",
+      "url": "https://www.generalatlantic.com/news-insights/?type=press-release",
+      "text": "Press Releases",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/?type=media",
+      "url": "https://www.generalatlantic.com/news-insights/?type=media",
+      "text": "Media",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/",
+      "url": "https://www.generalatlantic.com/news-insights/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Perspectives",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/?type=insight",
+      "url": "https://www.generalatlantic.com/news-insights/?type=insight",
+      "text": "Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/",
+      "url": "https://www.generalatlantic.com/news-insights/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "http://portal.generalatlantic.com/",
+      "url": "http://portal.generalatlantic.com/",
+      "text": "LP Login",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "LP Login",
+      "rel": "",
+      "internal": true,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(2) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://twitter.com/generalatlantic/",
+      "url": "https://twitter.com/generalatlantic/",
+      "text": "X",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(3) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/general-atlantic/",
+      "url": "https://www.linkedin.com/company/general-atlantic/",
+      "text": "Linkedin",
+      "rel": "",
+      "internal": false,
+      "selector": "header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(3) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-story/",
+      "url": "https://www.generalatlantic.com/our-story/",
+      "text": "About Us",
+      "rel": "",
+      "internal": true,
+      "selector": "article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-approach/",
+      "url": "https://www.generalatlantic.com/our-approach/",
+      "text": "Our Approach",
+      "rel": "",
+      "internal": true,
+      "selector": "article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-story/",
+      "url": "https://www.generalatlantic.com/our-story/",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/growth-equity/",
+      "url": "https://www.generalatlantic.com/growth-equity/",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/credit/",
+      "url": "https://www.generalatlantic.com/credit/",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/energy-transition/",
+      "url": "https://www.generalatlantic.com/energy-transition/",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/sustainable-infrastructure/",
+      "url": "https://www.generalatlantic.com/sustainable-infrastructure/",
+      "text": "Learn More",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/value-creation/",
+      "url": "https://www.generalatlantic.com/value-creation/",
+      "text": "GA Value Creation",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/news-insights/",
+      "url": "https://www.generalatlantic.com/news-insights/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "article:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/media-article/general-atlantic-and-nfls-32-equity-announce-global-strategic-partnership/",
+      "url": "https://www.generalatlantic.com/media-article/general-atlantic-and-nfls-32-equity-announce-global-strategic-partnership/",
+      "text": "Media October 20, 2026 General Atlantic and NFL’s 32 Equity Announce Global Strategic Partnership",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/media-article/kkr-to-acquire-gen-ii-fund-services-for-more-than-5-billion-from-hg-and-general-atlantic/",
+      "url": "https://www.generalatlantic.com/media-article/kkr-to-acquire-gen-ii-fund-services-for-more-than-5-billion-from-hg-and-general-atlantic/",
+      "text": "Press Release October 6, 2026 KKR to Acquire Gen II Fund Services for More Than $5 Billion from Hg and General Atlantic",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/media-article/melis-kahya-akar-recognized-in-private-equity-news-twenty-trailblazing-women-2026-list/",
+      "url": "https://www.generalatlantic.com/media-article/melis-kahya-akar-recognized-in-private-equity-news-twenty-trailblazing-women-2026-list/",
+      "text": "Media September 15, 2026 Melis Kahya Akar recognized in Private Equity News’ Twenty Trailblazing Women 2026 List",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/news-insights/",
+      "url": "https://www.generalatlantic.com/news-insights/",
+      "text": "View All",
+      "rel": "",
+      "internal": true,
+      "selector": "main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/",
+      "url": "https://www.generalatlantic.com/",
+      "text": "General Atlantic",
+      "rel": "home",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "About",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-story/",
+      "url": "https://www.generalatlantic.com/our-story/",
+      "text": "Our Story",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-team/",
+      "url": "https://www.generalatlantic.com/our-team/",
+      "text": "Our Team",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-culture/",
+      "url": "https://www.generalatlantic.com/our-culture/",
+      "text": "Our Culture",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/careers/",
+      "url": "https://www.generalatlantic.com/careers/",
+      "text": "Careers",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Strategies",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/our-approach/",
+      "url": "https://www.generalatlantic.com/our-approach/",
+      "text": "Our Approach",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/growth-equity/",
+      "url": "https://www.generalatlantic.com/growth-equity/",
+      "text": "Growth Equity",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/credit/",
+      "url": "https://www.generalatlantic.com/credit/",
+      "text": "Credit",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/energy-transition/",
+      "url": "https://www.generalatlantic.com/energy-transition/",
+      "text": "Energy Transition",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/infrastructure/",
+      "url": "https://www.generalatlantic.com/infrastructure/",
+      "text": "Infrastructure",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/capital-solutions/",
+      "url": "https://www.generalatlantic.com/capital-solutions/",
+      "text": "Capital Solutions",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Investments",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Technology",
+      "url": "https://www.generalatlantic.com/investments/?type=Technology",
+      "text": "Technology",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Healthcare",
+      "url": "https://www.generalatlantic.com/investments/?type=Healthcare",
+      "text": "Healthcare",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Financial+Services",
+      "url": "https://www.generalatlantic.com/investments/?type=Financial+Services",
+      "text": "Financial Services",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Consumer",
+      "url": "https://www.generalatlantic.com/investments/?type=Consumer",
+      "text": "Consumer",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=Life+Sciences",
+      "url": "https://www.generalatlantic.com/investments/?type=Life+Sciences",
+      "text": "Life Sciences",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/investments/?type=energy-transition",
+      "url": "https://www.generalatlantic.com/investments/?type=energy-transition",
+      "text": "Energy Transition",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "News & Insights",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/?type=press-release",
+      "url": "https://www.generalatlantic.com/news-insights/?type=press-release",
+      "text": "Announcements",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/?type=media",
+      "url": "https://www.generalatlantic.com/news-insights/?type=media",
+      "text": "Media",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/news-insights/",
+      "url": "https://www.generalatlantic.com/news-insights/",
+      "text": "Perspectives",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "#",
+      "url": "https://www.generalatlantic.com/#",
+      "text": "Get in Touch",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/contact/",
+      "url": "https://www.generalatlantic.com/contact/",
+      "text": "Contact",
+      "rel": "",
+      "internal": true,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "http://portal.generalatlantic.com/",
+      "url": "http://portal.generalatlantic.com/",
+      "text": "LP Login",
+      "rel": "",
+      "internal": false,
+      "selector": "nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://twitter.com/generalatlantic/",
+      "url": "https://twitter.com/generalatlantic/",
+      "text": "X",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.linkedin.com/company/general-atlantic/",
+      "url": "https://www.linkedin.com/company/general-atlantic/",
+      "text": "Linkedin",
+      "rel": "",
+      "internal": false,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/",
+      "url": "https://www.generalatlantic.com/",
+      "text": "General Atlantic",
+      "rel": "home",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/legal-disclaimer/",
+      "url": "https://www.generalatlantic.com/legal-disclaimer/",
+      "text": "Legal Disclaimer",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/legal-website-disclaimers/",
+      "url": "https://www.generalatlantic.com/legal-website-disclaimers/",
+      "text": "Legal Website Disclaimers",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/cookie-policy/",
+      "url": "https://www.generalatlantic.com/cookie-policy/",
+      "text": "Cookie Policy",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/security-and-fraud-awareness/",
+      "url": "https://www.generalatlantic.com/security-and-fraud-awareness/",
+      "text": "Security and Fraud Awareness",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/sitemap_index.xml",
+      "url": "https://www.generalatlantic.com/sitemap_index.xml",
+      "text": "Sitemap",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/privacy-notice/",
+      "url": "https://www.generalatlantic.com/privacy-notice/",
+      "text": "Privacy Notice",
+      "rel": "privacy-policy",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wp-content/uploads/2026/04/GASC-Form-ADV-Part-3-2026-Update-interactive-version-1.pdf",
+      "url": "https://www.generalatlantic.com/wp-content/uploads/2026/04/GASC-Form-ADV-Part-3-2026-Update-interactive-version-1.pdf",
+      "text": "Form CRS",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "/wp-content/uploads/2026/05/SFDR-Periodic-disclosure-and-PAI-Statement_GABNZ__2024_1606_Final.pdf",
+      "url": "https://www.generalatlantic.com/wp-content/uploads/2026/05/SFDR-Periodic-disclosure-and-PAI-Statement_GABNZ__2024_1606_Final.pdf",
+      "text": "BeyondNetZero SFDR Disclosure",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > a:nth-of-type(1)",
+      "visible": true
+    },
+    {
+      "href": "https://www.generalatlantic.com/ga-bnz-ii-website-disclosures/",
+      "url": "https://www.generalatlantic.com/ga-bnz-ii-website-disclosures/",
+      "text": "GA BNZ II Website Disclosures",
+      "rel": "",
+      "internal": true,
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "visible": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg",
+      "alt": "General Atlantic",
+      "width": "171",
+      "height": "32",
+      "loading": null,
+      "selector": "div:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/kyriba-3.jpg",
+      "alt": "",
+      "width": "136",
+      "height": "47",
+      "loading": null,
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/insider.png",
+      "alt": "",
+      "width": "182",
+      "height": "85",
+      "loading": null,
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/vuori-1-2.png",
+      "alt": "",
+      "width": "173",
+      "height": "44",
+      "loading": null,
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/legent.png",
+      "alt": "",
+      "width": "149",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(4) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/ecore-2.png",
+      "alt": "Ecore",
+      "width": "158",
+      "height": "44",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(5) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/eventus.jpg",
+      "alt": "",
+      "width": "136",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(6) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/verdiva2.jpg",
+      "alt": "",
+      "width": "136",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(7) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/port.io_.png",
+      "alt": "",
+      "width": "112",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(8) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/dcar-1.png",
+      "alt": "Dcar",
+      "width": "207",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(9) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/flo-1.png",
+      "alt": "Flo",
+      "width": "152",
+      "height": "70",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(10) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/sdcl-1.png",
+      "alt": "SDCL",
+      "width": "207",
+      "height": "61",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(11) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/nurix.png",
+      "alt": "",
+      "width": "170",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(12) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/partners-capital-1.png",
+      "alt": "Partners Capital",
+      "width": "125",
+      "height": "97",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(13) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/vi-labs-2.png",
+      "alt": "VI Labs",
+      "width": "83",
+      "height": "72",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(14) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/athletic-brewing-1.png",
+      "alt": "Athletic Brewing",
+      "width": "82",
+      "height": "97",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(15) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/adevinta-1.png",
+      "alt": "Adevinta",
+      "width": "207",
+      "height": "48",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(16) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/gresb-1.png",
+      "alt": "GRESB",
+      "width": "182",
+      "height": "65",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(17) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/highlevel.png",
+      "alt": "HighLevel",
+      "width": "207",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(18) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/snapmint.png",
+      "alt": "",
+      "width": "187",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(19) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/10/012_2025-Blue-Logos-for-Website-wireless-logic.png",
+      "alt": "",
+      "width": "140",
+      "height": "57",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(20) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/Ujala-logo-2.png",
+      "alt": "",
+      "width": "274",
+      "height": "65",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(21) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/plusgrade-e1733889813693.png",
+      "alt": "",
+      "width": "442",
+      "height": "83",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(22) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/10/012_2025-Blue-Logos-for-Website-osea.png",
+      "alt": "",
+      "width": "103",
+      "height": "45",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(23) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/eyewa-1.png",
+      "alt": "Eyewa",
+      "width": "207",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(24) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/live-mode-2.jpg",
+      "alt": "",
+      "width": "136",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(25) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/tbo-1.png",
+      "alt": "tbo.com Travel Simplified",
+      "width": "207",
+      "height": "59",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(26) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/butternut-box-2.png",
+      "alt": "Butternut Box",
+      "width": "99",
+      "height": "89",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > figure:nth-of-type(1) > figure:nth-of-type(27) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/venterra-1.png",
+      "alt": "Venterra",
+      "width": "207",
+      "height": "58",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/boats-group.jpg",
+      "alt": "",
+      "width": "156",
+      "height": "30",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/balaji-wafers.jpg",
+      "alt": "",
+      "width": "106",
+      "height": "85",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/GoodVets-Logo.png",
+      "alt": "",
+      "width": "329",
+      "height": "65",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(4) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/club-america.jpg",
+      "alt": "",
+      "width": "82",
+      "height": "82",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(5) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/onestream.jpg",
+      "alt": "",
+      "width": "207",
+      "height": "36",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(6) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/flint-group-1.png",
+      "alt": "Flint Group",
+      "width": "207",
+      "height": "49",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(7) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/funda-1.png",
+      "alt": "Funda",
+      "width": "174",
+      "height": "63",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(8) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/team-services-group.jpg",
+      "alt": "",
+      "width": "171",
+      "height": "51",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(9) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/certinia-1.png",
+      "alt": "Certinia",
+      "width": "207",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(10) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/mac-hospitales-1.png",
+      "alt": "Mac Hospitales",
+      "width": "115",
+      "height": "97",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(11) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/10/012_2025-Blue-Logos-for-Website-anthropic.png",
+      "alt": "",
+      "width": "207",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(12) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/farther-finance.jpg",
+      "alt": "",
+      "width": "152",
+      "height": "34",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(13) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/011_2025-Blue-Logos-for-WebsiteArtboard-technosylva.png",
+      "alt": "",
+      "width": "199",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(14) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/12/qitech-1.png",
+      "alt": "QITech",
+      "width": "201",
+      "height": "36",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(15) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/sociolla.jpg",
+      "alt": "",
+      "width": "126",
+      "height": "32",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(16) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/banamex.jpg",
+      "alt": "",
+      "width": "207",
+      "height": "40",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(17) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/011_2025-Blue-Logos-for-WebsiteArtboard-hostaway.png",
+      "alt": "",
+      "width": "205",
+      "height": "50",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(18) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/el-jannah.jpg",
+      "alt": "",
+      "width": "101",
+      "height": "63",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(19) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/kayali3.png",
+      "alt": "",
+      "width": "166",
+      "height": "154",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(20) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/011_2025-Blue-Logos-for-WebsiteArtboard-nerdio.png",
+      "alt": "",
+      "width": "116",
+      "height": "63",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(21) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/hai-robotics.jpg",
+      "alt": "",
+      "width": "207",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(22) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/starian.png",
+      "alt": "",
+      "width": "207",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(23) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/011_2025-Blue-Logos-for-WebsiteArtboard-frazier-deeter.png",
+      "alt": "",
+      "width": "207",
+      "height": "66",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(24) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/brevo.png",
+      "alt": "",
+      "width": "150",
+      "height": "45",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(25) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/011_2025-Blue-Logos-for-WebsiteArtboard-us-uro.png",
+      "alt": "",
+      "width": "149",
+      "height": "32",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(26) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2025/07/011_2025-Blue-Logos-for-WebsiteArtboard-esker.png",
+      "alt": "",
+      "width": "207",
+      "height": "47",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(27) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/06/smartHR.png",
+      "alt": "",
+      "width": "207",
+      "height": "39",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > figure:nth-of-type(1) > figure:nth-of-type(28) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/fpo-image.jpg",
+      "alt": "",
+      "width": "936",
+      "height": "624",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/fpo-image.jpg",
+      "alt": "",
+      "width": "936",
+      "height": "624",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/fpo-image.jpg",
+      "alt": "",
+      "width": "936",
+      "height": "624",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/fpo-image.jpg",
+      "alt": "",
+      "width": "936",
+      "height": "624",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/Powering-Purposeful-Growth-scaled.jpeg",
+      "alt": "",
+      "width": "2560",
+      "height": "1708",
+      "loading": "lazy",
+      "selector": "div:nth-of-type(1) > main:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(5) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/10/Blitz-Thumbail_3.jpg",
+      "alt": "",
+      "width": "818",
+      "height": "623",
+      "loading": "lazy",
+      "selector": "li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/10/gen-II.jpg",
+      "alt": "",
+      "width": "818",
+      "height": "652",
+      "loading": "lazy",
+      "selector": "li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2026/03/melis-kahya-akar.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "451",
+      "loading": "lazy",
+      "selector": "li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > span:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/Home-Footer-1024x653.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "653",
+      "loading": "lazy",
+      "selector": "article:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    },
+    {
+      "src": "https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg",
+      "alt": "General Atlantic",
+      "width": "171",
+      "height": "32",
+      "loading": null,
+      "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "broken": false
+    }
+  ],
+  "inputs": [
+    {
+      "selector": "#input_1_1",
+      "name": "input_1",
+      "type": "email",
+      "label": "Email"
+    },
+    {
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "name": null,
+      "type": "text",
+      "label": ""
+    }
+  ],
+  "jsonld": [
+    {
+      "source": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://www.generalatlantic.com/#website\",\"url\":\"https://www.generalatlantic.com/\",\"name\":\"General Atlantic\",\"publisher\":{\"@id\":\"https://www.generalatlantic.com/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://www.generalatlantic.com/#webpage\",\"url\":\"https://www.generalatlantic.com/\",\"name\":\"General Atlantic | Powering Visionary Growth\",\"description\":\"General Atlantic is a global investment leader and a dedicated partner for entrepreneurs and investors building long-term value.\",\"isPartOf\":{\"@id\":\"https://www.generalatlantic.com/#website\"},\"mainEntity\":{\"@id\":\"https://www.generalatlantic.com/#organization\"},\"about\":{\"@id\":\"https://www.generalatlantic.com/#organization\"},\"publisher\":{\"@id\":\"https://www.generalatlantic.com/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.generalatlantic.com/#organization\",\"name\":\"General Atlantic\",\"alternateName\":\"GA\",\"url\":\"https://www.generalatlantic.com/\",\"description\":\"General Atlantic is a global investment leader and a dedicated partner for entrepreneurs and investors building long-term value.\",\"slogan\":\"Powering Visionary Growth\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.generalatlantic.com/#logo\",\"url\":\"https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg\",\"contentUrl\":\"https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg\"},\"foundingDate\":\"1980\",\"founder\":{\"@type\":\"Person\",\"@id\":\"https://www.generalatlantic.com/#chuck-feeney\",\"name\":\"Charles F. Feeney\",\"alternateName\":\"Chuck Feeney\",\"sameAs\":\"https://en.wikipedia.org/wiki/Chuck_Feeney\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"55 East 52nd Street, 33rd Floor\",\"addressLocality\":\"New York\",\"addressRegion\":\"NY\",\"postalCode\":\"10055\",\"addressCountry\":\"US\"},\"telephone\":\"+1-212-715-4000\",\"sameAs\":[\"https://www.linkedin.com/company/general-atlantic\",\"https://x.com/generalatlantic\",\"https://en.wikipedia.org/wiki/General_Atlantic\"],\"knowsAbout\":[\"Growth Equity\",\"Credit\",\"Energy Transition\",\"Infrastructure\"]}]}",
+      "valid_json": true,
+      "value": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://www.generalatlantic.com/#website",
+            "url": "https://www.generalatlantic.com/",
+            "name": "General Atlantic",
+            "publisher": {
+              "@id": "https://www.generalatlantic.com/#organization"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.generalatlantic.com/#webpage",
+            "url": "https://www.generalatlantic.com/",
+            "name": "General Atlantic | Powering Visionary Growth",
+            "description": "General Atlantic is a global investment leader and a dedicated partner for entrepreneurs and investors building long-term value.",
+            "isPartOf": {
+              "@id": "https://www.generalatlantic.com/#website"
+            },
+            "mainEntity": {
+              "@id": "https://www.generalatlantic.com/#organization"
+            },
+            "about": {
+              "@id": "https://www.generalatlantic.com/#organization"
+            },
+            "publisher": {
+              "@id": "https://www.generalatlantic.com/#organization"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.generalatlantic.com/#organization",
+            "name": "General Atlantic",
+            "alternateName": "GA",
+            "url": "https://www.generalatlantic.com/",
+            "description": "General Atlantic is a global investment leader and a dedicated partner for entrepreneurs and investors building long-term value.",
+            "slogan": "Powering Visionary Growth",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://www.generalatlantic.com/#logo",
+              "url": "https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg",
+              "contentUrl": "https://www.generalatlantic.com/wp-content/uploads/2024/07/general-atlantic-logo.svg"
+            },
+            "foundingDate": "1980",
+            "founder": {
+              "@type": "Person",
+              "@id": "https://www.generalatlantic.com/#chuck-feeney",
+              "name": "Charles F. Feeney",
+              "alternateName": "Chuck Feeney",
+              "sameAs": "https://en.wikipedia.org/wiki/Chuck_Feeney"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "55 East 52nd Street, 33rd Floor",
+              "addressLocality": "New York",
+              "addressRegion": "NY",
+              "postalCode": "10055",
+              "addressCountry": "US"
+            },
+            "telephone": "+1-212-715-4000",
+            "sameAs": [
+              "https://www.linkedin.com/company/general-atlantic",
+              "https://x.com/generalatlantic",
+              "https://en.wikipedia.org/wiki/General_Atlantic"
+            ],
+            "knowsAbout": [
+              "Growth Equity",
+              "Credit",
+              "Energy Transition",
+              "Infrastructure"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "microdata": [],
+  "rdfa": [],
+  "landmarks": {
+    "header": 1,
+    "nav": 4,
+    "main": 1,
+    "article": 1,
+    "section": 0,
+    "aside": 0,
+    "footer": 1
+  },
+  "text": "Powering Visionary Growth. General Atlantic is a global investment leader — the dedicated partner for entrepreneurs and investors building long-term value. About Us Our Approach We were founded on the belief that entrepreneurs can be incredible agents of transformational change. Since 1980, we have identified talent and technologies with great potential — empowering innovators with patient capital, operational expertise, and a global platform to scale their ambitions. Our Story One global platform fueling innovation across strategies Growth Equity Accelerating the growth of category-leading companies by providing the strategic counsel, resources and value-add capabilities they need to realize the next chapter of their stories. Learn More Credit Delivering a comprehensive suite of strategic capital solutions to high-quality businesses that need a strategic partner during key phases of their lifecycles. Learn More Energy Transition Identifying and scaling growth companies with energy transition solutions to help accelerate the net zero transition. Learn More Infrastructure Investing in long-term, equitable growth in critical infrastructure across the energy transition, digitization, and the transformation of supply chains through Actis. Learn More Assets Under Management $130B Total Capital Invested Since Inception $121B Global Locations 21 Partnerships with Depth Our platform is made to build durable, world-changing companies. Our deep sector expertise, vast global infrastructure and network, and robust company building capabilities provide the tangible, targeted support to take businesses to the next level. GA Value Creation News and Insights View All Media October 20, 2026 General Atlantic and NFL’s 32 Equity Announce Global Strategic Partnership Press Release October 6, 2026 KKR to Acquire Gen II Fund Services for More Than $5 Billion from Hg and General Atlantic Media September 15, 2026 Melis Kahya Akar recognized in Private Equity News’ Twenty Trailblazing Women 2026 List View All OUR GLOBAL REACH New York —:— — Stamford —:— — Miami —:— — San Francisco —:— — Austin —:— — Mexico City —:— — São Paulo —:— — London —:— — Amsterdam —:— — Munich —:— — Johannesburg —:— — Tel Aviv —:— — Riyadh —:— — Dubai —:— — Abu Dhabi —:— — Mumbai —:— — Shanghai —:— — Hong Kong —:— — Singapore —:— — Tokyo —:— — Seoul —:— — Subscribe and stay up to date with the latest news. Email Submit",
+  "text_length": 2411,
+  "iframes": [],
+  "script_sources": [
+    "https://www.generalatlantic.com/wp-content/plugins/gtm-kit/assets/frontend/engagement-events.js?ver=2.23.0",
+    "https://www.generalatlantic.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://www.generalatlantic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://www.generalatlantic.com/wp-content/themes/general-atlantic-theme/dist/js/theme.js?id=5ce56f4961191a83203d9720c1661a44",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=3.2.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=3.2.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=d7e103405223e60d2719f4c330fd11cf",
+    "https://kit.fontawesome.com/4589ba4e3d.js?ver=c215e014bb9947ef78d5ee34839e199d",
+    "https://www.generalatlantic.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+    "https://www.generalatlantic.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "https://www.generalatlantic.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+    "https://www.generalatlantic.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=3.2.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=ddae8d403393f0e5eaeedeb511ce46e0",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f7ff0a7a4cbd950275384188b97da558",
+    "https://www.generalatlantic.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+  ],
+  "stylesheets": [
+    "https://www.generalatlantic.com/wp-content/themes/general-atlantic-theme/dist/css/theme.css?id=a04965d67a2d8d328a17ccf45e621b98",
+    "https://www.generalatlantic.com/wp-content/plugins/tablepress/css/build/default.css?ver=3.4.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=3.2.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=3.2.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=3.2.1",
+    "https://www.generalatlantic.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=3.2.1"
+  ],
+  "hreflang": []
+}

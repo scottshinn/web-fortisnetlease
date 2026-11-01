@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual QA"
+  short_description: "Review rendered design across screens and states"
+  default_prompt: "Use $visual-qa to inspect this website at desktop, tablet and mobile widths and test relevant states."

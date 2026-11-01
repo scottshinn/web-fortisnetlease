@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "url": "https://fortisnetlease.com/dollar-general-kimball-mi/",
+  "headers": {
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "content-encoding": "gzip",
+    "content-length": "15318",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://fortisnetlease.com/wp-json/>; rel=\"https://api.w.org/\", <https://fortisnetlease.com/wp-json/wp/v2/posts/82320>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fortisnetlease.com/?p=82320>; rel=shortlink",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding"
+  },
+  "redirects": [
+    {
+      "url": "https://www.fortisnetlease.com/dollar-general-kimball-mi/",
+      "status": 301
+    },
+    {
+      "url": "https://fortisnetlease.com/dollar-general-kimball-mi/",
+      "status": 200
+    }
+  ],
+  "charset": "UTF-8",
+  "body_sha256": "ff0a440d62bb851fbf97e14dcedd0b58ea2e87013bf300b223658444f242cf20",
+  "body_bytes": 64480
+}
