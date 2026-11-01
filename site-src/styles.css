@@ -315,7 +315,7 @@ html.lenis,html.lenis body{height:auto}.lenis.lenis-smooth{scroll-behavior:auto!
 .seg:nth-child(3){background:linear-gradient(160deg,var(--s3a),var(--s3b))}
 /* foil in daylight: the darker half of the same metal, so it stays legible on paper */
 :root{--foil-day:linear-gradient(100deg,var(--copper-dk) 0%,var(--copper) 30%,var(--copper-lt) 46%,var(--copper) 60%,var(--copper-dk) 85%)}
-main section:not(.dk) .foil,.ins .foil,.quote .foil{background-image:var(--foil-day)}
+main section:not(.dk) .foil,main .ins .foil.foil,main .quote .foil.foil{background-image:var(--foil-day)}
 html[data-p=graphite]{--foil-day:linear-gradient(100deg,#1f2229 0%,#3b63f5 35%,#6f8cff 50%,#3b63f5 65%,#1f2229 100%)}
 
 /* ================= BRAND COLOUR SYSTEM =================
@@ -398,3 +398,51 @@ main section:not(.dk) .foil,.ins .foil,.quote .foil{background-image:var(--foil-
 .quote blockquote::before{background:var(--foil-day);-webkit-background-clip:text;background-clip:text;color:transparent;opacity:1}
 .survey::before{background:linear-gradient(90deg,var(--azure),var(--cyan))}.survey::after{border-color:var(--azure)}
 .hdr .btn--cu{color:#1a1206}
+
+/* ================= FULL FAMILY: the brand blue and its harmony =================
+   Sky (brand, centre) · Lagoon (analogous, toward green) · Iris (analogous, toward violet) · Sunrise (complement) · Apricot (warm bridge).
+   Each gradient stays inside one neighbourhood. Sections sit on tinted grounds, not white. */
+:root{
+ --g-sky:radial-gradient(90% 90% at 100% 0%,#9ee8fb 0%,transparent 55%),linear-gradient(150deg,#1565a8 0%,#249acb 50%,#43afeb 100%);
+ --g-lagoon:radial-gradient(90% 90% at 100% 0%,#a8f5d8 0%,transparent 55%),linear-gradient(150deg,#06706f 0%,#0fa89a 50%,#3fd1b0 100%);
+ --g-iris:radial-gradient(90% 90% at 100% 0%,#c9b8ff 0%,transparent 55%),linear-gradient(150deg,#2b2f8f 0%,#4b5bdc 50%,#8a6cf0 100%);
+ --g-sunrise:radial-gradient(90% 90% at 100% 0%,#ffe08a 0%,transparent 55%),linear-gradient(150deg,#f2662b 0%,#ff8f3a 50%,#ffbe4d 100%);
+ --g-apricot:radial-gradient(90% 90% at 100% 0%,#ffd3b8 0%,transparent 55%),linear-gradient(150deg,#e2554a 0%,#ff7a62 50%,#ffa47e 100%);
+ --t-sky:radial-gradient(60% 70% at 100% 0%,rgba(67,175,235,.28),transparent 62%),radial-gradient(50% 60% at 0% 100%,rgba(63,209,176,.18),transparent 60%),linear-gradient(180deg,#e9f4fc,#e3eef9);
+ --t-lagoon:radial-gradient(60% 70% at 100% 0%,rgba(63,209,176,.30),transparent 62%),radial-gradient(50% 60% at 0% 100%,rgba(67,175,235,.18),transparent 60%),linear-gradient(180deg,#e6f6f1,#def1ea);
+ --t-iris:radial-gradient(60% 70% at 100% 0%,rgba(138,108,240,.26),transparent 62%),radial-gradient(50% 60% at 0% 100%,rgba(67,175,235,.16),transparent 60%),linear-gradient(180deg,#eeebfb,#e6e3f8);
+ --t-sunrise:radial-gradient(60% 70% at 100% 0%,rgba(255,190,77,.35),transparent 62%),radial-gradient(50% 60% at 0% 100%,rgba(255,122,98,.2),transparent 60%),linear-gradient(180deg,#fff3e3,#ffecd9);
+}
+/* hero: navy night lit by the family */
+.hero::before{background:linear-gradient(90deg,rgba(7,12,28,.94) 0%,rgba(14,22,49,.72) 45%,rgba(22,36,77,.3) 100%),linear-gradient(0deg,rgba(7,12,28,.9),transparent 40%),radial-gradient(45% 60% at 85% 20%,rgba(67,175,235,.55),transparent 70%),radial-gradient(40% 50% at 60% 100%,rgba(138,108,240,.45),transparent 70%),radial-gradient(30% 40% at 100% 90%,rgba(255,143,58,.35),transparent 70%)}
+.hero .foil,.hero h1 .foil{background-image:linear-gradient(100deg,#43afeb 0%,#3fd1b0 35%,#9ee8fb 55%,#8a6cf0 85%,#43afeb 100%)}
+/* proof: four families */
+.proof div:nth-child(1){--t:var(--g-sky)}.proof div:nth-child(2){--t:var(--g-lagoon)}.proof div:nth-child(3){--t:var(--g-iris)}.proof div:nth-child(4){--t:var(--g-sunrise)}
+.proof div:nth-child(4) dt.foil,.proof div:nth-child(4) dd{color:#2a1405}.proof div:nth-child(4) small{color:rgba(42,20,5,.6)}
+/* tinted grounds per section */
+.split{background:var(--grain),var(--t-sky)}
+.svc{background:var(--grain),var(--t-iris);padding-top:var(--sec)}
+.lst{background:var(--grain),var(--t-lagoon)}
+.ppl{background:var(--grain),var(--t-sky)}
+.quote{background:var(--grain),var(--t-sunrise)}
+.ins{background:var(--grain),var(--t-iris);padding-top:var(--sec)}
+/* sector bar: categories, so categorical colour from the family */
+.seg:nth-child(1){background:var(--grain),var(--g-sky)}.seg:nth-child(2){background:var(--grain),var(--g-lagoon)}.seg:nth-child(3){background:var(--grain),var(--g-sunrise)}
+.seg:nth-child(4){background:var(--grain),var(--g-iris)}.seg:nth-child(5){background:var(--grain),var(--g-apricot)}.seg:nth-child(6){background:var(--grain),radial-gradient(90% 90% at 100% 0%,#9ee8fb,transparent 55%),linear-gradient(150deg,#0fa89a,#249acb)}
+.seg:nth-child(7){background:var(--grain),var(--g-night)}
+/* services: buy = sky, sell = sunrise, unlock = iris */
+.row:nth-child(1){--t:var(--g-sky)}.row:nth-child(2){--t:var(--g-sunrise)}.row:nth-child(3){--t:var(--g-iris)}
+.row:nth-child(2){color:#2a1405}.row:nth-child(2) .row__n,.row:nth-child(2) p,.row:nth-child(2) dt{color:rgba(42,20,5,.72)}.row:nth-child(2) dd{color:#2a1405}.row:nth-child(2) .go{color:#2a1405}
+.row:nth-child(1) .go,.row:nth-child(3) .go{color:#ffd27a}
+/* headline accents rotate through the family on light grounds */
+main .split .foil.foil{background-image:linear-gradient(100deg,#1565a8,#249acb 50%,#0fa89a)}
+main .svc .foil.foil{background-image:linear-gradient(100deg,#2b2f8f,#4b5bdc 50%,#8a6cf0)}
+main .lst .foil.foil{background-image:linear-gradient(100deg,#06706f,#0fa89a 50%,#249acb)}
+main .ppl .foil.foil{background-image:linear-gradient(100deg,#1565a8,#4b5bdc)}
+.ins .foil,.quote .foil{background-image:linear-gradient(100deg,#e2554a,#f2662b 50%,#ff8f3a)}
+.chip[aria-pressed=true]{background:var(--grain),var(--g-lagoon)}
+.card__px small{color:#0b8f84}
+.val{background:var(--grain),radial-gradient(60% 80% at 100% 0%,rgba(138,108,240,.45),transparent 60%),radial-gradient(55% 70% at 0% 100%,rgba(15,168,154,.4),transparent 60%),linear-gradient(160deg,#16244d,#0e1631 50%,#070c1c)}
+main .val .foil.foil{background-image:linear-gradient(100deg,#ffbe4d,#ff8f3a 50%,#ff7a62)}
+.survey::before{background:linear-gradient(90deg,#249acb,#3fd1b0,#8a6cf0)}
+.pcard:nth-child(1) .pcard__t i{color:#9ee8fb}.pcard:nth-child(2) .pcard__t i{color:#a8f5d8}.pcard:nth-child(3) .pcard__t i{color:#c9b8ff}

@@ -15,15 +15,15 @@ The live site's own colours (harvest/brand.json) are sky `#43AFEB`, azure `#249A
 
 | Share | Role | Colours |
 |---|---|---|
-| 60% | Neutral base | Porcelain `#f3f5f9`, white cards, a cool day wash |
-| 30% | Brand blues | **Atlantic** (navy `#123a6e` → azure → cyan) · **Dusk** (slate → periwinkle) · **Night** (navy-2 → navy → abyss `#070c1c`) |
-| 10% | Complement | **Amber** (`#ff8a3d` → `#ffb547`), blue's opposite. Used only on actions: primary buttons and "next" links. |
+| 60% | Tinted grounds | Each section sits on a soft tint from the family (sky, lagoon, iris, sunrise), never plain white |
+| 30% | Brand family | **Sky** (brand: azure → sky) · **Lagoon** (teal → mint, the analogous neighbour toward green) · **Iris** (indigo → violet, toward violet) · **Night** (navy) |
+| 10% | Warm complement | **Sunrise** (tangerine → amber), blue's opposite, for actions and one feature · **Apricot** (coral → peach) as the warm bridge |
 
 Rules:
-- **Analogous gradients only.** Every gradient runs between neighbouring hues, never across the wheel, because across the wheel it turns to mud.
-- **Data is sequential.** The sector bar is one blue scale from navy (largest) to sky, plus periwinkle for "Misc."
+- **Each gradient stays inside one neighbourhood.** A gradient never crosses the wheel; families sit next to each other instead.
+- **Colour has meaning.** Buy is sky, Sell is sunrise, Unlock is iris. The proof tiles take four families. Headline accents take the colour of their section's ground.
+- **The sector chart uses categorical colour** from the family, because sectors are categories, not a ranking.
 - **Matte finish.** Film grain sits over every coloured surface.
-- **Accent words in headlines.** On light surfaces they use a navy→azure gradient; on dark surfaces, sky→cyan.
 
 ## Type
 | Role | Typeface |
