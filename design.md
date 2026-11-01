@@ -1,58 +1,70 @@
-# Fortis Net Lease — Design System ("Ascent")
+# Fortis Net Lease — Design System ("Ground")
 
-> **Adopted from HighPost Capital `design.md`.** The base is v3 "Ascent"; the matte layer on top adds the gradient surfaces and film grain. The client asked for this on 2026-11-01. The tokens, components and motion are the HighPost system (`site-src/styles.css` was carried over unchanged except for the typefaces). Only the content is mapped to Fortis.
+> **2026-11-01, v1.** This system is Fortis's own. HighPost was an inspiration only, for its general principles: a bright base, film grain, proof before adjectives, and motion that means something. No HighPost tokens, typefaces, components or motion are reused.
+
+## Idea
+Net lease is about **ground and tenant**: a parcel of land, a building, and a lease that pays for twenty years. The system reads like a land survey drawn by a private bank:
+- limestone paper;
+- forest ink;
+- a copper survey line;
+- fine contour lines in the background;
+- every figure set like a measurement.
 
 ## Colour (60-30-10)
-The split is a bright porcelain/white base, an indigo/sapphire structure and a saffron-coral accent.
+The split is limestone and white, then forest and emerald, then copper.
 
 | Token | Value | Use |
 |---|---|---|
-| `--bone` / `--paper` | `#f4f5fb` / `#fbfbfe` | Base surfaces (with `--m-light` luminous wash + grain) |
-| `--midnight` | `#0d1240` | Hero, wall, footer (`--m-abyss`) |
-| `--sapphire` | `#3d5afe` | Structure, eyebrows, the investor column |
-| `--jade` | `#00b386` | Growth; the owner column |
-| `--saffron` | `#ffc233` | Accent only: primary buttons, emphasis words |
-| `--petrol` | `#4b2fe0` | Active chips, solid buttons |
-| `--ink` / `--mute` | `#0d1130` / `#4e5470` | Text |
+| `--lime` | `#f5f2ec` | Page base (limestone) |
+| `--sheet` | `#fffdf9` | Raised cards |
+| `--sand` | `#ece3d4` | Tinted panels |
+| `--forest` | `#0d2a22` | Text, dark bands, footer |
+| `--forest-2` | `#143d31` | Dark gradient partner |
+| `--emerald` | `#1f7a5a` | Structure: links, active states, data |
+| `--mint` | `#cfe8dc` | Emerald tint |
+| `--copper` | `#c4612d` | Accent only: primary CTA, survey line, key numbers |
+| `--copper-lt` | `#e8935f` | Copper on dark |
+| `--stone` | `#6b6a63` | Secondary text (AA on limestone) |
+| `--rule` | `rgba(13,42,34,.14)` | Hairlines |
 
-Column colours: **Investors** are sapphire, **Owners** are jade, **Sale-leaseback / 1031** are midnight with saffron.
+Gradients are light, not paint:
+- **Aurora:** emerald and copper glows on limestone, for the hero and CTA.
+- **Forest:** a dark band with an emerald glow and grain.
 
 ## Type
-| Role | Typeface | Notes |
-|---|---|---|
-| Display | Libre Caslon Display | Headlines, numerals; `lining-nums` |
-| Text serif | Libre Caslon Text | Names, quotes, accent words |
-| Sans | Instrument Sans | UI and body, 17px / 1.65 |
-
-These typefaces are named in the HighPost v3 notes. HighPost later moved to Px Grotesk, Bellefair and Albert Sans, which are reserved for HighPost and are not used here.
-
-## Motion: "Ascent"
-Everything rises.
-- **Hero:** a canvas skyline of posts climbs from left to right and leans toward the pointer. Each post is one live listing, as tall as its asking price.
-- **Sections:** they open through six-post shutters.
-- **Text:** sentences rise out of masks.
-- **Figures:**
-  - The sector volumes sit on posts that grow from the ground.
-  - The three services are columns that open in turn, pinned on desktop.
-  - The listings wall is columns of property photos drifting in opposite directions.
-  - The featured property's panel rises like a post.
-
-The motion stack is GSAP 3.12.5 with ScrollTrigger. Nothing depends on JS: without it, or under `prefers-reduced-motion`, the page is complete and static.
-
-Not used: a custom cursor, magnetic buttons, word scrub or drifting giant type.
-
-## Content mapping (HighPost → Fortis)
-| HighPost | Fortis |
+| Role | Typeface |
 |---|---|
-| Proof stats | The figures the live site states: $9+B volume, 4,500+ properties sold, 400K buyer reach, 46 states. These are flagged in `FACTS-TO-CONFIRM.md`. |
-| Figure skyline | Sales volume by sector, as stated on the live site |
-| Platform columns | Services: Investors (acquisitions), Owners (dispositions), Sale-leaseback & 1031 |
-| Portfolio wall | Live Buildout listings (photo, name, city, price) |
-| Case study | The featured live listing |
-| Leaders + advisors | The roster in the live site's order: partners first, then advisors |
-| News | Articles from the live site |
+| Display | **Bricolage Grotesque** 500–700, tight tracking. Confident, a little human, not a fashion serif. |
+| Text / UI | **Figtree** 400–600 |
+| Measurements | **IBM Plex Mono** 400–500, for prices, cap rates, coordinates and labels |
+
+## Signature
+- **The deal deck (hero).** A fanned stack of real listing cards: photo, tenant, price, cap and city. The deck turns over every few seconds, and you can click or swipe to deal the next one. The headline sits beside it, so the homepage opens on the product itself.
+- **Contours.** Faint topographic lines drift very slowly behind the hero, drawn on a canvas. They are the ground under every lease.
+- **The survey line.** A copper line draws under each section title as it enters, like a surveyor marking a boundary.
+- **$9B, split.** Sales volume is one full-width bar divided by sector. Hovering a segment opens it.
+
+## Components
+- **Header:** logo on the left; the navigation in a glass capsule; phone number and copper CTA on the right.
+- **Proof band:** forest, four measured figures, each with its source note.
+- **Sector bar:** see the signature above.
+- **Services:** three full-width rows (number, verb, sentence, facts). The open row reveals a photo strip.
+- **Listings grid:** sector chips over a 3-column card grid.
+- **Featured:** a full-bleed photo with a glass fact sheet.
+- **People:** partners as tall portrait cards, advisors as a compact directory.
+- **Quote:** large text with its attribution.
+- **Insights:** a dated list.
+- **Valuation band:** an inline two-field form that shows the tenant match from the record.
+- **Footer:** forest.
+
+## Motion
+- Ease `cubic-bezier(.22,.8,.2,1)`.
+- Reveals rise 18px over 0.8s.
+- The survey line draws in 1.1s.
+- The deck turns every 5s and pauses on hover.
+- The contours drift at about 2px a second.
+
+There's no pinning and no scroll-jacking. Under `prefers-reduced-motion` everything is static, and the page is complete without JS.
 
 ## Accessibility
-- Every pairing meets AA. Focus shows as a 2px outline, and there's a skip link.
-- One `<h1>` per page, semantic landmarks, and alt text on every image.
-- Filters are buttons with `aria-pressed`.
+AA contrast throughout. Visible 2px emerald focus rings, a skip link, a single `<h1>`, and filters as `aria-pressed` buttons.

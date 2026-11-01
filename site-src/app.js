@@ -1,207 +1,117 @@
-// Fortis Net Lease — progressive enhancement only; every page works without this file.
+// Fortis Net Lease — progressive enhancement only; the page is complete without this file.
 (() => {
-  const d = document, root = d.documentElement;
-  root.classList.add("js");
+  const d = document, root = d.documentElement, $ = (s, c = d) => c.querySelector(s), $$ = (s, c = d) => [...c.querySelectorAll(s)];
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  root.classList.add("js");
 
-  // Header: solid after the hero, hides on scroll down, returns on scroll up.
-  const hdr = d.querySelector(".hdr");
-  if (hdr) {
-    let last = scrollY;
-    const onScroll = () => {
-      const y = scrollY;
-      if (!hdr.classList.contains("hdr--light")) hdr.classList.toggle("is-solid", y > 40);
-      hdr.classList.toggle("is-hidden", y > 400 && y > last && !d.body.classList.contains("menu-open"));
-      last = y;
-    };
-    addEventListener("scroll", onScroll, { passive: true });
-    onScroll();
-  }
+  // Header slides away on scroll down, returns on scroll up.
+  const hdr = $(".hdr"); let last = scrollY;
+  addEventListener("scroll", () => { const y = scrollY; hdr.classList.toggle("up", y > 500 && y > last); last = y; }, { passive: true });
 
-  // Mobile menu (dialog semantics, focus kept inside, Esc closes).
-  const menu = d.getElementById("menu"), burger = d.querySelector(".burger");
-  if (menu && burger) {
-    const open = (on) => {
-      menu.classList.toggle("is-open", on);
-      menu.setAttribute("aria-hidden", String(!on));
-      burger.setAttribute("aria-expanded", String(on));
-      d.body.classList.toggle("menu-open", on);
-      d.body.style.overflow = on ? "hidden" : "";
-      (on ? menu.querySelector("a,button") : burger).focus();
-    };
-    burger.addEventListener("click", () => open(true));
-    menu.querySelector(".menu__close").addEventListener("click", () => open(false));
-    menu.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") open(false);
-      if (e.key !== "Tab") return;
-      const f = [...menu.querySelectorAll("a,button")], first = f[0], lastEl = f[f.length - 1];
-      if (e.shiftKey && d.activeElement === first) { e.preventDefault(); lastEl.focus(); }
-      else if (!e.shiftKey && d.activeElement === lastEl) { e.preventDefault(); first.focus(); }
-    });
-  }
+  // Mobile menu.
+  const menu = $("#menu"), burger = $(".burger");
+  const setMenu = (on) => { menu.classList.toggle("open", on); menu.setAttribute("aria-hidden", String(!on)); burger.setAttribute("aria-expanded", String(on)); d.body.style.overflow = on ? "hidden" : ""; };
+  burger.addEventListener("click", () => setMenu(true)); $(".menu__x").addEventListener("click", () => setMenu(false));
+  $$("#menu a").forEach((a) => a.addEventListener("click", () => setMenu(false)));
+  addEventListener("keydown", (e) => e.key === "Escape" && setMenu(false));
 
-  // Scroll reveals.
-  const io = "IntersectionObserver" in window && !reduce ? new IntersectionObserver((es) => es.forEach((e) => {
-    if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); }
-  }), { rootMargin: "0px 0px -8% 0px" }) : null;
-  d.querySelectorAll("[data-reveal]").forEach((el) => io ? io.observe(el) : el.classList.add("in"));
-  // Safety net: a fast fling can skip an observer callback, so anything already above the fold is revealed.
-  if (io) {
-    let tick = 0;
-    addEventListener("scroll", () => {
-      if (tick) return;
-      tick = requestAnimationFrame(() => {
-        tick = 0;
-        d.querySelectorAll("[data-reveal]:not(.in)").forEach((el) => { if (el.getBoundingClientRect().top < innerHeight) { el.classList.add("in"); io.unobserve(el); } });
-      });
-    }, { passive: true });
-  }
+  // Reveals and survey lines.
+  const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
+  $$("[data-r], .survey").forEach((el) => reduce ? el.classList.add("in") : io.observe(el));
 
-  // Counters: animate the figure already present in the HTML (e.g. "$1.6B", "$535M", "19").
-  const countIO = "IntersectionObserver" in window && !reduce ? new IntersectionObserver((es) => es.forEach((e) => {
-    if (!e.isIntersecting) return;
-    countIO.unobserve(e.target);
-    const el = e.target, final = el.textContent, m = final.match(/^(\D*)([\d.]+)(.*)$/);
-    if (!m) return;
-    const [, pre, n, post] = m, target = parseFloat(n), dec = (n.split(".")[1] || "").length, t0 = performance.now(), dur = 1600;
-    const tick = (t) => {
-      const p = Math.min(1, (t - t0) / dur), v = target * (1 - Math.pow(1 - p, 4));
-      el.textContent = pre + v.toFixed(dec) + post;
-      if (p < 1) requestAnimationFrame(tick); else el.textContent = final;
-    };
+  // Counters on the proof band: animate the figure already in the HTML.
+  const cio = new IntersectionObserver((es) => es.forEach((e) => {
+    if (!e.isIntersecting) return; cio.unobserve(e.target);
+    const el = e.target, html = el.innerHTML, m = el.textContent.match(/^(\D*)([\d,.]+)(.*)$/); if (!m || reduce) return;
+    const target = parseFloat(m[2].replace(/,/g, "")), comma = m[2].includes(","), t0 = performance.now();
+    const tick = (t) => { const p = Math.min(1, (t - t0) / 1500), v = Math.round(target * (1 - Math.pow(1 - p, 4)));
+      el.innerHTML = p < 1 ? html.replace(m[2], comma ? v.toLocaleString("en-US") : v) : html; if (p < 1) requestAnimationFrame(tick); };
     requestAnimationFrame(tick);
-  }), { threshold: .6 }) : null;
-  if (countIO) d.querySelectorAll("[data-count]").forEach((el) => countIO.observe(el));
+  }), { threshold: .6 });
+  $$("[data-count]").forEach((el) => cio.observe(el));
 
-  // Filter chips (portfolio, team): buttons with aria-pressed filter items by data-group.
-  d.querySelectorAll("[data-filter]").forEach((bar) => {
-    const items = d.querySelectorAll(bar.dataset.filter), live = d.getElementById(bar.dataset.live);
-    bar.addEventListener("click", (e) => {
-      const b = e.target.closest("button[data-value]");
-      if (!b) return;
-      bar.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
-      let n = 0;
-      items.forEach((it) => { const show = b.dataset.value === "all" || it.dataset.group.split(" ").includes(b.dataset.value); it.hidden = !show; n += show; });
-      if (live) live.textContent = `${n} shown`;
+  // The deal deck: real listings fanned in a stack; the top card deals off every few seconds.
+  const deck = $(".deck");
+  if (deck) {
+    const cards = $$(".dcard", deck); let top = 0, timer;
+    const lay = () => cards.forEach((c, i) => {
+      const k = (i - top + cards.length) % cards.length, vis = k < 4;
+      c.style.zIndex = String(cards.length - k);
+      c.style.opacity = vis ? "1" : "0";
+      c.style.transform = `translate(-50%,-50%) translate(${k * 18}px,${k * -10}px) rotate(${k * 3.2 - 2}deg) scale(${1 - k * .045})`;
+      c.style.pointerEvents = k === 0 ? "auto" : "none";
+      c.setAttribute("aria-hidden", String(k !== 0));
     });
-  });
-
-  // Platform columns: one open at a time (click/hover/focus everywhere; scroll-driven on desktop below).
-  const cols = [...d.querySelectorAll(".col")];
-  const openCol = (i) => cols.forEach((c, j) => { c.classList.toggle("is-open", i === j); c.querySelector(".col__tab").setAttribute("aria-expanded", String(i === j)); });
-  cols.forEach((c, i) => {
-    c.querySelector(".col__tab").addEventListener("click", () => openCol(i));
-    if (matchMedia("(hover:hover)").matches) c.addEventListener("mouseenter", () => openCol(i));
-  });
-
-  // Scroll choreography (GSAP + ScrollTrigger + Lenis, self-hosted; the page is complete without them).
-  const motion = !reduce && window.gsap && window.ScrollTrigger;
-  if (motion) {
-    const { gsap, ScrollTrigger } = window;
-    gsap.registerPlugin(ScrollTrigger);
-    if (window.Lenis) {
-      const lenis = new window.Lenis({ lerp: .1, smoothWheel: true });
-      lenis.on("scroll", ScrollTrigger.update);
-      gsap.ticker.add((t) => lenis.raf(t * 1000));
-      gsap.ticker.lagSmoothing(0);
-      d.querySelectorAll('a[href^="#"]').forEach((a) => a.addEventListener("click", (e) => { const el = d.querySelector(a.getAttribute("href")); if (el) { e.preventDefault(); lenis.scrollTo(el, { offset: -90 }); } }));
-    }
-
-    // Shutters: each marked section opens through six vertical posts that lift away in sequence.
-    d.querySelectorAll("[data-shutter]").forEach((sec) => {
-      if (getComputedStyle(sec).position === "static") sec.style.position = "relative";
-      const sh = d.createElement("div");
-      sh.className = "shutter"; sh.setAttribute("aria-hidden", "true");
-      sh.innerHTML = "<i></i>".repeat(6);
-      const bg = sec.classList.contains("phero") ? "var(--saffron)" : "var(--midnight)";
-      sh.style.setProperty("--shutter", bg);
-      sec.prepend(sh);
-      const atTop = sec.getBoundingClientRect().top < innerHeight;
-      gsap.to(sh.children, { scaleY: 0, duration: 1.1, ease: "expo.inOut", stagger: { each: .07, from: "start" }, delay: atTop ? .1 : 0,
-        scrollTrigger: atTop ? undefined : { trigger: sec, start: "top 80%" }, onComplete: () => sh.remove() });
-    });
-
-    // Sentences rise out of their masks.
-    d.querySelectorAll("[data-lines]").forEach((p) => gsap.from(p.querySelectorAll(".ln > span"), { yPercent: 105, duration: 1.2, ease: "expo.out", stagger: .14, scrollTrigger: { trigger: p, start: "top 80%" } }));
-
-    // Skyline figures: each post grows from the ground, then its figure counts up (counter observer).
-    gsap.utils.toArray(".post").forEach((p, i) => {
-      gsap.fromTo(p.querySelector(".post__bar"), { scaleY: 0 }, { scaleY: 1, duration: 1.4, ease: "expo.out", delay: i * .12, scrollTrigger: { trigger: ".skyline", start: "top 75%" } });
-      gsap.from(p.querySelectorAll("dt,dd"), { y: 30, opacity: 0, duration: 1, ease: "expo.out", delay: .35 + i * .12, scrollTrigger: { trigger: ".skyline", start: "top 75%" } });
-    });
-
-    // Platforms: on desktop the section pins and each column opens in turn as you scroll.
-    if (cols.length) ScrollTrigger.matchMedia({
-      "(min-width: 1000px)": () => {
-        ScrollTrigger.create({ trigger: ".cols", start: "top top", end: () => "+=" + innerHeight * 1.6, pin: ".cols__pin", scrub: true,
-          onUpdate: (s) => { const i = Math.min(cols.length - 1, Math.floor(s.progress * cols.length * .999)); if (!cols[i].classList.contains("is-open")) openCol(i); } });
-      },
-    });
-
-    // Case study: the brand panel rises like a post.
-    if (d.querySelector(".case__panel")) {
-      gsap.fromTo(".case__panel", { clipPath: "inset(100% 0% 0% 0% round 1.5rem)" }, { clipPath: "inset(0% 0% 0% 0% round 1.5rem)", duration: 1.4, ease: "expo.inOut", scrollTrigger: { trigger: ".case", start: "top 70%" } });
-      gsap.from(".case__panel > *", { y: 40, opacity: 0, duration: 1, ease: "expo.out", stagger: .1, delay: .6, scrollTrigger: { trigger: ".case", start: "top 70%" } });
-    }
-
-    // Headings rise in from below.
-    d.querySelectorAll(".d2").forEach((h) => gsap.from(h, { y: 40, opacity: 0, duration: 1.1, ease: "expo.out", scrollTrigger: { trigger: h, start: "top 88%" } }));
-
-    // Inner pages: headline words rise, hero media drifts, list-like blocks enter in sequence.
-    d.querySelectorAll(".phero h1, .profile h1").forEach((h) => {
-      const walk = (node) => [...node.childNodes].forEach((c) => {
-        if (c.nodeType === 3) { const frag = d.createDocumentFragment(); c.textContent.split(/(\s+)/).forEach((t) => frag.append(/\S/.test(t) ? Object.assign(d.createElement("span"), { className: "wm", innerHTML: `<span>${t.replace(/</g, "&lt;")}</span>` }) : t)); c.replaceWith(frag); }
-        else if (c.nodeType === 1) walk(c);
-      });
-      walk(h);
-      gsap.from(h.querySelectorAll(".wm > span"), { yPercent: 110, duration: 1.1, ease: "expo.out", stagger: .045, delay: .5 });
-    });
-    gsap.utils.toArray(".phero .eyebrow, .phero .lede, .phero .byline, .phero .crumbs").forEach((el, i) => gsap.from(el, { y: 24, opacity: 0, duration: 1, ease: "expo.out", delay: .7 + i * .08 }));
-    gsap.utils.toArray(".phero__media img").forEach((im) => gsap.fromTo(im, { scale: 1.15, yPercent: 0 }, { scale: 1, yPercent: 12, ease: "none", scrollTrigger: { trigger: im.closest(".phero"), start: "top top", end: "bottom top", scrub: true } }));
-    const stagger = (sel, item) => gsap.utils.toArray(sel).forEach((g) => {
-      const kids = g.querySelectorAll(item);
-      kids.forEach((k) => { io?.unobserve(k); k.removeAttribute("data-reveal"); });
-      if (kids.length) gsap.fromTo(kids, { y: 48, opacity: 0 }, { y: 0, opacity: 1, duration: 1, ease: "expo.out", stagger: .06, scrollTrigger: { trigger: g, start: "top 85%" } });
-    });
-    stagger(".pgrid", ".pcard"); stagger(".people", ".person"); stagger(".alist", ".arow"); stagger(".crit", "div"); stagger(".pillars", ".pillar"); stagger(".tl", "li"); stagger(".kv", "div"); stagger(".proof", "div"); stagger(".platforms", ".plat"); stagger(".tri", ":scope > div"); stagger(".advisors ul", "li");
-    gsap.utils.toArray(".profile__img img, .co-logo img").forEach((im) => gsap.from(im, { scale: 1.12, opacity: 0, duration: 1.4, ease: "expo.out" }));
-    gsap.utils.toArray(".prose > p, .prose > h2").forEach((p) => gsap.from(p, { y: 24, opacity: 0, duration: .9, ease: "expo.out", scrollTrigger: { trigger: p, start: "top 92%" } }));
-    addEventListener("load", () => ScrollTrigger.refresh());
-  }
-
-  // Forms: compose a structured email to the firm (no third-party processor until one is approved).
-  d.querySelectorAll("form[data-mailto]").forEach((form) => {
-    form.addEventListener("submit", (e) => {
-      e.preventDefault();
-      if (!form.reportValidity()) return;
-      const fd = new FormData(form), lines = [];
-      for (const [k, v] of fd) if (v) lines.push(`${k}: ${v}`);
-      const subject = `${form.dataset.subject} — ${fd.get("Name") || ""}`.trim();
-      location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(lines.join("\n"))}`;
-      const s = form.querySelector(".form-status");
-      if (s) s.textContent = `Your email app should now open with this message addressed to ${form.dataset.mailto}. If it doesn't, write to us there directly.`;
-    });
-  });
-})();
-
-// Portfolio wall: each column loops endlessly, alternate columns flowing in opposite directions.
-if (!matchMedia("(prefers-reduced-motion: reduce)").matches) {
-  document.querySelectorAll(".pwall__col").forEach((c, i) => {
-    [...c.children].forEach((n) => { const k = n.cloneNode(true); k.setAttribute("aria-hidden", "true"); k.tabIndex = -1; c.appendChild(k); });
-    c.style.animationDuration = `${30 + i * 5}s`;
-    c.classList.add("is-flow", +c.dataset.dir > 0 ? "is-down" : "is-up");
-  });
-  // Hover eases the flow to a slow drift (never a stop) so a card can be read and clicked.
-  const wall = document.querySelector(".pwall__cols");
-  if (wall) {
-    let rate = 1, target = 1, raf = 0;
-    const step = () => {
-      rate += (target - rate) * .06;
-      wall.getAnimations({ subtree: true }).filter((a) => a.animationName).forEach((a) => { a.playbackRate = rate; });
-      raf = Math.abs(target - rate) > .005 ? requestAnimationFrame(step) : 0;
+    const deal = (dir = 1) => {
+      const c = cards[top];
+      if (!reduce && dir > 0) { c.style.transform = "translate(-50%,-50%) translate(-60%,30px) rotate(-14deg)"; c.style.opacity = "0"; }
+      setTimeout(() => { top = (top + dir + cards.length) % cards.length; lay(); $("#dn").textContent = String(top + 1).padStart(2, "0"); }, reduce ? 0 : 260);
     };
-    const set = (t) => { target = t; if (!raf) raf = requestAnimationFrame(step); };
-    wall.addEventListener("pointerenter", () => set(.3));
-    wall.addEventListener("pointerleave", () => set(1));
+    const play = () => { clearInterval(timer); if (!reduce) timer = setInterval(() => deal(1), 5000); };
+    lay(); play();
+    deck.addEventListener("pointerenter", () => clearInterval(timer)); deck.addEventListener("pointerleave", play);
+    cards.forEach((c) => c.addEventListener("click", () => deal(1)));
+    $("#dprev").addEventListener("click", () => deal(-1)); $("#dnext").addEventListener("click", () => deal(1));
+    let sx = 0; deck.addEventListener("touchstart", (e) => { sx = e.touches[0].clientX; }, { passive: true });
+    deck.addEventListener("touchend", (e) => { const dx = e.changedTouches[0].clientX - sx; if (Math.abs(dx) > 40) deal(dx < 0 ? 1 : -1); });
   }
-}
+
+  // Contours: faint topographic lines from a smooth noise field, drifting very slowly.
+  const cv = $(".hero__topo");
+  if (cv) {
+    const ctx = cv.getContext("2d"); let W, H, dpr;
+    const size = () => { dpr = Math.min(devicePixelRatio, 2); W = cv.clientWidth; H = cv.clientHeight; cv.width = W * dpr; cv.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0); };
+    size(); addEventListener("resize", size);
+    // a sum of a few soft waves stands in for terrain; contour lines are drawn by marching squares
+    const field = (x, y, t) => Math.sin(x * .0042 + t * .03) * Math.cos(y * .0051 - t * .02) + .6 * Math.sin((x + y) * .0029 + 1.3) + .45 * Math.cos(x * .0071 - y * .0033 + t * .025);
+    const draw = (t) => {
+      ctx.clearRect(0, 0, W, H); const s = 14, cols = Math.ceil(W / s) + 1, rows = Math.ceil(H / s) + 1, v = new Float32Array(cols * rows);
+      for (let j = 0; j < rows; j++) for (let i = 0; i < cols; i++) v[j * cols + i] = field(i * s, j * s, t);
+      for (let L = -1.6; L <= 1.6; L += .2) {
+        const major = Math.abs(L % .8) < .01;
+        ctx.strokeStyle = major ? "rgba(31,122,90,.20)" : "rgba(13,42,34,.075)"; ctx.lineWidth = major ? 1.1 : .8; ctx.beginPath();
+        for (let j = 0; j < rows - 1; j++) for (let i = 0; i < cols - 1; i++) {
+          const a = v[j * cols + i], b = v[j * cols + i + 1], c = v[(j + 1) * cols + i + 1], e = v[(j + 1) * cols + i];
+          const k = (a > L) | ((b > L) << 1) | ((c > L) << 2) | ((e > L) << 3); if (k === 0 || k === 15) continue;
+          const x = i * s, y = j * s, lp = (p, q) => (L - p) / (q - p);
+          const T = [x + s * lp(a, b), y], R = [x + s, y + s * lp(b, c)], B = [x + s * lp(e, c), y + s], Lf = [x, y + s * lp(a, e)];
+          const seg = { 1: [Lf, T], 2: [T, R], 3: [Lf, R], 4: [R, B], 5: [Lf, T, R, B], 6: [T, B], 7: [Lf, B], 8: [B, Lf], 9: [B, T], 10: [T, R, B, Lf], 11: [B, R], 12: [R, Lf], 13: [R, T], 14: [T, Lf] }[k];
+          for (let n = 0; n < seg.length; n += 2) { ctx.moveTo(seg[n][0], seg[n][1]); ctx.lineTo(seg[n + 1][0], seg[n + 1][1]); }
+        }
+        ctx.stroke();
+      }
+    };
+    if (reduce) draw(0);
+    else { let t = 0, lastT = 0; const loop = (now) => { if (now - lastT > 90 && cv.getBoundingClientRect().bottom > 0) { t += .09; draw(t); lastT = now; } requestAnimationFrame(loop); }; requestAnimationFrame(loop); }
+  }
+
+  // Listing filter chips.
+  const chips = $(".chips");
+  if (chips) chips.addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    $$("button", chips).forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+    let n = 0; $$(".card").forEach((c) => { const on = b.dataset.v === "all" || c.dataset.sec === b.dataset.v; c.hidden = !on; n += on; });
+    $("#lcount").textContent = `${n} shown`;
+  });
+
+  // Valuation: show the record with this tenant before anything is submitted.
+  const vt = $("#vt"), REC = window.RECORD || [];
+  if (vt) {
+    const money = (s) => +String(s || "").replace(/[^0-9.]/g, "") || 0, fmt = (p) => p >= 1e6 ? "$" + (p / 1e6).toFixed(1) + "M" : "$" + Math.round(p / 1e3) + "K";
+    vt.addEventListener("input", () => {
+      const q = vt.value.trim().toLowerCase(), h = $("#mh"), ul = $("#ml"), sum = $("#ms");
+      if (q.length < 2) { h.textContent = "Type a tenant to see it."; h.classList.add("dim"); ul.innerHTML = ""; sum.textContent = ""; return; }
+      const hits = REC.filter((r) => r[0].toLowerCase().includes(q)); h.classList.remove("dim");
+      h.textContent = hits.length ? `${hits.length} ${vt.value.trim()} sale${hits.length > 1 ? "s" : ""} on our published record.` : `No ${vt.value.trim()} sales on the published record yet.`;
+      ul.innerHTML = hits.slice(0, 5).map((r, i) => `<li style="animation-delay:${i * 60}ms">${r[3] ? `<img src="${r[3]}" alt="">` : "<span></span>"}<span>${r[0]}<small>${r[1]}</small></span><em>${r[2]}</em></li>`).join("");
+      sum.textContent = hits.length ? `${fmt(hits.reduce((a, r) => a + money(r[2]), 0))} closed with this tenant.` : "An advisor will price it from comparable sales.";
+    });
+    $("#vform").addEventListener("submit", (e) => {
+      e.preventDefault(); const f = e.target, msg = $("#vmsg");
+      if (!f.tenant.value.trim()) { msg.textContent = "Add the tenant so we know which property."; f.tenant.focus(); return; }
+      if (!/^\S+@\S+\.\S+$/.test(f.email.value)) { msg.textContent = "Add an email so the advisor can send the valuation."; f.email.focus(); return; }
+      location.href = `mailto:info@fortisnetlease.com?subject=${encodeURIComponent("Valuation request: " + f.tenant.value)}&body=${encodeURIComponent(`Tenant: ${f.tenant.value}\nEmail: ${f.email.value}`)}`;
+      msg.textContent = "Your email app should open with the request addressed to info@fortisnetlease.com.";
+    });
+  }
+})();
