@@ -1,0 +1,1 @@
+{ "framework": null, "buildCommand": "node site-src/build.mjs", "outputDirectory": "site", "installCommand": "" }

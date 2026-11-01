@@ -7,3 +7,6 @@ capture/**/*.png
 capture/build/
 harvest/images/
 .cache/
+
+.vercel
+.env*
