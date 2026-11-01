@@ -446,3 +446,6 @@ main .ppl .foil.foil{background-image:linear-gradient(100deg,#1565a8,#4b5bdc)}
 main .val .foil.foil{background-image:linear-gradient(100deg,#ffbe4d,#ff8f3a 50%,#ff7a62)}
 .survey::before{background:linear-gradient(90deg,#249acb,#3fd1b0,#8a6cf0)}
 .pcard:nth-child(1) .pcard__t i{color:#9ee8fb}.pcard:nth-child(2) .pcard__t i{color:#a8f5d8}.pcard:nth-child(3) .pcard__t i{color:#c9b8ff}
+/* proof: only the four figure tiles are coloured; the wrapper stays clear on the navy band */
+.proof>.wrap{padding:0!important;border-radius:0!important;min-height:0!important;display:block!important;box-shadow:none!important;overflow:visible!important}
+.proof>.wrap::before{content:none!important}
