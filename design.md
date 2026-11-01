@@ -4,9 +4,9 @@
 
 ## Idea
 Net lease is about **ground and tenant**: a parcel of land, a building, and a lease that pays for twenty years. The system reads like a land survey drawn by a private bank:
-- limestone paper;
-- forest ink;
-- a copper survey line;
+- porcelain paper;
+- navy ink;
+- an azure survey line;
 - fine contour lines in the background;
 - every figure set like a measurement.
 
