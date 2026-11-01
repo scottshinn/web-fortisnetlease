@@ -10,26 +10,20 @@ Net lease is about **ground and tenant**: a parcel of land, a building, and a le
 - fine contour lines in the background;
 - every figure set like a measurement.
 
-## Colour (60-30-10)
-The split is limestone and white, then forest and emerald, then copper.
+## Colour (60-30-10), anchored to the live brand
+The live site's own colours (harvest/brand.json) are sky `#43AFEB`, azure `#249ACB`, cyan `#37CFEF`, navy `#0E1631`, slate `#525D8A` and periwinkle `#768BDF`. The system is built from them.
 
-| Token | Value | Use |
+| Share | Role | Colours |
 |---|---|---|
-| `--lime` | `#f5f2ec` | Page base (limestone) |
-| `--sheet` | `#fffdf9` | Raised cards |
-| `--sand` | `#ece3d4` | Tinted panels |
-| `--forest` | `#0d2a22` | Text, dark bands, footer |
-| `--forest-2` | `#143d31` | Dark gradient partner |
-| `--emerald` | `#1f7a5a` | Structure: links, active states, data |
-| `--mint` | `#cfe8dc` | Emerald tint |
-| `--copper` | `#c4612d` | Accent only: primary CTA, survey line, key numbers |
-| `--copper-lt` | `#e8935f` | Copper on dark |
-| `--stone` | `#6b6a63` | Secondary text (AA on limestone) |
-| `--rule` | `rgba(13,42,34,.14)` | Hairlines |
+| 60% | Neutral base | Porcelain `#f3f5f9`, white cards, a cool day wash |
+| 30% | Brand blues | **Atlantic** (navy `#123a6e` → azure → cyan) · **Dusk** (slate → periwinkle) · **Night** (navy-2 → navy → abyss `#070c1c`) |
+| 10% | Complement | **Amber** (`#ff8a3d` → `#ffb547`), blue's opposite. Used only on actions: primary buttons and "next" links. |
 
-Gradients are light, not paint:
-- **Aurora:** emerald and copper glows on limestone, for the hero and CTA.
-- **Forest:** a dark band with an emerald glow and grain.
+Rules:
+- **Analogous gradients only.** Every gradient runs between neighbouring hues, never across the wheel, because across the wheel it turns to mud.
+- **Data is sequential.** The sector bar is one blue scale from navy (largest) to sky, plus periwinkle for "Misc."
+- **Matte finish.** Film grain sits over every coloured surface.
+- **Accent words in headlines.** On light surfaces they use a navy→azure gradient; on dark surfaces, sky→cyan.
 
 ## Type
 | Role | Typeface |

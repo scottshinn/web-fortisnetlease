@@ -125,7 +125,6 @@ const html = `<!doctype html>
  <div><h2>Owners</h2><ul><li><a href="#value">Valuation</a></li><li><a href="#services">Sale-leasebacks</a></li><li><a href="#record">Track record</a></li></ul></div>
  <div><h2>Office</h2><ul><li>${esc(addr.street)}</li><li>${esc(addr.city)}, ${addr.state} ${addr.zip}</li><li><a href="mailto:info@fortisnetlease.com">info@fortisnetlease.com</a></li></ul></div>
 </div><div class="ftr__bot"><span>© 2026 Fortis Net Lease</span><span>Listings via Buildout · Rates via U.S. Treasury (${ust10.asOf})</span></div></div></footer>
-<div class="pal" role="group" aria-label="Colour direction"><button data-p="forest" style="--a:#0d2a22;--b:#c4612d"><i></i><span>A · Forest & Copper</span></button><button data-p="midnight" style="--a:#0c1730;--b:#dcc08a"><i></i><span>B · Midnight & Champagne</span></button><button data-p="graphite" style="--a:#14161b;--b:#3b63f5"><i></i><span>C · Graphite & Platinum</span></button><button data-p="sapphire" style="--a:#0b1d4a;--b:#e6b469"><i></i><span>D · Sapphire & Brass</span></button><button data-p="oxblood" style="--a:#2a0b12;--b:#e2c27a"><i></i><span>E · Oxblood & Gold</span></button></div>
 <script>window.RECORD=${JSON.stringify(record)};</script>
 <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js" defer></script>
 <script src="app.js" defer></script>

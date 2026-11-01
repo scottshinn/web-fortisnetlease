@@ -312,33 +312,89 @@ html.lenis,html.lenis body{height:auto}.lenis.lenis-smooth{scroll-behavior:auto!
 @media(prefers-reduced-motion:reduce){.js .wm>span{transform:none}.hero__bg img{transition:none}}
 .dcard{color:var(--forest)}
 
-/* ================= PALETTE STUDY (temporary): choose one, the rest get deleted ================= */
-html[data-p]:not([data-p=forest]){--s1a:var(--emerald);--s1b:var(--forest-2);--s2a:var(--copper-lt);--s2b:var(--copper-dk);--s3a:var(--forest-2);--s3b:var(--deep);--s4a:var(--copper);--s4b:var(--copper-dk);--s5a:var(--emerald);--s5b:var(--forest);--s6a:var(--copper-dk);--s6b:var(--deep);--s7a:var(--stone);--s7b:var(--forest)}
-/* B · Midnight & Champagne: private bank. navy ink, champagne gold, warm ivory */
-html[data-p=midnight]{--deep:#060b18;--deep-rgb:6,11,24;--forest:#0c1730;--forest-2:#172a52;--ink-rgb:12,23,48;--emerald:#2c4f8f;--acc2-rgb:44,79,143;--mint:#d8e0ef;
- --copper:#b08d55;--copper-lt:#dcc08a;--copper-dk:#86683a;--acc-rgb:176,141,85;--lime:#f5f3ee;--paper-rgb:245,243,238;--sheet:#fdfcf9;--sheet-2:#f3efe6;--sand:#ebe5d8;--sand-2:#e0d7c4;--stone:#62656d;--rule:rgba(12,23,48,.13);
- --foil:linear-gradient(100deg,#7d6232 0%,#dcc08a 20%,#f6e7c4 34%,#b08d55 50%,#efd9a8 66%,#8a6c3c 84%,#d4b57c 100%)}
-/* C · Graphite & Platinum: high tech. near-black, cool white, one electric blue */
-html[data-p=graphite]{--deep:#0a0b0e;--deep-rgb:10,11,14;--forest:#14161b;--forest-2:#22252d;--ink-rgb:20,22,27;--emerald:#3b63f5;--acc2-rgb:59,99,245;--mint:#dfe6ff;
- --copper:#3b63f5;--copper-lt:#8aa4ff;--copper-dk:#2747c9;--acc-rgb:59,99,245;--lime:#f3f4f6;--paper-rgb:243,244,246;--sheet:#ffffff;--sheet-2:#f1f3f6;--sand:#e7e9ee;--sand-2:#dcdfe6;--stone:#5f636d;--rule:rgba(20,22,27,.12);
- --foil:linear-gradient(100deg,#7e848f 0%,#eef1f6 22%,#a9b0bc 42%,#ffffff 56%,#8c939e 76%,#d6dbe3 100%)}
-/* D · Sapphire & Brass: confident blue, warm brass, stone paper */
-html[data-p=sapphire]{--deep:#050f2e;--deep-rgb:5,15,46;--forest:#0b1d4a;--forest-2:#163274;--ink-rgb:11,29,74;--emerald:#2a5bd7;--acc2-rgb:42,91,215;--mint:#dbe5fb;
- --copper:#bf8636;--copper-lt:#e6b469;--copper-dk:#946524;--acc-rgb:191,134,54;--lime:#f4f2ed;--paper-rgb:244,242,237;--sheet:#fffdf9;--sheet-2:#f3eee4;--sand:#e9e2d4;--sand-2:#ded4c1;--stone:#626670;--rule:rgba(11,29,74,.13);
- --foil:linear-gradient(100deg,#80551c 0%,#e6b469 20%,#f7dcae 34%,#bf8636 50%,#f0c98a 66%,#8a5e22 84%,#d9a35a 100%)}
-/* E · Oxblood & Gold: old-money weight, deep wine, gold */
-html[data-p=oxblood]{--deep:#140508;--deep-rgb:20,5,8;--forest:#2a0b12;--forest-2:#4d1422;--ink-rgb:42,11,18;--emerald:#8a2236;--acc2-rgb:138,34,54;--mint:#f1dde0;
- --copper:#b8913f;--copper-lt:#e2c27a;--copper-dk:#8a6a28;--acc-rgb:184,145,63;--lime:#f6f2ec;--paper-rgb:246,242,236;--sheet:#fffcf8;--sheet-2:#f4ede4;--sand:#ece2d6;--sand-2:#e1d3c3;--stone:#69625f;--rule:rgba(42,11,18,.13);
- --foil:linear-gradient(100deg,#7a5a1e 0%,#e2c27a 20%,#f7e6be 34%,#b8913f 50%,#efd49a 66%,#86662a 84%,#d6b468 100%)}
-html[data-p] body{background:var(--grain),var(--lime)}
-/* the switcher itself */
-.pal{position:fixed;z-index:90;left:50%;bottom:1.2rem;transform:translateX(-50%);display:flex;gap:.3rem;padding:.35rem;border-radius:999px;background:rgba(20,20,20,.72);backdrop-filter:blur(12px);box-shadow:0 10px 40px rgba(0,0,0,.35)}
-.pal button{display:flex;align-items:center;gap:.5rem;padding:.5rem .85rem;border-radius:999px;font:500 .78rem/1 var(--sans);color:#fff;opacity:.7}
-.pal button[aria-pressed=true]{background:rgba(255,255,255,.16);opacity:1}
-.pal i{width:1.1rem;height:1.1rem;border-radius:50%;background:linear-gradient(135deg,var(--a) 50%,var(--b) 50%)}
-@media(max-width:700px){.pal button span{display:none}}
 .seg:nth-child(3){background:linear-gradient(160deg,var(--s3a),var(--s3b))}
 /* foil in daylight: the darker half of the same metal, so it stays legible on paper */
 :root{--foil-day:linear-gradient(100deg,var(--copper-dk) 0%,var(--copper) 30%,var(--copper-lt) 46%,var(--copper) 60%,var(--copper-dk) 85%)}
 main section:not(.dk) .foil,.ins .foil,.quote .foil{background-image:var(--foil-day)}
 html[data-p=graphite]{--foil-day:linear-gradient(100deg,#1f2229 0%,#3b63f5 35%,#6f8cff 50%,#3b63f5 65%,#1f2229 100%)}
+
+/* ================= BRAND COLOUR SYSTEM =================
+   Anchored to the live brand: sky #43AFEB, azure #249ACB, cyan #37CFEF, navy #0E1631, slate #525D8A, periwinkle #768BDF.
+   60-30-10: porcelain (60) · the brand blues (30) · amber, blue's complement (10, action and one key figure only).
+   Every gradient runs between neighbouring hues (analogous), never across the wheel, so colour stays clean.
+   Data uses one sequential scale (navy → cyan). Matte: grain over every coloured surface. */
+:root{
+ --navy:#0e1631;--navy-2:#16244d;--azure:#249acb;--sky:#43afeb;--cyan:#37cfef;--slate:#525d8a;--peri:#768bdf;--amber:#ffb547;--tang:#ff8a3d;
+ --abyss:#070c1c;--deep:#070c1c;--deep-rgb:7,12,28;--forest:#0e1631;--forest-2:#16244d;--ink-rgb:14,22,49;
+ --emerald:#1f86b8;--acc2-rgb:36,154,203;--copper:#ff9a3d;--copper-lt:#ffb547;--copper-dk:#e8762a;--acc-rgb:255,154,61;
+ --lime:#f3f5f9;--paper-rgb:243,245,249;--sheet:#ffffff;--sheet-2:#f5f7fb;--sand:#e8edf5;--sand-2:#dde4ef;--stone:#5b6275;--rule:rgba(14,22,49,.11);
+ --g-atlantic:radial-gradient(90% 90% at 100% 0%,#7fe3f7 0%,transparent 55%),linear-gradient(150deg,#123a6e 0%,#1f86b8 50%,#37cfef 100%);
+ --g-dusk:radial-gradient(90% 90% at 100% 0%,#b9c3f5 0%,transparent 55%),linear-gradient(150deg,#2a3364 0%,#525d8a 45%,#768bdf 100%);
+ --g-night:radial-gradient(80% 90% at 100% 0%,rgba(67,175,235,.45),transparent 60%),linear-gradient(150deg,#16244d 0%,#0e1631 60%,#070c1c 100%);
+ --g-amber:radial-gradient(90% 90% at 100% 0%,#ffe08a 0%,transparent 55%),linear-gradient(150deg,#ff8a3d 0%,#ffb547 100%);
+ --g-abyss:radial-gradient(70% 80% at 90% 5%,rgba(67,175,235,.40),transparent 60%),radial-gradient(60% 70% at 0% 100%,rgba(118,139,223,.28),transparent 60%),linear-gradient(160deg,#16244d,#0e1631 45%,#070c1c);
+ --g-day:radial-gradient(55% 45% at 100% 0%,rgba(55,207,239,.16),transparent 62%),radial-gradient(50% 45% at 0% 35%,rgba(118,139,223,.13),transparent 62%),linear-gradient(180deg,#f5f7fb,#eef2f8);
+ --foil:linear-gradient(100deg,#43afeb 0%,#9ee8fb 30%,#37cfef 55%,#b9c3f5 80%,#43afeb 100%);
+ --foil-day:linear-gradient(100deg,#123a6e 0%,#1f86b8 45%,#249acb 60%,#525d8a 100%);
+}
+body{background:var(--grain),var(--g-day);background-attachment:fixed}
+.label{color:var(--azure)}.dk .label,.hero .label{color:var(--cyan)}
+.foil{background-size:220% 100%}
+main section:not(.dk) .foil,.ins .foil,.quote .foil{background-image:var(--foil-day)}
+
+/* hero: night navy, the property duotoned into the brand blue */
+.hero{background:var(--abyss)}
+.hero__bg img{filter:grayscale(1) contrast(1.15) brightness(.55)}
+.hero::before{background:linear-gradient(90deg,rgba(7,12,28,.96) 0%,rgba(14,22,49,.8) 45%,rgba(22,36,77,.35) 100%),linear-gradient(0deg,rgba(7,12,28,.9),transparent 40%),radial-gradient(60% 70% at 80% 30%,rgba(36,154,203,.45),transparent 70%);mix-blend-mode:normal;opacity:1}
+.hero__bg{mix-blend-mode:luminosity}
+.hero__topo{mix-blend-mode:screen;opacity:.5}
+.btn--cu{background:var(--grain),var(--g-amber);color:#1a1206;box-shadow:0 1px 0 rgba(255,255,255,.4) inset,0 12px 28px -12px rgba(255,138,61,.7)}
+.btn--cu:hover{background:var(--grain),radial-gradient(90% 90% at 100% 0%,#fff0b0,transparent 55%),linear-gradient(150deg,#ff9a4d,#ffc463)}
+.coords b{color:var(--cyan)}
+
+/* proof: navy band, figures on blue tiles; amber only on the headline figure */
+.proof{background:var(--grain),var(--g-abyss)}
+.proof::after{display:none}
+.proof dl{gap:12px}
+.proof div,.proof div:first-child{border:0;padding:1.6rem;border-radius:20px;position:relative;overflow:hidden;isolation:isolate;min-height:13rem;display:flex;flex-direction:column;justify-content:flex-end;box-shadow:0 1px 0 rgba(255,255,255,.12) inset}
+.proof div::before{content:"";position:absolute;inset:0;z-index:-1;background:var(--grain),var(--t)}
+.proof div:nth-child(1){--t:var(--g-atlantic)}.proof div:nth-child(2){--t:var(--g-night)}.proof div:nth-child(3){--t:var(--g-dusk)}.proof div:nth-child(4){--t:var(--g-night)}
+.proof dt.foil{background:none;color:#fff;-webkit-background-clip:initial;background-clip:initial}
+.proof div:nth-child(1) dt.foil{color:#fff}
+.proof dd{color:rgba(255,255,255,.85)}.proof small{color:rgba(255,255,255,.55)}
+
+/* sector bar: one sequential blue scale, largest = deepest */
+.seg{color:#fff}
+.seg:nth-child(1){background:var(--grain),linear-gradient(160deg,#16244d,#0e1631)}
+.seg:nth-child(2){background:var(--grain),linear-gradient(160deg,#1b3a73,#16244d)}
+.seg:nth-child(3){background:var(--grain),linear-gradient(160deg,#1f5d97,#1b3a73)}
+.seg:nth-child(4){background:var(--grain),linear-gradient(160deg,#1f86b8,#1f5d97)}
+.seg:nth-child(5){background:var(--grain),linear-gradient(160deg,#249acb,#1f86b8)}
+.seg:nth-child(6){background:var(--grain),linear-gradient(160deg,#43afeb,#249acb)}
+.seg:nth-child(7){background:var(--grain),linear-gradient(160deg,#768bdf,#525d8a)}
+.bar:hover .seg{filter:saturate(.7) brightness(.95)}
+
+/* services: three fields, all inside the blue family; amber only on the action */
+.rows{border:0;display:grid;gap:14px}
+.row{border:0;border-radius:24px;padding:clamp(1.6rem,3vw,2.6rem);color:#fff;isolation:isolate;overflow:hidden}
+.row::before{content:"";position:absolute;inset:0;z-index:-1;background:var(--grain),var(--t)}
+.row:nth-child(1){--t:var(--g-atlantic)}.row:nth-child(2){--t:var(--g-dusk)}.row:nth-child(3){--t:var(--g-night)}
+.row__n{color:rgba(255,255,255,.75)}.row p{color:rgba(255,255,255,.86)}.row dt{color:rgba(255,255,255,.6)}.row dd{color:#fff}
+.row .go{color:var(--amber)}
+.row:hover h3{background:none;color:#fff;-webkit-background-clip:initial;background-clip:initial}
+.row__strip img{box-shadow:0 20px 40px -20px rgba(0,0,0,.5)}
+
+/* listings, featured, people, valuation, footer */
+.lst{background:transparent}
+.chip[aria-pressed=true]{background:var(--grain),var(--g-night);border-color:transparent;color:#fff}.chip[aria-pressed=true] sup{color:var(--cyan)}
+.card__px small{color:var(--azure)}
+.card:hover{box-shadow:0 1px 0 #fff inset,0 30px 60px -28px rgba(14,22,49,.45),0 0 0 2px rgba(67,175,235,.5)}
+.sheet{background:linear-gradient(160deg,rgba(22,36,77,.72),rgba(7,12,28,.6))}
+.pcard::after{background:linear-gradient(0deg,rgba(7,12,28,.88),transparent 55%)}
+.pcard__t i{color:var(--cyan)}
+.val{background:var(--grain),var(--g-abyss)}
+.ftr{background:var(--grain),linear-gradient(180deg,#0e1631,#070c1c)}
+.ftr__claim{background:var(--foil);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent}
+.quote blockquote::before{background:var(--foil-day);-webkit-background-clip:text;background-clip:text;color:transparent;opacity:1}
+.survey::before{background:linear-gradient(90deg,var(--azure),var(--cyan))}.survey::after{border-color:var(--azure)}
+.hdr .btn--cu{color:#1a1206}
