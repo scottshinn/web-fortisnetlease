@@ -2,7 +2,7 @@
 // Pull the public Buildout inventory at build time into data/listings.json.
 // ARCHITECTURE.md section 7. Detail copy, images and demographics come from
 // the harvested detail views (harvest/data.json), merged by Buildout ID, because
-// the detail endpoint pattern was not recorded (see FACTS-TO-CONFIRM #32).
+// kept only as a fallback when a live detail page fails (see buildout-detail.mjs).
 //
 // Fallbacks, in order:
 //   1. live inventory.json (paged)                 -> source "buildout-live"
@@ -13,6 +13,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { fetchDetail } from './buildout-detail.mjs';
 import { tenantOf, slugify, money, pct, intOf, cleanCopy, leaseTypeFromTitle, sectorOf, STATES } from './normalize.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
@@ -87,6 +88,7 @@ function normalise(feed, seed) {
   const priceStated = seed?.price || (feed?.index_attributes || []).find((a) => a[0] === 'Price')?.[1] || null;
   const price = money(priceStated);
   const capRate = pct(seed?.cap_rate || seed?.all_details?.['Cap Rate']);
+  const leaseTerm = seed?.lease_term || null;
   const noi = plausibleNoi(money(seed?.noi || seed?.all_details?.NOI), price);
   const propertyId = feed?.show_link ? new URL(feed.show_link).searchParams.get('propertyId') : seed?.property_id;
   const subType = feed?.property_sub_type_name || seed?.sub_type || null;
@@ -115,7 +117,7 @@ function normalise(feed, seed) {
     priceDisplay: price ? null : (priceStated || 'Call for offer'),
     capRate,
     noi,
-    leaseTermRemaining: null,
+    leaseTermRemaining: leaseTerm,
     leaseType: leaseTypeFromTitle(name),
     guarantee: null,
     sizeSf: intOf(feed?.size_summary || seed?.size),
@@ -134,10 +136,25 @@ function normalise(feed, seed) {
     hasOm: Boolean(feed?.pdf_url || seed?.om_pdf),
     demographics: demographics(seed?.all_details),
     legacyUrls: propertyId ? [`/net-lease-properties/?propertyId=${propertyId}`] : [],
-    detailSource: seed ? 'harvest/data.json listings_live_buildout (detail view, 2026-11-01)' : 'Buildout inventory.json summary only'
+    detailSource: seed?.detail_live ? 'Buildout plugin detail page (live)' : seed ? 'harvest/data.json listings_live_buildout (detail view, 2026-11-01)' : 'Buildout inventory.json summary only'
   };
   l.sector = sectorOf({ tenantKey: l.tenantKey, name: `${l.name} ${l.tenantStated}`, propertyType, subType });
   return l;
+}
+
+// Detail pages, four at a time. A failed detail falls back to the harvest seed.
+async function fetchDetails(feed) {
+  const out = new Map(); const queue = feed.filter((f) => f.show_link);
+  async function worker() {
+    for (let f; (f = queue.shift());) {
+      const pid = new URL(f.show_link).searchParams.get('propertyId');
+      if (!pid) continue;
+      try { const d = await fetchDetail(TOKEN, pid); if (d) out.set(String(f.id), d); }
+      catch (e) { console.warn(`[fetch-listings] detail ${pid} failed (${e.message}); using harvest copy.`); }
+    }
+  }
+  await Promise.all([worker(), worker(), worker(), worker()]);
+  return out;
 }
 
 function readSnapshot() {
@@ -158,7 +175,9 @@ async function main() {
   if (!OFFLINE) {
     try {
       const feed = await fetchInventory();
-      const listings = feed.map((f) => normalise(f, seedById.get(String(f.id))));
+      const details = await fetchDetails(feed);
+      const listings = feed.map((f) => { const d = details.get(String(f.id)); const seed = seedById.get(String(f.id)); return normalise(f, d ? { ...seed, ...d, brokers: seed?.brokers, detail_live: true } : seed); });
+      console.log(`[fetch-listings] live detail for ${details.size}/${feed.length} listings.`);
       const prevCount = prev?.listings?.length || harvest.listings_live_buildout.length;
       if (listings.length < prevCount * 0.7) {
         console.warn(`[fetch-listings] guard tripped: live ${listings.length} < 70% of previous ${prevCount}. Keeping snapshot.`);

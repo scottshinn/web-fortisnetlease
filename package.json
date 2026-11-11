@@ -7,10 +7,9 @@
     "node": ">=20"
   },
   "scripts": {
-    "fetch": "node tools/fetch-listings.mjs && node tools/fetch-rates.mjs",
-    "build": "node tools/build.mjs",
-    "check": "node tools/check.mjs",
-    "all": "npm run fetch && npm run build && npm run check",
+    "fetch": "node data/pipeline/fetch-listings.mjs && node data/pipeline/fetch-rates.mjs",
+    "build": "node site-src/build.mjs",
+    "all": "npm run fetch && npm run build",
     "serve": "cd site && python -m http.server 4330"
   },
   "dependencies": {

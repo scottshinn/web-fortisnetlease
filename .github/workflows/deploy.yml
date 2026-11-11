@@ -1,0 +1,41 @@
+# Keeps the site in step with Buildout. Every hour (and on every push to main)
+# GitHub Actions pulls the live Buildout inventory and detail pages, builds the
+# static site here in CI and uploads it to Vercel with --prebuilt, so Vercel
+# never runs a build. If Buildout is down or the listing count drops by more
+# than 30%, fetch-listings keeps the committed snapshot instead of emptying the site.
+# Repository secrets: VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID.
+name: Refresh listings and deploy (prebuilt)
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Pull latest listings from Buildout and market rates
+        run: npm run fetch
+      - run: npm install --global vercel@latest
+      - name: Pull project settings
+        run: vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Build (in CI, not on Vercel)
+        run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Upload prebuilt output
+        run: vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
