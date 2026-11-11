@@ -61,7 +61,7 @@ Each item comes from the live site (via `harvest/data.json` or the recon notes).
 | 29 | Cap rate report: is there an internal data source and a commitment to publish quarterly? If not, the route is not launched. |
 | 30 | `/closing-form/` (Gravity Forms): is it still used internally? It is planned as a 410. If it is still in use, it moves to a private tool. |
 | 31 | `/intranet/`: confirm nothing public lives there before it is retired. |
-| 32 | **Buildout:** does the account's terms permit programmatic use of the public `inventory.json` plugin feed? Is official API access available? Which property-type IDs (1, 2, 3, 7, 104) should be shown? |
+| 32 | **Buildout:** ~~does the account’s terms permit programmatic use of the public `inventory.json` plugin feed?~~ **Confirmed 2026-11-11: Fortis granted permission for programmatic use of the Buildout feed.** Is official API access available? Which property-type IDs (1, 2, 3, 7, 104) should be shown? |
 | 33 | Lead routing: which inbox or CRM receives the valuation, buyer-alert, OM-download and contact submissions? |
 | 34 | Analytics: the site still uses Universal Analytics `UA-147791370-2`, which no longer collects data. Is there a GA4 property ID? |
 | 35 | Commercial fonts (Futura PT, Tungsten, DearJoe 4): are web licences held? |

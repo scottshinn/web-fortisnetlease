@@ -1,1 +1,992 @@
-{ "framework": null, "buildCommand": "node site-src/build.mjs", "outputDirectory": "site", "installCommand": "" }
+{
+  "framework": null,
+  "buildCommand": "node site-src/build.mjs",
+  "outputDirectory": "site",
+  "installCommand": "",
+  "redirects": [
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1457297-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/trinity-health-livonia-mi-2152298/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1415184-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/central-transport-louisville-ky-2073939/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1545058-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/meijer-inc-livonia-mi-2317746/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1602877-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/truth-traveler-theater-branson-mo-2432173/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1347876-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/churchman-hill-plaza-beech-grove-in-1943591/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1332540-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/laser-specialists-inc-washington-mi-1913863/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1673798-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/7-eleven-kalamazoo-mi-2566062/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1672807-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/7-eleven-midland-mi-2564250/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1672826-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/7-eleven-ann-arbor-mi-2564287/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Firestone-FL-Lakeland-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/firestone-complete-auto-care-lakeland-fl-2613288/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Firestone-FL-Rockledge-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/firestone-complete-auto-care-rockledge-fl-2593628/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1130037-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/crash-champions-dover-nj-1537533/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1517250-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/range-usa-indianapolis-in-2265215/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1644853-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/gilden-woods-midland-midland-mi-2511621/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dutch-Bros-OH-Dayton-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dutch-bros-dayton-oh-2296473/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1125148-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/builders-firstsource-fayetteville-nc-1529837/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1645443-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/tutor-time-grand-rapids-mi-2512690/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1464794-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/tuscany-shopping-center-clinton-in-2166687/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1318474-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-white-house-tn-1887280/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1174071-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/wellmed-pleasanton-tx-1604223/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dutch-Bros-TN-Memphis-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dutch-bros-memphis-tn-2557672/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dutch-Bros-IN-Auburn-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dutch-bros-auburn-in-2386095/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1303339-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/cannabis-cultivation-sale-leaseback-investment-morenci-mi-1856127/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1043677-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-tree-pensacola-fl-1407605/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dutch-Bros-SC-Newberry-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dutch-bros-newberry-sc-2557882/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1528437-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/red-robin-ground-lease-lansing-mi-2285836/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1615892-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-barling-ar-2456260/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1708939-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-republic-mo-2631475/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1434375-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-tree-calabash-nc-2109110/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-WV-Wheeling-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-wheeling-wv-2432821/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1159098-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/joe-hudsons-collision-center-shreveport-la-1581757/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1391354-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/gerber-collision-and-glass-aurora-il-2028540/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-GA-Americus-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-americus-ga-2572257/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1615312-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-atchison-ks-2455234/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1681198-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/7-brew-manhattan-ks-2579708/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-OH-Bethel-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-bethel-oh-2587146/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1709067-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-pocahontas-ar-2631709/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1340869-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/keller-williams-bettendorf-ia-1930306/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1616970-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/fast-stop-express-baton-rouge-la-2458239/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-OH-Logan-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-logan-oh-2591896/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1561366-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/sunbelt-rentals-demopolis-al-2347751/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1710117-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-bald-knob-ar-2633647/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1691581-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-weatherford-ok-2598678/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1570288-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/biggby-coffee-village-of-clarkston-mi-2365028/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-WV-Buckhannon-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-buckhannon-wv-2577321/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1213999-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-elyria-oh-1672024/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1207902-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/joe-hudsons-collision-center-columbia-sc-1660806/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1279279-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-lawrenceville-pa-1806641/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1639181-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/burger-king-houghton-mi-2501013/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1433970-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-brinkley-ar-2108436/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1419620-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/7-brew-sallisaw-ok-2082201/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1424319-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/collision-right-lansing-mi-2090127/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1709583-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-walnut-ridge-ar-2632669/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1305107-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-fort-deposit-al-1859598/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1304070-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-andalusia-al-1857505/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-ND-Wahpeton-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-wahpeton-nd-2263287/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1161471-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-comanche-ok-1585518/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1706309-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/taco-bell-corning-ar-2626324/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1528283-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/2780-kratzville-rd-evansville-in-2285554/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1269635-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-avoca-ny-1787366/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1196369-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-canton-ok-1638979/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1083061-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/davita-saint-louis-mo-1467343/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1529116-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-bancroft-mi-2287100/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Dollar-General-NC-Lowgap-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-lowgap-nc-2461362/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1674611-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-town-of-pines-in-2567603/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Family-Dollar-Tree-IA-Sibley-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-sibley-ia-1789272/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Family-Dollar-Tree-IL-Bushnell-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-bushnell-il-1651921/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^T-Mobile-IL-Carlyle-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/t-mobile-carlyle-il-1511248/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1637731-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/burger-king-taylor-mi-2498140/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1192922-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/biggby-coffee-brook-park-oh-1636659/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1639197-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/kfc-saint-johns-mi-2501040/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1254654-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-grayville-il-1755500/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1193699-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/joe-hudsons-collision-center-bossier-city-la-1633939/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1702745-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-tree-stuttgart-ar-2619525/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1639186-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/kfc-alma-mi-2501022/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Family-Dollar-NM-Thoreau-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-thoreau-nm-1686795/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^Family-Dollar-NM-Estancia-For-Sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/family-dollar-estancia-nm-1687092/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1507865-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/united-states-postal-service-franklin-mi-2247952/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1332368-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/dollar-general-moline-il-1913537/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1341075-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/mango-bay-tanning-and-julies-slots-moline-il-1930691/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1433954-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/safelite-autoglass-london-ky-2108404/",
+      "permanent": true
+    },
+    {
+      "source": "/net-lease-properties{/}?",
+      "has": [
+        {
+          "type": "query",
+          "key": "propertyId",
+          "value": "^1340994-sale$"
+        }
+      ],
+      "destination": "/net-lease-properties/quad-city-dental-laboratory-moline-il-1930544/",
+      "permanent": true
+    }
+  ]
+}

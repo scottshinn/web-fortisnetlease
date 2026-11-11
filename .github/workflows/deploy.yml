@@ -32,6 +32,8 @@ jobs:
           node-version: 22
       - name: Pull latest listings from Buildout and market rates
         run: npm run fetch
+      - name: Regenerate vercel.json legacy ?propertyId= redirects before Vercel reads its config
+        run: npm run build
       - run: npm install --global vercel@latest
       - name: Pull project settings
         run: vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}

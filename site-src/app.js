@@ -124,7 +124,7 @@
   }
   // Header: dusk over the hero, daylight after it.
   const hero = $(".hero");
-  const day = () => hdr.classList.toggle("day", scrollY > hero.offsetHeight - 90);
+  const day = () => hdr.classList.toggle("day", !hero || scrollY > hero.offsetHeight - 90);
   addEventListener("scroll", day, { passive: true }); day();
   // Copper foil catches the pointer like metal.
   addEventListener("pointermove", (e) => root.style.setProperty("--fx", (10 + 60 * e.clientX / innerWidth).toFixed(1) + "%"), { passive: true });

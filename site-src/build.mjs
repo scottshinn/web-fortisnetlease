@@ -1,6 +1,7 @@
 // Fortis Net Lease — static build ("Ground", see ../design.md). Reads data/ and harvest/, writes site/.
 // Every word and figure on the page comes from those sources.
 import fs from 'node:fs';
+import { buildListingPages, listingPath, ORIGIN } from './pages.mjs';
 const H = JSON.parse(fs.readFileSync('harvest/data.json')), LJ = JSON.parse(fs.readFileSync('data/listings.json')), RJ = JSON.parse(fs.readFileSync('data/rates.json'));
 const un = (s) => String(s ?? '').replace(/&#8211;/g, '–').replace(/&#8217;/g, '’').replace(/&#038;|&amp;/g, '&');
 const esc = (s) => un(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
@@ -27,16 +28,17 @@ const secCount = {}; listings.forEach((l) => secCount[l.sector] = (secCount[l.se
 // a photo strip per service row, from live listings of the matching kind
 const strip = (f) => listings.filter(f).slice(0, 4).map((l) => `<img src="${l.img}" alt="${esc(l.name)}, ${esc(l.city)}, ${l.state}" loading="lazy">`).join('');
 
-const card = (l) => `<a class="card" href="https://fortisnetlease.com/net-lease-properties/" data-sec="${l.sector}"><span class="card__img"><img src="${l.img}" alt="${esc(l.name)}, ${esc(l.city)}, ${l.state}" loading="lazy"></span><span class="card__b"><span><span class="card__name">${esc(l.name)}</span><span class="card__loc">${esc(l.city)}, ${l.state} · ${SEC[l.sector] || ''}</span></span><span class="card__px">${fmt(l.price)}${l.capRate ? `<small>${l.capRate.toFixed(2)}% cap</small>` : ''}</span></span></a>`;
+const card = (l) => `<a class="card" href="${listingPath(l)}" data-sec="${l.sector}"><span class="card__img"><img src="${l.img}" alt="${esc(l.name)}, ${esc(l.city)}, ${l.state}" loading="lazy"></span><span class="card__b"><span><span class="card__name">${esc(l.name)}</span><span class="card__loc">${esc(l.city)}, ${l.state} · ${SEC[l.sector] || ''}</span></span><span class="card__px">${fmt(l.price)}${l.capRate ? `<small>${l.capRate.toFixed(2)}% cap</small>` : ''}</span></span></a>`;
 
 const html = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Fortis Net Lease · Net lease investment sales, nationwide</title>
 <meta name="description" content="Fortis Net Lease sells single-tenant net lease real estate nationwide: ${listings.length} properties for sale now, $9+ billion in sales and 4,500+ properties sold since 2009.">
+<link rel="canonical" href="${ORIGIN}/"><meta property="og:image" content="${feat.img}">
 <link rel="icon" href="logo.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..700&family=Figtree:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
-<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@type': 'RealEstateAgent', name: 'Fortis Net Lease', url: 'https://fortisnetlease.com/', telephone: phone, email: 'info@fortisnetlease.com', foundingDate: '2009', address: { '@type': 'PostalAddress', streetAddress: addr.street, addressLocality: addr.city, addressRegion: addr.state, postalCode: addr.zip, addressCountry: 'US' } })}</script>
+<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@type': 'RealEstateAgent', '@id': ORIGIN + '/#organization', name: 'Fortis Net Lease', url: ORIGIN + '/', telephone: phone, email: 'info@fortisnetlease.com', foundingDate: '2009', address: { '@type': 'PostalAddress', streetAddress: addr.street, addressLocality: addr.city, addressRegion: addr.state, postalCode: addr.zip, addressCountry: 'US' } })}</script>
 </head><body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="hdr"><div class="hdr__in">
@@ -91,7 +93,7 @@ const html = `<!doctype html>
  <div class="sh sh--split"><div><p class="label">For sale now</p><h2 class="t2" id="lst-h" style="margin-top:1rem">${listings.length} properties. <span class="foil">${fmt(asking)} asking.</span></h2><span class="survey"></span></div><p class="lede">Live from our listings feed, largest first. Filter by the kind of tenant you want to own.</p></div>
  <div class="chips" role="group" aria-label="Filter by sector"><button class="chip" aria-pressed="true" data-v="all">All<sup>${listings.length}</sup></button>${Object.entries(secCount).sort((a, b) => b[1] - a[1]).map(([k, n]) => `<button class="chip" aria-pressed="false" data-v="${k}">${SEC[k] || k}<sup>${n}</sup></button>`).join('')}</div>
  <div class="grid">${byPrice.concat(listings.filter((l) => !l.price)).slice(0, 24).map(card).join('')}</div>
- <div class="lst__more"><span id="lcount" aria-live="polite">Showing the 24 largest</span><a class="btn btn--ln" href="https://fortisnetlease.com/net-lease-properties/">All ${listings.length} listings ${arrow}</a></div>
+ <div class="lst__more"><span id="lcount" aria-live="polite">Showing the 24 largest</span><a class="btn btn--ln" href="/net-lease-properties/">All ${listings.length} listings ${arrow}</a></div>
 </div></section>
 
 <section class="feat dk" id="featured" aria-labelledby="ft-h"><img src="${feat.img}" alt="${esc(feat.name)}, ${esc(feat.city)}, ${feat.state}" loading="lazy">
@@ -134,3 +136,5 @@ fs.writeFileSync('site/index.html', html);
 for (const f of ['styles.css', 'app.js', 'logo.png']) fs.copyFileSync('site-src/' + f, 'site/' + f);
 for (const f of ['fortis.css', 'posts.js']) fs.rmSync('site/' + f, { force: true });
 console.log('site/index.html', (html.length / 1024).toFixed(1) + 'KB');
+const lp = buildListingPages({ listings, LJ, esc, un, fmt, tel, arrow, SEC, phone, addr, ust10 });
+console.log('listing pages', lp.count, '· legacy redirects', lp.redirects, '· sitemap.xml, robots.txt');

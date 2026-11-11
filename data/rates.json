@@ -1,29 +1,29 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-01T08:22:12.769Z",
+ "fetchedAt": "2026-11-11T15:21:53.717Z",
  "rates": [
   {
    "key": "ust10",
    "label": "10Y UST",
-   "value": 4.94,
-   "prev": 4.98,
-   "asOf": "2026-10-30",
+   "value": 4.98,
+   "prev": 4.88,
+   "asOf": "2026-11-10",
    "source": "U.S. Treasury"
   },
   {
    "key": "ust5",
    "label": "5Y UST",
-   "value": 4.71,
-   "prev": 4.78,
-   "asOf": "2026-10-30",
+   "value": 4.81,
+   "prev": 4.67,
+   "asOf": "2026-11-10",
    "source": "U.S. Treasury"
   },
   {
    "key": "sofr",
    "label": "SOFR",
-   "value": 3.94,
-   "prev": 3.94,
-   "asOf": "2026-10-29",
+   "value": 3.88,
+   "prev": 3.89,
+   "asOf": "2026-11-09",
    "source": "NY Fed"
   }
  ]
